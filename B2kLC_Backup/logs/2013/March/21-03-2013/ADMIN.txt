@@ -1,0 +1,108 @@
+
+
+[21-03-2013:12:26:59 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[21-03-2013:12:27:07 AM] : ADMIN has Viewed Employee Details
+
+
+[21-03-2013:12:28:01 AM] : ADMIN has Viewed Employee Details
+
+
+[21-03-2013:9:46:26 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[21-03-2013:9:48:18 AM] : ADMIN has Viewed Employee Details
+
+
+[21-03-2013:9:48:28 AM] : ADMIN has Viewed Employee Details
+
+
+[21-03-2013:9:56:07 AM] : ADMIN has added Employee Details[ G. RAJASEKARAN] into the Database
+
+
+[21-03-2013:10:19:16 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+[21-03-2013:10:21:34 AM] : ADMIN has added an Update into the Database
+
+[21-03-2013:10:44:03 AM] : ADMIN has Deleted the details of the file 5886413.
+
+
+[21-03-2013:11:06:17 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[21-03-2013:12:11:15 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[21-03-2013:12:21:02 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[21-03-2013:1:16:13 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[21-03-2013:2:41:25 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[21-03-2013:2:56:45 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+[21-03-2013:2:57:14 PM] : ADMIN has Deleted the details of the file 58853525.
+
+
+[21-03-2013:3:21:23 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[21-03-2013:4:09:50 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[21-03-2013:4:10:03 PM] : ADMIN has Approved Leave request from the ID B2KMLS022 on 2013-03-13.
+
+[21-03-2013:4:10:25 PM] : ADMIN has Approved Leave request from the ID B2KHTMLS015 on 2013-03-18.
+
+[21-03-2013:4:10:31 PM] : ADMIN has Approved Leave request from the ID B2KHTER005 on 2013-03-18.
+
+[21-03-2013:4:10:47 PM] : ADMIN has Approved Leave request from the ID B2KHTER005 on 2013-03-19.
+
+[21-03-2013:4:10:54 PM] : ADMIN has Approved Leave request from the ID B2KER001 on 2013-03-20.
+
+[21-03-2013:4:11:00 PM] : ADMIN has Approved Leave request from the ID B2KMLS003 on 2013-03-21.
+
+[21-03-2013:4:11:09 PM] : ADMIN has Approved Leave request from the ID B2KHTMLS003 on 2013-03-21.
+
+
+[21-03-2013:4:19:43 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[21-03-2013:4:32:32 PM] : ADMIN has logged out from the Linecount Software Using the System 59.90.86.47
+
+
+[21-03-2013:4:37:59 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+[21-03-2013:4:39:10 PM] : ADMIN has Deleted the details of the file 58857497.
+
+
+[21-03-2013:5:12:07 PM] : ADMIN has logged out from the Linecount Software Using the System 59.90.86.47
+
+
+[21-03-2013:5:12:11 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[21-03-2013:5:12:46 PM] : ADMIN has logged out from the Linecount Software Using the System 59.90.86.47
+
+
+[21-03-2013:5:12:50 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[21-03-2013:10:35:22 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[21-03-2013:11:34:24 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+[21-03-2013:11:40:17 PM] : ADMIN has added a Vendor Details [MIRACALE WORKERS] into the Database
+
+
+[21-03-2013:11:45:58 PM] : ADMIN has added Employee Details[GLADSON			] into the Database
+
+
+[21-03-2013:11:56:06 PM] : ADMIN has added Employee Details[	PRAKASH			] into the Database
+
+
+[21-03-2013:11:57:44 PM] : ADMIN has added Employee Details[SIJO			] into the Database

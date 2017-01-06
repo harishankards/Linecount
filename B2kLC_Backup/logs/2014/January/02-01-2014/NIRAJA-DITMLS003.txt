@@ -1,0 +1,66 @@
+
+
+[02-01-2014:11:11:50 AM] : DITMLS003 has logged in to IDSIL / PJO using the System 122.178.161.227
+
+
+[02-01-2014:11:11:59 AM] : DITMLS003 has viewed the file details in IDSIL / PJO from 2014-01-01 to 2014-01-01
+
+
+[02-01-2014:11:12:34 AM] : DITMLS003 has Downloaded a file details in IDSIL / PJO from 2014-01-01 to 2014-01-01
+
+
+[02-01-2014:11:12:56 AM] : DITMLS003 has logged out from the Linecount Software Using the System 122.178.161.227
+
+
+[02-01-2014:5:14:23 PM] : DITMLS003 has logged in to IDSIL / PJO using the System 122.178.144.194
+
+
+[02-01-2014:5:16:43 PM] : DITMLS003 has uploaded a DUP file 66409040 in IDSIL / PJO
+
+
+[02-01-2014:5:17:39 PM] : DITMLS003 has uploaded a DUP file 66409489 in IDSIL / PJO
+
+
+[02-01-2014:5:18:43 PM] : DITMLS003 has uploaded a DUP file 66409932 in IDSIL / PJO
+
+
+[02-01-2014:5:19:59 PM] : DITMLS003 has uploaded a DUP file 66409541 in IDSIL / PJO
+
+
+[02-01-2014:5:21:27 PM] : DITMLS003 has uploaded a DUP file 66409918 in IDSIL / PJO
+
+
+[02-01-2014:5:23:50 PM] : DITMLS003 has uploaded a DUP file 66409894 in IDSIL / PJO
+
+
+[02-01-2014:5:24:54 PM] : DITMLS003 has uploaded a DUP file 66412308 in IDSIL / PJO
+
+
+[02-01-2014:5:25:52 PM] : DITMLS003 has uploaded a DUP file 66412714 in IDSIL / PJO
+
+
+[02-01-2014:5:28:26 PM] : DITMLS003 has uploaded a DUP file 66412081 in IDSIL / PJO
+
+
+[02-01-2014:5:30:36 PM] : DITMLS003 has uploaded a DUP file 66411889 in IDSIL / PJO
+
+
+[02-01-2014:5:33:44 PM] : DITMLS003 has uploaded a DUP file 66412204 in IDSIL / PJO
+
+
+[02-01-2014:5:34:49 PM] : DITMLS003 has uploaded a DUP file 66412224 in IDSIL / PJO
+
+
+[02-01-2014:5:37:24 PM] : DITMLS003 has uploaded a DUP file 66412266 in IDSIL / PJO
+
+
+[02-01-2014:5:50:39 PM] : DITMLS003 has logged in to IDSIL / PJO using the System 122.178.161.227
+
+
+[02-01-2014:5:50:44 PM] : DITMLS003 has viewed the file details in IDSIL / PJO from 2014-01-02 to 2014-01-02
+
+
+[02-01-2014:5:50:46 PM] : DITMLS003 has Downloaded a file details in IDSIL / PJO from 2014-01-02 to 2014-01-02
+
+
+[02-01-2014:6:03:59 PM] : DITMLS003 has logged out from the Linecount Software Using the System 122.178.161.227

@@ -1,0 +1,66 @@
+
+
+[10-08-2014:8:14:12 AM] : CBEMLS018 has logged in to IDSIL / PJO using the System 182.65.121.196
+
+
+[10-08-2014:8:15:18 AM] : CBEMLS018 has picked a file 71800568 in IDSIL / PJO
+
+
+[10-08-2014:8:15:38 AM] : CBEMLS018 has uploaded a file 71800568 to Hospital/Customer in IDSIL / PJO
+
+
+[10-08-2014:8:16:45 AM] : CBEMLS018 has picked a file 71801045 in IDSIL / PJO
+
+
+[10-08-2014:8:17:04 AM] : CBEMLS018 has uploaded a file 71801045 to Hospital/Customer in IDSIL / PJO
+
+
+[10-08-2014:8:18:11 AM] : CBEMLS018 has picked a file 71803046 in IDSIL / PJO
+
+
+[10-08-2014:8:18:33 AM] : CBEMLS018 has uploaded a file 71803046 to Hospital/Customer in IDSIL / PJO
+
+
+[10-08-2014:8:33:08 AM] : CBEMLS018 has picked a file 71803113 in IDSIL / PJO
+
+
+[10-08-2014:8:34:22 AM] : CBEMLS018 has uploaded a file 71803113 to Hospital/Customer in IDSIL / PJO
+
+
+[10-08-2014:8:35:21 AM] : CBEMLS018 has added a Audit file 71796478 in IDSIL / PJO 
+
+
+[10-08-2014:8:36:12 AM] : CBEMLS018 has added a Audit file 71798125 in IDSIL / PJO 
+
+
+[10-08-2014:8:46:40 AM] : CBEMLS018 has picked a file 71803522 in IDSIL / PJO
+
+
+[10-08-2014:8:47:01 AM] : CBEMLS018 has uploaded a file 71803522 to Hospital/Customer in IDSIL / PJO
+
+
+[10-08-2014:8:57:09 AM] : CBEMLS018 has picked a file 71804859 in IDSIL / PJO
+
+
+[10-08-2014:8:57:24 AM] : CBEMLS018 has uploaded a file 71804859 to Hospital/Customer in IDSIL / PJO
+
+
+[10-08-2014:9:38:45 AM] : CBEMLS018 has logged in to IDSIL / PJO using the System 182.65.121.196
+
+
+[10-08-2014:9:39:08 AM] : CBEMLS018 has picked a file 71805142 in IDSIL / PJO
+
+
+[10-08-2014:9:40:04 AM] : CBEMLS018 has uploaded a file 71805142 to Hospital/Customer in IDSIL / PJO
+
+
+[10-08-2014:10:06:07 AM] : CBEMLS018 has picked a file 71805240 in IDSIL / PJO
+
+
+[10-08-2014:10:06:24 AM] : CBEMLS018 has uploaded a file 71805240 to Hospital/Customer in IDSIL / PJO
+
+
+[10-08-2014:12:45:53 PM] : CBEMLS018 has logged in to IDSIL / PJO using the System 182.65.121.196
+
+
+[10-08-2014:7:58:45 PM] : CBEMLS018 has logged in to IDSIL / PJO using the System 182.65.225.84

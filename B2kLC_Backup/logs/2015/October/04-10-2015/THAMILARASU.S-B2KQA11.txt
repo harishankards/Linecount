@@ -1,0 +1,75 @@
+
+
+[04-10-2015:2:12:42 PM] : B2KQA11 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[04-10-2015:2:13:44 PM] : B2KQA11 has picked a file 94385206 in IDSIL / PJO
+
+
+[04-10-2015:2:29:06 PM] : B2KQA11 has picked a file 94386600 in IDSIL / PJO
+
+
+[04-10-2015:2:29:35 PM] : B2KQA11 has uploaded a file 94385206 to Hospital/Customer in IDSIL / PJO
+
+
+[04-10-2015:2:51:10 PM] : B2KQA11 has picked a file 94377906 in IDSIL / PJO
+
+
+[04-10-2015:2:57:11 PM] : B2KQA11 has picked a file 94385973 in IDSIL / PJO
+
+
+[04-10-2015:3:14:51 PM] : B2KQA11 has uploaded a file 94386600 to Hospital/Customer in IDSIL / PJO
+
+
+[04-10-2015:3:14:55 PM] : B2KQA11 has uploaded a file 94377906 to Hospital/Customer in IDSIL / PJO
+
+
+[04-10-2015:3:14:59 PM] : B2KQA11 has uploaded a file 94385973 to Hospital/Customer in IDSIL / PJO
+
+
+[04-10-2015:3:15:30 PM] : B2KQA11 has picked a file 94378559 in IDSIL / PJO
+
+
+[04-10-2015:3:26:47 PM] : B2KQA11 has uploaded a file 94378559 to Hospital/Customer in IDSIL / PJO
+
+
+[04-10-2015:3:27:03 PM] : B2KQA11 has picked a file 94379209 in IDSIL / PJO
+
+
+[04-10-2015:3:31:22 PM] : B2KQA11 has uploaded a file 94379209 to Hospital/Customer in IDSIL / PJO
+
+
+[04-10-2015:3:36:53 PM] : B2KQA11 has picked a file 94379368 in IDSIL / PJO
+
+
+[04-10-2015:3:37:02 PM] : B2KQA11 has uploaded a file 94379368 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[04-10-2015:3:37:23 PM] : B2KQA11 has picked a file 94380008 in IDSIL / PJO
+
+
+[04-10-2015:3:40:58 PM] : B2KQA11 has uploaded a file 94380008 to Hospital/Customer in IDSIL / PJO
+
+
+[04-10-2015:3:44:38 PM] : B2KQA11 has picked a file 94383655 in IDSIL / PJO
+
+
+[04-10-2015:4:01:44 PM] : B2KQA11 has uploaded a file 94383655 to Hospital/Customer in IDSIL / PJO
+
+
+[04-10-2015:4:02:20 PM] : B2KQA11 has picked a file 94382089 in IDSIL / PJO
+
+
+[04-10-2015:4:15:12 PM] : B2KQA11 has uploaded a file 94382089 to Hospital/Customer in IDSIL / PJO
+
+
+[04-10-2015:4:33:48 PM] :  has uploaded a DUP file 94387296 in IDSIL / PJO
+
+
+[04-10-2015:4:57:04 PM] :  has uploaded a DUP file 94387312 in IDSIL / PJO
+
+
+[04-10-2015:5:18:41 PM] :  has uploaded a DUP file 94387323 in IDSIL / PJO
+
+
+[04-10-2015:5:18:52 PM] : B2KQA11 has logged out from the Linecount Software Using the System 123.255.248.35

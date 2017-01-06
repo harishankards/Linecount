@@ -1,0 +1,63 @@
+
+
+[02-04-2014:10:06:34 AM] : B2KMLS005 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[02-04-2014:10:07:03 AM] : B2KMLS005 has picked a file 68729300 in IDSIL / PJO
+
+
+[02-04-2014:12:21:38 PM] : B2KMLS005 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[02-04-2014:12:21:46 PM] : B2KMLS005 has uploaded a file 68729300 to Hospital/Customer in IDSIL / PJO
+
+
+[02-04-2014:1:03:46 PM] : B2KMLS005 has picked a file 68733324 in IDSIL / PJO
+
+
+[02-04-2014:1:38:00 PM] : B2KMLS005 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[02-04-2014:1:38:10 PM] : B2KMLS005 has uploaded a file 68733324 to Hospital/Customer in IDSIL / PJO
+
+
+[02-04-2014:1:51:41 PM] : B2KMLS005 has picked a file 68717722 in IDSIL / PJO
+
+
+[02-04-2014:5:00:37 PM] : B2KMLS005 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[02-04-2014:5:00:47 PM] : B2KMLS005 has uploaded a file 68717722 to Hospital/Customer in IDSIL / PJO
+
+
+[02-04-2014:5:01:32 PM] :  has uploaded a DUP file 68738081 in IDSIL / PJO
+
+
+[02-04-2014:9:04:28 PM] : B2KMLS005 has logged in to IDSIL / PJO using the System 117.206.109.134
+
+
+[02-04-2014:9:09:50 PM] :  has uploaded a DUP file 68737817 in IDSIL / PJO
+
+
+[02-04-2014:9:14:48 PM] : B2KMLS005 has picked a file 68739674 in IDSIL / PJO
+
+
+[02-04-2014:9:15:29 PM] : B2KMLS005 has picked a file 68740070 in IDSIL / PJO
+
+
+[02-04-2014:9:40:37 PM] : B2KMLS005 has logged in to IDSIL / PJO using the System 117.206.109.134
+
+
+[02-04-2014:9:41:12 PM] : B2KMLS005 has uploaded a file 68739674 to Hospital/Customer in IDSIL / PJO
+
+
+[02-04-2014:9:41:56 PM] : B2KMLS005 has viewed the DUP file details in IDSIL/PJO from 2014-04-02 to 2014-04-02
+
+
+[02-04-2014:11:00:11 PM] : B2KMLS005 has logged in to IDSIL / PJO using the System 117.206.108.149
+
+
+[02-04-2014:11:00:29 PM] : B2KMLS005 has uploaded a file 68740070 to Hospital/Customer in IDSIL / PJO
+
+
+[02-04-2014:11:01:21 PM] : B2KMLS005 has logged out from the Linecount Software Using the System 117.206.108.149

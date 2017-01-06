@@ -1,0 +1,66 @@
+
+
+[10-05-2014:1:38:33 AM] : B2KMLS011 has logged in to IDSIL / PJO using the System 117.230.67.237
+
+
+[10-05-2014:1:39:43 AM] : B2KMLS011 has logged out from the Linecount Software Using the System 117.230.67.237
+
+
+[10-05-2014:10:19:10 AM] : B2KMLS011 has logged in to IDSIL / PJO using the System 117.230.118.224
+
+
+[10-05-2014:10:22:52 AM] : B2KMLS011 has picked a file 69673884 in IDSIL / PJO
+
+
+[10-05-2014:10:40:22 AM] : B2KMLS011 has uploaded a file 69673884 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[10-05-2014:10:40:54 AM] : B2KMLS011 has picked a file 69682573 in IDSIL / PJO
+
+
+[10-05-2014:10:51:29 AM] : B2KMLS011 has logged in to IDSIL / PJO using the System 117.230.118.224
+
+
+[10-05-2014:10:51:40 AM] : B2KMLS011 has uploaded a file 69682573 to Hospital/Customer in IDSIL / PJO
+
+
+[10-05-2014:7:56:19 PM] : B2KMLS011 has logged in to IDSIL / PJO using the System 117.231.19.134
+
+
+[10-05-2014:7:57:34 PM] : B2KMLS011 has picked a file 69682901 in IDSIL / PJO
+
+
+[10-05-2014:8:14:44 PM] : B2KMLS011 has uploaded a file 69682901 to Hospital/Customer in IDSIL / PJO
+
+
+[10-05-2014:8:15:43 PM] : B2KMLS011 has picked a file 69682983 in IDSIL / PJO
+
+
+[10-05-2014:8:30:29 PM] : B2KMLS011 has uploaded a file 69682983 to Hospital/Customer in IDSIL / PJO
+
+
+[10-05-2014:8:30:47 PM] : B2KMLS011 has picked a file 69681366 in IDSIL / PJO
+
+
+[10-05-2014:8:50:47 PM] : B2KMLS011 has uploaded a file 69681366 to Hospital/Customer in IDSIL / PJO
+
+
+[10-05-2014:8:52:23 PM] : B2KMLS011 has picked a file 69685051 in IDSIL / PJO
+
+
+[10-05-2014:10:59:42 PM] : B2KMLS011 has logged in to IDSIL / PJO using the System 117.235.22.93
+
+
+[10-05-2014:11:00:39 PM] : B2KMLS011 has uploaded a file 69685051 to Hospital/Customer in IDSIL / PJO
+
+
+[10-05-2014:11:02:28 PM] :  has uploaded a DUP file 69692576 in IDSIL / PJO
+
+
+[11-05-2014:12:03:05 AM] :  has uploaded a DUP file 69693174 in IDSIL / PJO
+
+
+[11-05-2014:1:01:49 AM] :  has uploaded a DUP file 69692762 in IDSIL / PJO
+
+
+[11-05-2014:1:30:01 AM] :  has uploaded a DUP file 69691339 in IDSIL / PJO

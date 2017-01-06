@@ -1,0 +1,153 @@
+
+
+[08-02-2014:12:41:48 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[08-02-2014:2:12:09 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[08-02-2014:6:15:25 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[08-02-2014:6:31:43 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[08-02-2014:8:19:29 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[08-02-2014:8:37:16 AM] : ADMIN has Viewed Employee Details
+
+
+[08-02-2014:8:37:48 AM] : ADMIN has Viewed Employee Details
+
+
+[08-02-2014:9:46:25 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[08-02-2014:10:22:37 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[08-02-2014:10:22:47 AM] : ADMIN has Viewed Employee Details
+
+
+[08-02-2014:10:22:57 AM] : ADMIN has Viewed Employee Details
+
+
+[08-02-2014:11:12:32 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+[08-02-2014:11:12:52 AM] : ADMIN has Rejected Leave request from the ID B2KMLS003 on 2014-02-10.
+
+[08-02-2014:11:13:22 AM] : ADMIN has added an Update into the Database
+
+[08-02-2014:11:13:44 AM] : ADMIN has added an Update into the Database
+
+[08-02-2014:11:14:02 AM] : ADMIN has added an Update into the Database
+
+[08-02-2014:11:16:09 AM] : ADMIN has added an Update into the Database
+
+
+[08-02-2014:11:18:14 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[08-02-2014:11:34:56 AM] : ADMIN has Viewed Employee Details
+
+
+[08-02-2014:12:41:14 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[08-02-2014:12:46:18 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[08-02-2014:12:46:26 PM] : ADMIN has Viewed Employee Details
+
+
+[08-02-2014:12:47:01 PM] : ADMIN has Viewed Employee Details
+
+
+[08-02-2014:12:48:15 PM] : ADMIN has Viewed Employee Details
+
+
+[08-02-2014:12:50:25 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[08-02-2014:1:02:39 PM] : ADMIN has Viewed Employee Details
+
+
+[08-02-2014:1:02:52 PM] : ADMIN has Viewed Employee Details
+
+
+[08-02-2014:1:16:56 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[08-02-2014:2:10:07 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+[08-02-2014:2:10:29 PM] : ADMIN has Viewed Employee Details
+
+[08-02-2014:2:11:06 PM] : ADMIN has Viewed Employee Details
+
+[08-02-2014:2:11:13 PM] : ADMIN has Viewed Employee Details
+
+[08-02-2014:2:11:39 PM] : ADMIN has Viewed Employee Details
+
+[08-02-2014:2:11:53 PM] : ADMIN has Viewed Employee Details
+
+[08-02-2014:2:12:13 PM] : ADMIN has Viewed Employee Details
+
+[08-02-2014:2:12:31 PM] : ADMIN has Viewed Employee Details
+
+[08-02-2014:2:13:55 PM] : ADMIN has Viewed Employee Details
+
+[08-02-2014:2:14:16 PM] : ADMIN has Viewed Employee Details
+
+[08-02-2014:2:14:41 PM] : ADMIN has Viewed Employee Details
+
+
+[08-02-2014:2:14:47 PM] : ADMIN has Viewed Employee Details
+
+
+[08-02-2014:2:25:17 PM] : ADMIN has Viewed Employee Details
+
+
+[08-02-2014:2:40:32 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[08-02-2014:2:52:48 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[08-02-2014:3:34:32 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[08-02-2014:3:48:06 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[08-02-2014:4:16:44 PM] : ADMIN has Viewed Employee Details
+
+
+[08-02-2014:5:08:40 PM] : ADMIN has logged out from the Linecount Software Using the System 59.90.86.47
+
+
+[08-02-2014:5:08:48 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[08-02-2014:5:33:14 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[08-02-2014:5:37:48 PM] : ADMIN has logged out from the Linecount Software Using the System 59.90.86.47
+
+
+[08-02-2014:5:45:13 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[08-02-2014:5:52:07 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[08-02-2014:6:35:03 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[08-02-2014:7:40:05 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[08-02-2014:9:02:15 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[08-02-2014:10:43:12 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47

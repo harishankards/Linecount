@@ -1,0 +1,15 @@
+
+
+[16-02-2013:2:38:21 PM] : VTER004 has logged in to IDSIL / PJO using the System 14.96.26.236
+
+
+[16-02-2013:2:41:21 PM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[16-02-2013:2:45:34 PM] : VTER004 has added a Audit file 57826462 in IDSIL / PJO 
+
+
+[16-02-2013:2:53:11 PM] : VTER004 has picked a file 57827864 in IDSIL / PJO
+
+
+[16-02-2013:2:54:08 PM] : VTER004 has uploaded a file 57827864 to IDS/QA_Checkpoint in IDSIL / PJO

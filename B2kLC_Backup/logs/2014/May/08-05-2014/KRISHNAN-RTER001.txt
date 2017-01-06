@@ -1,0 +1,63 @@
+
+
+[08-05-2014:10:01:09 AM] : RTER001  has logged in to IDSIL / PJO using the System 101.222.237.159
+
+
+[08-05-2014:10:55:39 AM] : RTER001  has picked a file 69627437 in IDSIL / PJO
+
+
+[08-05-2014:11:06:05 AM] : RTER001  has uploaded a file 69627437 to Hospital/Customer in IDSIL / PJO
+
+
+[08-05-2014:11:09:14 AM] : RTER001  has picked a file 69627863 in IDSIL / PJO
+
+
+[08-05-2014:11:09:21 AM] : RTER001  has uploaded a file 69627863 to Hospital/Customer in IDSIL / PJO
+
+
+[08-05-2014:11:15:14 AM] : RTER001  has viewed the Edited file details in IDSIL/PJO from 2014-05-08 to 2014-05-08
+
+
+[08-05-2014:11:23:12 AM] : RTER001  has picked a file 69627066 in IDSIL / PJO
+
+
+[08-05-2014:11:26:18 AM] : RTER001  has uploaded a file 69627066 to Hospital/Customer in IDSIL / PJO
+
+
+[08-05-2014:11:30:36 AM] : RTER001  has picked a file 69627096 in IDSIL / PJO
+
+
+[08-05-2014:11:36:04 AM] : RTER001  has uploaded a file 69627096 to Hospital/Customer in IDSIL / PJO
+
+
+[08-05-2014:11:37:43 AM] : RTER001  has picked a file 69625331 in IDSIL / PJO
+
+
+[08-05-2014:11:38:42 AM] : RTER001  has uploaded a file 69625331 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[08-05-2014:11:50:18 AM] : RTER001  has picked a file 69629034 in IDSIL / PJO
+
+
+[08-05-2014:11:52:51 AM] : RTER001  has uploaded a file 69629034 to Hospital/Customer in IDSIL / PJO
+
+
+[08-05-2014:12:00:20 PM] : RTER001  has picked a file 69624556 in IDSIL / PJO
+
+
+[08-05-2014:12:22:37 PM] : RTER001  has uploaded a file 69624556 to Hospital/Customer in IDSIL / PJO
+
+
+[08-05-2014:12:23:44 PM] : RTER001  has picked a file 69628109 in IDSIL / PJO
+
+
+[08-05-2014:12:25:27 PM] : RTER001  has uploaded a file 69628109 to Hospital/Customer in IDSIL / PJO
+
+
+[08-05-2014:2:44:31 PM] : RTER001 has logged in to IDSIL / PJO using the System 117.96.113.160
+
+
+[08-05-2014:2:45:17 PM] : RTER001 has viewed the Edited file details in IDSIL/PJO from 2014-04-01 to 2014-04-30
+
+
+[08-05-2014:2:45:35 PM] : RTER001 has Downloaded a file details in IDSIL / PJO from 2014-04-01 to 2014-04-30

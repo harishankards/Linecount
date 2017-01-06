@@ -1,0 +1,18 @@
+
+
+[03-04-2013:2:13:59 PM] : VTER002 has logged in to IDSIL / PJO using the System 122.169.152.33
+
+
+[03-04-2013:2:14:36 PM] : VTER002 has picked a file 59231366 in IDSIL / PJO
+
+
+[03-04-2013:2:15:11 PM] : VTER002 has uploaded a file 59231366 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[03-04-2013:2:29:55 PM] : VTER002 has picked a file 59247920 in IDSIL / PJO
+
+
+[03-04-2013:2:29:59 PM] : VTER002 has uploaded a file 59247920 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[03-04-2013:2:30:23 PM] : VTER002 has logged out from the Linecount Software Using the System 122.169.152.33

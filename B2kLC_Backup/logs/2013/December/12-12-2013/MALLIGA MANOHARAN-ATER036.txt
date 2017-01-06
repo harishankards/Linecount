@@ -1,0 +1,24 @@
+
+
+[12-12-2013:10:46:30 AM] : ATER036 has logged in to IDSIL / PJO using the System 106.208.227.37
+
+
+[12-12-2013:10:47:25 AM] : ATER036 has picked a file 65885463 in IDSIL / PJO
+
+
+[12-12-2013:11:12:17 AM] : ATER036 has uploaded a file 65885463 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[12-12-2013:12:50:12 PM] : ATER036 has logged in to IDSIL / PJO using the System 223.234.50.83
+
+
+[12-12-2013:12:51:13 PM] : ATER036 has picked a file 65901700 in IDSIL / PJO
+
+
+[12-12-2013:1:24:10 PM] : ATER036 has logged in to IDSIL / PJO using the System 223.234.50.83
+
+
+[12-12-2013:1:24:19 PM] : ATER036 has uploaded a file 65901700 to Hospital/Customer in IDSIL / PJO
+
+
+[12-12-2013:1:24:27 PM] : ATER036 has logged out from the Linecount Software Using the System 223.234.50.83

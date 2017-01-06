@@ -1,0 +1,516 @@
+
+
+[17-01-2013:12:39:07 PM] : DITED001 has logged in to IDSIL / PJO using the System 117.203.96.6
+
+
+[17-01-2013:12:40:54 PM] : DITED001 has picked a file 78378794 in IDSIL / PJO
+
+
+[17-01-2013:12:40:57 PM] : DITED001 has uploaded a file 78378794 to Hospital/Customer in IDSIL / PJO
+
+
+[17-01-2013:12:41:02 PM] : DITED001 has picked a file 78393778 in IDSIL / PJO
+
+
+[17-01-2013:12:41:05 PM] : DITED001 has uploaded a file 78393778 to Hospital/Customer in IDSIL / PJO
+
+
+[17-01-2013:12:41:10 PM] : DITED001 has picked a file 78387532 in IDSIL / PJO
+
+
+[17-01-2013:12:41:13 PM] : DITED001 has uploaded a file 78387532 to Hospital/Customer in IDSIL / PJO
+
+
+[17-01-2013:12:41:19 PM] : DITED001 has picked a file 78381246 in IDSIL / PJO
+
+
+[17-01-2013:12:41:22 PM] : DITED001 has uploaded a file 78381246 to Hospital/Customer in IDSIL / PJO
+
+
+[17-01-2013:12:41:27 PM] : DITED001 has picked a file 78389691 in IDSIL / PJO
+
+
+[17-01-2013:12:41:32 PM] : DITED001 has uploaded a file 78389691 to Hospital/Customer in IDSIL / PJO
+
+
+[17-01-2013:12:41:38 PM] : DITED001 has picked a file 78397441 in IDSIL / PJO
+
+
+[17-01-2013:12:41:42 PM] : DITED001 has uploaded a file 78397441 to Hospital/Customer in IDSIL / PJO
+
+
+[17-01-2013:12:41:47 PM] : DITED001 has picked a file 78397275 in IDSIL / PJO
+
+
+[17-01-2013:12:41:50 PM] : DITED001 has uploaded a file 78397275 to Hospital/Customer in IDSIL / PJO
+
+
+[17-01-2013:12:41:56 PM] : DITED001 has picked a file 78390927 in IDSIL / PJO
+
+
+[17-01-2013:12:41:59 PM] : DITED001 has uploaded a file 78390927 to Hospital/Customer in IDSIL / PJO
+
+
+[17-01-2013:12:42:12 PM] : DITED001 has picked a file 78391595 in IDSIL / PJO
+
+
+[17-01-2013:12:42:30 PM] : DITED001 has uploaded a file 78391595 to Hospital/Customer in IDSIL / PJO
+
+
+[17-01-2013:12:46:17 PM] : DITED001 has picked a file 78392227 in IDSIL / PJO
+
+
+[17-01-2013:12:46:24 PM] : DITED001 has uploaded a file 78392227 to Hospital/Customer in IDSIL / PJO
+
+
+[17-01-2013:12:46:30 PM] : DITED001 has picked a file 78383700 in IDSIL / PJO
+
+
+[17-01-2013:12:46:33 PM] : DITED001 has uploaded a file 78383700 to Hospital/Customer in IDSIL / PJO
+
+
+[17-01-2013:12:46:41 PM] : DITED001 has picked a file 78392944 in IDSIL / PJO
+
+
+[17-01-2013:12:46:44 PM] : DITED001 has uploaded a file 78392944 to Hospital/Customer in IDSIL / PJO
+
+
+[17-01-2013:12:48:38 PM] : DITED001 has picked a file 78393714 in IDSIL / PJO
+
+
+[17-01-2013:12:48:42 PM] : DITED001 has uploaded a file 78393714 to Hospital/Customer in IDSIL / PJO
+
+
+[17-01-2013:12:48:47 PM] : DITED001 has picked a file 78384836 in IDSIL / PJO
+
+
+[17-01-2013:12:48:51 PM] : DITED001 has uploaded a file 78384836 to Hospital/Customer in IDSIL / PJO
+
+
+[17-01-2013:12:54:42 PM] : DITED001 has picked a file 78398878 in IDSIL / PJO
+
+
+[17-01-2013:12:54:45 PM] : DITED001 has uploaded a file 78398878 to Hospital/Customer in IDSIL / PJO
+
+
+[17-01-2013:12:54:50 PM] : DITED001 has picked a file 78394806 in IDSIL / PJO
+
+
+[17-01-2013:12:54:54 PM] : DITED001 has uploaded a file 78394806 to Hospital/Customer in IDSIL / PJO
+
+
+[17-01-2013:12:55:01 PM] : DITED001 has picked a file 78395696 in IDSIL / PJO
+
+
+[17-01-2013:12:55:04 PM] : DITED001 has uploaded a file 78395696 to Hospital/Customer in IDSIL / PJO
+
+
+[17-01-2013:12:55:12 PM] : DITED001 has picked a file 78384597 in IDSIL / PJO
+
+
+[17-01-2013:12:55:15 PM] : DITED001 has uploaded a file 78384597 to Hospital/Customer in IDSIL / PJO
+
+
+[17-01-2013:12:55:22 PM] : DITED001 has picked a file 78384623 in IDSIL / PJO
+
+
+[17-01-2013:12:55:26 PM] : DITED001 has uploaded a file 78384623 to Hospital/Customer in IDSIL / PJO
+
+
+[17-01-2013:12:55:54 PM] : DITED001 has picked a file 78387235 in IDSIL / PJO
+
+
+[17-01-2013:12:55:59 PM] : DITED001 has uploaded a file 78387235 to Hospital/Customer in IDSIL / PJO
+
+
+[17-01-2013:12:56:04 PM] : DITED001 has picked a file 78388389 in IDSIL / PJO
+
+
+[17-01-2013:12:56:07 PM] : DITED001 has uploaded a file 78388389 to Hospital/Customer in IDSIL / PJO
+
+
+[17-01-2013:12:56:14 PM] : DITED001 has picked a file 78394957 in IDSIL / PJO
+
+
+[17-01-2013:12:56:18 PM] : DITED001 has uploaded a file 78394957 to Hospital/Customer in IDSIL / PJO
+
+
+[17-01-2013:12:57:06 PM] : DITED001 has picked a file 78395257 in IDSIL / PJO
+
+
+[17-01-2013:12:57:09 PM] : DITED001 has uploaded a file 78395257 to Hospital/Customer in IDSIL / PJO
+
+
+[17-01-2013:12:57:27 PM] : DITED001 has picked a file 78395554 in IDSIL / PJO
+
+
+[17-01-2013:12:57:30 PM] : DITED001 has uploaded a file 78395554 to Hospital/Customer in IDSIL / PJO
+
+
+[17-01-2013:12:57:44 PM] : DITED001 has picked a file 78395151 in IDSIL / PJO
+
+
+[17-01-2013:12:57:47 PM] : DITED001 has uploaded a file 78395151 to Hospital/Customer in IDSIL / PJO
+
+
+[17-01-2013:12:58:13 PM] : DITED001 has picked a file 78392757 in IDSIL / PJO
+
+
+[17-01-2013:12:58:18 PM] : DITED001 has uploaded a file 78392757 to Hospital/Customer in IDSIL / PJO
+
+
+[17-01-2013:12:58:27 PM] : DITED001 has picked a file 78391451 in IDSIL / PJO
+
+
+[17-01-2013:12:58:32 PM] : DITED001 has uploaded a file 78391451 to Hospital/Customer in IDSIL / PJO
+
+
+[17-01-2013:12:59:50 PM] : DITED001 has picked a file 78387310 in IDSIL / PJO
+
+
+[17-01-2013:12:59:53 PM] : DITED001 has uploaded a file 78387310 to Hospital/Customer in IDSIL / PJO
+
+
+[17-01-2013:12:59:58 PM] : DITED001 has picked a file 78397142 in IDSIL / PJO
+
+
+[17-01-2013:1:00:01 PM] : DITED001 has uploaded a file 78397142 to Hospital/Customer in IDSIL / PJO
+
+
+[17-01-2013:1:00:06 PM] : DITED001 has picked a file 78392803 in IDSIL / PJO
+
+
+[17-01-2013:1:00:15 PM] : DITED001 has uploaded a file 78392803 to Hospital/Customer in IDSIL / PJO
+
+
+[17-01-2013:1:00:20 PM] : DITED001 has picked a file 78393143 in IDSIL / PJO
+
+
+[17-01-2013:1:00:23 PM] : DITED001 has uploaded a file 78393143 to Hospital/Customer in IDSIL / PJO
+
+
+[17-01-2013:1:00:30 PM] : DITED001 has picked a file 78389143 in IDSIL / PJO
+
+
+[17-01-2013:1:00:33 PM] : DITED001 has uploaded a file 78389143 to Hospital/Customer in IDSIL / PJO
+
+
+[17-01-2013:1:00:40 PM] : DITED001 has picked a file 78388852 in IDSIL / PJO
+
+
+[17-01-2013:1:00:43 PM] : DITED001 has uploaded a file 78388852 to Hospital/Customer in IDSIL / PJO
+
+
+[17-01-2013:1:00:57 PM] : DITED001 has picked a file 78398110 in IDSIL / PJO
+
+
+[17-01-2013:1:01:00 PM] : DITED001 has uploaded a file 78398110 to Hospital/Customer in IDSIL / PJO
+
+
+[17-01-2013:1:01:07 PM] : DITED001 has picked a file 78393494 in IDSIL / PJO
+
+
+[17-01-2013:1:01:12 PM] : DITED001 has uploaded a file 78393494 to Hospital/Customer in IDSIL / PJO
+
+
+[17-01-2013:1:01:52 PM] : DITED001 has picked a file 78393622 in IDSIL / PJO
+
+
+[17-01-2013:1:02:06 PM] : DITED001 has uploaded a file 78393622 to Hospital/Customer in IDSIL / PJO
+
+
+[17-01-2013:1:02:11 PM] : DITED001 has picked a file 78389777 in IDSIL / PJO
+
+
+[17-01-2013:1:02:14 PM] : DITED001 has uploaded a file 78389777 to Hospital/Customer in IDSIL / PJO
+
+
+[17-01-2013:1:02:20 PM] : DITED001 has picked a file 78390625 in IDSIL / PJO
+
+
+[17-01-2013:1:02:23 PM] : DITED001 has uploaded a file 78390625 to Hospital/Customer in IDSIL / PJO
+
+
+[17-01-2013:1:02:28 PM] : DITED001 has picked a file 78392148 in IDSIL / PJO
+
+
+[17-01-2013:1:02:32 PM] : DITED001 has uploaded a file 78392148 to Hospital/Customer in IDSIL / PJO
+
+
+[17-01-2013:1:02:49 PM] : DITED001 has picked a file 78391262 in IDSIL / PJO
+
+
+[17-01-2013:1:02:53 PM] : DITED001 has uploaded a file 78391262 to Hospital/Customer in IDSIL / PJO
+
+
+[17-01-2013:1:02:58 PM] : DITED001 has picked a file 78396172 in IDSIL / PJO
+
+
+[17-01-2013:1:03:02 PM] : DITED001 has uploaded a file 78396172 to Hospital/Customer in IDSIL / PJO
+
+
+[17-01-2013:1:03:07 PM] : DITED001 has picked a file 78396179 in IDSIL / PJO
+
+
+[17-01-2013:1:03:10 PM] : DITED001 has uploaded a file 78396179 to Hospital/Customer in IDSIL / PJO
+
+
+[17-01-2013:1:03:17 PM] : DITED001 has picked a file 78391027 in IDSIL / PJO
+
+
+[17-01-2013:1:03:20 PM] : DITED001 has uploaded a file 78391027 to Hospital/Customer in IDSIL / PJO
+
+
+[17-01-2013:1:03:26 PM] : DITED001 has picked a file 78391185 in IDSIL / PJO
+
+
+[17-01-2013:1:03:29 PM] : DITED001 has uploaded a file 78391185 to Hospital/Customer in IDSIL / PJO
+
+
+[17-01-2013:1:03:35 PM] : DITED001 has picked a file 78391195 in IDSIL / PJO
+
+
+[17-01-2013:1:03:38 PM] : DITED001 has uploaded a file 78391195 to Hospital/Customer in IDSIL / PJO
+
+
+[17-01-2013:1:03:44 PM] : DITED001 has picked a file 78395544 in IDSIL / PJO
+
+
+[17-01-2013:1:03:52 PM] : DITED001 has uploaded a file 78395544 to Hospital/Customer in IDSIL / PJO
+
+
+[17-01-2013:1:03:58 PM] : DITED001 has picked a file 78395757 in IDSIL / PJO
+
+
+[17-01-2013:1:04:01 PM] : DITED001 has uploaded a file 78395757 to Hospital/Customer in IDSIL / PJO
+
+
+[17-01-2013:1:04:08 PM] : DITED001 has picked a file 78395950 in IDSIL / PJO
+
+
+[17-01-2013:1:04:11 PM] : DITED001 has uploaded a file 78395950 to Hospital/Customer in IDSIL / PJO
+
+
+[17-01-2013:1:04:19 PM] : DITED001 has picked a file 78397459 in IDSIL / PJO
+
+
+[17-01-2013:1:04:22 PM] : DITED001 has uploaded a file 78397459 to Hospital/Customer in IDSIL / PJO
+
+
+[17-01-2013:1:04:29 PM] : DITED001 has picked a file 78397621 in IDSIL / PJO
+
+
+[17-01-2013:1:04:32 PM] : DITED001 has uploaded a file 78397621 to Hospital/Customer in IDSIL / PJO
+
+
+[17-01-2013:1:04:38 PM] : DITED001 has picked a file 78397740 in IDSIL / PJO
+
+
+[17-01-2013:1:04:42 PM] : DITED001 has uploaded a file 78397740 to Hospital/Customer in IDSIL / PJO
+
+
+[17-01-2013:1:04:48 PM] : DITED001 has picked a file 78385071 in IDSIL / PJO
+
+
+[17-01-2013:1:04:52 PM] : DITED001 has uploaded a file 78385071 to Hospital/Customer in IDSIL / PJO
+
+
+[17-01-2013:1:04:58 PM] : DITED001 has picked a file 78387903 in IDSIL / PJO
+
+
+[17-01-2013:1:05:01 PM] : DITED001 has uploaded a file 78387903 to Hospital/Customer in IDSIL / PJO
+
+
+[17-01-2013:1:05:06 PM] : DITED001 has picked a file 78388344 in IDSIL / PJO
+
+
+[17-01-2013:1:05:10 PM] : DITED001 has uploaded a file 78388344 to Hospital/Customer in IDSIL / PJO
+
+
+[17-01-2013:1:05:16 PM] : DITED001 has picked a file 78390170 in IDSIL / PJO
+
+
+[17-01-2013:1:05:19 PM] : DITED001 has uploaded a file 78390170 to Hospital/Customer in IDSIL / PJO
+
+
+[17-01-2013:1:05:26 PM] : DITED001 has picked a file 78392945 in IDSIL / PJO
+
+
+[17-01-2013:1:05:32 PM] : DITED001 has uploaded a file 78392945 to Hospital/Customer in IDSIL / PJO
+
+
+[17-01-2013:1:05:39 PM] : DITED001 has picked a file 78393829 in IDSIL / PJO
+
+
+[17-01-2013:5:31:56 PM] : DITED001 has logged in to IDSIL / PJO using the System 117.203.96.6
+
+
+[17-01-2013:5:32:03 PM] : DITED001 has uploaded a file 78393829 to Hospital/Customer in IDSIL / PJO
+
+
+[17-01-2013:5:32:16 PM] : DITED001 has picked a file 78396083 in IDSIL / PJO
+
+
+[17-01-2013:5:32:20 PM] : DITED001 has uploaded a file 78396083 to Hospital/Customer in IDSIL / PJO
+
+
+[17-01-2013:5:32:28 PM] : DITED001 has picked a file 78398475 in IDSIL / PJO
+
+
+[17-01-2013:5:32:31 PM] : DITED001 has uploaded a file 78398475 to Hospital/Customer in IDSIL / PJO
+
+
+[17-01-2013:5:32:59 PM] : DITED001 has picked a file 78393600 in IDSIL / PJO
+
+
+[17-01-2013:5:33:02 PM] : DITED001 has uploaded a file 78393600 to Hospital/Customer in IDSIL / PJO
+
+
+[17-01-2013:5:35:51 PM] : DITED001 has logged out from the Linecount Software Using the System 117.203.96.6
+
+
+[17-01-2013:5:40:36 PM] : DITED001 has logged in to IDSIL / PJO using the System 117.203.96.6
+
+
+[17-01-2013:5:40:49 PM] : DITED001 has picked a file 78411366 in IDSIL / PJO
+
+
+[17-01-2013:5:40:54 PM] : DITED001 has uploaded a file 78411366 to Hospital/Customer in IDSIL / PJO
+
+
+[17-01-2013:5:41:05 PM] : DITED001 has picked a file 78404972 in IDSIL / PJO
+
+
+[17-01-2013:5:41:08 PM] : DITED001 has uploaded a file 78404972 to Hospital/Customer in IDSIL / PJO
+
+
+[17-01-2013:5:41:13 PM] : DITED001 has picked a file 78405461 in IDSIL / PJO
+
+
+[17-01-2013:5:41:18 PM] : DITED001 has uploaded a file 78405461 to Hospital/Customer in IDSIL / PJO
+
+
+[17-01-2013:5:41:23 PM] : DITED001 has picked a file 78401407 in IDSIL / PJO
+
+
+[17-01-2013:5:41:41 PM] : DITED001 has uploaded a file 78401407 to Hospital/Customer in IDSIL / PJO
+
+
+[17-01-2013:5:42:49 PM] : DITED001 has picked a file 78406265 in IDSIL / PJO
+
+
+[17-01-2013:5:42:54 PM] : DITED001 has uploaded a file 78406265 to Hospital/Customer in IDSIL / PJO
+
+
+[17-01-2013:5:42:59 PM] : DITED001 has picked a file 78406418 in IDSIL / PJO
+
+
+[17-01-2013:5:43:03 PM] : DITED001 has uploaded a file 78406418 to Hospital/Customer in IDSIL / PJO
+
+
+[17-01-2013:5:43:08 PM] : DITED001 has picked a file 78406421 in IDSIL / PJO
+
+
+[17-01-2013:5:43:11 PM] : DITED001 has uploaded a file 78406421 to Hospital/Customer in IDSIL / PJO
+
+
+[17-01-2013:5:43:16 PM] : DITED001 has picked a file 78406716 in IDSIL / PJO
+
+
+[17-01-2013:5:43:19 PM] : DITED001 has uploaded a file 78406716 to Hospital/Customer in IDSIL / PJO
+
+
+[17-01-2013:5:43:24 PM] : DITED001 has picked a file 78407369 in IDSIL / PJO
+
+
+[17-01-2013:5:43:27 PM] : DITED001 has uploaded a file 78407369 to Hospital/Customer in IDSIL / PJO
+
+
+[17-01-2013:5:43:32 PM] : DITED001 has picked a file 78407193 in IDSIL / PJO
+
+
+[17-01-2013:5:43:35 PM] : DITED001 has uploaded a file 78407193 to Hospital/Customer in IDSIL / PJO
+
+
+[17-01-2013:5:43:40 PM] : DITED001 has picked a file 78408498 in IDSIL / PJO
+
+
+[17-01-2013:5:43:44 PM] : DITED001 has uploaded a file 78408498 to Hospital/Customer in IDSIL / PJO
+
+
+[17-01-2013:5:43:48 PM] : DITED001 has picked a file 78407951 in IDSIL / PJO
+
+
+[17-01-2013:5:43:53 PM] : DITED001 has uploaded a file 78407951 to Hospital/Customer in IDSIL / PJO
+
+
+[17-01-2013:5:43:59 PM] : DITED001 has picked a file 78408166 in IDSIL / PJO
+
+
+[17-01-2013:5:44:03 PM] : DITED001 has uploaded a file 78408166 to Hospital/Customer in IDSIL / PJO
+
+
+[17-01-2013:5:44:08 PM] : DITED001 has picked a file 78408648 in IDSIL / PJO
+
+
+[17-01-2013:5:44:11 PM] : DITED001 has uploaded a file 78408648 to Hospital/Customer in IDSIL / PJO
+
+
+[17-01-2013:5:44:17 PM] : DITED001 has picked a file 78407825 in IDSIL / PJO
+
+
+[17-01-2013:5:44:31 PM] : DITED001 has uploaded a file 78407825 to Hospital/Customer in IDSIL / PJO
+
+
+[17-01-2013:5:44:36 PM] : DITED001 has picked a file 78407244 in IDSIL / PJO
+
+
+[17-01-2013:5:44:39 PM] : DITED001 has uploaded a file 78407244 to Hospital/Customer in IDSIL / PJO
+
+
+[17-01-2013:5:44:44 PM] : DITED001 has picked a file 78407414 in IDSIL / PJO
+
+
+[17-01-2013:5:44:49 PM] : DITED001 has uploaded a file 78407414 to Hospital/Customer in IDSIL / PJO
+
+
+[17-01-2013:5:44:53 PM] : DITED001 has picked a file 78406990 in IDSIL / PJO
+
+
+[17-01-2013:5:44:57 PM] : DITED001 has uploaded a file 78406990 to Hospital/Customer in IDSIL / PJO
+
+
+[17-01-2013:5:45:02 PM] : DITED001 has picked a file 78407694 in IDSIL / PJO
+
+
+[17-01-2013:5:45:06 PM] : DITED001 has uploaded a file 78407694 to Hospital/Customer in IDSIL / PJO
+
+
+[17-01-2013:5:45:11 PM] : DITED001 has picked a file 78407885 in IDSIL / PJO
+
+
+[17-01-2013:5:45:26 PM] : DITED001 has uploaded a file 78407885 to Hospital/Customer in IDSIL / PJO
+
+
+[17-01-2013:5:45:32 PM] : DITED001 has picked a file 78405882 in IDSIL / PJO
+
+
+[17-01-2013:5:45:36 PM] : DITED001 has uploaded a file 78405882 to Hospital/Customer in IDSIL / PJO
+
+
+[17-01-2013:5:45:41 PM] : DITED001 has picked a file 78406065 in IDSIL / PJO
+
+
+[17-01-2013:5:45:44 PM] : DITED001 has uploaded a file 78406065 to Hospital/Customer in IDSIL / PJO
+
+
+[17-01-2013:5:45:49 PM] : DITED001 has picked a file 78406790 in IDSIL / PJO
+
+
+[17-01-2013:5:45:52 PM] : DITED001 has uploaded a file 78406790 to Hospital/Customer in IDSIL / PJO
+
+
+[17-01-2013:5:58:24 PM] : DITED001 has picked a file 56493317 in IDSIL / PJO
+
+
+[17-01-2013:5:58:31 PM] : DITED001 has uploaded a file 56493317 to Hospital/Customer in IDSIL / PJO

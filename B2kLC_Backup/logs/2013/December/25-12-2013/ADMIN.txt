@@ -1,0 +1,337 @@
+
+
+[25-12-2013:12:16:07 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[25-12-2013:1:17:20 AM] : ADMIN has Viewed Employee Details
+
+
+[25-12-2013:1:17:28 AM] : ADMIN has Viewed Employee Details
+
+
+[25-12-2013:1:57:14 AM] : ADMIN has Viewed Employee Details
+
+
+[25-12-2013:1:57:33 AM] : ADMIN has Viewed Employee Details
+
+
+[25-12-2013:6:42:07 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[25-12-2013:8:16:39 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[25-12-2013:8:18:35 AM] : ADMIN has Viewed Employee Details
+
+
+[25-12-2013:8:18:44 AM] : ADMIN has Viewed Employee Details
+
+
+[25-12-2013:9:42:02 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[25-12-2013:10:09:34 AM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[25-12-2013:10:17:40 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[25-12-2013:10:21:37 AM] : ADMIN has Approved Leave request from the ID B2KMLS011 on 2013-12-27.
+
+[25-12-2013:10:21:46 AM] : ADMIN has Approved Leave request from the ID B2KMLS003 on 2013-12-25.
+
+[25-12-2013:10:21:55 AM] : ADMIN has Approved Leave request from the ID B2KMLS011 on 2013-12-28.
+
+[25-12-2013:10:22:08 AM] : ADMIN has Approved Leave request from the ID B2KHTMLS027 on 2013-12-24.
+
+[25-12-2013:10:22:15 AM] : ADMIN has Approved Leave request from the ID B2KHTMLS027 on 2013-12-25.
+
+
+[25-12-2013:10:58:25 AM] : ADMIN has Viewed Employee Details
+
+
+[25-12-2013:12:19:19 PM] : ADMIN has Viewed Employee Details
+
+
+[25-12-2013:3:10:15 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[25-12-2013:3:11:52 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+[25-12-2013:3:20:29 PM] : ADMIN has Deleted the details of the file 66033134.
+
+[25-12-2013:3:21:43 PM] : ADMIN has Deleted the details of the file 66031825.
+
+[25-12-2013:3:22:12 PM] : ADMIN has Deleted the details of the file 66028823.
+
+[25-12-2013:3:22:42 PM] : ADMIN has Deleted the details of the file 66027638.
+
+[25-12-2013:3:23:01 PM] : ADMIN has Deleted the details of the file 66021095.
+
+[25-12-2013:3:23:16 PM] : ADMIN has Deleted the details of the file 66019673.
+
+[25-12-2013:3:23:38 PM] : ADMIN has Deleted the details of the file 66019380.
+
+[25-12-2013:3:24:10 PM] : ADMIN has Deleted the details of the file 66019246.
+
+
+[25-12-2013:3:24:20 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[25-12-2013:3:24:32 PM] : ADMIN has Deleted the details of the file 66006169.
+
+[25-12-2013:3:24:50 PM] : ADMIN has Deleted the details of the file 66005795.
+
+[25-12-2013:3:25:11 PM] : ADMIN has Deleted the details of the file 66005180.
+
+[25-12-2013:3:25:34 PM] : ADMIN has Deleted the details of the file 66003039.
+
+[25-12-2013:3:25:44 PM] : ADMIN has Deleted the details of the file 66003039.
+
+[25-12-2013:3:26:04 PM] : ADMIN has Deleted the details of the file 66002959.
+
+[25-12-2013:3:26:18 PM] : ADMIN has Deleted the details of the file 66003356.
+
+[25-12-2013:3:26:33 PM] : ADMIN has Deleted the details of the file 65991228.
+
+[25-12-2013:3:26:53 PM] : ADMIN has Deleted the details of the file 66002467.
+
+[25-12-2013:3:27:21 PM] : ADMIN has Deleted the details of the file 66000772.
+
+[25-12-2013:3:27:38 PM] : ADMIN has Deleted the details of the file 65991128.
+
+[25-12-2013:3:28:01 PM] : ADMIN has Deleted the details of the file 65991107.
+
+[25-12-2013:3:28:16 PM] : ADMIN has Deleted the details of the file 65999936.
+
+[25-12-2013:3:28:32 PM] : ADMIN has Deleted the details of the file 65999281.
+
+[25-12-2013:3:29:15 PM] : ADMIN has Deleted the details of the file 65976627.
+
+[25-12-2013:3:29:42 PM] : ADMIN has Deleted the details of the file 65973371.
+
+[25-12-2013:3:30:03 PM] : ADMIN has Deleted the details of the file 65968696.
+
+[25-12-2013:3:31:29 PM] : ADMIN has Deleted the details of the file 65965012.
+
+[25-12-2013:3:32:37 PM] : ADMIN has Deleted the details of the file 65966746.
+
+[25-12-2013:3:32:57 PM] : ADMIN has Deleted the details of the file 65966021.
+
+[25-12-2013:3:33:28 PM] : ADMIN has Deleted the details of the file 65964000.
+
+[25-12-2013:3:34:14 PM] : ADMIN has Deleted the details of the file 65961524.
+
+[25-12-2013:3:34:34 PM] : ADMIN has Deleted the details of the file 65957926.
+
+[25-12-2013:3:35:03 PM] : ADMIN has Deleted the details of the file 65957568.
+
+[25-12-2013:3:35:33 PM] : ADMIN has Deleted the details of the file 65944735.
+
+[25-12-2013:3:35:52 PM] : ADMIN has Deleted the details of the file 65938542.
+
+[25-12-2013:3:36:11 PM] : ADMIN has Deleted the details of the file 65935797.
+
+[25-12-2013:3:37:45 PM] : ADMIN has Deleted the details of the file 65833438.
+
+[25-12-2013:3:37:48 PM] : ADMIN has Deleted the details of the file 65935925.
+
+[25-12-2013:3:38:06 PM] : ADMIN has Deleted the details of the file 65929720.
+
+[25-12-2013:3:38:23 PM] : ADMIN has Deleted the details of the file 65929683.
+
+[25-12-2013:3:38:39 PM] : ADMIN has Deleted the details of the file 65925164.
+
+[25-12-2013:3:38:56 PM] : ADMIN has Deleted the details of the file 65926921.
+
+[25-12-2013:3:39:56 PM] : ADMIN has Deleted the details of the file 65873326.
+
+[25-12-2013:3:40:04 PM] : ADMIN has Deleted the details of the file 78736611.
+
+[25-12-2013:3:40:12 PM] : ADMIN has Deleted the details of the file 65871127.
+
+[25-12-2013:3:40:28 PM] : ADMIN has Deleted the details of the file 65847736.
+
+[25-12-2013:3:40:47 PM] : ADMIN has Deleted the details of the file 65841964.
+
+[25-12-2013:3:41:59 PM] : ADMIN has Deleted the details of the file 65863867.
+
+[25-12-2013:3:42:16 PM] : ADMIN has Deleted the details of the file 65860769.
+
+[25-12-2013:3:42:34 PM] : ADMIN has Deleted the details of the file 65859157.
+
+[25-12-2013:3:42:50 PM] : ADMIN has Deleted the details of the file 65859119.
+
+[25-12-2013:3:43:18 PM] : ADMIN has Deleted the details of the file 65860651.
+
+[25-12-2013:3:43:43 PM] : ADMIN has Deleted the details of the file 65859516.
+
+[25-12-2013:3:43:49 PM] : ADMIN has Deleted the details of the file 78716816.
+
+[25-12-2013:3:44:31 PM] : ADMIN has Deleted the details of the file 65848631.
+
+[25-12-2013:3:44:47 PM] : ADMIN has Deleted the details of the file 65846881.
+
+[25-12-2013:3:44:54 PM] : ADMIN has Deleted the details of the file 78712042.
+
+[25-12-2013:3:45:17 PM] : ADMIN has Deleted the details of the file 65835112.
+
+[25-12-2013:3:45:42 PM] : ADMIN has Deleted the details of the file 65841245.
+
+[25-12-2013:3:45:58 PM] : ADMIN has Deleted the details of the file 65836078.
+
+[25-12-2013:3:46:03 PM] : ADMIN has Deleted the details of the file 78715483.
+
+[25-12-2013:3:46:13 PM] : ADMIN has Deleted the details of the file 65837173.
+
+[25-12-2013:3:47:17 PM] : ADMIN has Deleted the details of the file 65836204.
+
+[25-12-2013:3:48:09 PM] : ADMIN has Deleted the details of the file 78724085.
+
+[25-12-2013:3:48:09 PM] : ADMIN has Deleted the details of the file 65833399.
+
+[25-12-2013:3:48:25 PM] : ADMIN has Deleted the details of the file 78759096.
+
+[25-12-2013:3:48:39 PM] : ADMIN has Deleted the details of the file 65828633.
+
+[25-12-2013:3:48:41 PM] : ADMIN has Deleted the details of the file 78718545.
+
+[25-12-2013:3:48:54 PM] : ADMIN has Deleted the details of the file 65828579.
+
+[25-12-2013:3:49:32 PM] : ADMIN has Deleted the details of the file 78738473.
+
+[25-12-2013:3:49:47 PM] : ADMIN has Deleted the details of the file 78736453.
+
+[25-12-2013:3:50:07 PM] : ADMIN has Deleted the details of the file 78735909.
+
+[25-12-2013:3:50:21 PM] : ADMIN has Deleted the details of the file 78723078.
+
+[25-12-2013:3:50:31 PM] : ADMIN has Deleted the details of the file 78735440.
+
+[25-12-2013:3:50:51 PM] : ADMIN has Deleted the details of the file 78734124.
+
+[25-12-2013:3:51:21 PM] : ADMIN has Deleted the details of the file 78724463.
+
+[25-12-2013:3:51:22 PM] : ADMIN has Deleted the details of the file 78733862.
+
+[25-12-2013:3:52:06 PM] : ADMIN has Deleted the details of the file 78731788.
+
+[25-12-2013:3:52:08 PM] : ADMIN has Deleted the details of the file 78732252.
+
+[25-12-2013:3:52:25 PM] : ADMIN has Deleted the details of the file 78731837.
+
+[25-12-2013:3:52:28 PM] : ADMIN has Deleted the details of the file 78729849.
+
+
+[25-12-2013:3:55:34 PM] : ADMIN has logged out from the Linecount Software Using the System 59.90.86.47
+
+[25-12-2013:3:57:50 PM] : ADMIN has viewed Bank Details
+
+
+[25-12-2013:3:58:16 PM] : ADMIN has logged out from the Linecount Software Using the System 59.90.86.47
+
+
+[25-12-2013:4:16:10 PM] : ADMIN has Viewed Employee Details
+
+
+[25-12-2013:4:16:49 PM] : ADMIN has Viewed Employee Details
+
+
+[25-12-2013:4:17:52 PM] : ADMIN has Viewed Employee Details
+
+
+[25-12-2013:4:18:36 PM] : ADMIN has Viewed Employee Details
+
+
+[25-12-2013:4:18:42 PM] : ADMIN has Viewed Employee Details
+
+
+[25-12-2013:4:24:43 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[25-12-2013:4:25:12 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[25-12-2013:4:26:02 PM] : ADMIN has Viewed Employee Details
+
+
+[25-12-2013:4:29:11 PM] : ADMIN has Viewed Employee Details
+
+
+[25-12-2013:4:32:48 PM] : ADMIN has logged out from the Linecount Software Using the System 59.90.86.47
+
+
+[25-12-2013:4:33:03 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[25-12-2013:4:33:13 PM] : ADMIN has Viewed Employee Details
+
+
+[25-12-2013:4:34:12 PM] : ADMIN has Viewed Employee Details
+
+
+[25-12-2013:4:34:22 PM] : ADMIN has Viewed Employee Details
+
+
+[25-12-2013:4:35:08 PM] : ADMIN has Viewed Employee Details
+
+
+[25-12-2013:4:35:14 PM] : ADMIN has Viewed Employee Details
+
+
+[25-12-2013:4:36:55 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[25-12-2013:4:37:15 PM] : ADMIN has Viewed Employee Details
+
+
+[25-12-2013:4:37:22 PM] : ADMIN has Viewed Employee Details
+
+
+[25-12-2013:4:41:37 PM] : ADMIN has Viewed Employee Details
+
+
+[25-12-2013:4:44:22 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[25-12-2013:4:45:11 PM] : ADMIN has Viewed Employee Details
+
+
+[25-12-2013:5:29:13 PM] : ADMIN has Viewed Employee Details
+
+
+[25-12-2013:5:42:50 PM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[25-12-2013:5:43:58 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[25-12-2013:5:44:36 PM] : ADMIN has Viewed Employee Details
+
+
+[25-12-2013:6:09:25 PM] : ADMIN has Viewed Employee Details
+
+
+[25-12-2013:7:53:23 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[25-12-2013:8:48:33 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[25-12-2013:8:52:41 PM] : ADMIN has logged out from the Linecount Software Using the System 59.90.86.47
+
+
+[25-12-2013:9:06:44 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[25-12-2013:9:06:58 PM] : ADMIN has Viewed Employee Details
+
+
+[25-12-2013:9:07:05 PM] : ADMIN has Viewed Employee Details
+
+
+[25-12-2013:10:20:50 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[25-12-2013:11:02:03 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[25-12-2013:11:22:00 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47

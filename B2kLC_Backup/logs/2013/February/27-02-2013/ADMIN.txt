@@ -1,0 +1,271 @@
+
+
+[27-02-2013:4:39:12 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[27-02-2013:4:39:20 AM] : ADMIN has Viewed Employee Details
+
+
+[27-02-2013:4:39:31 AM] : ADMIN has Viewed Employee Details
+
+
+[27-02-2013:4:41:05 AM] : ADMIN has Viewed Employee Details
+
+
+[27-02-2013:4:41:12 AM] : ADMIN has Viewed Employee Details
+
+
+[27-02-2013:4:42:21 AM] : ADMIN has Viewed Employee Details
+
+
+[27-02-2013:4:42:31 AM] : ADMIN has Viewed Employee Details
+
+
+[27-02-2013:4:42:41 AM] : ADMIN has Viewed Employee Details
+
+
+[27-02-2013:4:43:55 AM] : ADMIN has Viewed Employee Details
+
+
+[27-02-2013:4:43:59 AM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[27-02-2013:4:45:02 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[27-02-2013:4:45:31 AM] : ADMIN has Viewed Employee Details
+
+
+[27-02-2013:4:45:39 AM] : ADMIN has Viewed Employee Details
+
+
+[27-02-2013:4:46:26 AM] : ADMIN has Viewed Employee Details
+
+
+[27-02-2013:4:46:35 AM] : ADMIN has Viewed Employee Details
+
+
+[27-02-2013:4:47:32 AM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[27-02-2013:4:49:19 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[27-02-2013:4:49:26 AM] : ADMIN has Viewed Employee Details
+
+
+[27-02-2013:4:49:36 AM] : ADMIN has Viewed Employee Details
+
+
+[27-02-2013:4:49:53 AM] : ADMIN has Viewed Employee Details
+
+
+[27-02-2013:4:49:57 AM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[27-02-2013:4:51:16 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[27-02-2013:4:51:25 AM] : ADMIN has Viewed Employee Details
+
+
+[27-02-2013:4:51:34 AM] : ADMIN has Viewed Employee Details
+
+
+[27-02-2013:4:52:01 AM] : ADMIN has Viewed Employee Details
+
+
+[27-02-2013:4:52:25 AM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[27-02-2013:4:54:29 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[27-02-2013:4:54:45 AM] : ADMIN has Viewed Employee Details
+
+
+[27-02-2013:4:54:59 AM] : ADMIN has Viewed Employee Details
+
+
+[27-02-2013:5:50:44 AM] : ADMIN has Viewed Employee Details
+
+
+[27-02-2013:5:50:46 AM] : ADMIN has Viewed Employee Details
+
+
+[27-02-2013:5:50:49 AM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[27-02-2013:5:52:23 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[27-02-2013:5:52:52 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[27-02-2013:5:53:00 AM] : ADMIN has Viewed Employee Details
+
+
+[27-02-2013:5:53:10 AM] : ADMIN has Viewed Employee Details
+
+
+[27-02-2013:5:53:50 AM] : ADMIN has Viewed Employee Details
+
+
+[27-02-2013:5:53:56 AM] : ADMIN has Viewed Employee Details
+
+
+[27-02-2013:5:55:06 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[27-02-2013:10:50:22 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[27-02-2013:10:54:57 AM] : ADMIN has Viewed Employee Details
+
+
+[27-02-2013:10:55:07 AM] : ADMIN has Viewed Employee Details
+
+
+[27-02-2013:10:55:29 AM] : ADMIN has Viewed Employee Details
+
+
+[27-02-2013:10:57:13 AM] : ADMIN has Viewed Employee Details
+
+
+[27-02-2013:10:58:08 AM] : ADMIN has Viewed Employee Details
+
+
+[27-02-2013:10:58:21 AM] : ADMIN has Viewed Employee Details
+
+
+[27-02-2013:10:58:40 AM] : ADMIN has Viewed Employee Details
+
+[27-02-2013:10:58:40 AM] : ADMIN has Deleted Employee Details B2KHTMLS010
+
+
+[27-02-2013:10:58:52 AM] : ADMIN has Viewed Employee Details
+
+
+[27-02-2013:10:58:56 AM] : ADMIN has Viewed Employee Details
+
+[27-02-2013:10:58:56 AM] : ADMIN has Deleted Employee Details B2KHTMLS018
+
+
+[27-02-2013:10:59:38 AM] : ADMIN has Viewed Employee Details
+
+
+[27-02-2013:11:00:20 AM] : ADMIN has Viewed Employee Details
+
+[27-02-2013:11:00:20 AM] : ADMIN has Deleted Employee Details B2KHTMLS008
+
+
+[27-02-2013:11:00:34 AM] : ADMIN has Viewed Employee Details
+
+
+[27-02-2013:11:01:31 AM] : ADMIN has Viewed Employee Details
+
+[27-02-2013:11:01:31 AM] : ADMIN has Deleted Employee Details B2KER008
+
+
+[27-02-2013:11:02:47 AM] : ADMIN has Viewed Employee Details
+
+
+[27-02-2013:11:02:54 AM] : ADMIN has Viewed Employee Details
+
+
+[27-02-2013:11:03:01 AM] : ADMIN has Viewed Employee Details
+
+[27-02-2013:11:03:01 AM] : ADMIN has Deleted Employee Details B2KHTMLS004
+
+
+[27-02-2013:11:04:55 AM] : ADMIN has Viewed Employee Details
+
+
+[27-02-2013:11:06:28 AM] : ADMIN has Viewed Employee Details
+
+
+[27-02-2013:11:06:34 AM] : ADMIN has Viewed Employee Details
+
+
+[27-02-2013:11:06:47 AM] : ADMIN has Viewed Employee Details
+
+[27-02-2013:11:06:47 AM] : ADMIN has Deleted Employee Details B2KHTMLS006
+
+
+[27-02-2013:11:07:10 AM] : ADMIN has Viewed Employee Details
+
+
+[27-02-2013:11:07:43 AM] : ADMIN has Viewed Employee Details
+
+[27-02-2013:11:07:43 AM] : ADMIN has Deleted Employee Details B2KHTMLS007
+
+
+[27-02-2013:11:09:38 AM] : ADMIN has Viewed Employee Details
+
+
+[27-02-2013:11:10:19 AM] : ADMIN has Viewed Employee Details
+
+
+[27-02-2013:11:10:24 AM] : ADMIN has Viewed Employee Details
+
+[27-02-2013:11:10:24 AM] : ADMIN has Deleted Employee Details B2KHTMLS011
+
+
+[27-02-2013:11:10:42 AM] : ADMIN has Viewed Employee Details
+
+
+[27-02-2013:11:10:47 AM] : ADMIN has Viewed Employee Details
+
+[27-02-2013:11:10:47 AM] : ADMIN has Deleted Employee Details B2KHTMLS012
+
+
+[27-02-2013:11:11:28 AM] : ADMIN has Viewed Employee Details
+
+
+[27-02-2013:11:40:07 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[27-02-2013:11:41:15 AM] : ADMIN has Viewed Employee Details
+
+
+[27-02-2013:11:41:36 AM] : ADMIN has Viewed Employee Details
+
+
+[27-02-2013:11:41:40 AM] : ADMIN has Viewed Employee Details
+
+
+[27-02-2013:11:41:51 AM] : ADMIN has Viewed Employee Details
+
+
+[27-02-2013:11:42:52 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[27-02-2013:11:44:49 AM] : ADMIN has Rejected Leave request from the ID B2KMLS003 on 2013-03-03.
+
+
+[27-02-2013:11:45:10 AM] : ADMIN has Viewed Employee Details
+
+[27-02-2013:11:47:42 AM] : ADMIN has added Attendanec Details into the Database
+
+
+[27-02-2013:2:02:11 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[27-02-2013:2:45:01 PM] : ADMIN has Viewed Employee Details
+
+
+[27-02-2013:3:16:06 PM] : ADMIN has Viewed Employee Details
+
+
+[27-02-2013:3:35:05 PM] : ADMIN has Viewed Employee Details
+
+
+[27-02-2013:3:41:35 PM] : ADMIN has added Employee Details[YULINNE LAMBERT] into the Database
+
+
+[27-02-2013:4:03:22 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[27-02-2013:4:03:41 PM] : ADMIN has Viewed Employee Details
+
+
+[27-02-2013:6:27:22 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47

@@ -1,0 +1,171 @@
+
+
+[09-02-2013:9:46:25 AM] : B2KER007 has logged in to IDSIL / PJO using the System 59.90.86.47
+
+
+[09-02-2013:10:05:27 AM] : B2KER007 has picked a file 57605898 in IDSIL / PJO
+
+
+[09-02-2013:10:05:37 AM] : B2KER007 has uploaded a file 57605898 to Hospital/Customer in IDSIL / PJO
+
+
+[09-02-2013:10:17:21 AM] : B2KER007 has picked a file 57608006 in IDSIL / PJO
+
+
+[09-02-2013:10:29:45 AM] : B2KER007 has uploaded a file 57608006 to Hospital/Customer in IDSIL / PJO
+
+
+[09-02-2013:10:37:54 AM] : B2KER007 has picked a file 57589923 in IDSIL / PJO
+
+
+[09-02-2013:10:40:52 AM] : B2KER007 has uploaded a file 57589923 to Hospital/Customer in IDSIL / PJO
+
+
+[09-02-2013:10:49:09 AM] : B2KER007 has added a Audit file 57594875 in IDSIL / PJO 
+
+
+[09-02-2013:10:50:39 AM] : B2KER007 has picked a file 57586282 in IDSIL / PJO
+
+
+[09-02-2013:11:05:21 AM] : B2KER007 has uploaded a file 57586282 to Hospital/Customer in IDSIL / PJO
+
+
+[09-02-2013:11:12:25 AM] : B2KER007 has picked a file 57589622 in IDSIL / PJO
+
+
+[09-02-2013:11:28:55 AM] : B2KER007 has uploaded a file 57589622 to Hospital/Customer in IDSIL / PJO
+
+
+[09-02-2013:11:37:14 AM] : B2KER007 has picked a file 57605992 in IDSIL / PJO
+
+
+[09-02-2013:11:54:58 AM] : B2KER007 has uploaded a file 57605992 to Hospital/Customer in IDSIL / PJO
+
+
+[09-02-2013:11:56:23 AM] : B2KER007 has picked a file 57594687 in IDSIL / PJO
+
+
+[09-02-2013:12:03:42 PM] : B2KER007 has uploaded a file 57594687 to Hospital/Customer in IDSIL / PJO
+
+
+[09-02-2013:12:05:23 PM] : B2KER007 has picked a file 57594026 in IDSIL / PJO
+
+
+[09-02-2013:12:17:32 PM] : B2KER007 has uploaded a file 57594026 to Hospital/Customer in IDSIL / PJO
+
+
+[09-02-2013:12:41:52 PM] : B2KER007 has picked a file 57591424 in IDSIL / PJO
+
+
+[09-02-2013:12:41:58 PM] : B2KER007 has uploaded a file 57591424 to Hospital/Customer in IDSIL / PJO
+
+
+[09-02-2013:12:43:59 PM] : B2KER007 has picked a file 57592176 in IDSIL / PJO
+
+
+[09-02-2013:12:55:55 PM] : B2KER007 has uploaded a file 57592176 to Hospital/Customer in IDSIL / PJO
+
+
+[09-02-2013:1:48:11 PM] : B2KER007 has logged in to IDSIL / PJO using the System 59.90.86.47
+
+
+[09-02-2013:1:48:24 PM] : B2KER007 has picked a file 57590553 in IDSIL / PJO
+
+
+[09-02-2013:2:01:25 PM] : B2KER007 has uploaded a file 57590553 to Hospital/Customer in IDSIL / PJO
+
+
+[09-02-2013:2:02:50 PM] : B2KER007 has picked a file 57590817 in IDSIL / PJO
+
+
+[09-02-2013:2:24:01 PM] : B2KER007 has uploaded a file 57590817 to Hospital/Customer in IDSIL / PJO
+
+
+[09-02-2013:2:25:29 PM] : B2KER007 has picked a file 57594599 in IDSIL / PJO
+
+
+[09-02-2013:2:31:37 PM] : B2KER007 has uploaded a file 57594599 to Hospital/Customer in IDSIL / PJO
+
+
+[09-02-2013:2:33:41 PM] : B2KER007 has picked a file 57589831 in IDSIL / PJO
+
+
+[09-02-2013:2:40:18 PM] : B2KER007 has uploaded a file 57589831 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[09-02-2013:2:53:15 PM] : B2KER007 has added a Audit file 57591207 in IDSIL / PJO 
+
+
+[09-02-2013:2:59:13 PM] : B2KER007 has picked a file 57595648 in IDSIL / PJO
+
+
+[09-02-2013:3:11:37 PM] : B2KER007 has uploaded a file 57595648 to Hospital/Customer in IDSIL / PJO
+
+
+[09-02-2013:3:13:48 PM] : B2KER007 has picked a file 57595541 in IDSIL / PJO
+
+
+[09-02-2013:3:35:35 PM] : B2KER007 has uploaded a file 57595541 to Hospital/Customer in IDSIL / PJO
+
+
+[09-02-2013:3:38:23 PM] : B2KER007 has picked a file 57596287 in IDSIL / PJO
+
+
+[09-02-2013:3:54:31 PM] : B2KER007 has uploaded a file 57596287 to Hospital/Customer in IDSIL / PJO
+
+
+[09-02-2013:3:59:20 PM] : B2KER007 has picked a file 57605715 in IDSIL / PJO
+
+
+[09-02-2013:4:47:47 PM] : B2KER007 has logged in to IDSIL / PJO using the System 59.90.86.47
+
+
+[09-02-2013:4:48:00 PM] : B2KER007 has uploaded a file 57605715 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[09-02-2013:4:48:24 PM] : B2KER007 has picked a file 57596880 in IDSIL / PJO
+
+
+[09-02-2013:5:02:50 PM] : B2KER007 has uploaded a file 57596880 to Hospital/Customer in IDSIL / PJO
+
+
+[09-02-2013:5:04:14 PM] : B2KER007 has picked a file 57597744 in IDSIL / PJO
+
+
+[09-02-2013:5:10:52 PM] : B2KER007 has uploaded a file 57597744 to Hospital/Customer in IDSIL / PJO
+
+
+[09-02-2013:5:41:46 PM] : B2KER007 has picked a file 57599058 in IDSIL / PJO
+
+
+[09-02-2013:5:42:08 PM] : B2KER007 has uploaded a file 57599058 to Hospital/Customer in IDSIL / PJO
+
+
+[09-02-2013:5:52:50 PM] : B2KER007 has picked a file 57603968 in IDSIL / PJO
+
+
+[09-02-2013:5:52:56 PM] : B2KER007 has uploaded a file 57603968 to Hospital/Customer in IDSIL / PJO
+
+
+[09-02-2013:6:02:01 PM] : B2KER007 has picked a file 57604417 in IDSIL / PJO
+
+
+[09-02-2013:6:10:24 PM] : B2KER007 has uploaded a file 57604417 to Hospital/Customer in IDSIL / PJO
+
+
+[09-02-2013:6:14:30 PM] : B2KER007 has picked a file 57600977 in IDSIL / PJO
+
+
+[09-02-2013:6:23:44 PM] : B2KER007 has uploaded a file 57600977 to Hospital/Customer in IDSIL / PJO
+
+
+[09-02-2013:6:25:06 PM] : B2KER007 has picked a file 57601088 in IDSIL / PJO
+
+
+[09-02-2013:6:31:05 PM] : B2KER007 has viewed the Audit file details in IDSIL / PJO from 2013-02-09 to 2013-02-09
+
+
+[09-02-2013:6:46:56 PM] : B2KER007 has uploaded a file 57601088 to Hospital/Customer in IDSIL / PJO
+
+
+[09-02-2013:6:49:16 PM] : B2KER007 has viewed the Audit file details in IDSIL / PJO from 2013-02-09 to 2013-02-09

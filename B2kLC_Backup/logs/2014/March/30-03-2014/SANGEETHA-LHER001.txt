@@ -1,0 +1,42 @@
+
+
+[30-03-2014:1:52:50 PM] : LHER001 has logged in to IDSIL / PJO using the System 122.178.164.233
+
+
+[30-03-2014:1:57:59 PM] : LHER001  has logged in to IDSIL / PJO using the System 122.178.164.233
+
+
+[30-03-2014:1:59:51 PM] : LHER001  has picked a file 68644436 in IDSIL / PJO
+
+
+[30-03-2014:2:02:32 PM] : LHER001  has uploaded a file 68644436 to Hospital/Customer in IDSIL / PJO
+
+
+[30-03-2014:2:03:01 PM] : LHER001  has picked a file 68630089 in IDSIL / PJO
+
+
+[30-03-2014:2:03:07 PM] : LHER001  has uploaded a file 68630089 to Hospital/Customer in IDSIL / PJO
+
+
+[30-03-2014:2:04:12 PM] : LHER001  has picked a file 68646260 in IDSIL / PJO
+
+
+[30-03-2014:2:04:20 PM] : LHER001  has uploaded a file 68646260 to Hospital/Customer in IDSIL / PJO
+
+
+[30-03-2014:2:04:55 PM] : LHER001  has picked a file 68621217 in IDSIL / PJO
+
+
+[30-03-2014:2:05:02 PM] : LHER001  has uploaded a file 68621217 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[30-03-2014:2:05:30 PM] : LHER001  has picked a file 68659567 in IDSIL / PJO
+
+
+[30-03-2014:2:05:36 PM] : LHER001  has uploaded a file 68659567 to Hospital/Customer in IDSIL / PJO
+
+
+[30-03-2014:2:06:07 PM] : LHER001  has picked a file 68654955 in IDSIL / PJO
+
+
+[30-03-2014:2:06:17 PM] : LHER001  has uploaded a file 68654955 to Third_level in IDSIL / PJO

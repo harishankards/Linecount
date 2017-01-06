@@ -1,0 +1,69 @@
+
+
+[22-12-2013:1:07:28 AM] : CBEMLS003 has logged in to IDSIL / PJO using the System 14.99.110.180
+
+
+[22-12-2013:1:36:51 AM] : CBEMLS003 has logged out from the Linecount Software Using the System 14.99.110.180
+
+
+[22-12-2013:2:23:35 AM] : CBEMLS003 has logged in to IDSIL / PJO using the System 14.99.110.180
+
+
+[22-12-2013:3:33:11 AM] : CBEMLS003 has logged in to IDSIL / PJO using the System 14.99.110.180
+
+
+[22-12-2013:4:33:05 AM] : CBEMLS003 has logged in to IDSIL / PJO using the System 14.96.94.16
+
+
+[22-12-2013:5:29:03 AM] : CBEMLS003 has logged out from the Linecount Software Using the System 14.96.94.16
+
+
+[22-12-2013:6:49:29 AM] : CBEMLS003 has logged in to IDSIL / PJO using the System 14.96.94.16
+
+
+[22-12-2013:6:49:52 AM] : CBEMLS003 has viewed the DUP file details in IDSIL/PJO from 2013-12-16 to 2013-12-22
+
+
+[22-12-2013:7:01:51 AM] : CBEMLS003 has viewed the DUP file details in IDSIL/PJO from 2013-12-02 to 2013-12-16
+
+
+[22-12-2013:7:09:07 AM] : CBEMLS003 has logged out from the Linecount Software Using the System 14.96.94.16
+
+
+[22-12-2013:12:23:55 PM] : CBEMLS003 has logged in to IDSIL / PJO using the System 14.99.143.69
+
+
+[22-12-2013:4:51:19 PM] : CBEMLS003 has logged in to IDSIL / PJO using the System 14.99.156.19
+
+
+[22-12-2013:6:36:56 PM] : CBEMLS003 has logged in to IDSIL / PJO using the System 14.99.156.19
+
+
+[22-12-2013:6:37:52 PM] :  has uploaded a DUP file 66185783 in IDSIL / PJO
+
+
+[22-12-2013:7:19:26 PM] :  has uploaded a DUP file 66186439 in IDSIL / PJO
+
+
+[22-12-2013:7:20:06 PM] : CBEMLS003 has viewed the DUP file details in IDSIL/PJO from 2013-12-22 to 2013-12-22
+
+
+[22-12-2013:7:22:11 PM] : CBEMLS003 has viewed the DUP file details in IDSIL/PJO from 2013-12-22 to 2013-12-22
+
+
+[22-12-2013:11:48:12 PM] : CBEMLS003 has logged in to IDSIL / PJO using the System 14.99.156.19
+
+
+[23-12-2013:12:31:17 AM] :  has uploaded a DUP file 66191896 in IDSIL / PJO
+
+
+[23-12-2013:12:48:53 AM] : CBEMLS003 has viewed the DUP file details in IDSIL/PJO from 2013-12-22 to 2013-12-23
+
+
+[23-12-2013:1:28:55 AM] :  has uploaded a DUP file 66192301 in IDSIL / PJO
+
+
+[23-12-2013:1:29:19 AM] : CBEMLS003 has viewed the DUP file details in IDSIL/PJO from 2013-12-22 to 2013-12-23
+
+
+[23-12-2013:1:47:26 AM] : CBEMLS003 has viewed the DUP file details in IDSIL/PJO from 2013-12-02 to 2013-12-23

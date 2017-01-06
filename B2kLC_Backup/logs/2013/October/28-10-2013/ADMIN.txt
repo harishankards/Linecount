@@ -1,0 +1,72 @@
+
+
+[28-10-2013:4:37:26 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[28-10-2013:6:15:07 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[28-10-2013:7:35:33 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[28-10-2013:7:35:54 AM] : ADMIN has Viewed Employee Details
+
+
+[28-10-2013:7:36:07 AM] : ADMIN has Viewed Employee Details
+
+
+[28-10-2013:7:57:07 AM] : ADMIN has Viewed Employee Details
+
+
+[28-10-2013:7:57:15 AM] : ADMIN has Viewed Employee Details
+
+
+[28-10-2013:9:04:04 AM] : ADMIN has Viewed Employee Details
+
+
+[28-10-2013:9:04:15 AM] : ADMIN has Viewed Employee Details
+
+
+[28-10-2013:9:05:18 AM] : ADMIN has Viewed Employee Details
+
+
+[28-10-2013:10:02:49 AM] : ADMIN has logged out from the Linecount Software Using the System 59.90.86.47
+
+
+[28-10-2013:10:03:18 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[28-10-2013:10:05:21 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[28-10-2013:11:13:03 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[28-10-2013:12:29:12 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[28-10-2013:3:00:25 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[28-10-2013:3:04:43 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[28-10-2013:3:45:07 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+[28-10-2013:3:45:30 PM] : ADMIN has added an Update into the Database
+
+
+[28-10-2013:4:58:32 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[28-10-2013:5:10:52 PM] : ADMIN has Viewed Employee Details
+
+[28-10-2013:5:48:45 PM] : ADMIN has Deleted the details of the file 90477855.
+
+
+[28-10-2013:6:07:54 PM] : ADMIN has logged out from the Linecount Software Using the System 59.90.86.47
+
+
+[28-10-2013:10:46:10 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[28-10-2013:11:55:12 PM] : ADMIN has Deleted the details of the file 59347523.

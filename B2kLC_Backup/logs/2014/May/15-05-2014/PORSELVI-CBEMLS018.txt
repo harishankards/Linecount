@@ -1,0 +1,21 @@
+
+
+[15-05-2014:6:59:03 AM] : CBEMLS018 has logged in to IDSIL / PJO using the System 122.174.73.123
+
+
+[15-05-2014:7:04:18 AM] : CBEMLS018 has picked a file 69772216 in IDSIL / PJO
+
+
+[15-05-2014:7:04:30 AM] : CBEMLS018 has uploaded a file 69772216 to Hospital/Customer in IDSIL / PJO
+
+
+[15-05-2014:7:38:34 AM] : CBEMLS018 has picked a file 69772363 in IDSIL / PJO
+
+
+[15-05-2014:8:01:01 AM] : CBEMLS018 has logged out from the Linecount Software Using the System 122.174.73.123
+
+
+[15-05-2014:8:01:13 AM] : CBEMLS018 has logged in to IDSIL / PJO using the System 122.174.73.123
+
+
+[15-05-2014:9:20:39 AM] : CBEMLS018 has logged in to IDSIL / PJO using the System 122.174.152.233

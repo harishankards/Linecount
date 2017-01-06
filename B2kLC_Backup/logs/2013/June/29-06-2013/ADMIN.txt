@@ -1,0 +1,67 @@
+
+
+[29-06-2013:5:08:21 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[29-06-2013:9:50:04 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[29-06-2013:10:11:58 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[29-06-2013:10:12:14 AM] : ADMIN has Viewed Employee Details
+
+
+[29-06-2013:10:14:18 AM] : ADMIN has added Employee Details[SUKUNA] into the Database
+
+
+[29-06-2013:10:22:57 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[29-06-2013:11:40:26 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[29-06-2013:12:18:00 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[29-06-2013:1:22:03 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[29-06-2013:2:18:50 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[29-06-2013:2:39:32 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[29-06-2013:3:32:32 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[29-06-2013:3:34:22 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[29-06-2013:3:34:33 PM] : ADMIN has Viewed Employee Details
+
+
+[29-06-2013:3:39:02 PM] : ADMIN has added Employee Details[C.T.NIRMAL KUMAR] into the Database
+
+
+[29-06-2013:4:25:36 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[29-06-2013:4:43:32 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[29-06-2013:5:30:47 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[29-06-2013:5:52:22 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+[29-06-2013:5:52:39 PM] : ADMIN has Rejected Leave request from the ID B2KER001 on 2013-06-24.
+
+[29-06-2013:5:52:44 PM] : ADMIN has Rejected Leave request from the ID B2KMLS019 on 2013-06-26.
+
+[29-06-2013:5:52:51 PM] : ADMIN has Rejected Leave request from the ID B2KMLS019 on 2013-06-27.
+
+[29-06-2013:5:53:00 PM] : ADMIN has Rejected Leave request from the ID B2KMLS019 on 2013-06-28.
+
+[29-06-2013:5:53:07 PM] : ADMIN has Rejected Leave request from the ID B2KER001 on 2013-06-27.

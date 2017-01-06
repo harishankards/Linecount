@@ -1,0 +1,39 @@
+
+
+[02-07-2014:1:22:31 AM] : B2KMLS011 has logged out from the Linecount Software Using the System 122.178.178.183
+
+
+[02-07-2014:1:33:00 AM] : B2KMLS011 has logged in to IDSIL / PJO using the System 122.178.144.157
+
+
+[02-07-2014:1:36:41 AM] : B2KMLS011 has logged in to IDSIL / PJO using the System 122.178.144.157
+
+
+[02-07-2014:1:37:14 AM] : B2KMLS011 has logged out from the Linecount Software Using the System 122.178.144.157
+
+
+[02-07-2014:6:14:53 PM] : B2KMLS011 has logged in to IDSIL / PJO using the System 122.178.161.112
+
+
+[02-07-2014:6:15:50 PM] : B2KMLS011 has picked a file 70930912 in IDSIL / PJO
+
+
+[02-07-2014:6:33:02 PM] : B2KMLS011 has uploaded a file 70930912 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[02-07-2014:11:02:34 PM] : B2KMLS011 has logged in to IDSIL / PJO using the System 122.178.161.112
+
+
+[02-07-2014:11:03:14 PM] :  has uploaded a DUP file 70933166 in IDSIL / PJO
+
+
+[02-07-2014:11:03:42 PM] :  has uploaded a DUP file 70932678 in IDSIL / PJO
+
+
+[02-07-2014:11:04:13 PM] :  has uploaded a DUP file 70937051 in IDSIL / PJO
+
+
+[02-07-2014:11:04:41 PM] :  has uploaded a DUP file 70936976 in IDSIL / PJO
+
+
+[03-07-2014:12:32:29 AM] :  has uploaded a DUP file 70943975 in IDSIL / PJO

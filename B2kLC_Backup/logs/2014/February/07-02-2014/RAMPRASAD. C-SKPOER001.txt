@@ -1,0 +1,69 @@
+
+
+[07-02-2014:1:34:00 AM] : SKPOER001 has logged out from the Linecount Software Using the System 117.197.203.133
+
+
+[07-02-2014:1:34:05 AM] : SKPOER001 has logged in to IDSIL / PJO using the System 117.197.203.133
+
+
+[07-02-2014:4:57:38 AM] : SKPOER001 has logged out from the Linecount Software Using the System 117.197.203.133
+
+
+[07-02-2014:4:57:43 AM] : SKPOER001 has logged in to IDSIL / PJO using the System 117.197.203.133
+
+
+[07-02-2014:6:35:26 AM] : SKPOER001 has logged in to IDSIL / PJO using the System 117.197.203.133
+
+
+[07-02-2014:6:36:01 AM] : SKPOER001 has picked a file 67350830 in IDSIL / PJO
+
+
+[07-02-2014:6:45:20 AM] : SKPOER001 has uploaded a file 67350830 to Hospital/Customer in IDSIL / PJO
+
+
+[07-02-2014:6:45:34 AM] : SKPOER001 has uploaded a file 67339501 to Hospital/Customer in IDSIL / PJO
+
+
+[07-02-2014:7:00:50 AM] : SKPOER001 has picked a file 67343947 in IDSIL / PJO
+
+
+[07-02-2014:7:00:57 AM] : SKPOER001 has uploaded a file 67343947 to Hospital/Customer in IDSIL / PJO
+
+
+[07-02-2014:7:36:14 AM] : SKPOER001 has logged in to IDSIL / PJO using the System 117.197.185.15
+
+
+[07-02-2014:7:36:29 AM] : SKPOER001 has picked a file 67332156 in IDSIL / PJO
+
+
+[07-02-2014:7:36:39 AM] : SKPOER001 has uploaded a file 67332156 to Hospital/Customer in IDSIL / PJO
+
+
+[07-02-2014:7:37:40 AM] : SKPOER001 has picked a file 67334013 in IDSIL / PJO
+
+
+[07-02-2014:7:51:03 AM] : SKPOER001 has uploaded a file 67334013 to Hospital/Customer in IDSIL / PJO
+
+
+[07-02-2014:7:52:14 AM] : SKPOER001 has picked a file 67340534 in IDSIL / PJO
+
+
+[07-02-2014:7:52:47 AM] : SKPOER001 has viewed the Edited file details in IDSIL/PJO from 2014-02-01 to 2014-02-07
+
+
+[07-02-2014:7:52:59 AM] : SKPOER001 has Downloaded a file details in IDSIL / PJO from 2014-02-01 to 2014-02-07
+
+
+[07-02-2014:8:47:04 AM] : SKPOER001 has logged in to IDSIL / PJO using the System 117.197.185.15
+
+
+[07-02-2014:8:47:22 AM] : SKPOER001 has uploaded a file 67340534 to Hospital/Customer in IDSIL / PJO
+
+
+[07-02-2014:8:51:16 AM] : SKPOER001 has viewed the Edited file details in IDSIL/PJO from 2014-02-01 to 2014-02-07
+
+
+[07-02-2014:8:51:22 AM] : SKPOER001 has Downloaded a file details in IDSIL / PJO from 2014-02-01 to 2014-02-07
+
+
+[07-02-2014:8:51:43 AM] : SKPOER001 has logged out from the Linecount Software Using the System 117.197.185.15

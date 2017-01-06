@@ -1,0 +1,27 @@
+
+
+[08-01-2016:9:07:08 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[08-01-2016:10:17:48 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[08-01-2016:4:09:08 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[08-01-2016:5:03:21 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[08-01-2016:5:22:09 PM] : ADMIN has logged in to Admin page using the System 59.89.248.10
+
+
+[08-01-2016:5:30:06 PM] : ADMIN has logged out from the Linecount Software Using the System 59.89.248.10
+
+
+[08-01-2016:5:46:19 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[08-01-2016:6:01:16 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[08-01-2016:10:53:27 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35

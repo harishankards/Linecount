@@ -1,0 +1,69 @@
+
+
+[20-02-2013:12:56:41 PM] : ATER027 has logged in to IDSIL / PJO using the System 117.218.59.252
+
+
+[20-02-2013:1:10:32 PM] : ATER027 has picked a file 57933023 in IDSIL / PJO
+
+
+[20-02-2013:1:19:53 PM] : ATER027 has uploaded a file 57933023 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[20-02-2013:1:20:52 PM] : ATER027 has picked a file 57933348 in IDSIL / PJO
+
+
+[20-02-2013:1:26:41 PM] : ATER027 has uploaded a file 57933348 to Hospital/Customer in IDSIL / PJO
+
+
+[20-02-2013:1:29:31 PM] : ATER027 has picked a file 57913853 in IDSIL / PJO
+
+
+[20-02-2013:1:40:42 PM] : ATER027 has uploaded a file 57913853 to Hospital/Customer in IDSIL / PJO
+
+
+[20-02-2013:2:38:25 PM] : ATER027 has logged in to IDSIL / PJO using the System 117.218.59.252
+
+
+[20-02-2013:2:54:19 PM] : ATER027 has picked a file 57922131 in IDSIL / PJO
+
+
+[20-02-2013:3:06:33 PM] : ATER027 has uploaded a file 57922131 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[20-02-2013:3:12:05 PM] : ATER027 has picked a file 57924013 in IDSIL / PJO
+
+
+[20-02-2013:3:49:12 PM] : ATER027 has uploaded a file 57924013 to Hospital/Customer in IDSIL / PJO
+
+
+[20-02-2013:3:52:20 PM] : ATER027 has picked a file 57929483 in IDSIL / PJO
+
+
+[20-02-2013:4:22:47 PM] : ATER027 has logged in to IDSIL / PJO using the System 117.218.59.252
+
+
+[20-02-2013:4:22:57 PM] : ATER027 has uploaded a file 57929483 to Hospital/Customer in IDSIL / PJO
+
+
+[20-02-2013:4:39:20 PM] : ATER027 has picked a file 57933186 in IDSIL / PJO
+
+
+[20-02-2013:4:40:38 PM] : ATER027 has viewed the Edited file details in IDSIL/PJO from 2013-02-01 to 2013-02-20
+
+
+[20-02-2013:4:58:59 PM] : ATER027 has uploaded a file 57933186 to Hospital/Customer in IDSIL / PJO
+
+
+[20-02-2013:5:01:38 PM] : ATER027 has picked a file 57932959 in IDSIL / PJO
+
+
+[20-02-2013:5:21:49 PM] : ATER027 has uploaded a file 57932959 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[20-02-2013:6:11:51 PM] : ATER027 has picked a file 57917925 in IDSIL / PJO
+
+
+[20-02-2013:6:51:29 PM] : ATER027 has added a Audit file 57917925 in IDSIL / PJO 
+
+
+[20-02-2013:6:51:51 PM] : ATER027 has viewed the Edited file details in IDSIL/PJO from 2013-02-01 to 2013-02-20

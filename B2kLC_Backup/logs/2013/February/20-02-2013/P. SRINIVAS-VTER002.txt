@@ -1,0 +1,57 @@
+
+
+[20-02-2013:1:56:07 AM] : VTER002 has logged out from the Linecount Software Using the System 122.169.168.75
+
+
+[20-02-2013:8:09:04 PM] : VTER002 has logged in to IDSIL / PJO using the System 122.169.176.207
+
+
+[20-02-2013:8:09:23 PM] : VTER002 has picked a file 57937954 in IDSIL / PJO
+
+
+[20-02-2013:8:09:30 PM] : VTER002 has uploaded a file 57937954 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[20-02-2013:8:14:38 PM] : VTER002 has picked a file 57938061 in IDSIL / PJO
+
+
+[20-02-2013:8:15:36 PM] : VTER002 has uploaded a file 57938061 to Hospital/Customer in IDSIL / PJO
+
+
+[20-02-2013:8:16:56 PM] : VTER002 has picked a file 57937138 in IDSIL / PJO
+
+
+[20-02-2013:8:17:14 PM] : VTER002 has uploaded a file 57937138 to Hospital/Customer in IDSIL / PJO
+
+
+[21-02-2013:2:31:08 AM] : VTER002 has picked a file 57948194 in IDSIL / PJO
+
+
+[21-02-2013:2:31:41 AM] : VTER002 has uploaded a file 57948194 to Hospital/Customer in IDSIL / PJO
+
+
+[21-02-2013:2:32:30 AM] : VTER002 has picked a file 57947981 in IDSIL / PJO
+
+
+[21-02-2013:2:33:42 AM] : VTER002 has uploaded a file 57947981 to Hospital/Customer in IDSIL / PJO
+
+
+[21-02-2013:2:35:25 AM] : VTER002 has picked a file 57939082 in IDSIL / PJO
+
+
+[21-02-2013:2:35:41 AM] : VTER002 has uploaded a file 57939082 to Hospital/Customer in IDSIL / PJO
+
+
+[21-02-2013:2:36:14 AM] : VTER002 has picked a file 57939220 in IDSIL / PJO
+
+
+[21-02-2013:2:36:29 AM] : VTER002 has uploaded a file 57939220 to Hospital/Customer in IDSIL / PJO
+
+
+[21-02-2013:2:37:12 AM] : VTER002 has picked a file 57939213 in IDSIL / PJO
+
+
+[21-02-2013:2:37:33 AM] : VTER002 has uploaded a file 57939213 to Hospital/Customer in IDSIL / PJO
+
+
+[21-02-2013:2:39:03 AM] : VTER002 has viewed the Edited file details in IDSIL/PJO from 2013-02-01 to 2013-02-21

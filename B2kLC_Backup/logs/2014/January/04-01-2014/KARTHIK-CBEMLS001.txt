@@ -1,0 +1,18 @@
+
+
+[04-01-2014:2:16:12 AM] : CBEMLS001 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[04-01-2014:9:12:31 PM] : CBEMLS001 has logged in to IDSIL / PJO using the System 203.223.191.82
+
+
+[04-01-2014:9:13:19 PM] : CBEMLS001 has Changed Password
+
+
+[04-01-2014:9:13:27 PM] : CBEMLS001 has logged out from the Linecount Software Using the System 203.223.191.82
+
+
+[04-01-2014:9:13:47 PM] : CBEMLS001 has logged in to IDSIL / PJO using the System 203.223.191.82
+
+
+[04-01-2014:9:14:25 PM] : CBEMLS001 has logged out from the Linecount Software Using the System 203.223.191.82

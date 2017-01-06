@@ -1,0 +1,81 @@
+
+
+[31-08-2014:9:14:41 AM] : B2KER002 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[31-08-2014:9:26:35 AM] : B2KER002 has picked a file 72274255 in IDSIL / PJO
+
+
+[31-08-2014:9:45:14 AM] : B2KER002 has picked a file 72278238 in IDSIL / PJO
+
+
+[31-08-2014:9:45:47 AM] : B2KER002 has uploaded a file 72274255 to Hospital/Customer in IDSIL / PJO
+
+
+[31-08-2014:10:36:50 AM] : B2KER002 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[31-08-2014:10:37:05 AM] : B2KER002 has picked a file 90744676 in IDSIL / PJO
+
+
+[31-08-2014:10:38:32 AM] : B2KER002 has uploaded a file 72278238 to Hospital/Customer in IDSIL / PJO
+
+
+[31-08-2014:11:15:31 AM] : B2KER002 has picked a file 90744578 in IDSIL / PJO
+
+
+[31-08-2014:11:16:02 AM] : B2KER002 has uploaded a file 90744676 to Hospital/Customer in IDSIL / PJO
+
+
+[31-08-2014:11:36:35 AM] : B2KER002 has uploaded a file 90744578 to Hospital/Customer in IDSIL / PJO
+
+
+[31-08-2014:11:39:50 AM] : B2KER002 has picked a file 72280504 in IDSIL / PJO
+
+
+[31-08-2014:12:22:43 PM] : B2KER002 has uploaded a file 72280504 to Hospital/Customer in IDSIL / PJO
+
+
+[31-08-2014:12:23:54 PM] : B2KER002 has picked a file 90744873 in IDSIL / PJO
+
+
+[31-08-2014:1:05:09 PM] : B2KER002 has uploaded a file 90744873 to Hospital/Customer in IDSIL / PJO
+
+
+[31-08-2014:2:04:26 PM] : B2KER002 has picked a file 90744869 in IDSIL / PJO
+
+
+[31-08-2014:3:16:53 PM] : B2KER002 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[31-08-2014:3:17:17 PM] : B2KER002 has uploaded a file 90744869 to Hospital/Customer in IDSIL / PJO
+
+
+[31-08-2014:3:41:48 PM] : B2KER002 has picked a file 90744864 in IDSIL / PJO
+
+
+[31-08-2014:3:44:06 PM] : B2KER002 has uploaded a file 90744864 to Hospital/Customer in IDSIL / PJO
+
+
+[31-08-2014:3:46:23 PM] : B2KER002 has viewed the DUP file details in IDSIL/PJO from 2014-08-01 to 2014-08-31
+
+
+[31-08-2014:3:46:38 PM] : B2KER002 has viewed the Edited file details in IDSIL/PJO from 2014-08-01 to 2014-08-31
+
+
+[31-08-2014:3:47:22 PM] : B2KER002 has viewed the Audit file details in IDSIL / PJO from 2014-08-01 to 2014-08-31
+
+
+[31-08-2014:3:51:05 PM] : B2KER002 has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[31-08-2014:3:51:50 PM] : B2KER002 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[31-08-2014:3:53:00 PM] : B2KER002 has picked a file 72278840 in IDSIL / PJO
+
+
+[31-08-2014:3:53:20 PM] : B2KER002 has uploaded a file 72278840 to Hospital/Customer in IDSIL / PJO
+
+
+[31-08-2014:3:53:32 PM] : B2KER002 has viewed the Edited file details in IDSIL/PJO from 2014-08-01 to 2014-08-31

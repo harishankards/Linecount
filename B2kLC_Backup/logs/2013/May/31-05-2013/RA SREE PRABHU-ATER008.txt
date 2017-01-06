@@ -1,0 +1,21 @@
+
+
+[31-05-2013:5:01:36 PM] : ATER008 has logged in to IDSIL / PJO using the System 122.178.160.100
+
+
+[31-05-2013:5:02:14 PM] : ATER008 has viewed the Edited file details in IDSIL/PJO from 2013-05-01 to 2013-05-31
+
+
+[31-05-2013:5:02:21 PM] : ATER008 has Downloaded a file details in IDSIL / PJO from 2013-05-01 to 2013-05-31
+
+
+[31-05-2013:5:08:44 PM] : ATER008 has viewed the Edited file details in IDSIL/PJO from 2013-05-31 to 2013-05-31
+
+
+[31-05-2013:5:08:55 PM] : ATER008 has viewed the Edited file details in IDSIL/PJO from 2013-05-30 to 2013-05-30
+
+
+[31-05-2013:5:17:52 PM] : ATER008 has viewed the Audit file details in IDSIL / PJO from 2013-05-30 to 2013-05-30
+
+
+[31-05-2013:5:18:05 PM] : ATER008 has logged out from the Linecount Software Using the System 122.178.160.100

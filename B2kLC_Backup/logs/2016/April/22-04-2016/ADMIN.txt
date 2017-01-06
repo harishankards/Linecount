@@ -1,0 +1,26 @@
+
+
+[22-04-2016:9:07:30 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[22-04-2016:11:59:16 AM] : ADMIN has logged in to Admin page using the System 14.102.34.42
+
+
+[22-04-2016:3:23:44 PM] : ADMIN has logged in to Admin page using the System 14.102.34.42
+
+[22-04-2016:3:23:51 PM] : ADMIN has viewed Bank Details
+
+
+[22-04-2016:3:26:38 PM] : ADMIN has logged out from the Linecount Software Using the System 14.102.34.42
+
+
+[22-04-2016:4:34:34 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[22-04-2016:5:32:47 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[22-04-2016:8:56:22 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[22-04-2016:10:27:42 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35

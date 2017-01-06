@@ -1,0 +1,180 @@
+
+
+[29-01-2014:12:30:36 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[29-01-2014:12:31:27 AM] : ADMIN has Viewed Employee Details
+
+
+[29-01-2014:12:33:53 AM] : ADMIN has Viewed Employee Details
+
+
+[29-01-2014:12:42:16 AM] : ADMIN has Viewed Employee Details
+
+
+[29-01-2014:2:56:03 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+[29-01-2014:5:59:56 AM] : ADMIN has Deleted the details of the file 67106749.
+
+
+[29-01-2014:6:15:21 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[29-01-2014:7:34:49 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[29-01-2014:7:35:26 AM] : ADMIN has Viewed Employee Details
+
+
+[29-01-2014:7:35:28 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[29-01-2014:7:36:43 AM] : ADMIN has Viewed Employee Details
+
+
+[29-01-2014:7:36:59 AM] : ADMIN has Viewed Employee Details
+
+
+[29-01-2014:7:40:25 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[29-01-2014:7:41:06 AM] : ADMIN has Viewed Employee Details
+
+
+[29-01-2014:7:41:18 AM] : ADMIN has Viewed Employee Details
+
+
+[29-01-2014:7:42:38 AM] : ADMIN has Viewed Employee Details
+
+
+[29-01-2014:8:37:06 AM] : ADMIN has Viewed Employee Details
+
+
+[29-01-2014:8:37:21 AM] : ADMIN has Viewed Employee Details
+
+
+[29-01-2014:8:45:28 AM] : ADMIN has Viewed Employee Details
+
+
+[29-01-2014:9:40:08 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[29-01-2014:10:10:38 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[29-01-2014:10:40:56 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[29-01-2014:10:41:04 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[29-01-2014:10:41:53 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[29-01-2014:10:46:50 AM] : ADMIN has Viewed Employee Details
+
+
+[29-01-2014:11:11:57 AM] : ADMIN has logged out from the Linecount Software Using the System 59.90.86.47
+
+
+[29-01-2014:11:20:52 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[29-01-2014:11:30:37 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[29-01-2014:12:16:42 PM] : ADMIN has Viewed Employee Details
+
+
+[29-01-2014:12:16:58 PM] : ADMIN has Viewed Employee Details
+
+
+[29-01-2014:12:23:12 PM] : ADMIN has Viewed Employee Details
+
+
+[29-01-2014:12:30:00 PM] : ADMIN has Viewed Employee Details
+
+
+[29-01-2014:12:53:05 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[29-01-2014:1:33:40 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[29-01-2014:1:39:48 PM] : ADMIN has Deleted the details of the file 67112779.
+
+
+[29-01-2014:2:17:53 PM] : ADMIN has logged out from the Linecount Software Using the System 59.90.86.47
+
+
+[29-01-2014:2:21:47 PM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[29-01-2014:2:24:38 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[29-01-2014:2:26:50 PM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[29-01-2014:3:23:42 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[29-01-2014:4:06:34 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[29-01-2014:4:30:57 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[29-01-2014:4:35:02 PM] : ADMIN has Viewed Employee Details
+
+
+[29-01-2014:4:36:52 PM] : ADMIN has Viewed Employee Details
+
+
+[29-01-2014:5:04:33 PM] : ADMIN has Viewed Employee Details
+
+
+[29-01-2014:5:04:51 PM] : ADMIN has Viewed Employee Details
+
+
+[29-01-2014:6:08:38 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[29-01-2014:7:06:41 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[29-01-2014:7:22:46 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[29-01-2014:7:23:02 PM] : ADMIN has Viewed Employee Details
+
+
+[29-01-2014:7:26:06 PM] : ADMIN has added Employee Details[MYTHILY.S] into the Database
+
+
+[29-01-2014:7:27:15 PM] : ADMIN has Viewed Employee Details
+
+
+[29-01-2014:7:28:12 PM] : ADMIN has logged out from the Linecount Software Using the System 59.90.86.47
+
+
+[29-01-2014:8:49:45 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[29-01-2014:10:02:06 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[29-01-2014:10:04:06 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[29-01-2014:10:05:03 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[29-01-2014:10:17:51 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[29-01-2014:10:18:18 PM] : ADMIN has Deleted the details of the file 67117915.
+
+
+[29-01-2014:10:26:17 PM] : ADMIN has Viewed Employee Details
+
+
+[29-01-2014:10:26:28 PM] : ADMIN has Viewed Employee Details

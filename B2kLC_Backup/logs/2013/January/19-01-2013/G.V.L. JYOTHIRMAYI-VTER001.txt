@@ -1,0 +1,66 @@
+
+
+[19-01-2013:6:00:01 PM] : VTER001 has logged in to IDSIL / PJO using the System 14.99.8.97
+
+
+[19-01-2013:6:04:42 PM] : VTER001 has picked a file 56899583 in IDSIL / PJO
+
+
+[19-01-2013:6:05:02 PM] : VTER001 has uploaded a file 56899583 to Hospital/Customer in IDSIL / PJO
+
+
+[19-01-2013:6:12:49 PM] : VTER001 has picked a file 56932026 in IDSIL / PJO
+
+
+[19-01-2013:6:12:59 PM] : VTER001 has uploaded a file 56932026 to Hospital/Customer in IDSIL / PJO
+
+
+[19-01-2013:6:15:03 PM] : VTER001 has picked a file 56932081 in IDSIL / PJO
+
+
+[19-01-2013:6:15:16 PM] : VTER001 has uploaded a file 56932081 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[19-01-2013:6:18:14 PM] : VTER001 has picked a file 56931837 in IDSIL / PJO
+
+
+[19-01-2013:6:18:31 PM] : VTER001 has uploaded a file 56931837 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[19-01-2013:6:20:41 PM] : VTER001 has picked a file 56925372 in IDSIL / PJO
+
+
+[19-01-2013:6:20:59 PM] : VTER001 has uploaded a file 56925372 to Hospital/Customer in IDSIL / PJO
+
+
+[19-01-2013:6:22:54 PM] : VTER001 has picked a file 56914277 in IDSIL / PJO
+
+
+[19-01-2013:6:23:04 PM] : VTER001 has uploaded a file 56914277 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[19-01-2013:6:26:36 PM] : VTER001 has picked a file 56908171 in IDSIL / PJO
+
+
+[19-01-2013:6:26:43 PM] : VTER001 has uploaded a file 56908171 to Hospital/Customer in IDSIL / PJO
+
+
+[19-01-2013:6:28:57 PM] : VTER001 has picked a file 56920993 in IDSIL / PJO
+
+
+[19-01-2013:6:29:12 PM] : VTER001 has uploaded a file 56920993 to Hospital/Customer in IDSIL / PJO
+
+
+[19-01-2013:6:36:28 PM] : VTER001 has picked a file 56920915 in IDSIL / PJO
+
+
+[19-01-2013:6:36:38 PM] : VTER001 has uploaded a file 56920915 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[19-01-2013:6:41:06 PM] : VTER001 has picked a file 56935705 in IDSIL / PJO
+
+
+[19-01-2013:6:42:13 PM] : VTER001 has uploaded a file 56935705 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[19-01-2013:6:44:24 PM] : VTER001 has logged out from the Linecount Software Using the System 14.99.8.97

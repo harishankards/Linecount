@@ -1,0 +1,105 @@
+
+
+[02-01-2016:6:40:40 AM] : B2KQA01 has logged in to IDSIL / PJO using the System 117.201.28.104
+
+
+[02-01-2016:6:40:56 AM] : B2KQA01 has picked a file 95970018 in IDSIL / PJO
+
+
+[02-01-2016:7:16:57 AM] : B2KQA01 has picked a file 95972284 in IDSIL / PJO
+
+
+[02-01-2016:7:37:22 AM] : B2KQA01 has uploaded a file 95956371 to Hospital/Customer in IDSIL / PJO
+
+
+[02-01-2016:7:37:23 AM] : B2KQA01 has uploaded a file 95955878 to Hospital/Customer in IDSIL / PJO
+
+
+[02-01-2016:7:37:24 AM] : B2KQA01 has uploaded a file 95966435 to Hospital/Customer in IDSIL / PJO
+
+
+[02-01-2016:7:37:25 AM] : B2KQA01 has uploaded a file 95954982 to Hospital/Customer in IDSIL / PJO
+
+
+[02-01-2016:7:37:25 AM] : B2KQA01 has uploaded a file 95959300 to Hospital/Customer in IDSIL / PJO
+
+
+[02-01-2016:7:37:25 AM] : B2KQA01 has uploaded a file 95966588 to Hospital/Customer in IDSIL / PJO
+
+
+[02-01-2016:7:37:26 AM] : B2KQA01 has uploaded a file 95962957 to Hospital/Customer in IDSIL / PJO
+
+
+[02-01-2016:7:37:26 AM] : B2KQA01 has uploaded a file 95956974 to Hospital/Customer in IDSIL / PJO
+
+
+[02-01-2016:7:37:27 AM] : B2KQA01 has uploaded a file 95962142 to Hospital/Customer in IDSIL / PJO
+
+
+[02-01-2016:7:37:27 AM] : B2KQA01 has uploaded a file 95956163 to Hospital/Customer in IDSIL / PJO
+
+
+[02-01-2016:7:37:35 AM] : B2KQA01 has uploaded a file 95965092 to Hospital/Customer in IDSIL / PJO
+
+
+[02-01-2016:7:37:36 AM] : B2KQA01 has uploaded a file 95967045 to Hospital/Customer in IDSIL / PJO
+
+
+[02-01-2016:7:37:37 AM] : B2KQA01 has uploaded a file 95966854 to Hospital/Customer in IDSIL / PJO
+
+
+[02-01-2016:7:37:37 AM] : B2KQA01 has uploaded a file 95957580 to Hospital/Customer in IDSIL / PJO
+
+
+[02-01-2016:8:01:56 AM] : B2KQA01 has picked a file 95973315 in IDSIL / PJO
+
+
+[02-01-2016:8:44:29 AM] : B2KQA01 has picked a file 95973578 in IDSIL / PJO
+
+
+[02-01-2016:9:15:28 AM] : B2KQA01 has picked a file 95974118 in IDSIL / PJO
+
+
+[02-01-2016:10:09:24 AM] : B2KQA01 has logged in to IDSIL / PJO using the System 117.201.28.104
+
+
+[02-01-2016:10:10:02 AM] : B2KQA01 has picked a file 95975389 in IDSIL / PJO
+
+
+[02-01-2016:10:45:59 AM] : B2KQA01 has picked a file 95977282 in IDSIL / PJO
+
+
+[02-01-2016:10:52:11 AM] : B2KQA01 has logged out from the Linecount Software Using the System 117.201.28.104
+
+
+[02-01-2016:11:18:54 AM] : B2KQA01 has logged in to IDSIL / PJO using the System 117.201.28.104
+
+
+[02-01-2016:11:19:03 AM] : B2KQA01 has picked a file 95974637 in IDSIL / PJO
+
+
+[02-01-2016:11:24:14 AM] : B2KQA01 has picked a file 95974685 in IDSIL / PJO
+
+
+[02-01-2016:11:32:12 AM] : B2KQA01 has picked a file 95974714 in IDSIL / PJO
+
+
+[02-01-2016:11:35:15 AM] : B2KQA01 has uploaded a file 95974714 to Hospital/Customer in IDSIL / PJO
+
+
+[02-01-2016:11:35:23 AM] : B2KQA01 has uploaded a file 95974685 to Hospital/Customer in IDSIL / PJO
+
+
+[02-01-2016:11:35:24 AM] : B2KQA01 has uploaded a file 95974637 to Hospital/Customer in IDSIL / PJO
+
+
+[02-01-2016:11:35:25 AM] : B2KQA01 has uploaded a file 95977282 to Hospital/Customer in IDSIL / PJO
+
+
+[02-01-2016:11:35:32 AM] : B2KQA01 has uploaded a file 95973578 to Hospital/Customer in IDSIL / PJO
+
+
+[02-01-2016:11:39:16 AM] : B2KQA01 has picked a file 95971898 in IDSIL / PJO
+
+
+[02-01-2016:11:40:56 AM] : B2KQA01 has logged out from the Linecount Software Using the System 117.201.28.104

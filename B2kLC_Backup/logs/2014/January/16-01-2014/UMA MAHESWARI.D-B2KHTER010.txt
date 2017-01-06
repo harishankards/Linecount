@@ -1,0 +1,18 @@
+
+
+[16-01-2014:10:25:06 AM] : B2KHTER010 has logged in to IDSIL / PJO using the System 61.3.195.123
+
+
+[16-01-2014:10:31:24 AM] : B2KHTER010 has picked a file 66758485 in IDSIL / PJO
+
+
+[16-01-2014:10:31:44 AM] : B2KHTER010 has uploaded a file 66758485 to Hospital/Customer in IDSIL / PJO
+
+
+[16-01-2014:10:33:38 AM] : B2KHTER010 has picked a file 66762144 in IDSIL / PJO
+
+
+[16-01-2014:10:35:31 AM] : B2KHTER010 has uploaded a file 66762144 to Hospital/Customer in IDSIL / PJO
+
+
+[16-01-2014:11:11:07 AM] : B2KHTER010 has logged out from the Linecount Software Using the System 117.216.60.52

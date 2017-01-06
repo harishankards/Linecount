@@ -1,0 +1,132 @@
+
+
+[30-08-2013:12:44:21 AM] : ATER034 has logged out from the Linecount Software Using the System 116.202.184.230
+
+
+[30-08-2013:8:01:34 PM] : ATER034 has logged in to IDSIL / PJO using the System 180.215.112.74
+
+
+[30-08-2013:8:26:33 PM] : ATER034 has picked a file 63263072 in IDSIL / PJO
+
+
+[30-08-2013:8:27:14 PM] : ATER034 has uploaded a file 63263072 to Hospital/Customer in IDSIL / PJO
+
+
+[30-08-2013:8:28:11 PM] : ATER034 has picked a file 63263440 in IDSIL / PJO
+
+
+[30-08-2013:8:42:34 PM] : ATER034 has uploaded a file 63263440 to Hospital/Customer in IDSIL / PJO
+
+
+[30-08-2013:8:43:16 PM] : ATER034 has picked a file 63266765 in IDSIL / PJO
+
+
+[30-08-2013:8:52:07 PM] : ATER034 has uploaded a file 63266765 to Hospital/Customer in IDSIL / PJO
+
+
+[30-08-2013:8:52:52 PM] : ATER034 has picked a file 63262970 in IDSIL / PJO
+
+
+[30-08-2013:9:03:49 PM] : ATER034 has uploaded a file 63262970 to Hospital/Customer in IDSIL / PJO
+
+
+[30-08-2013:9:04:46 PM] : ATER034 has picked a file 63265178 in IDSIL / PJO
+
+
+[30-08-2013:9:13:20 PM] : ATER034 has uploaded a file 63265178 to Hospital/Customer in IDSIL / PJO
+
+
+[30-08-2013:9:14:07 PM] : ATER034 has picked a file 63266868 in IDSIL / PJO
+
+
+[30-08-2013:9:20:39 PM] : ATER034 has uploaded a file 63266868 to Hospital/Customer in IDSIL / PJO
+
+
+[30-08-2013:9:21:13 PM] : ATER034 has picked a file 63265033 in IDSIL / PJO
+
+
+[30-08-2013:9:34:18 PM] : ATER034 has uploaded a file 63265033 to Hospital/Customer in IDSIL / PJO
+
+
+[30-08-2013:10:07:54 PM] : ATER034 has logged in to IDSIL / PJO using the System 180.215.39.190
+
+
+[30-08-2013:10:08:11 PM] : ATER034 has picked a file 63265543 in IDSIL / PJO
+
+
+[30-08-2013:10:12:46 PM] : ATER034 has uploaded a file 63265543 to Hospital/Customer in IDSIL / PJO
+
+
+[30-08-2013:10:13:45 PM] : ATER034 has picked a file 63261637 in IDSIL / PJO
+
+
+[30-08-2013:10:19:42 PM] : ATER034 has uploaded a file 63261637 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[30-08-2013:10:20:32 PM] : ATER034 has picked a file 63261744 in IDSIL / PJO
+
+
+[30-08-2013:10:24:42 PM] : ATER034 has uploaded a file 63261744 to Hospital/Customer in IDSIL / PJO
+
+
+[30-08-2013:10:25:30 PM] : ATER034 has picked a file 63261905 in IDSIL / PJO
+
+
+[30-08-2013:10:33:15 PM] : ATER034 has uploaded a file 63261905 to Hospital/Customer in IDSIL / PJO
+
+
+[30-08-2013:10:34:05 PM] : ATER034 has picked a file 63262044 in IDSIL / PJO
+
+
+[30-08-2013:10:37:15 PM] : ATER034 has uploaded a file 63262044 to Hospital/Customer in IDSIL / PJO
+
+
+[30-08-2013:10:37:58 PM] : ATER034 has picked a file 63262417 in IDSIL / PJO
+
+
+[30-08-2013:10:43:27 PM] : ATER034 has uploaded a file 63262417 to Hospital/Customer in IDSIL / PJO
+
+
+[30-08-2013:10:50:20 PM] : ATER034 has picked a file 63262598 in IDSIL / PJO
+
+
+[30-08-2013:10:53:22 PM] : ATER034 has uploaded a file 63262598 to Hospital/Customer in IDSIL / PJO
+
+
+[30-08-2013:10:54:07 PM] : ATER034 has picked a file 63262628 in IDSIL / PJO
+
+
+[30-08-2013:10:59:19 PM] : ATER034 has uploaded a file 63262628 to Hospital/Customer in IDSIL / PJO
+
+
+[30-08-2013:11:00:27 PM] : ATER034 has picked a file 63271767 in IDSIL / PJO
+
+
+[30-08-2013:11:11:38 PM] : ATER034 has uploaded a file 63271767 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[30-08-2013:11:12:17 PM] : ATER034 has picked a file 63262672 in IDSIL / PJO
+
+
+[30-08-2013:11:16:25 PM] : ATER034 has uploaded a file 63262672 to Hospital/Customer in IDSIL / PJO
+
+
+[30-08-2013:11:17:08 PM] : ATER034 has picked a file 63262854 in IDSIL / PJO
+
+
+[30-08-2013:11:24:36 PM] : ATER034 has uploaded a file 63262854 to Hospital/Customer in IDSIL / PJO
+
+
+[30-08-2013:11:25:49 PM] : ATER034 has picked a file 63263587 in IDSIL / PJO
+
+
+[30-08-2013:11:29:02 PM] : ATER034 has uploaded a file 63263587 to Hospital/Customer in IDSIL / PJO
+
+
+[30-08-2013:11:31:16 PM] : ATER034 has picked a file 63267040 in IDSIL / PJO
+
+
+[30-08-2013:11:38:44 PM] : ATER034 has uploaded a file 63267040 to Hospital/Customer in IDSIL / PJO
+
+
+[30-08-2013:11:40:56 PM] : ATER034 has logged out from the Linecount Software Using the System 180.215.39.190

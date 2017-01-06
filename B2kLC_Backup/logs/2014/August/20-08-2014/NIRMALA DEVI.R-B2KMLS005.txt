@@ -1,0 +1,66 @@
+
+
+[20-08-2014:10:03:52 AM] : B2KMLS005 has logged in to IDSIL / PJO using the System 59.90.86.47
+
+
+[20-08-2014:10:04:26 AM] : B2KMLS005 has picked a file 72023284 in IDSIL / PJO
+
+
+[20-08-2014:10:11:55 AM] : B2KMLS005 has uploaded a file 72023284 to Hospital/Customer in IDSIL / PJO
+
+
+[20-08-2014:10:20:17 AM] : B2KMLS005 has picked a file 72024974 in IDSIL / PJO
+
+
+[20-08-2014:10:30:39 AM] : B2KMLS005 has uploaded a file 72024974 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[20-08-2014:10:30:50 AM] : B2KMLS005 has picked a file 72026351 in IDSIL / PJO
+
+
+[20-08-2014:1:53:50 PM] : B2KMLS005 has logged in to IDSIL / PJO using the System 59.90.86.47
+
+
+[20-08-2014:1:54:03 PM] : B2KMLS005 has uploaded a file 72026351 to Hospital/Customer in IDSIL / PJO
+
+
+[20-08-2014:2:20:03 PM] : B2KMLS005 has logged out from the Linecount Software Using the System 59.90.86.47
+
+
+[20-08-2014:3:24:05 PM] : B2KMLS005 has logged in to IDSIL / PJO using the System 59.90.86.47
+
+
+[20-08-2014:3:24:52 PM] :  has uploaded a DUP file 72029201 in IDSIL / PJO
+
+
+[20-08-2014:4:01:53 PM] :  has uploaded a DUP file 72025689 in IDSIL / PJO
+
+
+[20-08-2014:5:01:02 PM] : B2KMLS005 has logged in to IDSIL / PJO using the System 59.90.86.47
+
+
+[20-08-2014:5:01:44 PM] :  has uploaded a DUP file 72028291 in IDSIL / PJO
+
+
+[20-08-2014:5:23:44 PM] :  has uploaded a DUP file 72029700 in IDSIL / PJO
+
+
+[20-08-2014:5:27:22 PM] : B2KMLS005 has picked a file 72016959 in IDSIL / PJO
+
+
+[20-08-2014:5:46:21 PM] : B2KMLS005 has uploaded a file 72016959 to Hospital/Customer in IDSIL / PJO
+
+
+[20-08-2014:5:46:43 PM] : B2KMLS005 has logged out from the Linecount Software Using the System 59.90.86.47
+
+
+[20-08-2014:7:53:10 PM] : B2KMLS005 has logged in to IDSIL / PJO using the System 117.222.182.213
+
+
+[20-08-2014:7:54:14 PM] : B2KMLS005 has picked a file 72029812 in IDSIL / PJO
+
+
+[20-08-2014:8:10:19 PM] : B2KMLS005 has uploaded a file 72029812 to Hospital/Customer in IDSIL / PJO
+
+
+[20-08-2014:8:10:25 PM] : B2KMLS005 has logged out from the Linecount Software Using the System 117.222.182.213

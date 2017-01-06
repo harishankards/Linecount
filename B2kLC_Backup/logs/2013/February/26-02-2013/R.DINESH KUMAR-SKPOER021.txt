@@ -1,0 +1,114 @@
+
+
+[26-02-2013:9:57:56 AM] : SKPOER021 has logged in to IDSIL / PJO using the System 14.102.34.42
+
+
+[26-02-2013:10:02:58 AM] : SKPOER021 has picked a file 58097620 in IDSIL / PJO
+
+
+[26-02-2013:10:23:41 AM] : SKPOER021 has uploaded a file 58097620 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[26-02-2013:10:25:49 AM] : SKPOER021 has added a Audit file 58111708 in IDSIL / PJO 
+
+
+[26-02-2013:11:01:42 AM] : SKPOER021 has added a Audit file 58093146 in IDSIL / PJO 
+
+
+[26-02-2013:11:10:32 AM] : SKPOER021 has added a Audit file 58094241 in IDSIL / PJO 
+
+
+[26-02-2013:11:22:45 AM] : SKPOER021 has added a Audit file 58094313 in IDSIL / PJO 
+
+
+[26-02-2013:11:45:34 AM] : SKPOER021 has added a Audit file 58096667 in IDSIL / PJO 
+
+
+[26-02-2013:11:51:24 AM] : SKPOER021 has added a Audit file 58096657 in IDSIL / PJO 
+
+
+[26-02-2013:11:53:30 AM] : SKPOER021 has added a Audit file 58096531 in IDSIL / PJO 
+
+
+[26-02-2013:11:53:46 AM] : SKPOER021 has viewed the Audit file details in IDSIL / PJO from 2013-02-26 to 2013-02-26
+
+
+[26-02-2013:12:12:45 PM] : SKPOER021 has added a Audit file 58100358 in IDSIL / PJO 
+
+
+[26-02-2013:12:26:49 PM] : SKPOER021 has added a Audit file 58117736 in IDSIL / PJO 
+
+
+[26-02-2013:12:41:46 PM] : SKPOER021 has added a Audit file 58116357 in IDSIL / PJO 
+
+
+[26-02-2013:12:42:01 PM] : SKPOER021 has viewed the Audit file details in IDSIL / PJO from 2013-02-26 to 2013-02-26
+
+
+[26-02-2013:2:03:16 PM] : SKPOER021 has logged in to IDSIL / PJO using the System 14.102.34.42
+
+
+[26-02-2013:2:07:29 PM] : SKPOER021 has picked a file 58114617 in IDSIL / PJO
+
+
+[26-02-2013:2:07:38 PM] : SKPOER021 has viewed the Audit file details in IDSIL / PJO from 2013-02-26 to 2013-02-26
+
+
+[26-02-2013:2:23:40 PM] : SKPOER021 has uploaded a file 58114617 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[26-02-2013:2:23:50 PM] : SKPOER021 has picked a file 58114914 in IDSIL / PJO
+
+
+[26-02-2013:2:35:17 PM] : SKPOER021 has uploaded a file 58114914 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[26-02-2013:2:37:14 PM] : SKPOER021 has added a Audit file 58115150 in IDSIL / PJO 
+
+
+[26-02-2013:2:41:44 PM] : SKPOER021 has picked a file 58109278 in IDSIL / PJO
+
+
+[26-02-2013:2:55:54 PM] : SKPOER021 has uploaded a file 58109278 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[26-02-2013:2:56:03 PM] : SKPOER021 has picked a file 58090527 in IDSIL / PJO
+
+
+[26-02-2013:3:08:11 PM] : SKPOER021 has uploaded a file 58090527 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[26-02-2013:3:09:29 PM] : SKPOER021 has picked a file 58119011 in IDSIL / PJO
+
+
+[26-02-2013:3:21:02 PM] : SKPOER021 has uploaded a file 58119011 to Hospital/Customer in IDSIL / PJO
+
+
+[26-02-2013:3:21:24 PM] : SKPOER021 has picked a file 58109149 in IDSIL / PJO
+
+
+[26-02-2013:3:38:18 PM] : SKPOER021 has uploaded a file 58109149 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[26-02-2013:3:38:29 PM] : SKPOER021 has picked a file 58119189 in IDSIL / PJO
+
+
+[26-02-2013:3:50:10 PM] : SKPOER021 has uploaded a file 58119189 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[26-02-2013:3:50:44 PM] : SKPOER021 has picked a file 58103869 in IDSIL / PJO
+
+
+[26-02-2013:3:59:30 PM] : SKPOER021 has uploaded a file 58103869 to Hospital/Customer in IDSIL / PJO
+
+
+[26-02-2013:4:00:10 PM] : SKPOER021 has viewed the Audit file details in IDSIL / PJO from 2013-02-26 to 2013-02-26
+
+
+[26-02-2013:4:00:51 PM] : SKPOER021 has viewed the Edited file details in IDSIL/PJO from 2013-02-01 to 2013-02-26
+
+
+[26-02-2013:4:01:12 PM] : SKPOER021 has viewed the Audit file details in IDSIL / PJO from 2013-02-01 to 2013-02-26
+
+
+[26-02-2013:4:01:36 PM] : SKPOER021 has logged out from the Linecount Software Using the System 14.102.34.42

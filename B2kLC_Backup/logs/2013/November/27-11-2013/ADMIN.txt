@@ -1,0 +1,87 @@
+
+
+[27-11-2013:12:15:31 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[27-11-2013:5:12:09 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[27-11-2013:6:21:02 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[27-11-2013:6:28:00 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[27-11-2013:8:01:53 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[27-11-2013:8:02:37 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[27-11-2013:9:04:28 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[27-11-2013:9:05:33 AM] : ADMIN has Viewed Employee Details
+
+
+[27-11-2013:9:59:57 AM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[27-11-2013:10:09:50 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[27-11-2013:10:11:52 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[27-11-2013:10:34:56 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[27-11-2013:10:35:08 AM] : ADMIN has Approved Leave request from the ID B2KER007 on 2013-11-29.
+
+[27-11-2013:10:35:20 AM] : ADMIN has Approved Leave request from the ID B2KER002 on 2013-11-28.
+
+
+[27-11-2013:11:13:12 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[27-11-2013:11:23:10 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[27-11-2013:12:31:37 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[27-11-2013:12:58:10 PM] : ADMIN has Deleted the details of the file 65646459.
+
+
+[27-11-2013:1:03:12 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[27-11-2013:2:02:04 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[27-11-2013:2:20:45 PM] : ADMIN has Viewed Employee Details
+
+
+[27-11-2013:2:26:21 PM] : ADMIN has Viewed Employee Details
+
+
+[27-11-2013:2:29:14 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[27-11-2013:3:25:09 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[27-11-2013:3:43:03 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[27-11-2013:5:08:15 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[27-11-2013:6:08:28 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[27-11-2013:7:00:42 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[27-11-2013:7:10:32 PM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[27-11-2013:11:17:24 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47

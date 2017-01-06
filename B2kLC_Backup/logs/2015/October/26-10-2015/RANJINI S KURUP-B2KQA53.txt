@@ -1,0 +1,195 @@
+
+
+[26-10-2015:7:32:05 AM] : B2KQA53 has logged in to IDSIL / PJO using the System 103.12.134.236
+
+
+[26-10-2015:7:33:30 AM] : B2KQA53 has picked a file 94772785 in IDSIL / PJO
+
+
+[26-10-2015:7:43:42 AM] : B2KQA53 has picked a file 94769282 in IDSIL / PJO
+
+
+[26-10-2015:8:03:54 AM] : B2KQA53 has picked a file 94773283 in IDSIL / PJO
+
+
+[26-10-2015:8:24:18 AM] : B2KQA53 has picked a file 94757376 in IDSIL / PJO
+
+
+[26-10-2015:8:24:38 AM] : B2KQA53 has picked a file 94770116 in IDSIL / PJO
+
+
+[26-10-2015:8:40:55 AM] : B2KQA53 has picked a file 94757458 in IDSIL / PJO
+
+
+[26-10-2015:9:08:16 AM] : B2KQA53 has picked a file 94771066 in IDSIL / PJO
+
+
+[26-10-2015:9:08:50 AM] : B2KQA53 has picked a file 94774127 in IDSIL / PJO
+
+
+[26-10-2015:9:55:25 AM] : B2KQA53 has picked a file 94772272 in IDSIL / PJO
+
+
+[26-10-2015:10:17:49 AM] : B2KQA53 has picked a file 94772275 in IDSIL / PJO
+
+
+[26-10-2015:10:40:57 AM] : B2KQA53 has picked a file 94772180 in IDSIL / PJO
+
+
+[26-10-2015:10:47:24 AM] : B2KQA53 has picked a file 94772182 in IDSIL / PJO
+
+
+[26-10-2015:11:01:53 AM] : B2KQA53 has picked a file 94772445 in IDSIL / PJO
+
+
+[26-10-2015:11:16:37 AM] : B2KQA53 has picked a file 94772516 in IDSIL / PJO
+
+
+[26-10-2015:11:34:37 AM] : B2KQA53 has picked a file 94773401 in IDSIL / PJO
+
+
+[26-10-2015:11:38:45 AM] : B2KQA53 has picked a file 94773552 in IDSIL / PJO
+
+
+[26-10-2015:12:35:47 PM] : B2KQA53 has picked a file 94774109 in IDSIL / PJO
+
+
+[26-10-2015:12:41:02 PM] : B2KQA53 has picked a file 94775738 in IDSIL / PJO
+
+
+[26-10-2015:12:53:04 PM] : B2KQA53 has picked a file 94775908 in IDSIL / PJO
+
+
+[26-10-2015:1:23:32 PM] : B2KQA53 has picked a file 94776052 in IDSIL / PJO
+
+
+[26-10-2015:2:12:47 PM] : B2KQA53 has picked a file 94777005 in IDSIL / PJO
+
+
+[26-10-2015:3:26:53 PM] : B2KQA53 has uploaded a file 94757458 to Hospital/Customer in IDSIL / PJO
+
+
+[26-10-2015:3:26:57 PM] : B2KQA53 has uploaded a file 94770116 to Hospital/Customer in IDSIL / PJO
+
+
+[26-10-2015:3:27:06 PM] : B2KQA53 has uploaded a file 94772785 to Hospital/Customer in IDSIL / PJO
+
+
+[26-10-2015:3:27:12 PM] : B2KQA53 has uploaded a file 94773283 to Hospital/Customer in IDSIL / PJO
+
+
+[26-10-2015:3:28:05 PM] : B2KQA53 has uploaded a file 94769282 to Hospital/Customer in IDSIL / PJO
+
+
+[26-10-2015:3:28:10 PM] : B2KQA53 has uploaded a file 94774127 to Hospital/Customer in IDSIL / PJO
+
+
+[26-10-2015:3:28:18 PM] : B2KQA53 has uploaded a file 94772272 to Hospital/Customer in IDSIL / PJO
+
+
+[26-10-2015:3:28:23 PM] : B2KQA53 has uploaded a file 94772180 to Hospital/Customer in IDSIL / PJO
+
+
+[26-10-2015:3:28:30 PM] : B2KQA53 has uploaded a file 94772182 to Hospital/Customer in IDSIL / PJO
+
+
+[26-10-2015:3:28:37 PM] : B2KQA53 has uploaded a file 94772275 to Hospital/Customer in IDSIL / PJO
+
+
+[26-10-2015:3:42:59 PM] : B2KQA53 has picked a file 94776528 in IDSIL / PJO
+
+
+[26-10-2015:3:50:38 PM] : B2KQA53 has uploaded a file 94772445 to Hospital/Customer in IDSIL / PJO
+
+
+[26-10-2015:4:16:40 PM] : B2KQA53 has picked a file 94776637 in IDSIL / PJO
+
+
+[26-10-2015:4:40:00 PM] : B2KQA53 has picked a file 94777274 in IDSIL / PJO
+
+
+[26-10-2015:4:52:28 PM] : B2KQA53 has uploaded a file 94772516 to Hospital/Customer in IDSIL / PJO
+
+
+[26-10-2015:4:52:33 PM] : B2KQA53 has uploaded a file 94773401 to Hospital/Customer in IDSIL / PJO
+
+
+[26-10-2015:4:52:40 PM] : B2KQA53 has uploaded a file 94774109 to Hospital/Customer in IDSIL / PJO
+
+
+[26-10-2015:4:52:48 PM] : B2KQA53 has uploaded a file 94773552 to Hospital/Customer in IDSIL / PJO
+
+
+[26-10-2015:4:52:56 PM] : B2KQA53 has uploaded a file 94775908 to Hospital/Customer in IDSIL / PJO
+
+
+[26-10-2015:4:53:03 PM] : B2KQA53 has uploaded a file 94775738 to Hospital/Customer in IDSIL / PJO
+
+
+[26-10-2015:4:53:14 PM] : B2KQA53 has uploaded a file 94776052 to Hospital/Customer in IDSIL / PJO
+
+
+[26-10-2015:4:53:22 PM] : B2KQA53 has uploaded a file 94776528 to Hospital/Customer in IDSIL / PJO
+
+
+[26-10-2015:4:53:30 PM] : B2KQA53 has uploaded a file 94777005 to Hospital/Customer in IDSIL / PJO
+
+
+[26-10-2015:4:53:37 PM] : B2KQA53 has uploaded a file 94776637 to Hospital/Customer in IDSIL / PJO
+
+
+[26-10-2015:4:54:34 PM] : B2KQA53 has picked a file 94777806 in IDSIL / PJO
+
+
+[26-10-2015:5:21:45 PM] : B2KQA53 has picked a file 94777843 in IDSIL / PJO
+
+
+[26-10-2015:5:30:35 PM] : B2KQA53 has uploaded a file 94777274 to Hospital/Customer in IDSIL / PJO
+
+
+[26-10-2015:5:30:42 PM] : B2KQA53 has uploaded a file 94777806 to Hospital/Customer in IDSIL / PJO
+
+
+[26-10-2015:5:53:00 PM] : B2KQA53 has picked a file 94773037 in IDSIL / PJO
+
+
+[26-10-2015:5:56:43 PM] : B2KQA53 has picked a file 94772952 in IDSIL / PJO
+
+
+[26-10-2015:5:58:47 PM] : B2KQA53 has uploaded a file 94772952 to Hospital/Customer in IDSIL / PJO
+
+
+[26-10-2015:5:58:53 PM] : B2KQA53 has uploaded a file 94777843 to Hospital/Customer in IDSIL / PJO
+
+
+[26-10-2015:5:59:15 PM] : B2KQA53 has picked a file 94773063 in IDSIL / PJO
+
+
+[26-10-2015:6:05:36 PM] : B2KQA53 has picked a file 94773082 in IDSIL / PJO
+
+
+[26-10-2015:6:10:25 PM] : B2KQA53 has picked a file 94773101 in IDSIL / PJO
+
+
+[26-10-2015:6:21:15 PM] : B2KQA53 has uploaded a file 94773082 to Hospital/Customer in IDSIL / PJO
+
+
+[26-10-2015:6:21:20 PM] : B2KQA53 has uploaded a file 94773063 to Hospital/Customer in IDSIL / PJO
+
+
+[26-10-2015:6:21:26 PM] : B2KQA53 has uploaded a file 94773101 to Hospital/Customer in IDSIL / PJO
+
+
+[26-10-2015:6:21:41 PM] : B2KQA53 has picked a file 94773129 in IDSIL / PJO
+
+
+[26-10-2015:6:27:07 PM] : B2KQA53 has uploaded a file 94773129 to Hospital/Customer in IDSIL / PJO
+
+
+[26-10-2015:6:27:17 PM] : B2KQA53 has uploaded a file 94773037 to Hospital/Customer in IDSIL / PJO
+
+
+[26-10-2015:6:28:31 PM] : B2KQA53 has picked a file 94773149 in IDSIL / PJO
+
+
+[26-10-2015:6:36:58 PM] : B2KQA53 has uploaded a file 94773149 to Hospital/Customer in IDSIL / PJO

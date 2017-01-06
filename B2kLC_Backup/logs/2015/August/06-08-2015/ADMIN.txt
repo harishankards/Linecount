@@ -1,0 +1,75 @@
+
+
+[06-08-2015:1:15:05 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[06-08-2015:10:09:00 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[06-08-2015:12:20:04 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[06-08-2015:12:44:26 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[06-08-2015:1:07:05 PM] : ADMIN has Viewed Employee Details
+
+
+[06-08-2015:1:09:14 PM] : ADMIN has added Employee Details[GANGATHARAN D] into the Database
+
+
+[06-08-2015:1:22:31 PM] : ADMIN has added Employee Details[BHARAT MAHESH MALHOTRA] into the Database
+
+
+[06-08-2015:1:25:04 PM] : ADMIN has added Employee Details[MANOJ NAGHI] into the Database
+
+
+[06-08-2015:1:27:05 PM] : ADMIN has Viewed Employee Details
+
+
+[06-08-2015:2:28:01 PM] : ADMIN has Viewed Employee Details
+
+
+[06-08-2015:2:28:26 PM] : ADMIN has Viewed Employee Details
+
+
+[06-08-2015:2:28:42 PM] : ADMIN has Viewed Employee Details
+
+
+[06-08-2015:2:41:53 PM] : ADMIN has Viewed Employee Details
+
+
+[06-08-2015:3:21:11 PM] : ADMIN has Viewed Employee Details
+
+
+[06-08-2015:3:21:21 PM] : ADMIN has Viewed Employee Details
+
+
+[06-08-2015:3:21:36 PM] : ADMIN has Viewed Employee Details
+
+
+[06-08-2015:4:01:23 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[06-08-2015:5:52:30 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[06-08-2015:5:55:33 PM] : ADMIN has added Employee Details[POOJA MALHOTRA] into the Database
+
+
+[06-08-2015:9:45:25 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[06-08-2015:9:45:33 PM] : ADMIN has Viewed Employee Details
+
+
+[06-08-2015:9:45:53 PM] : ADMIN has Viewed Employee Details
+
+
+[06-08-2015:10:33:42 PM] : ADMIN has Viewed Employee Details
+
+
+[06-08-2015:11:41:12 PM] : ADMIN has Viewed Employee Details
+
+
+[06-08-2015:11:41:21 PM] : ADMIN has Viewed Employee Details

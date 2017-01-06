@@ -1,0 +1,76 @@
+
+
+[30-04-2013:7:28:09 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[30-04-2013:7:28:23 AM] : ADMIN has Viewed Employee Details
+
+
+[30-04-2013:7:28:23 AM] : ADMIN has Viewed Employee Details
+
+
+[30-04-2013:7:28:32 AM] : ADMIN has Viewed Employee Details
+
+
+[30-04-2013:7:28:46 AM] : ADMIN has Viewed Employee Details
+
+
+[30-04-2013:7:41:09 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[30-04-2013:7:41:28 AM] : ADMIN has Viewed Employee Details
+
+
+[30-04-2013:7:41:43 AM] : ADMIN has Viewed Employee Details
+
+[30-04-2013:7:47:22 AM] : ADMIN has Deleted the details of the file 59786189.
+
+
+[30-04-2013:9:52:59 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[30-04-2013:10:00:46 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[30-04-2013:10:46:20 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[30-04-2013:11:26:40 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[30-04-2013:11:45:50 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[30-04-2013:11:49:30 AM] : ADMIN has added Attendanec Details into the Database
+
+
+[30-04-2013:12:53:25 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[30-04-2013:3:39:12 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[30-04-2013:4:31:09 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[30-04-2013:6:11:24 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[30-04-2013:6:35:39 PM] : ADMIN has Viewed Employee Details
+
+
+[30-04-2013:6:35:52 PM] : ADMIN has Viewed Employee Details
+
+
+[30-04-2013:7:47:01 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[30-04-2013:9:28:14 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[30-04-2013:9:30:22 PM] : ADMIN has Viewed Employee Details
+
+
+[30-04-2013:9:31:26 PM] : ADMIN has Viewed Employee Details
+
+
+[30-04-2013:9:35:18 PM] : ADMIN has Viewed Employee Details

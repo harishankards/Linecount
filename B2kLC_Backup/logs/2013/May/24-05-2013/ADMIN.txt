@@ -1,0 +1,69 @@
+
+
+[24-05-2013:5:26:23 AM] : ADMIN has logged in to Admin page using the System 117.213.130.57
+
+
+[24-05-2013:5:56:27 AM] : ADMIN has logged out from the Linecount Software Using the System 117.213.130.57
+
+
+[24-05-2013:10:29:23 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[24-05-2013:10:32:49 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[24-05-2013:10:34:12 AM] : ADMIN has added Attendanec Details into the Database
+
+
+[24-05-2013:11:06:10 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[24-05-2013:11:33:43 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[24-05-2013:11:55:45 AM] : ADMIN has Deleted the details of the file 60729161.
+
+
+[24-05-2013:12:37:26 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[24-05-2013:2:19:59 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[24-05-2013:3:06:57 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[24-05-2013:3:33:41 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[24-05-2013:4:49:40 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[24-05-2013:5:02:18 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[24-05-2013:6:19:47 PM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[24-05-2013:7:18:01 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[24-05-2013:10:02:42 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[24-05-2013:10:20:46 PM] : ADMIN has logged in to Admin page using the System 117.197.204.56
+
+
+[24-05-2013:10:22:09 PM] : ADMIN has Viewed Employee Details
+
+
+[24-05-2013:10:34:33 PM] : ADMIN has logged out from the Linecount Software Using the System 117.197.204.56
+
+
+[24-05-2013:10:42:57 PM] : ADMIN has logged in to Admin page using the System 117.197.204.56
+
+[24-05-2013:10:46:25 PM] : ADMIN has viewed Bank Details
+
+
+[24-05-2013:11:40:59 PM] : ADMIN has logged in to Admin page using the System 117.197.204.56
+
+
+[24-05-2013:11:46:33 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35

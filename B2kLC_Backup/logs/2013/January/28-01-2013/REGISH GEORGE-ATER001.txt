@@ -1,0 +1,9 @@
+
+
+[28-01-2013:10:12:34 AM] : ATER001 has logged in to IDSIL / PJO using the System 115.241.98.153
+
+
+[28-01-2013:10:12:53 AM] : ATER001 has viewed the DUP file details in IDSIL/PJO from 2013-01-01 to 2013-01-28
+
+
+[28-01-2013:10:12:59 AM] : ATER001 has Downloaded a file details in IDSIL / PJO from 2013-01-01 to 2013-01-28

@@ -1,0 +1,135 @@
+
+
+[05-01-2014:7:48:50 AM] : ATMLS030 has logged in to IDSIL / PJO using the System 115.242.165.21
+
+
+[05-01-2014:7:49:33 AM] : ATMLS030 has picked a file 66475669 in IDSIL / PJO
+
+
+[05-01-2014:8:24:15 AM] : ATMLS030 has uploaded a file 66475669 to Hospital/Customer in IDSIL / PJO
+
+
+[05-01-2014:8:25:35 AM] : ATMLS030 has picked a file 66476031 in IDSIL / PJO
+
+
+[05-01-2014:9:04:01 AM] : ATMLS030 has logged in to IDSIL / PJO using the System 115.242.165.21
+
+
+[05-01-2014:9:04:14 AM] : ATMLS030 has picked a file 66477291 in IDSIL / PJO
+
+
+[05-01-2014:9:04:45 AM] : ATMLS030 has uploaded a file 66476031 to Hospital/Customer in IDSIL / PJO
+
+
+[05-01-2014:9:10:46 AM] : ATMLS030 has uploaded a file 66477291 to Hospital/Customer in IDSIL / PJO
+
+
+[05-01-2014:9:11:52 AM] : ATMLS030 has picked a file 66478241 in IDSIL / PJO
+
+
+[05-01-2014:9:17:51 AM] : ATMLS030 has uploaded a file 66478241 to Hospital/Customer in IDSIL / PJO
+
+
+[05-01-2014:9:24:01 AM] : ATMLS030 has picked a file 66478792 in IDSIL / PJO
+
+
+[05-01-2014:9:27:24 AM] : ATMLS030 has uploaded a file 66478792 to Hospital/Customer in IDSIL / PJO
+
+
+[05-01-2014:9:30:51 AM] : ATMLS030 has picked a file 66479073 in IDSIL / PJO
+
+
+[05-01-2014:9:39:18 AM] : ATMLS030 has picked a file 66479337 in IDSIL / PJO
+
+
+[05-01-2014:9:54:19 AM] : ATMLS030 has uploaded a file 66479337 to Hospital/Customer in IDSIL / PJO
+
+
+[05-01-2014:9:54:20 AM] : ATMLS030 has uploaded a file 66479073 to Hospital/Customer in IDSIL / PJO
+
+
+[05-01-2014:9:54:33 AM] : ATMLS030 has picked a file 66472494 in IDSIL / PJO
+
+
+[05-01-2014:10:01:16 AM] : ATMLS030 has picked a file 66480080 in IDSIL / PJO
+
+
+[05-01-2014:10:06:16 AM] : ATMLS030 has uploaded a file 66472494 to Hospital/Customer in IDSIL / PJO
+
+
+[05-01-2014:10:25:35 AM] : ATMLS030 has uploaded a file 66480080 to Hospital/Customer in IDSIL / PJO
+
+
+[05-01-2014:10:28:48 AM] : ATMLS030 has picked a file 66472819 in IDSIL / PJO
+
+
+[05-01-2014:10:45:38 AM] : ATMLS030 has uploaded a file 66472819 to Hospital/Customer in IDSIL / PJO
+
+
+[05-01-2014:10:46:21 AM] : ATMLS030 has picked a file 66473558 in IDSIL / PJO
+
+
+[05-01-2014:11:11:16 AM] : ATMLS030 has uploaded a file 66473558 to Hospital/Customer in IDSIL / PJO
+
+
+[05-01-2014:11:11:57 AM] : ATMLS030 has picked a file 66480713 in IDSIL / PJO
+
+
+[05-01-2014:11:41:52 AM] : ATMLS030 has picked a file 66474592 in IDSIL / PJO
+
+
+[05-01-2014:11:50:28 AM] : ATMLS030 has uploaded a file 66480713 to Hospital/Customer in IDSIL / PJO
+
+
+[05-01-2014:12:14:51 PM] : ATMLS030 has uploaded a file 66474592 to Hospital/Customer in IDSIL / PJO
+
+
+[05-01-2014:12:16:05 PM] : ATMLS030 has picked a file 66479069 in IDSIL / PJO
+
+
+[05-01-2014:12:22:04 PM] : ATMLS030 has uploaded a file 66479069 to Hospital/Customer in IDSIL / PJO
+
+
+[05-01-2014:12:36:48 PM] : ATMLS030 has picked a file 66479620 in IDSIL / PJO
+
+
+[05-01-2014:1:37:11 PM] : ATMLS030 has logged in to IDSIL / PJO using the System 115.242.165.21
+
+
+[05-01-2014:1:37:19 PM] : ATMLS030 has uploaded a file 66479620 to Hospital/Customer in IDSIL / PJO
+
+
+[05-01-2014:1:38:25 PM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[05-01-2014:1:43:44 PM] : ATMLS030 has picked a file 66480126 in IDSIL / PJO
+
+
+[05-01-2014:1:52:21 PM] : ATMLS030 has uploaded a file 66480126 to Hospital/Customer in IDSIL / PJO
+
+
+[05-01-2014:1:53:02 PM] : ATMLS030 has picked a file 66480988 in IDSIL / PJO
+
+
+[05-01-2014:1:59:03 PM] : ATMLS030 has uploaded a file 66480988 to Hospital/Customer in IDSIL / PJO
+
+
+[05-01-2014:2:00:05 PM] : ATMLS030 has picked a file 66481163 in IDSIL / PJO
+
+
+[05-01-2014:2:05:05 PM] : ATMLS030 has uploaded a file 66481163 to Hospital/Customer in IDSIL / PJO
+
+
+[05-01-2014:2:07:08 PM] : ATMLS030 has logged out from the Linecount Software Using the System 115.242.165.21
+
+
+[05-01-2014:9:13:50 PM] : ATMLS030 has logged in to IDSIL / PJO using the System 115.241.19.109
+
+
+[05-01-2014:9:14:08 PM] : ATMLS030 has picked a file 66483442 in IDSIL / PJO
+
+
+[05-01-2014:9:22:15 PM] : ATMLS030 has uploaded a file 66483442 to Hospital/Customer in IDSIL / PJO
+
+
+[05-01-2014:9:48:19 PM] : ATMLS030 has logged out from the Linecount Software Using the System 115.241.19.109

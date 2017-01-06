@@ -1,0 +1,126 @@
+
+
+[23-05-2014:8:47:19 AM] : B2KHTER010 has logged in to IDSIL / PJO using the System 61.3.193.157
+
+
+[23-05-2014:9:01:21 AM] : B2KHTER010 has logged out from the Linecount Software Using the System 61.3.193.157
+
+
+[23-05-2014:10:15:49 AM] : B2KHTER010 has logged in to IDSIL / PJO using the System 61.3.193.157
+
+
+[23-05-2014:10:38:10 AM] : B2KHTER010 has picked a file 69995485 in IDSIL / PJO
+
+
+[23-05-2014:11:04:10 AM] : B2KHTER010 has picked a file 69995948 in IDSIL / PJO
+
+
+[23-05-2014:11:04:22 AM] : B2KHTER010 has uploaded a file 69995485 to Hospital/Customer in IDSIL / PJO
+
+
+[23-05-2014:11:04:29 AM] : B2KHTER010 has uploaded a file 69995948 to Hospital/Customer in IDSIL / PJO
+
+
+[23-05-2014:11:06:24 AM] : B2KHTER010 has picked a file 69996365 in IDSIL / PJO
+
+
+[23-05-2014:11:11:35 AM] : B2KHTER010 has picked a file 69996151 in IDSIL / PJO
+
+
+[23-05-2014:11:14:09 AM] : B2KHTER010 has uploaded a file 69996151 to Hospital/Customer in IDSIL / PJO
+
+
+[23-05-2014:11:20:59 AM] : B2KHTER010 has picked a file 69996255 in IDSIL / PJO
+
+
+[23-05-2014:11:21:09 AM] : B2KHTER010 has uploaded a file 69996255 to Hospital/Customer in IDSIL / PJO
+
+
+[23-05-2014:11:50:51 AM] : B2KHTER010 has uploaded a file 69996365 to Hospital/Customer in IDSIL / PJO
+
+
+[23-05-2014:11:53:01 AM] : B2KHTER010 has added a Audit file 69996177 in IDSIL / PJO 
+
+
+[23-05-2014:12:04:43 PM] : B2KHTER010 has added a Audit file 69997445 in IDSIL / PJO 
+
+
+[23-05-2014:12:47:02 PM] : B2KHTER010 has picked a file 70000795 in IDSIL / PJO
+
+
+[23-05-2014:12:48:15 PM] : B2KHTER010 has picked a file 69999941 in IDSIL / PJO
+
+
+[23-05-2014:12:48:22 PM] : B2KHTER010 has uploaded a file 69999941 to Hospital/Customer in IDSIL / PJO
+
+
+[23-05-2014:1:04:21 PM] : B2KHTER010 has uploaded a file 70000795 to Hospital/Customer in IDSIL / PJO
+
+
+[23-05-2014:1:05:19 PM] : B2KHTER010 has logged in to IDSIL / PJO using the System 61.3.193.157
+
+
+[23-05-2014:1:10:34 PM] : B2KHTER010 has picked a file 69998076 in IDSIL / PJO
+
+
+[23-05-2014:1:16:28 PM] : B2KHTER010 has uploaded a file 69998076 to Hospital/Customer in IDSIL / PJO
+
+
+[23-05-2014:1:18:43 PM] : B2KHTER010 has picked a file 70001555 in IDSIL / PJO
+
+
+[23-05-2014:2:35:13 PM] : B2KHTER010 has picked a file 69998410 in IDSIL / PJO
+
+
+[23-05-2014:2:35:36 PM] : B2KHTER010 has uploaded a file 70001555 to Hospital/Customer in IDSIL / PJO
+
+
+[23-05-2014:2:37:43 PM] : B2KHTER010 has viewed the Audit file details in IDSIL / PJO from 2014-05-23 to 2014-05-23
+
+
+[23-05-2014:2:59:13 PM] : B2KHTER010 has added a Audit file 69998888 in IDSIL / PJO 
+
+
+[23-05-2014:3:18:48 PM] : B2KHTER010 has uploaded a file 69998410 to Hospital/Customer in IDSIL / PJO
+
+
+[23-05-2014:3:19:02 PM] : B2KHTER010 has viewed the Audit file details in IDSIL / PJO from 2014-05-23 to 2014-05-23
+
+
+[23-05-2014:5:20:35 PM] : B2KHTER010 has logged in to IDSIL / PJO using the System 61.3.193.157
+
+
+[23-05-2014:5:22:44 PM] : B2KHTER010 has added a Audit file 70001219 in IDSIL / PJO 
+
+
+[23-05-2014:5:28:47 PM] : B2KHTER010 has picked a file 70001481 in IDSIL / PJO
+
+
+[23-05-2014:5:28:53 PM] : B2KHTER010 has uploaded a file 70001481 to Hospital/Customer in IDSIL / PJO
+
+
+[23-05-2014:5:29:06 PM] : B2KHTER010 has picked a file 70001795 in IDSIL / PJO
+
+
+[23-05-2014:5:30:03 PM] : B2KHTER010 has viewed the Audit file details in IDSIL / PJO from 2014-05-23 to 2014-05-23
+
+
+[23-05-2014:5:41:59 PM] : B2KHTER010 has uploaded a file 70001795 to Hospital/Customer in IDSIL / PJO
+
+
+[23-05-2014:5:43:51 PM] : B2KHTER010 has picked a file 70002210 in IDSIL / PJO
+
+
+[23-05-2014:6:02:23 PM] : B2KHTER010 has uploaded a file 70002210 to Hospital/Customer in IDSIL / PJO
+
+
+[23-05-2014:6:11:57 PM] : B2KHTER010 has viewed the Edited file details in IDSIL/PJO from 2014-05-01 to 2014-05-23
+
+
+[23-05-2014:6:12:31 PM] : B2KHTER010 has viewed the Audit file details in IDSIL / PJO from 2014-05-01 to 2014-05-23
+
+
+[23-05-2014:6:28:39 PM] : B2KHTER010 has picked a file 70002480 in IDSIL / PJO
+
+
+[23-05-2014:6:28:51 PM] : B2KHTER010 has uploaded a file 70002480 to Hospital/Customer in IDSIL / PJO

@@ -1,0 +1,138 @@
+
+
+[26-04-2016:2:08:01 AM] : B2KQA80 has logged in to IDSIL / PJO using the System 117.250.53.197
+
+
+[26-04-2016:2:08:08 AM] : B2KQA80 has logged out from the Linecount Software Using the System 117.250.53.197
+
+
+[26-04-2016:2:10:49 AM] : B2KQA80 has logged in to IDSIL / PJO using the System 117.250.53.197
+
+
+[26-04-2016:4:50:37 AM] : B2KQA80 has logged out from the Linecount Software Using the System 117.250.53.197
+
+
+[26-04-2016:4:52:49 AM] : B2KQA80 has logged in to IDSIL / PJO using the System 117.250.53.197
+
+
+[26-04-2016:5:34:14 AM] : B2KQA80 has picked a file 97920787 in IDSIL / PJO
+
+
+[26-04-2016:5:43:23 AM] : B2KQA80 has picked a file 97921601 in IDSIL / PJO
+
+
+[26-04-2016:6:02:23 AM] : B2KQA80 has picked a file 97915528 in IDSIL / PJO
+
+
+[26-04-2016:6:08:50 AM] : B2KQA80 has picked a file 97921853 in IDSIL / PJO
+
+
+[26-04-2016:6:32:47 AM] : B2KQA80 has picked a file 97922302 in IDSIL / PJO
+
+
+[26-04-2016:7:01:19 AM] : B2KQA80 has picked a file 97920949 in IDSIL / PJO
+
+
+[26-04-2016:7:01:29 AM] : B2KQA80 has logged out from the Linecount Software Using the System 117.250.53.197
+
+
+[26-04-2016:7:01:32 AM] : B2KQA80 has logged in to IDSIL / PJO using the System 117.250.53.197
+
+
+[26-04-2016:7:02:15 AM] : B2KQA80 has viewed the Edited file details in IDSIL/PJO from 2016-04-01 to 2016-04-26
+
+
+[26-04-2016:7:02:33 AM] : B2KQA80 has viewed the DUP file details in IDSIL/PJO from 2016-04-01 to 2016-04-26
+
+
+[26-04-2016:7:02:59 AM] : B2KQA80 has viewed the Audit file details in IDSIL / PJO from 2016-04-01 to 2016-04-26
+
+
+[26-04-2016:7:16:35 AM] : B2KQA80 has picked a file 97920994 in IDSIL / PJO
+
+
+[26-04-2016:8:18:58 AM] : B2KQA80 has picked a file 97918934 in IDSIL / PJO
+
+
+[26-04-2016:8:48:03 AM] : B2KQA80 has logged in to IDSIL / PJO using the System 117.250.53.197
+
+
+[26-04-2016:8:48:32 AM] : B2KQA80 has picked a file 97919665 in IDSIL / PJO
+
+
+[26-04-2016:9:01:59 AM] : B2KQA80 has picked a file 97920325 in IDSIL / PJO
+
+
+[26-04-2016:9:09:24 AM] : B2KQA80 has picked a file 97920470 in IDSIL / PJO
+
+
+[26-04-2016:9:12:36 AM] : B2KQA80 has picked a file 97920789 in IDSIL / PJO
+
+
+[26-04-2016:9:27:54 AM] : B2KQA80 has picked a file 97921064 in IDSIL / PJO
+
+
+[26-04-2016:4:08:13 PM] : B2KQA80 has logged in to IDSIL / PJO using the System 117.235.191.131
+
+
+[26-04-2016:4:08:27 PM] : B2KQA80 has viewed the Edited file details in IDSIL/PJO from 2016-04-01 to 2016-04-26
+
+
+[26-04-2016:4:08:40 PM] : B2KQA80 has Downloaded a file details in IDSIL / PJO from 2016-04-01 to 2016-04-26
+
+
+[26-04-2016:4:12:55 PM] : B2KQA80 has picked a file 97913751 in IDSIL / PJO
+
+
+[26-04-2016:4:27:30 PM] : B2KQA80 has picked a file 97926429 in IDSIL / PJO
+
+
+[26-04-2016:4:37:46 PM] : B2KQA80 has picked a file 97914336 in IDSIL / PJO
+
+
+[26-04-2016:5:36:01 PM] : B2KQA80 has picked a file 97925111 in IDSIL / PJO
+
+
+[26-04-2016:6:07:54 PM] : B2KQA80 has viewed the Edited file details in IDSIL/PJO from 2016-04-01 to 2016-04-26
+
+
+[26-04-2016:6:08:21 PM] : B2KQA80 has viewed the Audit file details in IDSIL / PJO from 2016-04-01 to 2016-04-26
+
+
+[26-04-2016:6:08:41 PM] : B2KQA80 has viewed the DUP file details in IDSIL/PJO from 2016-04-01 to 2016-04-26
+
+
+[26-04-2016:6:40:17 PM] : B2KQA80 has picked a file 97925948 in IDSIL / PJO
+
+
+[26-04-2016:6:41:01 PM] : B2KQA80 has picked a file 97923330 in IDSIL / PJO
+
+
+[27-04-2016:3:11:31 AM] : B2KQA80 has picked a file 97923059 in IDSIL / PJO
+
+
+[27-04-2016:3:34:11 AM] : B2KQA80 has picked a file 97923397 in IDSIL / PJO
+
+
+[27-04-2016:3:42:00 AM] : B2KQA80 has picked a file 97923490 in IDSIL / PJO
+
+
+[27-04-2016:3:57:23 AM] : B2KQA80 has picked a file 97923848 in IDSIL / PJO
+
+
+[27-04-2016:4:03:06 AM] : B2KQA80 has picked a file 97924040 in IDSIL / PJO
+
+
+[27-04-2016:4:13:46 AM] : B2KQA80 has picked a file 97924126 in IDSIL / PJO
+
+
+[27-04-2016:4:24:20 AM] : B2KQA80 has picked a file 97933764 in IDSIL / PJO
+
+
+[27-04-2016:4:43:19 AM] :  has uploaded a DUP file 97933377 in IDSIL / PJO
+
+
+[27-04-2016:5:10:51 AM] :  has uploaded a DUP file 97940111 in IDSIL / PJO
+
+
+[27-04-2016:5:11:26 AM] : B2KQA80 has viewed the DUP file details in IDSIL/PJO from 2016-04-27 to 2016-04-27

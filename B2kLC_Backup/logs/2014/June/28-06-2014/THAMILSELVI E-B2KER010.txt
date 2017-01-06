@@ -1,0 +1,81 @@
+
+
+[28-06-2014:10:47:18 AM] : B2KER010 has logged in to IDSIL / PJO using the System 101.222.227.75
+
+
+[28-06-2014:10:48:02 AM] : B2KER010 has picked a file 70847248 in IDSIL / PJO
+
+
+[28-06-2014:11:24:09 AM] : B2KER010 has logged in to IDSIL / PJO using the System 101.222.227.75
+
+
+[28-06-2014:11:24:38 AM] : B2KER010 has uploaded a file 70847248 to Hospital/Customer in IDSIL / PJO
+
+
+[28-06-2014:11:37:40 AM] : B2KER010 has picked a file 70849044 in IDSIL / PJO
+
+
+[28-06-2014:12:42:45 PM] : B2KER010 has logged in to IDSIL / PJO using the System 101.222.227.75
+
+
+[28-06-2014:12:58:00 PM] : B2KER010 has uploaded a file 70849044 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[28-06-2014:1:44:23 PM] : B2KER010 has picked a file 70848434 in IDSIL / PJO
+
+
+[28-06-2014:2:49:07 PM] : B2KER010 has logged in to IDSIL / PJO using the System 101.222.227.75
+
+
+[28-06-2014:2:49:53 PM] : B2KER010 has uploaded a file 70848434 to Hospital/Customer in IDSIL / PJO
+
+
+[28-06-2014:3:00:05 PM] : B2KER010 has added a Audit file 70847841 in IDSIL / PJO 
+
+
+[28-06-2014:3:04:15 PM] : B2KER010 has viewed the Edited file details in IDSIL/PJO from 2014-06-28 to 2014-06-28
+
+
+[28-06-2014:3:04:32 PM] : B2KER010 has viewed the Audit file details in IDSIL / PJO from 2014-06-28 to 2014-06-28
+
+
+[28-06-2014:3:05:18 PM] : B2KER010 has picked a file 70848504 in IDSIL / PJO
+
+
+[28-06-2014:3:37:35 PM] : B2KER010 has uploaded a file 70848504 to Hospital/Customer in IDSIL / PJO
+
+
+[28-06-2014:3:38:13 PM] : B2KER010 has logged out from the Linecount Software Using the System 101.222.227.75
+
+
+[28-06-2014:4:13:05 PM] : B2KER010 has logged in to IDSIL / PJO using the System 59.90.86.47
+
+
+[28-06-2014:4:14:40 PM] : B2KER010 has picked a file 70848997 in IDSIL / PJO
+
+
+[28-06-2014:5:24:39 PM] : B2KER010 has logged in to IDSIL / PJO using the System 59.90.86.47
+
+
+[28-06-2014:5:24:45 PM] : B2KER010 has uploaded a file 70848997 to Hospital/Customer in IDSIL / PJO
+
+
+[28-06-2014:6:49:06 PM] :  has uploaded a DUP file 70849883 in IDSIL / PJO
+
+
+[28-06-2014:6:51:25 PM] : B2KER010 has viewed the Edited file details in IDSIL/PJO from 2014-06-28 to 2014-06-28
+
+
+[28-06-2014:6:51:40 PM] : B2KER010 has viewed the DUP file details in IDSIL/PJO from 2014-06-28 to 2014-06-28
+
+
+[28-06-2014:6:51:49 PM] : B2KER010 has viewed the Edited file details in IDSIL/PJO from 2014-06-01 to 2014-06-28
+
+
+[28-06-2014:6:52:30 PM] : B2KER010 has viewed the Audit file details in IDSIL / PJO from 2014-06-01 to 2014-06-28
+
+
+[28-06-2014:6:52:53 PM] : B2KER010 has viewed the DUP file details in IDSIL/PJO from 2014-06-01 to 2014-06-28
+
+
+[28-06-2014:6:53:14 PM] : B2KER010 has logged out from the Linecount Software Using the System 59.90.86.47

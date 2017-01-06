@@ -1,0 +1,81 @@
+
+
+[09-10-2013:10:16:21 AM] : B2KMLS011 has logged in to IDSIL / PJO using the System 59.90.86.47
+
+
+[09-10-2013:10:50:50 AM] : B2KMLS011 has logged in to IDSIL / PJO using the System 59.90.86.47
+
+
+[09-10-2013:10:53:58 AM] : B2KMLS011 has picked a file 64325274 in IDSIL / PJO
+
+
+[09-10-2013:10:54:09 AM] : B2KMLS011 has uploaded a file 64325274 to Hospital/Customer in IDSIL / PJO
+
+
+[09-10-2013:10:57:12 AM] : B2KMLS011 has picked a file 64341354 in IDSIL / PJO
+
+
+[09-10-2013:11:50:23 AM] : B2KMLS011 has logged in to IDSIL / PJO using the System 59.90.86.47
+
+
+[09-10-2013:11:51:19 AM] : B2KMLS011 has uploaded a file 64341354 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[09-10-2013:12:00:13 PM] : B2KMLS011 has picked a file 64338749 in IDSIL / PJO
+
+
+[09-10-2013:12:32:40 PM] : B2KMLS011 has logged in to IDSIL / PJO using the System 59.90.86.47
+
+
+[09-10-2013:12:33:18 PM] : B2KMLS011 has uploaded a file 64338749 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[09-10-2013:12:34:01 PM] : B2KMLS011 has picked a file 64339741 in IDSIL / PJO
+
+
+[09-10-2013:12:47:34 PM] : B2KMLS011 has uploaded a file 64339741 to Hospital/Customer in IDSIL / PJO
+
+
+[09-10-2013:1:04:05 PM] : B2KMLS011 has picked a file 64339776 in IDSIL / PJO
+
+
+[09-10-2013:1:04:11 PM] : B2KMLS011 has uploaded a file 64339776 to Hospital/Customer in IDSIL / PJO
+
+
+[09-10-2013:1:12:42 PM] : B2KMLS011 has picked a file 64340264 in IDSIL / PJO
+
+
+[09-10-2013:2:10:47 PM] : B2KMLS011 has logged in to IDSIL / PJO using the System 59.90.86.47
+
+
+[09-10-2013:2:10:56 PM] : B2KMLS011 has uploaded a file 64340264 to Hospital/Customer in IDSIL / PJO
+
+
+[09-10-2013:2:46:38 PM] : B2KMLS011 has picked a file 64341307 in IDSIL / PJO
+
+
+[09-10-2013:3:18:12 PM] : B2KMLS011 has uploaded a file 64341307 to Hospital/Customer in IDSIL / PJO
+
+
+[09-10-2013:3:38:46 PM] : B2KMLS011 has picked a file 90459967 in IDSIL / PJO
+
+
+[09-10-2013:3:50:58 PM] : B2KMLS011 has uploaded a file 90459967 to Hospital/Customer in IDSIL / PJO
+
+
+[09-10-2013:3:54:01 PM] : B2KMLS011 has picked a file 90459968 in IDSIL / PJO
+
+
+[09-10-2013:5:15:47 PM] : B2KMLS011 has logged in to IDSIL / PJO using the System 59.90.86.47
+
+
+[09-10-2013:5:16:19 PM] : B2KMLS011 has uploaded a file 90459968 to Hospital/Customer in IDSIL / PJO
+
+
+[09-10-2013:5:26:05 PM] : B2KMLS011 has picked a file 90459970 in IDSIL / PJO
+
+
+[09-10-2013:5:54:27 PM] : B2KMLS011 has uploaded a file 90459970 to Hospital/Customer in IDSIL / PJO
+
+
+[09-10-2013:7:31:54 PM] : B2KMLS011 has logged out from the Linecount Software Using the System 59.90.86.47

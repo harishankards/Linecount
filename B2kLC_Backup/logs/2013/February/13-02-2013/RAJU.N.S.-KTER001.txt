@@ -1,0 +1,30 @@
+
+
+[13-02-2013:9:03:05 AM] : KTER001 has logged in to IDSIL / PJO using the System 111.92.81.59
+
+
+[13-02-2013:9:16:27 AM] : KTER001 has logged out from the Linecount Software Using the System 111.92.81.59
+
+
+[13-02-2013:12:12:31 PM] : KTER001 has logged in to IDSIL / PJO using the System 111.92.81.59
+
+
+[13-02-2013:12:15:17 PM] : KTER001 has viewed the Audit file details in IDSIL / PJO from 2013-01-01 to 2013-01-31
+
+
+[13-02-2013:1:04:24 PM] : KTER001 has added a Audit file 56753909 in IDSIL / PJO 
+
+
+[13-02-2013:1:18:48 PM] : KTER001 has added a Audit file 56464090 in IDSIL / PJO 
+
+
+[13-02-2013:1:19:27 PM] : KTER001 has added a Audit file 56463764 in IDSIL / PJO 
+
+
+[13-02-2013:1:20:13 PM] : KTER001 has viewed the Edited file details in IDSIL/PJO from 2013-01-01 to 2013-01-31
+
+
+[13-02-2013:1:20:36 PM] : KTER001 has Downloaded a file details in IDSIL / PJO from 2013-01-01 to 2013-01-31
+
+
+[13-02-2013:1:42:31 PM] : KTER001 has logged out from the Linecount Software Using the System 111.92.81.59

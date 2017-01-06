@@ -1,0 +1,33 @@
+
+
+[07-02-2013:3:31:12 AM] : VTER002 has logged in to IDSIL / PJO using the System 14.99.177.41
+
+
+[07-02-2013:3:45:29 AM] : VTER002 has logged out from the Linecount Software Using the System 14.99.177.41
+
+
+[07-02-2013:3:47:03 AM] : VTER002 has logged in to IDSIL / PJO using the System 14.99.177.41
+
+
+[07-02-2013:3:47:54 AM] : VTER002 has logged out from the Linecount Software Using the System 14.99.177.41
+
+
+[07-02-2013:10:50:00 PM] : VTER002 has logged in to IDSIL / PJO using the System 14.99.146.55
+
+
+[07-02-2013:10:50:34 PM] : VTER002 has viewed the Edited file details in IDSIL/PJO from 2013-02-07 to 2013-02-07
+
+
+[07-02-2013:10:51:01 PM] : VTER002 has viewed the Edited file details in IDSIL/PJO from 2013-02-07 to 2013-02-07
+
+
+[07-02-2013:11:04:36 PM] : VTER002 has picked a file 57541672 in IDSIL / PJO
+
+
+[07-02-2013:11:04:55 PM] : VTER002 has uploaded a file 57541672 to Hospital/Customer in IDSIL / PJO
+
+
+[07-02-2013:11:59:20 PM] : VTER002 has picked a file 57536414 in IDSIL / PJO
+
+
+[07-02-2013:11:59:45 PM] : VTER002 has uploaded a file 57536414 to IDS/QA_Checkpoint in IDSIL / PJO

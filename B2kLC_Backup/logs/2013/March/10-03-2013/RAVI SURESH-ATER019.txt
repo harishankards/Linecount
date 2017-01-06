@@ -1,0 +1,45 @@
+
+
+[10-03-2013:9:29:40 PM] : ATER019 has logged in to IDSIL / PJO using the System 117.216.45.53
+
+
+[10-03-2013:9:31:02 PM] : ATER019 has logged out from the Linecount Software Using the System 117.216.45.53
+
+
+[10-03-2013:10:29:11 PM] : ATER019 has logged in to IDSIL / PJO using the System 117.193.35.197
+
+
+[10-03-2013:10:31:57 PM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[10-03-2013:10:51:03 PM] : ATER019 has picked a file 58519823 in IDSIL / PJO
+
+
+[10-03-2013:10:54:07 PM] : ATER019 has uploaded a file 58519823 to Hospital/Customer in IDSIL / PJO
+
+
+[10-03-2013:10:55:09 PM] : ATER019 has picked a file 58519855 in IDSIL / PJO
+
+
+[10-03-2013:10:57:35 PM] : ATER019 has uploaded a file 58519855 to Hospital/Customer in IDSIL / PJO
+
+
+[10-03-2013:11:01:32 PM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[10-03-2013:11:11:04 PM] : ATER019 has picked a file 58519955 in IDSIL / PJO
+
+
+[10-03-2013:11:14:21 PM] : ATER019 has uploaded a file 58519955 to Hospital/Customer in IDSIL / PJO
+
+
+[10-03-2013:11:16:19 PM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[10-03-2013:11:23:30 PM] : ATER019 has picked a file 58520034 in IDSIL / PJO
+
+
+[10-03-2013:11:28:47 PM] : ATER019 has uploaded a file 58520034 to Hospital/Customer in IDSIL / PJO
+
+
+[10-03-2013:11:30:14 PM] : ATER019 has logged out from the Linecount Software Using the System 117.193.35.197

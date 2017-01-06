@@ -1,0 +1,78 @@
+
+
+[18-10-2013:1:25:47 AM] : ADMIN has Viewed Employee Details
+
+
+[18-10-2013:1:25:57 AM] : ADMIN has Viewed Employee Details
+
+[18-10-2013:1:57:41 AM] : ADMIN has Deleted the details of the file 64572791.
+
+
+[18-10-2013:7:35:22 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[18-10-2013:7:49:44 AM] : ADMIN has Viewed Employee Details
+
+
+[18-10-2013:9:11:31 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[18-10-2013:10:02:56 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[18-10-2013:10:06:56 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+[18-10-2013:10:11:57 AM] : ADMIN has added an Update into the Database
+
+[18-10-2013:10:17:41 AM] : ADMIN has added an Update into the Database
+
+[18-10-2013:10:26:05 AM] : ADMIN has added an Update into the Database
+
+
+[18-10-2013:11:01:54 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[18-10-2013:11:17:50 AM] : ADMIN has Viewed Employee Details
+
+
+[18-10-2013:11:18:05 AM] : ADMIN has Viewed Employee Details
+
+
+[18-10-2013:11:19:30 AM] : ADMIN has Viewed Employee Details
+
+
+[18-10-2013:11:27:47 AM] : ADMIN has Viewed Employee Details
+
+
+[18-10-2013:11:52:07 AM] : ADMIN has Viewed Employee Details
+
+
+[18-10-2013:11:52:14 AM] : ADMIN has Viewed Employee Details
+
+
+[18-10-2013:12:39:45 PM] : ADMIN has Viewed Employee Details
+
+
+[18-10-2013:12:39:53 PM] : ADMIN has Viewed Employee Details
+
+
+[18-10-2013:2:29:46 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+[18-10-2013:2:29:55 PM] : ADMIN has Approved Leave request from the ID B2KER002 on 2013-10-18.
+
+
+[18-10-2013:3:05:16 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[18-10-2013:3:28:53 PM] : ADMIN has Deleted the details of the file 64513066.
+
+
+[18-10-2013:4:17:15 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[18-10-2013:5:35:24 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[18-10-2013:6:39:43 PM] : ADMIN has logged out from the Linecount Software Using the System 59.90.86.47
+
+
+[18-10-2013:10:15:56 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35

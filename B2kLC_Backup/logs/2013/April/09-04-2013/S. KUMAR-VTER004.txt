@@ -1,0 +1,234 @@
+
+
+[09-04-2013:10:46:10 AM] : VTER004 has logged in to IDSIL / PJO using the System 122.169.132.153
+
+
+[09-04-2013:10:47:17 AM] : VTER004 has picked a file 59412593 in IDSIL / PJO
+
+
+[09-04-2013:10:47:21 AM] : VTER004 has uploaded a file 59412593 to Hospital/Customer in IDSIL / PJO
+
+
+[09-04-2013:10:47:38 AM] : VTER004 has picked a file 59409314 in IDSIL / PJO
+
+
+[09-04-2013:10:47:43 AM] : VTER004 has uploaded a file 59409314 to Hospital/Customer in IDSIL / PJO
+
+
+[09-04-2013:10:49:06 AM] : VTER004 has picked a file 59426045 in IDSIL / PJO
+
+
+[09-04-2013:10:49:09 AM] : VTER004 has uploaded a file 59426045 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[09-04-2013:10:50:06 AM] : VTER004 has picked a file 59414371 in IDSIL / PJO
+
+
+[09-04-2013:10:50:25 AM] : VTER004 has uploaded a file 59414371 to Hospital/Customer in IDSIL / PJO
+
+
+[09-04-2013:10:52:54 AM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[09-04-2013:11:51:07 AM] : VTER004 has logged in to IDSIL / PJO using the System 122.169.132.153
+
+
+[09-04-2013:11:51:39 AM] : VTER004 has picked a file 59422309 in IDSIL / PJO
+
+
+[09-04-2013:11:51:42 AM] : VTER004 has uploaded a file 59422309 to Hospital/Customer in IDSIL / PJO
+
+
+[09-04-2013:11:53:10 AM] : VTER004 has picked a file 59423648 in IDSIL / PJO
+
+
+[09-04-2013:11:53:16 AM] : VTER004 has uploaded a file 59423648 to Hospital/Customer in IDSIL / PJO
+
+
+[09-04-2013:11:54:28 AM] : VTER004 has picked a file 59424406 in IDSIL / PJO
+
+
+[09-04-2013:11:54:32 AM] : VTER004 has uploaded a file 59424406 to Hospital/Customer in IDSIL / PJO
+
+
+[09-04-2013:11:57:00 AM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[09-04-2013:11:58:29 AM] : VTER004 has picked a file 59426690 in IDSIL / PJO
+
+
+[09-04-2013:11:59:08 AM] : VTER004 has uploaded a file 59426690 to Hospital/Customer in IDSIL / PJO
+
+
+[09-04-2013:12:00:36 PM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[09-04-2013:12:02:27 PM] : VTER004 has picked a file 59426997 in IDSIL / PJO
+
+
+[09-04-2013:12:02:32 PM] : VTER004 has uploaded a file 59426997 to Hospital/Customer in IDSIL / PJO
+
+
+[09-04-2013:12:04:33 PM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[09-04-2013:12:12:13 PM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[09-04-2013:12:12:48 PM] : VTER004 has viewed the Audit file details in IDSIL / PJO from 2013-04-09 to 2013-04-09
+
+
+[09-04-2013:12:24:44 PM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[09-04-2013:12:26:22 PM] : VTER004 has viewed the Edited file details in IDSIL/PJO from 2013-04-09 to 2013-04-09
+
+
+[09-04-2013:12:26:32 PM] : VTER004 has viewed the Audit file details in IDSIL / PJO from 2013-04-09 to 2013-04-09
+
+
+[09-04-2013:12:28:12 PM] : VTER004 has picked a file 59429512 in IDSIL / PJO
+
+
+[09-04-2013:12:28:15 PM] : VTER004 has uploaded a file 59429512 to Hospital/Customer in IDSIL / PJO
+
+
+[09-04-2013:12:28:38 PM] : VTER004 has picked a file 59424586 in IDSIL / PJO
+
+
+[09-04-2013:12:28:44 PM] : VTER004 has uploaded a file 59424586 to Hospital/Customer in IDSIL / PJO
+
+
+[09-04-2013:12:28:49 PM] : VTER004 has picked a file 59424498 in IDSIL / PJO
+
+
+[09-04-2013:12:28:54 PM] : VTER004 has uploaded a file 59424498 to Hospital/Customer in IDSIL / PJO
+
+
+[09-04-2013:12:29:01 PM] : VTER004 has picked a file 59424668 in IDSIL / PJO
+
+
+[09-04-2013:12:29:06 PM] : VTER004 has uploaded a file 59424668 to Hospital/Customer in IDSIL / PJO
+
+
+[09-04-2013:12:29:16 PM] : VTER004 has picked a file 59424721 in IDSIL / PJO
+
+
+[09-04-2013:12:29:19 PM] : VTER004 has uploaded a file 59424721 to Hospital/Customer in IDSIL / PJO
+
+
+[09-04-2013:12:30:10 PM] : VTER004 has picked a file 59430398 in IDSIL / PJO
+
+
+[09-04-2013:12:30:18 PM] : VTER004 has uploaded a file 59430398 to Hospital/Customer in IDSIL / PJO
+
+
+[09-04-2013:12:30:43 PM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[09-04-2013:12:32:27 PM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[09-04-2013:12:33:37 PM] : VTER004 has picked a file 59414337 in IDSIL / PJO
+
+
+[09-04-2013:12:33:40 PM] : VTER004 has uploaded a file 59414337 to Hospital/Customer in IDSIL / PJO
+
+
+[09-04-2013:12:34:45 PM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[09-04-2013:12:43:27 PM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[09-04-2013:12:44:26 PM] : VTER004 has picked a file 59417950 in IDSIL / PJO
+
+
+[09-04-2013:12:44:29 PM] : VTER004 has uploaded a file 59417950 to Hospital/Customer in IDSIL / PJO
+
+
+[09-04-2013:12:47:01 PM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[09-04-2013:12:48:05 PM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[09-04-2013:12:49:17 PM] : VTER004 has viewed the Edited file details in IDSIL/PJO from 2013-04-09 to 2013-04-09
+
+
+[09-04-2013:12:49:28 PM] : VTER004 has viewed the Audit file details in IDSIL / PJO from 2013-04-09 to 2013-04-09
+
+
+[09-04-2013:12:49:47 PM] : VTER004 has logged out from the Linecount Software Using the System 122.169.132.153
+
+
+[09-04-2013:6:05:09 PM] : VTER004 has logged in to IDSIL / PJO using the System 122.169.136.145
+
+
+[09-04-2013:6:07:06 PM] : VTER004 has picked a file 59434106 in IDSIL / PJO
+
+
+[09-04-2013:6:07:09 PM] : VTER004 has uploaded a file 59434106 to Hospital/Customer in IDSIL / PJO
+
+
+[09-04-2013:6:07:38 PM] : VTER004 has viewed the Edited file details in IDSIL/PJO from 2013-04-01 to 2013-04-08
+
+
+[09-04-2013:6:09:17 PM] : VTER004 has viewed the Audit file details in IDSIL / PJO from 2013-04-01 to 2013-04-01
+
+
+[09-04-2013:6:09:32 PM] : VTER004 has viewed the Audit file details in IDSIL / PJO from 2013-04-02 to 2013-04-02
+
+
+[09-04-2013:6:09:45 PM] : VTER004 has viewed the Audit file details in IDSIL / PJO from 2013-04-03 to 2013-04-03
+
+
+[09-04-2013:6:10:04 PM] : VTER004 has viewed the Audit file details in IDSIL / PJO from 2013-04-04 to 2013-04-04
+
+
+[09-04-2013:6:10:18 PM] : VTER004 has viewed the Audit file details in IDSIL / PJO from 2013-04-05 to 2013-04-05
+
+
+[09-04-2013:6:10:30 PM] : VTER004 has viewed the Audit file details in IDSIL / PJO from 2013-04-06 to 2013-04-06
+
+
+[09-04-2013:6:10:40 PM] : VTER004 has viewed the Audit file details in IDSIL / PJO from 2013-04-07 to 2013-04-07
+
+
+[09-04-2013:6:11:06 PM] : VTER004 has viewed the Audit file details in IDSIL / PJO from 2013-04-08 to 2013-04-08
+
+
+[09-04-2013:6:12:16 PM] : VTER004 has logged out from the Linecount Software Using the System 122.169.136.145
+
+
+[10-04-2013:12:54:47 AM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[10-04-2013:12:55:20 AM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[10-04-2013:1:00:56 AM] : VTER004 has viewed the Edited file details in IDSIL/PJO from 2013-04-10 to 2013-04-10
+
+
+[10-04-2013:1:01:02 AM] : VTER004 has viewed the Edited file details in IDSIL/PJO from 2013-04-09 to 2013-04-10
+
+
+[10-04-2013:1:01:19 AM] : VTER004 has viewed the Audit file details in IDSIL / PJO from 2013-04-09 to 2013-04-10
+
+
+[10-04-2013:1:01:23 AM] : VTER004 has viewed the Audit file details in IDSIL / PJO from 2013-04-10 to 2013-04-10
+
+
+[10-04-2013:1:16:59 AM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[10-04-2013:1:18:49 AM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[10-04-2013:1:35:05 AM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[10-04-2013:1:41:09 AM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[10-04-2013:2:01:20 AM] :  has uploaded a DUP file  in IDSIL / PJO

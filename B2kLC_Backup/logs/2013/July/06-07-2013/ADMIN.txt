@@ -1,0 +1,61 @@
+
+
+[06-07-2013:8:36:25 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[06-07-2013:10:29:53 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[06-07-2013:11:05:47 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[06-07-2013:11:41:50 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+[06-07-2013:11:42:08 AM] : ADMIN has Deleted the details of the file 90329990.
+
+
+[06-07-2013:12:26:20 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[06-07-2013:12:28:50 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[06-07-2013:1:01:55 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[06-07-2013:1:09:28 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[06-07-2013:1:29:58 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[06-07-2013:1:40:04 PM] : ADMIN has Viewed Employee Details
+
+
+[06-07-2013:2:40:47 PM] : ADMIN has logged out from the Linecount Software Using the System 59.90.86.47
+
+
+[06-07-2013:2:40:52 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+[06-07-2013:2:41:05 PM] : ADMIN has Approved Leave request from the ID B2KER001 on 2013-07-05.
+
+
+[06-07-2013:3:02:32 PM] : ADMIN has Viewed Employee Details
+
+
+[06-07-2013:3:07:28 PM] : ADMIN has Viewed Employee Details
+
+
+[06-07-2013:5:10:00 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[06-07-2013:6:22:26 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[06-07-2013:6:22:31 PM] : ADMIN has logged out from the Linecount Software Using the System 59.90.86.47
+
+
+[06-07-2013:6:32:43 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[06-07-2013:10:29:08 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35

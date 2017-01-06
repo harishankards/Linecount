@@ -1,0 +1,27 @@
+
+
+[12-04-2016:3:35:21 PM] : ADMIN has logged in to Admin page using the System 59.90.159.3
+
+
+[12-04-2016:3:36:19 PM] : ADMIN has logged in to Admin page using the System 59.90.159.3
+
+
+[12-04-2016:3:42:42 PM] : ADMIN has logged in to Admin page using the System 182.72.119.226
+
+
+[12-04-2016:5:28:47 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[12-04-2016:5:29:22 PM] : ADMIN has Viewed Employee Details
+
+
+[12-04-2016:5:29:45 PM] : ADMIN has Viewed Employee Details
+
+
+[12-04-2016:5:36:19 PM] : ADMIN has Viewed Employee Details
+
+
+[12-04-2016:5:59:31 PM] : ADMIN has added Employee Details[P.SUDHAMATHI] into the Database
+
+
+[12-04-2016:6:02:01 PM] : ADMIN has added Employee Details[MALATHI SURESH] into the Database

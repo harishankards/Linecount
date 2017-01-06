@@ -1,0 +1,45 @@
+
+
+[24-08-2016:6:02:04 AM] : ADMIN has logged in to Admin page using the System 182.72.119.226
+
+
+[24-08-2016:7:58:37 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[24-08-2016:9:29:15 AM] : ADMIN has logged in to Admin page using the System 59.90.159.3
+
+
+[24-08-2016:11:44:28 AM] : ADMIN has Viewed Employee Details
+
+
+[24-08-2016:11:44:37 AM] : ADMIN has Viewed Employee Details
+
+
+[24-08-2016:11:44:54 AM] : ADMIN has Viewed Employee Details
+
+
+[24-08-2016:2:42:37 PM] : ADMIN has Viewed Employee Details
+
+
+[24-08-2016:2:42:43 PM] : ADMIN has Viewed Employee Details
+
+
+[24-08-2016:2:45:40 PM] : ADMIN has added Employee Details[KANAGA DURGA] into the Database
+
+
+[24-08-2016:4:24:33 PM] : ADMIN has logged in to Admin page using the System 14.102.34.42
+
+
+[24-08-2016:5:36:49 PM] : ADMIN has logged in to Admin page using the System 117.203.158.244
+
+
+[24-08-2016:5:37:26 PM] : ADMIN has logged out from the Linecount Software Using the System 117.203.158.244
+
+
+[24-08-2016:5:52:48 PM] : ADMIN has logged in to Admin page using the System 182.72.119.226
+
+
+[24-08-2016:9:39:24 PM] : ADMIN has Viewed Employee Details
+
+
+[24-08-2016:9:39:42 PM] : ADMIN has Viewed Employee Details

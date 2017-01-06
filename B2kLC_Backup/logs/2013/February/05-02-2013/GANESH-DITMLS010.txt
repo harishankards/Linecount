@@ -1,0 +1,12 @@
+
+
+[05-02-2013:5:15:59 PM] : DITMLS010 has logged in to IDSIL / PJO using the System 117.203.98.102
+
+
+[05-02-2013:5:16:21 PM] : DITMLS010 has viewed the file details in IDSIL / PJO from 2013-01-01 to 2013-01-31
+
+
+[05-02-2013:5:16:58 PM] : DITMLS010 has Downloaded a file details in IDSIL / PJO from 2013-01-01 to 2013-01-31
+
+
+[05-02-2013:5:17:43 PM] : DITMLS010 has logged out from the Linecount Software Using the System 117.203.98.102

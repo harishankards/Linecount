@@ -1,0 +1,18 @@
+
+
+[16-01-2013:2:24:49 PM] : SKPOER002 has logged in to IDSIL / PJO using the System 14.102.34.42
+
+
+[16-01-2013:2:25:54 PM] : SKPOER002 has picked a file 56797034 in IDSIL / PJO
+
+
+[16-01-2013:2:31:51 PM] : SKPOER002 has picked a file 56797769 in IDSIL / PJO
+
+
+[16-01-2013:2:43:19 PM] : SKPOER002 has uploaded a file 56797769 to Hospital/Customer in IDSIL / PJO
+
+
+[16-01-2013:2:57:47 PM] : SKPOER002 has picked a file 56801471 in IDSIL / PJO
+
+
+[16-01-2013:3:51:37 PM] : SKPOER002 has added a Audit file 56802333 in IDSIL / PJO 

@@ -1,0 +1,14 @@
+var flashvars = {};
+flashvars.cssSource = "css/roller.css";
+flashvars.xmlSource = "roller_list.xml";
+var params = {};
+params.play = "true";
+params.menu = "false";
+params.quality = "high";
+params.scale = "exactfit";
+params.wmode = "transparent";
+params.allowfullscreen = "true";
+params.allowscriptaccess = "always";
+params.allownetworking = "all";
+params.bgcolor = "#f2f2f2";
+swfobject.embedSWF('roller.swf', 'roller', '500', '280', '10', null, flashvars, params, null);	

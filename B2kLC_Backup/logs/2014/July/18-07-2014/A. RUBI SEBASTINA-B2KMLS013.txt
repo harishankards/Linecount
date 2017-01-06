@@ -1,0 +1,12 @@
+
+
+[18-07-2014:2:44:26 PM] : B2KMLS013 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[18-07-2014:2:44:52 PM] : B2KMLS013 has picked a file 71294014 in IDSIL / PJO
+
+
+[18-07-2014:2:46:26 PM] : B2KMLS013 has uploaded a file 71294014 to Hospital/Customer in IDSIL / PJO
+
+
+[18-07-2014:2:46:52 PM] : B2KMLS013 has logged out from the Linecount Software Using the System 123.255.248.35

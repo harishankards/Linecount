@@ -1,0 +1,69 @@
+
+
+[13-08-2016:4:30:28 AM] : B2KMLS40 has logged in to IDSIL / PJO using the System 180.215.121.77
+
+
+[13-08-2016:5:36:39 AM] : B2KMLS40 has logged in to IDSIL / PJO using the System 180.215.122.121
+
+
+[13-08-2016:5:37:24 AM] : B2KMLS40 has added a Audit file 99533745 in IDSIL / PJO 
+
+
+[13-08-2016:5:41:48 AM] : B2KMLS40 has viewed the Audit file details in IDSIL / PJO from 2016-08-13 to 2016-08-13
+
+
+[13-08-2016:6:21:57 AM] : B2KMLS40 has logged in to IDSIL / PJO using the System 180.215.122.121
+
+
+[13-08-2016:6:48:39 AM] : B2KMLS40 has picked a file 99534764 in IDSIL / PJO
+
+
+[13-08-2016:6:50:21 AM] : B2KMLS40 has picked a file 99533745 in IDSIL / PJO
+
+
+[13-08-2016:7:56:29 AM] : B2KMLS40 has logged in to IDSIL / PJO using the System 180.215.122.121
+
+
+[13-08-2016:2:35:48 PM] : B2KMLS40 has logged in to IDSIL / PJO using the System 49.32.64.163
+
+
+[13-08-2016:2:36:05 PM] : B2KMLS40 has picked a file 99542103 in IDSIL / PJO
+
+
+[13-08-2016:2:48:58 PM] : B2KMLS40 has picked a file 99541975 in IDSIL / PJO
+
+
+[13-08-2016:2:50:38 PM] : B2KMLS40 has picked a file 99535743 in IDSIL / PJO
+
+
+[13-08-2016:3:06:17 PM] : B2KMLS40 has picked a file 99542124 in IDSIL / PJO
+
+
+[13-08-2016:3:06:56 PM] : B2KMLS40 has picked a file 99535077 in IDSIL / PJO
+
+
+[13-08-2016:3:26:24 PM] : B2KMLS40 has picked a file 99542161 in IDSIL / PJO
+
+
+[13-08-2016:4:11:06 PM] : B2KMLS40 has viewed the Edited file details in IDSIL/PJO from 2016-08-01 to 2016-08-13
+
+
+[13-08-2016:9:18:13 PM] : B2KMLS40 has logged in to IDSIL / PJO using the System 180.215.123.207
+
+
+[14-08-2016:4:34:04 AM] : B2KMLS40 has picked a file 99545743 in IDSIL / PJO
+
+
+[14-08-2016:4:39:07 AM] : B2KMLS40 has picked a file 99546433 in IDSIL / PJO
+
+
+[14-08-2016:4:41:05 AM] : B2KMLS40 has picked a file 99546497 in IDSIL / PJO
+
+
+[14-08-2016:5:04:10 AM] : B2KMLS40 has picked a file 99547182 in IDSIL / PJO
+
+
+[14-08-2016:5:18:05 AM] : B2KMLS40 has picked a file 99546195 in IDSIL / PJO
+
+
+[14-08-2016:5:27:46 AM] : B2KMLS40 has picked a file 99547900 in IDSIL / PJO

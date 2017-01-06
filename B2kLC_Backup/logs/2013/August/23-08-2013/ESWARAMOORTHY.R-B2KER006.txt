@@ -1,0 +1,132 @@
+
+
+[23-08-2013:1:54:47 AM] : B2KER006 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[23-08-2013:1:19:32 PM] : B2KER006 has logged in to IDSIL / PJO using the System 117.213.64.151
+
+
+[23-08-2013:1:19:54 PM] : B2KER006 has picked a file 63059815 in IDSIL / PJO
+
+
+[23-08-2013:1:20:01 PM] : B2KER006 has uploaded a file 63059815 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[23-08-2013:2:01:27 PM] : B2KER006 has picked a file 63060082 in IDSIL / PJO
+
+
+[23-08-2013:2:01:33 PM] : B2KER006 has uploaded a file 63060082 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[23-08-2013:2:20:23 PM] : B2KER006 has picked a file 63060158 in IDSIL / PJO
+
+
+[23-08-2013:2:20:29 PM] : B2KER006 has uploaded a file 63060158 to Hospital/Customer in IDSIL / PJO
+
+
+[23-08-2013:3:11:11 PM] : B2KER006 has picked a file 63060860 in IDSIL / PJO
+
+
+[23-08-2013:3:11:29 PM] : B2KER006 has uploaded a file 63060860 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[23-08-2013:9:31:50 PM] : B2KER006 has logged in to IDSIL / PJO using the System 117.206.98.174
+
+
+[23-08-2013:9:35:32 PM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[23-08-2013:9:45:24 PM] : B2KER006 has added a Audit file 63065724 in IDSIL / PJO 
+
+
+[23-08-2013:9:49:39 PM] : B2KER006 has picked a file 63065761 in IDSIL / PJO
+
+
+[23-08-2013:9:49:45 PM] : B2KER006 has uploaded a file 63065761 to Hospital/Customer in IDSIL / PJO
+
+
+[23-08-2013:9:57:08 PM] : B2KER006 has picked a file 63066124 in IDSIL / PJO
+
+
+[23-08-2013:9:57:12 PM] : B2KER006 has uploaded a file 63066124 to Hospital/Customer in IDSIL / PJO
+
+
+[23-08-2013:10:06:38 PM] : B2KER006 has picked a file 63066367 in IDSIL / PJO
+
+
+[23-08-2013:10:06:47 PM] : B2KER006 has uploaded a file 63066367 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[23-08-2013:10:10:36 PM] : B2KER006 has picked a file 63066488 in IDSIL / PJO
+
+
+[23-08-2013:10:10:42 PM] : B2KER006 has uploaded a file 63066488 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[23-08-2013:10:16:55 PM] : B2KER006 has picked a file 63066651 in IDSIL / PJO
+
+
+[23-08-2013:10:17:03 PM] : B2KER006 has uploaded a file 63066651 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[23-08-2013:10:22:14 PM] : B2KER006 has picked a file 63066530 in IDSIL / PJO
+
+
+[23-08-2013:10:22:21 PM] : B2KER006 has uploaded a file 63066530 to Hospital/Customer in IDSIL / PJO
+
+
+[23-08-2013:10:28:28 PM] : B2KER006 has picked a file 63066809 in IDSIL / PJO
+
+
+[23-08-2013:10:28:36 PM] : B2KER006 has uploaded a file 63066809 to Hospital/Customer in IDSIL / PJO
+
+
+[23-08-2013:10:43:26 PM] : B2KER006 has picked a file 63067140 in IDSIL / PJO
+
+
+[23-08-2013:10:43:31 PM] : B2KER006 has uploaded a file 63067140 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[23-08-2013:10:45:34 PM] : B2KER006 has picked a file 63067049 in IDSIL / PJO
+
+
+[23-08-2013:10:45:39 PM] : B2KER006 has uploaded a file 63067049 to Hospital/Customer in IDSIL / PJO
+
+
+[23-08-2013:10:53:59 PM] : B2KER006 has picked a file 63067222 in IDSIL / PJO
+
+
+[23-08-2013:10:54:05 PM] : B2KER006 has uploaded a file 63067222 to Hospital/Customer in IDSIL / PJO
+
+
+[23-08-2013:11:36:42 PM] : B2KER006 has logged in to IDSIL / PJO using the System 117.206.98.174
+
+
+[23-08-2013:11:36:57 PM] : B2KER006 has picked a file 63069620 in IDSIL / PJO
+
+
+[23-08-2013:11:37:02 PM] : B2KER006 has uploaded a file 63069620 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[23-08-2013:11:59:46 PM] : B2KER006 has picked a file 63049994 in IDSIL / PJO
+
+
+[23-08-2013:11:59:51 PM] : B2KER006 has uploaded a file 63049994 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[24-08-2013:12:08:02 AM] : B2KER006 has picked a file 63065338 in IDSIL / PJO
+
+
+[24-08-2013:12:08:11 AM] : B2KER006 has uploaded a file 63065338 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[24-08-2013:12:57:47 AM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[24-08-2013:1:06:59 AM] : B2KER006 has picked a file 63062435 in IDSIL / PJO
+
+
+[24-08-2013:1:07:04 AM] : B2KER006 has uploaded a file 63062435 to Hospital/Customer in IDSIL / PJO
+
+
+[24-08-2013:1:52:04 AM] :  has uploaded a DUP file  in IDSIL / PJO

@@ -1,0 +1,63 @@
+
+
+[29-05-2014:9:31:57 AM] : B2KMLS005 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[29-05-2014:9:34:32 AM] : B2KMLS005 has picked a file 70121497 in IDSIL / PJO
+
+
+[29-05-2014:10:05:31 AM] : B2KMLS005 has uploaded a file 70121497 to Hospital/Customer in IDSIL / PJO
+
+
+[29-05-2014:10:10:39 AM] : B2KMLS005 has added a Audit file 70121830 in IDSIL / PJO 
+
+
+[29-05-2014:10:18:00 AM] : B2KMLS005 has viewed the Audit file details in IDSIL / PJO from 2014-05-29 to 2014-05-29
+
+
+[29-05-2014:11:51:56 AM] : B2KMLS005 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[29-05-2014:11:52:43 AM] : B2KMLS005 has picked a file 70125271 in IDSIL / PJO
+
+
+[29-05-2014:2:20:17 PM] : B2KMLS005 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[29-05-2014:2:20:24 PM] : B2KMLS005 has uploaded a file 70125271 to Hospital/Customer in IDSIL / PJO
+
+
+[29-05-2014:2:20:36 PM] : B2KMLS005 has picked a file 70125895 in IDSIL / PJO
+
+
+[29-05-2014:2:39:22 PM] : B2KMLS005 has uploaded a file 70125895 to Hospital/Customer in IDSIL / PJO
+
+
+[29-05-2014:3:06:05 PM] : B2KMLS005 has picked a file 70119364 in IDSIL / PJO
+
+
+[29-05-2014:3:48:50 PM] : B2KMLS005 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[29-05-2014:3:48:58 PM] : B2KMLS005 has uploaded a file 70119364 to Hospital/Customer in IDSIL / PJO
+
+
+[29-05-2014:3:50:18 PM] : B2KMLS005 has picked a file 70128991 in IDSIL / PJO
+
+
+[29-05-2014:5:07:27 PM] : B2KMLS005 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[29-05-2014:5:07:36 PM] : B2KMLS005 has uploaded a file 70128991 to Hospital/Customer in IDSIL / PJO
+
+
+[29-05-2014:5:07:52 PM] : B2KMLS005 has picked a file 70120749 in IDSIL / PJO
+
+
+[29-05-2014:5:43:07 PM] : B2KMLS005 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[29-05-2014:5:45:11 PM] : B2KMLS005 has uploaded a file 70120749 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[29-05-2014:5:45:17 PM] : B2KMLS005 has logged out from the Linecount Software Using the System 123.255.248.35

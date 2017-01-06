@@ -1,0 +1,108 @@
+
+
+[12-04-2013:11:07:26 AM] : ATER007 has logged in to IDSIL / PJO using the System 202.129.197.58
+
+
+[12-04-2013:11:07:52 AM] : ATER007 has picked a file 59542770 in IDSIL / PJO
+
+
+[12-04-2013:11:22:26 AM] : ATER007 has logged out from the Linecount Software Using the System 202.129.197.58
+
+
+[12-04-2013:11:45:31 AM] : ATER007 has logged in to IDSIL / PJO using the System 202.129.197.58
+
+
+[12-04-2013:11:46:10 AM] : ATER007 has picked a file 59494613 in IDSIL / PJO
+
+
+[12-04-2013:12:18:50 PM] : ATER007 has logged in to IDSIL / PJO using the System 202.129.197.58
+
+
+[12-04-2013:12:18:58 PM] : ATER007 has uploaded a file 59494613 to Hospital/Customer in IDSIL / PJO
+
+
+[12-04-2013:12:19:39 PM] : ATER007 has picked a file 59494866 in IDSIL / PJO
+
+
+[12-04-2013:12:37:19 PM] : ATER007 has uploaded a file 59494866 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[12-04-2013:12:37:27 PM] : ATER007 has viewed the Edited file details in IDSIL/PJO from 2013-04-12 to 2013-04-12
+
+
+[12-04-2013:12:37:40 PM] : ATER007 has viewed the Edited file details in IDSIL/PJO from 2013-04-11 to 2013-04-12
+
+
+[12-04-2013:12:37:56 PM] : ATER007 has viewed the Edited file details in IDSIL/PJO from 2013-04-12 to 2013-04-12
+
+
+[12-04-2013:12:38:25 PM] : ATER007 has viewed the DUP file details in IDSIL/PJO from 2013-04-10 to 2013-04-12
+
+
+[12-04-2013:12:39:04 PM] : ATER007 has viewed the DUP file details in IDSIL/PJO from 2013-04-01 to 2013-04-12
+
+
+[12-04-2013:12:42:28 PM] : ATER007 has viewed the Edited file details in IDSIL/PJO from 2013-04-01 to 2013-04-12
+
+
+[12-04-2013:12:43:11 PM] : ATER007 has viewed the Audit file details in IDSIL / PJO from 2013-04-01 to 2013-04-12
+
+
+[12-04-2013:12:43:39 PM] : ATER007 has viewed the Edited file details in IDSIL/PJO from 2013-04-01 to 2013-04-12
+
+
+[12-04-2013:12:43:44 PM] : ATER007 has Downloaded a file details in IDSIL / PJO from 2013-04-01 to 2013-04-12
+
+
+[12-04-2013:12:44:44 PM] : ATER007 has logged out from the Linecount Software Using the System 202.129.197.58
+
+
+[12-04-2013:3:18:23 PM] : ATER007 has logged in to IDSIL / PJO using the System 202.129.197.58
+
+
+[12-04-2013:3:18:50 PM] : ATER007 has picked a file 59498346 in IDSIL / PJO
+
+
+[12-04-2013:3:33:44 PM] : ATER007 has uploaded a file 59498346 to Hospital/Customer in IDSIL / PJO
+
+
+[12-04-2013:3:34:10 PM] : ATER007 has viewed the Edited file details in IDSIL/PJO from 2013-04-12 to 2013-04-12
+
+
+[12-04-2013:3:34:25 PM] : ATER007 has logged out from the Linecount Software Using the System 202.129.197.58
+
+
+[12-04-2013:4:25:51 PM] : ATER007 has logged in to IDSIL / PJO using the System 202.129.197.58
+
+
+[12-04-2013:4:26:12 PM] : ATER007 has picked a file 59532929 in IDSIL / PJO
+
+
+[12-04-2013:5:19:55 PM] : ATER007 has logged in to IDSIL / PJO using the System 202.129.197.58
+
+
+[12-04-2013:5:20:02 PM] : ATER007 has uploaded a file 59532929 to Hospital/Customer in IDSIL / PJO
+
+
+[12-04-2013:5:27:27 PM] : ATER007 has picked a file 59513629 in IDSIL / PJO
+
+
+[12-04-2013:5:33:14 PM] : ATER007 has uploaded a file 59513629 to Hospital/Customer in IDSIL / PJO
+
+
+[12-04-2013:5:36:07 PM] : ATER007 has picked a file 59514315 in IDSIL / PJO
+
+
+[12-04-2013:5:36:13 PM] : ATER007 has uploaded a file 59514315 to Hospital/Customer in IDSIL / PJO
+
+
+[12-04-2013:5:37:38 PM] : ATER007 has picked a file 59514218 in IDSIL / PJO
+
+
+[12-04-2013:5:44:58 PM] : ATER007 has uploaded a file 59514218 to Hospital/Customer in IDSIL / PJO
+
+
+[12-04-2013:5:45:20 PM] : ATER007 has viewed the Edited file details in IDSIL/PJO from 2013-04-12 to 2013-04-12
+
+
+[12-04-2013:5:45:43 PM] : ATER007 has logged out from the Linecount Software Using the System 202.129.197.58

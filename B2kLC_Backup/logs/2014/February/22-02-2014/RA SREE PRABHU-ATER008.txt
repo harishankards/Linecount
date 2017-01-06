@@ -1,0 +1,30 @@
+
+
+[22-02-2014:5:42:42 PM] : ATER008 has logged in to IDSIL / PJO using the System 202.129.197.58
+
+
+[22-02-2014:5:48:22 PM] : ATER008 has picked a file 67717583 in IDSIL / PJO
+
+
+[22-02-2014:6:00:47 PM] : ATER008 has uploaded a file 67717583 to Hospital/Customer in IDSIL / PJO
+
+
+[22-02-2014:6:06:21 PM] : ATER008 has picked a file 67717768 in IDSIL / PJO
+
+
+[22-02-2014:6:06:27 PM] : ATER008 has uploaded a file 67717768 to Hospital/Customer in IDSIL / PJO
+
+
+[22-02-2014:6:16:00 PM] : ATER008 has picked a file 67720237 in IDSIL / PJO
+
+
+[22-02-2014:6:16:05 PM] : ATER008 has uploaded a file 67720237 to Hospital/Customer in IDSIL / PJO
+
+
+[22-02-2014:9:46:46 PM] : ATER008 has logged in to IDSIL / PJO using the System 202.129.197.58
+
+
+[22-02-2014:9:47:05 PM] : ATER008 has viewed the Edited file details in IDSIL/PJO from 2014-02-01 to 2014-02-22
+
+
+[22-02-2014:9:50:05 PM] : ATER008 has logged out from the Linecount Software Using the System 202.129.197.58

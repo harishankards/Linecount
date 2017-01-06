@@ -1,0 +1,69 @@
+
+
+[24-05-2014:8:33:15 AM] : ARER007 has logged in to IDSIL / PJO using the System 101.63.235.73
+
+
+[24-05-2014:8:36:46 AM] : ARER007 has picked a file 70028600 in IDSIL / PJO
+
+
+[24-05-2014:8:47:05 AM] : ARER007 has uploaded a file 70028600 to Hospital/Customer in IDSIL / PJO
+
+
+[24-05-2014:8:51:22 AM] : ARER007 has picked a file 70025960 in IDSIL / PJO
+
+
+[24-05-2014:9:09:16 AM] : ARER007 has uploaded a file 70025960 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[24-05-2014:9:20:55 AM] : ARER007 has picked a file 70026561 in IDSIL / PJO
+
+
+[24-05-2014:9:21:26 AM] : ARER007 has uploaded a file 70026561 to Hospital/Customer in IDSIL / PJO
+
+
+[24-05-2014:9:23:57 AM] : ARER007 has picked a file 70026527 in IDSIL / PJO
+
+
+[24-05-2014:9:31:43 AM] : ARER007 has uploaded a file 70026527 to Hospital/Customer in IDSIL / PJO
+
+
+[24-05-2014:9:32:08 AM] : ARER007 has picked a file 70019941 in IDSIL / PJO
+
+
+[24-05-2014:9:55:33 AM] : ARER007 has uploaded a file 70019941 to Hospital/Customer in IDSIL / PJO
+
+
+[24-05-2014:9:55:58 AM] : ARER007 has picked a file 70022318 in IDSIL / PJO
+
+
+[24-05-2014:10:05:17 AM] : ARER007 has uploaded a file 70022318 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[24-05-2014:10:05:56 AM] : ARER007 has picked a file 70026056 in IDSIL / PJO
+
+
+[24-05-2014:10:30:54 AM] : ARER007 has uploaded a file 70026056 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[24-05-2014:10:31:26 AM] : ARER007 has picked a file 70026353 in IDSIL / PJO
+
+
+[24-05-2014:11:35:40 AM] : ARER007 has logged in to IDSIL / PJO using the System 115.242.104.1
+
+
+[24-05-2014:11:35:53 AM] : ARER007 has uploaded a file 70026353 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[24-05-2014:11:37:08 AM] : ARER007 has picked a file 70029872 in IDSIL / PJO
+
+
+[24-05-2014:11:54:36 AM] : ARER007 has uploaded a file 70029872 to Hospital/Customer in IDSIL / PJO
+
+
+[24-05-2014:12:46:06 PM] : ARER007 has logged in to IDSIL / PJO using the System 101.63.187.204
+
+
+[24-05-2014:1:01:53 PM] : ARER007 has logged in to IDSIL / PJO using the System 101.63.187.204
+
+
+[24-05-2014:1:03:14 PM] : ARER007 has logged out from the Linecount Software Using the System 101.63.187.204

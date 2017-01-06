@@ -1,0 +1,63 @@
+
+
+[22-10-2013:11:22:17 AM] : ATER003 has logged in to IDSIL / PJO using the System 117.218.59.252
+
+
+[22-10-2013:11:22:35 AM] : ATER003 has picked a file 64669127 in IDSIL / PJO
+
+
+[22-10-2013:11:46:47 AM] : ATER003 has uploaded a file 64669127 to Hospital/Customer in IDSIL / PJO
+
+
+[22-10-2013:11:48:18 AM] : ATER003 has picked a file 64669532 in IDSIL / PJO
+
+
+[22-10-2013:12:04:37 PM] : ATER003 has uploaded a file 64669532 to Hospital/Customer in IDSIL / PJO
+
+
+[22-10-2013:12:08:59 PM] : ATER003 has picked a file 64663112 in IDSIL / PJO
+
+
+[22-10-2013:12:27:51 PM] : ATER003 has uploaded a file 64663112 to Hospital/Customer in IDSIL / PJO
+
+
+[22-10-2013:12:27:58 PM] : ATER003 has viewed the Edited file details in IDSIL/PJO from 2013-10-22 to 2013-10-22
+
+
+[22-10-2013:2:14:58 PM] : ATER003 has logged in to IDSIL / PJO using the System 117.218.59.252
+
+
+[22-10-2013:2:16:27 PM] : ATER003 has picked a file 64663738 in IDSIL / PJO
+
+
+[22-10-2013:2:21:10 PM] : ATER003 has logged out from the Linecount Software Using the System 117.218.59.252
+
+
+[22-10-2013:2:25:18 PM] : ATER003 has logged in to IDSIL / PJO using the System 117.218.59.252
+
+
+[22-10-2013:3:57:11 PM] : ATER003 has logged in to IDSIL / PJO using the System 117.218.59.252
+
+
+[22-10-2013:4:02:23 PM] : ATER003 has uploaded a file 64663738 to Hospital/Customer in IDSIL / PJO
+
+
+[22-10-2013:4:02:34 PM] : ATER003 has viewed the Edited file details in IDSIL/PJO from 2013-10-22 to 2013-10-22
+
+
+[22-10-2013:4:03:29 PM] : ATER003 has picked a file 64666536 in IDSIL / PJO
+
+
+[22-10-2013:5:58:31 PM] : ATER003 has logged in to IDSIL / PJO using the System 117.218.59.252
+
+
+[22-10-2013:6:00:16 PM] : ATER003 has uploaded a file 64666536 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[22-10-2013:6:00:24 PM] : ATER003 has viewed the Edited file details in IDSIL/PJO from 2013-10-22 to 2013-10-22
+
+
+[22-10-2013:6:00:38 PM] : ATER003 has viewed the Edited file details in IDSIL/PJO from 2013-10-01 to 2013-10-22
+
+
+[22-10-2013:6:01:03 PM] : ATER003 has logged out from the Linecount Software Using the System 117.218.59.252

@@ -1,0 +1,75 @@
+
+
+[28-02-2014:1:42:24 PM] : ATER008 has logged in to IDSIL / PJO using the System 202.129.197.58
+
+
+[28-02-2014:2:13:12 PM] : ATER008 has picked a file 67886895 in IDSIL / PJO
+
+
+[28-02-2014:2:13:23 PM] : ATER008 has uploaded a file 67886895 to Hospital/Customer in IDSIL / PJO
+
+
+[28-02-2014:5:24:30 PM] : ATER008 has logged in to IDSIL / PJO using the System 117.218.59.252
+
+
+[28-02-2014:5:24:47 PM] : ATER008 has viewed the Edited file details in IDSIL/PJO from 2014-02-28 to 2014-02-28
+
+
+[28-02-2014:5:27:13 PM] : ATER008 has viewed the Edited file details in IDSIL/PJO from 2014-02-01 to 2014-02-28
+
+
+[28-02-2014:5:41:50 PM] : ATER008 has picked a file 67891798 in IDSIL / PJO
+
+
+[28-02-2014:6:28:12 PM] : ATER008 has uploaded a file 67891798 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[28-02-2014:6:29:45 PM] : ATER008 has viewed the Edited file details in IDSIL/PJO from 2014-02-28 to 2014-02-28
+
+
+[28-02-2014:6:33:54 PM] : ATER008 has viewed the Edited file details in IDSIL/PJO from 2014-02-01 to 2014-02-28
+
+
+[28-02-2014:6:36:14 PM] : ATER008 has logged out from the Linecount Software Using the System 117.218.59.252
+
+
+[28-02-2014:6:37:09 PM] : ATER008 has logged in to IDSIL / PJO using the System 117.218.59.252
+
+
+[28-02-2014:6:37:20 PM] : ATER008 has viewed the Edited file details in IDSIL/PJO from 2014-02-01 to 2014-02-28
+
+
+[28-02-2014:6:38:29 PM] : ATER008 has logged out from the Linecount Software Using the System 117.218.59.252
+
+
+[28-02-2014:8:26:32 PM] : ATER008 has logged in to IDSIL / PJO using the System 117.218.59.252
+
+
+[28-02-2014:8:26:49 PM] : ATER008 has viewed the Edited file details in IDSIL/PJO from 2014-02-01 to 2014-02-28
+
+
+[28-02-2014:8:26:58 PM] : ATER008 has Downloaded a file details in IDSIL / PJO from 2014-02-01 to 2014-02-28
+
+
+[28-02-2014:8:28:47 PM] : ATER008 has viewed the third level Edited file details in IDSIL / PJO from 2014-02-01 to 2014-02-28
+
+
+[28-02-2014:8:28:58 PM] : ATER008 has viewed the Audit file details in IDSIL / PJO from 2014-02-01 to 2014-02-28
+
+
+[28-02-2014:8:29:09 PM] : ATER008 has viewed the DUP file details in IDSIL/PJO from 2014-02-01 to 2014-02-28
+
+
+[28-02-2014:8:29:20 PM] : ATER008 has viewed the Edited file details in IDSIL/PJO from 2014-02-01 to 2014-02-28
+
+
+[28-02-2014:8:29:30 PM] : ATER008 has Downloaded a file details in IDSIL / PJO from 2014-02-01 to 2014-02-28
+
+
+[28-02-2014:8:29:45 PM] : ATER008 has logged out from the Linecount Software Using the System 117.218.59.252
+
+
+[28-02-2014:8:35:38 PM] : ATER008 has logged in to IDSIL / PJO using the System 117.218.59.252
+
+
+[28-02-2014:8:35:50 PM] : ATER008 has viewed the Edited file details in IDSIL/PJO from 2014-02-01 to 2014-02-28

@@ -1,0 +1,66 @@
+
+
+[23-05-2014:9:16:03 AM] : ARER007 has logged in to IDSIL / PJO using the System 115.241.114.164
+
+
+[23-05-2014:9:16:21 AM] : ARER007 has uploaded a file 69963639 to Hospital/Customer in IDSIL / PJO
+
+
+[23-05-2014:9:17:23 AM] : ARER007 has picked a file 69996239 in IDSIL / PJO
+
+
+[23-05-2014:9:38:42 AM] : ARER007 has uploaded a file 69996239 to Hospital/Customer in IDSIL / PJO
+
+
+[23-05-2014:9:39:01 AM] : ARER007 has picked a file 69997316 in IDSIL / PJO
+
+
+[23-05-2014:10:22:33 AM] : ARER007 has logged in to IDSIL / PJO using the System 115.241.113.44
+
+
+[23-05-2014:10:23:06 AM] : ARER007 has uploaded a file 69997316 to Hospital/Customer in IDSIL / PJO
+
+
+[23-05-2014:10:23:23 AM] : ARER007 has picked a file 70002080 in IDSIL / PJO
+
+
+[23-05-2014:10:45:58 AM] : ARER007 has uploaded a file 70002080 to Hospital/Customer in IDSIL / PJO
+
+
+[23-05-2014:10:46:29 AM] : ARER007 has picked a file 69999805 in IDSIL / PJO
+
+
+[23-05-2014:11:19:35 AM] : ARER007 has uploaded a file 69999805 to Hospital/Customer in IDSIL / PJO
+
+
+[23-05-2014:11:20:03 AM] : ARER007 has picked a file 69999871 in IDSIL / PJO
+
+
+[23-05-2014:11:47:27 AM] : ARER007 has uploaded a file 69999871 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[23-05-2014:11:47:53 AM] : ARER007 has picked a file 69999945 in IDSIL / PJO
+
+
+[23-05-2014:12:16:29 PM] : ARER007 has logged in to IDSIL / PJO using the System 115.242.154.220
+
+
+[23-05-2014:12:16:48 PM] : ARER007 has uploaded a file 69999945 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[23-05-2014:12:23:10 PM] : ARER007 has picked a file 70000771 in IDSIL / PJO
+
+
+[23-05-2014:12:28:19 PM] : ARER007 has uploaded a file 70000771 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[23-05-2014:12:37:07 PM] : ARER007 has picked a file 70002693 in IDSIL / PJO
+
+
+[23-05-2014:12:59:52 PM] : ARER007 has uploaded a file 70002693 to Hospital/Customer in IDSIL / PJO
+
+
+[23-05-2014:1:00:33 PM] : ARER007 has picked a file 69987970 in IDSIL / PJO
+
+
+[23-05-2014:1:26:46 PM] : ARER007 has uploaded a file 69987970 to IDS/QA_Checkpoint in IDSIL / PJO

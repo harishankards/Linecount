@@ -1,0 +1,39 @@
+
+
+[01-07-2013:10:03:51 AM] : B2KMLS003 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[01-07-2013:10:04:28 AM] : B2KMLS003 has viewed the file details in IDSIL / PJO from 2013-06-01 to 2013-07-01
+
+
+[01-07-2013:10:04:51 AM] : B2KMLS003 has Downloaded a file details in IDSIL / PJO from 2013-06-01 to 2013-07-01
+
+
+[01-07-2013:10:35:16 AM] : B2KMLS003 has viewed the file details in IDSIL / PJO from 2013-06-01 to 2013-07-01
+
+
+[01-07-2013:10:35:26 AM] : B2KMLS003 has Downloaded a file details in IDSIL / PJO from 2013-06-01 to 2013-07-01
+
+
+[01-07-2013:12:14:18 PM] : B2KMLS003 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[01-07-2013:12:36:11 PM] : B2KMLS003 has uploaded a DUP file 61791684 in IDSIL / PJO
+
+
+[01-07-2013:12:57:20 PM] : B2KMLS003 has uploaded a DUP file 61789151 in IDSIL / PJO
+
+
+[01-07-2013:2:43:02 PM] : B2KMLS003 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[01-07-2013:2:43:13 PM] : B2KMLS003 has uploaded a DUP file 61789738 in IDSIL / PJO
+
+
+[01-07-2013:4:49:52 PM] : B2KMLS003 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[01-07-2013:4:49:58 PM] : B2KMLS003 has uploaded a DUP file 61775944 in IDSIL / PJO
+
+
+[01-07-2013:5:00:34 PM] : B2KMLS003 has logged out from the Linecount Software Using the System 123.255.248.35

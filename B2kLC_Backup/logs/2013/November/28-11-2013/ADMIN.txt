@@ -1,0 +1,69 @@
+
+
+[28-11-2013:4:24:16 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[28-11-2013:6:21:00 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[28-11-2013:6:30:21 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[28-11-2013:7:46:39 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[28-11-2013:9:38:17 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[28-11-2013:10:10:19 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+[28-11-2013:10:18:07 AM] : ADMIN has added an Update into the Database
+
+
+[28-11-2013:10:39:14 AM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[28-11-2013:11:01:17 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[28-11-2013:11:01:34 AM] : ADMIN has Rejected Leave request from the ID B2KMLS025 on 2013-11-29.
+
+
+[28-11-2013:12:26:43 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[28-11-2013:12:27:44 PM] : ADMIN has Deleted the details of the file 65680697.
+
+
+[28-11-2013:12:38:48 PM] : ADMIN has Viewed Employee Details
+
+
+[28-11-2013:12:40:38 PM] : ADMIN has added Employee Details[ARUN BABU] into the Database
+
+
+[28-11-2013:1:37:12 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[28-11-2013:2:15:59 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[28-11-2013:3:11:06 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[28-11-2013:3:41:54 PM] : ADMIN has Viewed Employee Details
+
+
+[28-11-2013:3:42:23 PM] : ADMIN has Viewed Employee Details
+
+
+[28-11-2013:4:13:04 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[28-11-2013:4:38:05 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[28-11-2013:5:08:47 PM] : ADMIN has Viewed Employee Details
+
+
+[28-11-2013:5:08:57 PM] : ADMIN has Viewed Employee Details
+
+
+[28-11-2013:6:44:42 PM] : ADMIN has Viewed Employee Details

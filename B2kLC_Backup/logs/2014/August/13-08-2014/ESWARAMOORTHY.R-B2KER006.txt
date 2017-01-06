@@ -1,0 +1,57 @@
+
+
+[13-08-2014:7:32:53 AM] : B2KER006 has logged in to IDSIL / PJO using the System 101.222.224.58
+
+
+[13-08-2014:7:33:13 AM] : B2KER006 has picked a file 71854018 in IDSIL / PJO
+
+
+[13-08-2014:7:33:18 AM] : B2KER006 has uploaded a file 71854018 to Hospital/Customer in IDSIL / PJO
+
+
+[13-08-2014:7:48:11 AM] : B2KER006 has added a Audit file 71855265 in IDSIL / PJO 
+
+
+[13-08-2014:7:53:47 AM] : B2KER006 has picked a file 71859096 in IDSIL / PJO
+
+
+[13-08-2014:7:53:54 AM] : B2KER006 has uploaded a file 71859096 to Hospital/Customer in IDSIL / PJO
+
+
+[13-08-2014:4:38:20 PM] : B2KER006 has logged in to IDSIL / PJO using the System 101.222.250.135
+
+
+[13-08-2014:4:38:46 PM] : B2KER006 has picked a file 71872937 in IDSIL / PJO
+
+
+[13-08-2014:4:38:52 PM] : B2KER006 has uploaded a file 71872937 to Hospital/Customer in IDSIL / PJO
+
+
+[13-08-2014:5:17:18 PM] : B2KER006 has logged in to IDSIL / PJO using the System 101.222.250.135
+
+
+[13-08-2014:5:17:40 PM] : B2KER006 has viewed the DUP file details in IDSIL/PJO from 2014-05-01 to 2014-06-16
+
+
+[13-08-2014:5:18:23 PM] : B2KER006 has viewed the Edited file details in IDSIL/PJO from 2014-05-16 to 2014-05-31
+
+
+[13-08-2014:5:19:00 PM] : B2KER006 has viewed the Audit file details in IDSIL / PJO from 2014-05-16 to 2014-05-31
+
+
+[13-08-2014:5:19:31 PM] : B2KER006 has viewed the Audit file details in IDSIL / PJO from 2014-05-01 to 2014-06-16
+
+
+[13-08-2014:5:19:51 PM] : B2KER006 has viewed the Audit file details in IDSIL / PJO from 2014-05-01 to 2014-05-16
+
+
+[13-08-2014:5:20:14 PM] : B2KER006 has viewed the Edited file details in IDSIL/PJO from 2014-05-01 to 2014-05-16
+
+
+[13-08-2014:5:22:44 PM] : B2KER006 has viewed the Edited file details in IDSIL/PJO from 2014-08-01 to 2014-08-13
+
+
+[13-08-2014:5:23:00 PM] : B2KER006 has viewed the DUP file details in IDSIL/PJO from 2014-08-01 to 2014-08-13
+
+
+[13-08-2014:5:23:10 PM] : B2KER006 has logged out from the Linecount Software Using the System 101.222.250.135

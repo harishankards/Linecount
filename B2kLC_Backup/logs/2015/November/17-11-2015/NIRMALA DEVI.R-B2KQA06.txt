@@ -1,0 +1,129 @@
+
+
+[17-11-2015:10:01:38 AM] : B2KQA06 has logged in to IDSIL / PJO using the System 117.241.89.63
+
+
+[17-11-2015:10:02:58 AM] : B2KQA06 has logged in to IDSIL / PJO using the System 117.241.89.63
+
+
+[17-11-2015:10:03:00 AM] : B2KQA06 has logged in to IDSIL / PJO using the System 117.241.89.63
+
+
+[17-11-2015:10:03:42 AM] : B2KQA06 has picked a file 95167597 in IDSIL / PJO
+
+
+[17-11-2015:10:15:21 AM] : B2KQA06 has uploaded a file 95167597 to Hospital/Customer in IDSIL / PJO
+
+
+[17-11-2015:10:15:49 AM] : B2KQA06 has picked a file 95179688 in IDSIL / PJO
+
+
+[17-11-2015:10:23:11 AM] : B2KQA06 has uploaded a file 95179688 to Hospital/Customer in IDSIL / PJO
+
+
+[17-11-2015:10:24:09 AM] : B2KQA06 has picked a file 95180021 in IDSIL / PJO
+
+
+[17-11-2015:10:29:37 AM] : B2KQA06 has uploaded a file 95180021 to Hospital/Customer in IDSIL / PJO
+
+
+[17-11-2015:10:30:26 AM] : B2KQA06 has picked a file 95176525 in IDSIL / PJO
+
+
+[17-11-2015:11:15:04 AM] : B2KQA06 has uploaded a file 95176525 to Hospital/Customer in IDSIL / PJO
+
+
+[17-11-2015:11:23:43 AM] : B2KQA06 has picked a file 95160099 in IDSIL / PJO
+
+
+[17-11-2015:11:25:51 AM] : B2KQA06 has uploaded a file 95160099 to Hospital/Customer in IDSIL / PJO
+
+
+[17-11-2015:11:44:38 AM] : B2KQA06 has picked a file 95180302 in IDSIL / PJO
+
+
+[17-11-2015:12:00:00 PM] : B2KQA06 has uploaded a file 95180302 to Hospital/Customer in IDSIL / PJO
+
+
+[17-11-2015:12:00:51 PM] : B2KQA06 has picked a file 95180390 in IDSIL / PJO
+
+
+[17-11-2015:12:22:22 PM] : B2KQA06 has picked a file 95180400 in IDSIL / PJO
+
+
+[17-11-2015:12:23:16 PM] : B2KQA06 has uploaded a file 95180390 to Hospital/Customer in IDSIL / PJO
+
+
+[17-11-2015:12:32:50 PM] : B2KQA06 has uploaded a file 95180400 to Hospital/Customer in IDSIL / PJO
+
+
+[17-11-2015:12:34:14 PM] : B2KQA06 has picked a file 95171397 in IDSIL / PJO
+
+
+[17-11-2015:12:51:25 PM] : B2KQA06 has uploaded a file 95171397 to Hospital/Customer in IDSIL / PJO
+
+
+[17-11-2015:12:51:50 PM] : B2KQA06 has picked a file 95180674 in IDSIL / PJO
+
+
+[17-11-2015:12:55:46 PM] : B2KQA06 has uploaded a file 95180674 to Hospital/Customer in IDSIL / PJO
+
+
+[17-11-2015:12:56:12 PM] : B2KQA06 has picked a file 95172030 in IDSIL / PJO
+
+
+[17-11-2015:1:14:56 PM] : B2KQA06 has uploaded a file 95172030 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[17-11-2015:1:15:37 PM] : B2KQA06 has picked a file 95172057 in IDSIL / PJO
+
+
+[17-11-2015:1:20:53 PM] : B2KQA06 has uploaded a file 95172057 to Hospital/Customer in IDSIL / PJO
+
+
+[17-11-2015:1:21:17 PM] : B2KQA06 has picked a file 95172624 in IDSIL / PJO
+
+
+[17-11-2015:1:28:52 PM] : B2KQA06 has uploaded a file 95172624 to Hospital/Customer in IDSIL / PJO
+
+
+[17-11-2015:1:30:53 PM] : B2KQA06 has picked a file 95179618 in IDSIL / PJO
+
+
+[17-11-2015:2:06:11 PM] : B2KQA06 has uploaded a file 95179618 to Hospital/Customer in IDSIL / PJO
+
+
+[17-11-2015:2:06:48 PM] : B2KQA06 has picked a file 95180069 in IDSIL / PJO
+
+
+[17-11-2015:2:32:39 PM] : B2KQA06 has uploaded a file 95180069 to Hospital/Customer in IDSIL / PJO
+
+
+[17-11-2015:3:25:03 PM] : B2KQA06 has picked a file 95165365 in IDSIL / PJO
+
+
+[17-11-2015:3:36:49 PM] : B2KQA06 has uploaded a file 95165365 to Hospital/Customer in IDSIL / PJO
+
+
+[17-11-2015:3:37:20 PM] : B2KQA06 has picked a file 95177224 in IDSIL / PJO
+
+
+[17-11-2015:3:53:36 PM] : B2KQA06 has uploaded a file 95177224 to Hospital/Customer in IDSIL / PJO
+
+
+[17-11-2015:3:54:58 PM] : B2KQA06 has picked a file 95177650 in IDSIL / PJO
+
+
+[17-11-2015:4:03:05 PM] : B2KQA06 has uploaded a file 95177650 to Hospital/Customer in IDSIL / PJO
+
+
+[17-11-2015:4:23:19 PM] : B2KQA06 has added a Audit file 95160090 in IDSIL / PJO 
+
+
+[17-11-2015:4:23:43 PM] : B2KQA06 has viewed the Audit file details in IDSIL / PJO from 2015-11-01 to 2015-11-17
+
+
+[17-11-2015:4:24:19 PM] : B2KQA06 has viewed the Edited file details in IDSIL/PJO from 2015-11-01 to 2015-11-17
+
+
+[17-11-2015:4:25:05 PM] : B2KQA06 has logged out from the Linecount Software Using the System 117.222.181.23

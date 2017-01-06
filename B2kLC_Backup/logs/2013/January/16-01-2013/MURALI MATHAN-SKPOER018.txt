@@ -1,0 +1,66 @@
+
+
+[16-01-2013:5:44:34 PM] : SKPOER018 has logged in to IDSIL / PJO using the System 106.213.183.99
+
+
+[16-01-2013:5:45:28 PM] : SKPOER018 has picked a file 56813490 in IDSIL / PJO
+
+
+[16-01-2013:6:25:52 PM] : SKPOER018 has logged in to IDSIL / PJO using the System 106.213.183.99
+
+
+[16-01-2013:6:25:58 PM] : SKPOER018 has logged in to IDSIL / PJO using the System 106.213.183.99
+
+
+[16-01-2013:6:26:42 PM] : SKPOER018 has picked a file 56818294 in IDSIL / PJO
+
+
+[16-01-2013:6:28:20 PM] : SKPOER018 has uploaded a file 56813490 to Hospital/Customer in IDSIL / PJO
+
+
+[16-01-2013:6:40:31 PM] : SKPOER018 has picked a file 56818264 in IDSIL / PJO
+
+
+[16-01-2013:6:42:23 PM] : SKPOER018 has uploaded a file 56818294 to Hospital/Customer in IDSIL / PJO
+
+
+[16-01-2013:7:08:04 PM] : SKPOER018 has uploaded a file 56818264 to Hospital/Customer in IDSIL / PJO
+
+
+[16-01-2013:7:09:46 PM] : SKPOER018 has picked a file 56807023 in IDSIL / PJO
+
+
+[16-01-2013:7:34:10 PM] : SKPOER018 has uploaded a file 56807023 to Hospital/Customer in IDSIL / PJO
+
+
+[16-01-2013:7:35:48 PM] : SKPOER018 has picked a file 56817127 in IDSIL / PJO
+
+
+[16-01-2013:7:47:41 PM] : SKPOER018 has uploaded a file 56817127 to Hospital/Customer in IDSIL / PJO
+
+
+[16-01-2013:7:48:57 PM] : SKPOER018 has picked a file 56818046 in IDSIL / PJO
+
+
+[16-01-2013:8:21:30 PM] : SKPOER018 has uploaded a file 56818046 to Hospital/Customer in IDSIL / PJO
+
+
+[16-01-2013:8:31:07 PM] : SKPOER018 has added a Audit file 56823715 in IDSIL / PJO 
+
+
+[16-01-2013:8:41:07 PM] : SKPOER018 has added a Audit file 5680540 in IDSIL / PJO 
+
+
+[16-01-2013:8:51:34 PM] : SKPOER018 has picked a file 56808078 in IDSIL / PJO
+
+
+[16-01-2013:9:03:42 PM] : SKPOER018 has picked a file 56810841 in IDSIL / PJO
+
+
+[16-01-2013:9:05:07 PM] : SKPOER018 has uploaded a file 56808078 to Hospital/Customer in IDSIL / PJO
+
+
+[16-01-2013:9:22:08 PM] : SKPOER018 has uploaded a file 56810841 to Hospital/Customer in IDSIL / PJO
+
+
+[16-01-2013:9:22:56 PM] : SKPOER018 has logged out from the Linecount Software Using the System 106.213.183.99

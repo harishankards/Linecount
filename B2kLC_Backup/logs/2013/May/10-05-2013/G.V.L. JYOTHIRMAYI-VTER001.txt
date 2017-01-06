@@ -1,0 +1,63 @@
+
+
+[10-05-2013:11:17:21 AM] : VTER001 has logged in to IDSIL / PJO using the System 122.169.158.182
+
+
+[10-05-2013:11:29:09 AM] : VTER001 has picked a file 60349740 in IDSIL / PJO
+
+
+[10-05-2013:11:37:32 AM] : VTER001 has uploaded a file 60349740 to Hospital/Customer in IDSIL / PJO
+
+
+[10-05-2013:11:38:53 AM] : VTER001 has picked a file 60349762 in IDSIL / PJO
+
+
+[10-05-2013:11:45:34 AM] : VTER001 has uploaded a file 60349762 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[10-05-2013:11:45:44 AM] : VTER001 has picked a file 60349784 in IDSIL / PJO
+
+
+[10-05-2013:11:49:46 AM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[10-05-2013:11:51:02 AM] : VTER001 has uploaded a file 60349784 to Hospital/Customer in IDSIL / PJO
+
+
+[10-05-2013:11:56:33 AM] : VTER001 has picked a file 60349829 in IDSIL / PJO
+
+
+[10-05-2013:11:56:38 AM] : VTER001 has uploaded a file 60349829 to Hospital/Customer in IDSIL / PJO
+
+
+[10-05-2013:11:56:47 AM] : VTER001 has picked a file 60339737 in IDSIL / PJO
+
+
+[10-05-2013:12:06:20 PM] : VTER001 has uploaded a file 60339737 to Hospital/Customer in IDSIL / PJO
+
+
+[10-05-2013:12:27:02 PM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[10-05-2013:12:27:19 PM] : VTER001 has picked a file 60344724 in IDSIL / PJO
+
+
+[10-05-2013:12:39:57 PM] : VTER001 has uploaded a file 60344724 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[10-05-2013:12:42:57 PM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[10-05-2013:12:45:28 PM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[10-05-2013:12:47:15 PM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[10-05-2013:1:05:16 PM] : VTER001 has picked a file 60346944 in IDSIL / PJO
+
+
+[10-05-2013:1:16:37 PM] : VTER001 has uploaded a file 60346944 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[10-05-2013:1:30:14 PM] :  has uploaded a DUP file  in IDSIL / PJO

@@ -1,0 +1,33 @@
+
+
+[30-06-2014:7:19:14 AM] : B2KMLS005 has logged in to IDSIL / PJO using the System 117.206.107.80
+
+
+[30-06-2014:7:23:04 AM] : B2KMLS005 has picked a file 70865706 in IDSIL / PJO
+
+
+[30-06-2014:9:38:02 AM] : B2KMLS005 has logged in to IDSIL / PJO using the System 117.222.181.1
+
+
+[30-06-2014:9:38:20 AM] : B2KMLS005 has uploaded a file 70865706 to Hospital/Customer in IDSIL / PJO
+
+
+[30-06-2014:9:40:12 AM] :  has uploaded a DUP file 70870998 in IDSIL / PJO
+
+
+[30-06-2014:10:37:15 AM] : B2KMLS005 has logged in to IDSIL / PJO using the System 117.222.182.53
+
+
+[30-06-2014:11:17:14 AM] : B2KMLS005 has logged in to IDSIL / PJO using the System 117.222.182.53
+
+
+[30-06-2014:11:17:54 AM] :  has uploaded a DUP file 70871438 in IDSIL / PJO
+
+
+[30-06-2014:1:40:50 PM] : B2KMLS005 has logged in to IDSIL / PJO using the System 117.222.181.149
+
+
+[30-06-2014:1:59:47 PM] : B2KMLS005 has viewed the DUP file details in IDSIL/PJO from 2014-06-01 to 2014-06-30
+
+
+[30-06-2014:1:59:59 PM] : B2KMLS005 has Downloaded a file details in IDSIL / PJO from 2014-06-01 to 2014-06-30

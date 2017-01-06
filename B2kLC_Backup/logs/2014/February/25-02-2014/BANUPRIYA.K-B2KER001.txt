@@ -1,0 +1,75 @@
+
+
+[25-02-2014:1:19:16 AM] : B2KER001 has logged in to IDSIL / PJO using the System 117.206.101.120
+
+
+[25-02-2014:1:20:14 AM] : B2KER001 has logged out from the Linecount Software Using the System 117.206.101.120
+
+
+[25-02-2014:10:13:12 AM] : B2KER001 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[25-02-2014:10:13:35 AM] : B2KER001 has viewed the DUP file details in IDSIL/PJO from 2014-02-01 to 2014-02-25
+
+
+[25-02-2014:10:13:42 AM] : B2KER001 has Downloaded a file details in IDSIL / PJO from 2014-02-01 to 2014-02-25
+
+
+[25-02-2014:10:32:29 AM] :  has uploaded a DUP file 67804014 in IDSIL / PJO
+
+
+[25-02-2014:1:12:46 PM] : B2KER001 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[25-02-2014:1:13:12 PM] :  has uploaded a DUP file 67804050 in IDSIL / PJO
+
+
+[25-02-2014:1:50:48 PM] : B2KER001 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[25-02-2014:1:52:13 PM] : B2KER001 has picked a file 67795310 in IDSIL / PJO
+
+
+[25-02-2014:2:43:09 PM] : B2KER001 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[25-02-2014:2:44:47 PM] : B2KER001 has picked a file 67804063 in IDSIL / PJO
+
+
+[25-02-2014:3:09:01 PM] : B2KER001 has picked a file 67797099 in IDSIL / PJO
+
+
+[25-02-2014:3:28:42 PM] : B2KER001 has picked a file 67797638 in IDSIL / PJO
+
+
+[25-02-2014:3:50:26 PM] : B2KER001 has picked a file 67782380 in IDSIL / PJO
+
+
+[25-02-2014:4:00:00 PM] : B2KER001 has picked a file 67764174 in IDSIL / PJO
+
+
+[25-02-2014:4:25:44 PM] : B2KER001 has picked a file 67803412 in IDSIL / PJO
+
+
+[25-02-2014:5:11:53 PM] : B2KER001 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[25-02-2014:5:15:15 PM] : B2KER001 has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[25-02-2014:5:15:20 PM] : B2KER001 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[25-02-2014:5:16:20 PM] : B2KER001 has picked a file 67805005 in IDSIL / PJO
+
+
+[25-02-2014:5:41:50 PM] : B2KER001 has picked a file 67805114 in IDSIL / PJO
+
+
+[25-02-2014:5:57:24 PM] : B2KER001 has viewed the Edited file details in IDSIL/PJO from 2014-02-01 to 2014-02-25
+
+
+[25-02-2014:9:35:45 PM] : B2KER001 has logged in to IDSIL / PJO using the System 117.201.27.47
+
+
+[25-02-2014:10:31:59 PM] :  has uploaded a DUP file 67810720 in IDSIL / PJO

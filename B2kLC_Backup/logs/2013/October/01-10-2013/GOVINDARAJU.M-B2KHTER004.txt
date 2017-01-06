@@ -1,0 +1,51 @@
+
+
+[01-10-2013:12:27:40 PM] : B2KHTER004 has logged in to IDSIL / PJO using the System 117.197.207.159
+
+
+[01-10-2013:12:29:30 PM] : B2KHTER004 has viewed the Edited file details in IDSIL/PJO from 2013-09-01 to 2013-09-30
+
+
+[01-10-2013:12:33:03 PM] : B2KHTER004 has viewed the Audit file details in IDSIL / PJO from 2013-09-01 to 2013-09-30
+
+
+[01-10-2013:12:44:36 PM] : B2KHTER004 has logged out from the Linecount Software Using the System 117.197.207.159
+
+
+[01-10-2013:4:30:50 PM] : B2KHTER004 has logged in to IDSIL / PJO using the System 117.197.194.35
+
+
+[01-10-2013:4:36:20 PM] : B2KHTER004 has picked a file 64107152 in IDSIL / PJO
+
+
+[01-10-2013:4:45:42 PM] : B2KHTER004 has uploaded a file 64107152 to Hospital/Customer in IDSIL / PJO
+
+
+[01-10-2013:5:13:01 PM] : B2KHTER004 has picked a file 64110331 in IDSIL / PJO
+
+
+[01-10-2013:5:13:08 PM] : B2KHTER004 has uploaded a file 64110331 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[01-10-2013:5:16:13 PM] : B2KHTER004 has picked a file 64114598 in IDSIL / PJO
+
+
+[01-10-2013:5:55:26 PM] : B2KHTER004 has logged in to IDSIL / PJO using the System 117.197.194.35
+
+
+[01-10-2013:5:55:34 PM] : B2KHTER004 has uploaded a file 64114598 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[01-10-2013:5:57:16 PM] : B2KHTER004 has picked a file 64116277 in IDSIL / PJO
+
+
+[01-10-2013:6:05:49 PM] : B2KHTER004 has uploaded a file 64116277 to Hospital/Customer in IDSIL / PJO
+
+
+[01-10-2013:6:07:29 PM] : B2KHTER004 has picked a file 64115534 in IDSIL / PJO
+
+
+[01-10-2013:6:13:29 PM] : B2KHTER004 has uploaded a file 64115534 to Hospital/Customer in IDSIL / PJO
+
+
+[01-10-2013:6:16:50 PM] : B2KHTER004 has logged out from the Linecount Software Using the System 117.197.194.35

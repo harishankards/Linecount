@@ -1,0 +1,51 @@
+
+
+[19-10-2015:12:04:41 AM] : ADMIN has Viewed Employee Details
+
+
+[19-10-2015:12:04:48 AM] : ADMIN has Viewed Employee Details
+
+[19-10-2015:12:06:44 AM] : ADMIN has Deleted the details of the file 94641463.
+
+
+[19-10-2015:3:07:44 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[19-10-2015:3:47:09 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[19-10-2015:6:07:53 AM] : ADMIN has Viewed Employee Details
+
+[19-10-2015:6:21:37 AM] : ADMIN has Deleted the details of the file 94642969.
+
+
+[19-10-2015:8:09:46 AM] : ADMIN has Viewed Employee Details
+
+
+[19-10-2015:8:09:53 AM] : ADMIN has Viewed Employee Details
+
+
+[19-10-2015:8:13:19 AM] : ADMIN has Viewed Employee Details
+
+[19-10-2015:10:18:51 AM] : ADMIN has Deleted the details of the file 94648658.
+
+
+[19-10-2015:12:31:25 PM] : ADMIN has logged in to Admin page using the System 117.241.90.159
+
+
+[19-10-2015:12:34:15 PM] : ADMIN has logged out from the Linecount Software Using the System 117.241.90.159
+
+
+[19-10-2015:4:13:11 PM] : ADMIN has logged in to Admin page using the System 117.241.90.159
+
+
+[19-10-2015:4:17:35 PM] : ADMIN has logged out from the Linecount Software Using the System 117.241.90.159
+
+
+[19-10-2015:6:37:32 PM] : ADMIN has Viewed Employee Details
+
+
+[19-10-2015:6:37:33 PM] : ADMIN has Viewed Employee Details
+
+
+[19-10-2015:6:37:45 PM] : ADMIN has Viewed Employee Details

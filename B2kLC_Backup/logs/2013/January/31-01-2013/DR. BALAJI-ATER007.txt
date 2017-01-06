@@ -1,0 +1,12 @@
+
+
+[31-01-2013:12:34:14 PM] : ATER007 has logged in to IDSIL / PJO using the System 117.218.59.252
+
+
+[31-01-2013:12:34:56 PM] : ATER007 has viewed the Audit file details in IDSIL / PJO from 2013-01-01 to 2013-01-20
+
+
+[31-01-2013:12:36:16 PM] : ATER007 has viewed the Edited file details in IDSIL/PJO from 2013-01-01 to 2013-01-20
+
+
+[31-01-2013:12:36:21 PM] : ATER007 has logged out from the Linecount Software Using the System 117.218.59.252

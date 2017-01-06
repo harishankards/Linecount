@@ -1,0 +1,129 @@
+
+
+[08-04-2014:8:56:50 AM] : CBEMLS018 has logged in to IDSIL / PJO using the System 14.96.118.243
+
+
+[08-04-2014:8:59:20 AM] : CBEMLS018 has picked a file 68852340 in IDSIL / PJO
+
+
+[08-04-2014:8:59:28 AM] : CBEMLS018 has uploaded a file 68852340 to Hospital/Customer in IDSIL / PJO
+
+
+[08-04-2014:9:10:34 AM] : CBEMLS018 has picked a file 68868781 in IDSIL / PJO
+
+
+[08-04-2014:9:10:59 AM] : CBEMLS018 has uploaded a file 68868781 to Hospital/Customer in IDSIL / PJO
+
+
+[08-04-2014:9:29:45 AM] : CBEMLS018 has picked a file 68868913 in IDSIL / PJO
+
+
+[08-04-2014:9:29:53 AM] : CBEMLS018 has uploaded a file 68868913 to Hospital/Customer in IDSIL / PJO
+
+
+[08-04-2014:9:42:46 AM] : CBEMLS018 has picked a file 68869664 in IDSIL / PJO
+
+
+[08-04-2014:9:42:56 AM] : CBEMLS018 has uploaded a file 68869664 to Hospital/Customer in IDSIL / PJO
+
+
+[08-04-2014:10:02:26 AM] : CBEMLS018 has picked a file 68870354 in IDSIL / PJO
+
+
+[08-04-2014:10:02:41 AM] : CBEMLS018 has uploaded a file 68870354 to Hospital/Customer in IDSIL / PJO
+
+
+[08-04-2014:10:13:11 AM] : CBEMLS018 has picked a file 68873309 in IDSIL / PJO
+
+
+[08-04-2014:10:14:12 AM] : CBEMLS018 has uploaded a file 68873309 to Hospital/Customer in IDSIL / PJO
+
+
+[08-04-2014:10:15:17 AM] : CBEMLS018 has picked a file 68874360 in IDSIL / PJO
+
+
+[08-04-2014:10:15:25 AM] : CBEMLS018 has uploaded a file 68874360 to Hospital/Customer in IDSIL / PJO
+
+
+[08-04-2014:10:22:02 AM] : CBEMLS018 has picked a file 68876996 in IDSIL / PJO
+
+
+[08-04-2014:10:22:11 AM] : CBEMLS018 has uploaded a file 68876996 to Hospital/Customer in IDSIL / PJO
+
+
+[08-04-2014:10:33:41 AM] : CBEMLS018 has picked a file 68875770 in IDSIL / PJO
+
+
+[08-04-2014:10:33:53 AM] : CBEMLS018 has uploaded a file 68875770 to Hospital/Customer in IDSIL / PJO
+
+
+[08-04-2014:10:46:21 AM] : CBEMLS018 has picked a file 68871688 in IDSIL / PJO
+
+
+[08-04-2014:10:46:31 AM] : CBEMLS018 has uploaded a file 68871688 to Hospital/Customer in IDSIL / PJO
+
+
+[08-04-2014:11:03:40 AM] : CBEMLS018 has picked a file 68874570 in IDSIL / PJO
+
+
+[08-04-2014:11:03:55 AM] : CBEMLS018 has uploaded a file 68874570 to Hospital/Customer in IDSIL / PJO
+
+
+[08-04-2014:11:20:04 AM] : CBEMLS018 has picked a file 68867958 in IDSIL / PJO
+
+
+[08-04-2014:11:20:14 AM] : CBEMLS018 has uploaded a file 68867958 to Hospital/Customer in IDSIL / PJO
+
+
+[08-04-2014:12:01:04 PM] : CBEMLS018 has logged in to IDSIL / PJO using the System 14.96.118.243
+
+
+[08-04-2014:12:04:38 PM] : CBEMLS018 has picked a file 68870069 in IDSIL / PJO
+
+
+[08-04-2014:12:04:51 PM] : CBEMLS018 has uploaded a file 68870069 to Hospital/Customer in IDSIL / PJO
+
+
+[08-04-2014:2:26:31 PM] : CBEMLS018 has logged in to IDSIL / PJO using the System 14.96.86.35
+
+
+[08-04-2014:2:26:52 PM] : CBEMLS018 has picked a file 68861912 in IDSIL / PJO
+
+
+[08-04-2014:2:27:01 PM] : CBEMLS018 has uploaded a file 68861912 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[08-04-2014:3:49:00 PM] : CBEMLS018 has logged in to IDSIL / PJO using the System 14.96.86.35
+
+
+[08-04-2014:3:50:58 PM] : CBEMLS018 has picked a file 68878585 in IDSIL / PJO
+
+
+[08-04-2014:3:51:06 PM] : CBEMLS018 has uploaded a file 68878585 to Hospital/Customer in IDSIL / PJO
+
+
+[08-04-2014:4:03:44 PM] : CBEMLS018 has picked a file 68879079 in IDSIL / PJO
+
+
+[08-04-2014:4:03:53 PM] : CBEMLS018 has uploaded a file 68879079 to Hospital/Customer in IDSIL / PJO
+
+
+[08-04-2014:4:11:58 PM] : CBEMLS018 has picked a file 68879193 in IDSIL / PJO
+
+
+[08-04-2014:4:12:06 PM] : CBEMLS018 has uploaded a file 68879193 to Hospital/Customer in IDSIL / PJO
+
+
+[08-04-2014:6:09:19 PM] : CBEMLS018 has logged in to IDSIL / PJO using the System 14.96.86.35
+
+
+[08-04-2014:6:22:26 PM] : CBEMLS018 has picked a file 68870927 in IDSIL / PJO
+
+
+[08-04-2014:6:22:35 PM] : CBEMLS018 has uploaded a file 68870927 to Hospital/Customer in IDSIL / PJO
+
+
+[08-04-2014:7:06:52 PM] : CBEMLS018 has picked a file 68881577 in IDSIL / PJO
+
+
+[08-04-2014:7:08:31 PM] : CBEMLS018 has uploaded a file 68881577 to Hospital/Customer in IDSIL / PJO

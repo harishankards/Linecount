@@ -1,0 +1,46 @@
+
+
+[03-06-2016:8:37:15 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[03-06-2016:11:08:16 AM] : ADMIN has Viewed Employee Details
+
+
+[03-06-2016:11:08:17 AM] : ADMIN has Viewed Employee Details
+
+
+[03-06-2016:11:09:02 AM] : ADMIN has Viewed Employee Details
+
+
+[03-06-2016:11:10:56 AM] : ADMIN has Viewed Employee Details
+
+[03-06-2016:12:08:26 PM] : ADMIN has Deleted the details of the file 98502785.
+
+[03-06-2016:12:10:02 PM] : ADMIN has Deleted the details of the file 98502966.
+
+
+[03-06-2016:2:15:02 PM] : ADMIN has logged in to Admin page using the System 117.222.182.197
+
+
+[03-06-2016:2:17:48 PM] : ADMIN has logged out from the Linecount Software Using the System 117.222.182.197
+
+
+[03-06-2016:2:19:08 PM] : ADMIN has logged in to Admin page using the System 117.222.182.197
+
+
+[03-06-2016:2:20:35 PM] : ADMIN has logged out from the Linecount Software Using the System 117.222.182.197
+
+
+[03-06-2016:2:54:29 PM] : ADMIN has logged in to Admin page using the System 182.72.119.226
+
+
+[03-06-2016:3:09:07 PM] : ADMIN has logged in to Admin page using the System 182.72.119.226
+
+
+[03-06-2016:4:19:48 PM] : ADMIN has logged in to Admin page using the System 117.206.96.14
+
+
+[03-06-2016:6:13:36 PM] : ADMIN has logged in to Admin page using the System 117.206.99.159
+
+
+[03-06-2016:10:09:20 PM] : ADMIN has logged in to Admin page using the System 182.72.119.226

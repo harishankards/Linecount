@@ -1,0 +1,118 @@
+
+
+[05-04-2013:10:09:40 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[05-04-2013:10:20:02 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[05-04-2013:10:56:24 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[05-04-2013:10:59:28 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[05-04-2013:11:47:13 AM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[05-04-2013:11:47:42 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[05-04-2013:11:48:26 AM] : ADMIN has Rejected Leave request from the ID B2KMLS008 on 2013-04-07.
+
+[05-04-2013:11:48:50 AM] : ADMIN has Approved Leave request from the ID B2KMLS011 on 2013-04-07.
+
+[05-04-2013:11:48:51 AM] : ADMIN has Approved Leave request from the ID B2KMLS010 on 2013-04-07.
+
+[05-04-2013:11:49:01 AM] : ADMIN has Approved Leave request from the ID B2KMLS005 on 2013-04-07.
+
+
+[05-04-2013:11:49:24 AM] : ADMIN has Viewed Employee Details
+
+
+[05-04-2013:11:49:37 AM] : ADMIN has Viewed Employee Details
+
+
+[05-04-2013:11:53:23 AM] : ADMIN has Viewed Employee Details
+
+
+[05-04-2013:12:03:14 PM] : ADMIN has Viewed Employee Details
+
+
+[05-04-2013:12:03:47 PM] : ADMIN has Viewed Employee Details
+
+
+[05-04-2013:12:04:18 PM] : ADMIN has Viewed Employee Details
+
+
+[05-04-2013:12:04:24 PM] : ADMIN has Viewed Employee Details
+
+
+[05-04-2013:12:07:23 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[05-04-2013:12:09:23 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[05-04-2013:12:10:49 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[05-04-2013:12:11:39 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[05-04-2013:12:11:55 PM] : ADMIN has Viewed Employee Details
+
+
+[05-04-2013:12:12:59 PM] : ADMIN has Viewed Employee Details
+
+
+[05-04-2013:12:13:51 PM] : ADMIN has Viewed Employee Details
+
+
+[05-04-2013:12:14:02 PM] : ADMIN has Viewed Employee Details
+
+
+[05-04-2013:12:14:58 PM] : ADMIN has Viewed Employee Details
+
+
+[05-04-2013:12:18:19 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[05-04-2013:12:19:38 PM] : ADMIN has added Attendanec Details into the Database
+
+
+[05-04-2013:12:24:54 PM] : ADMIN has Viewed Employee Details
+
+
+[05-04-2013:1:20:07 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[05-04-2013:1:20:13 PM] : ADMIN has Viewed Employee Details
+
+
+[05-04-2013:1:20:33 PM] : ADMIN has Viewed Employee Details
+
+
+[05-04-2013:1:36:35 PM] : ADMIN has Viewed Employee Details
+
+
+[05-04-2013:2:03:58 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[05-04-2013:2:04:07 PM] : ADMIN has Viewed Employee Details
+
+
+[05-04-2013:2:14:22 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[05-04-2013:3:15:35 PM] : ADMIN has Viewed Employee Details
+
+
+[05-04-2013:3:26:12 PM] : ADMIN has Viewed Employee Details
+
+
+[05-04-2013:6:09:49 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[05-04-2013:6:52:09 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[05-04-2013:6:55:24 PM] : ADMIN has logged out from the Linecount Software Using the System 59.90.86.47

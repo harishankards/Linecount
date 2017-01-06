@@ -1,0 +1,87 @@
+
+
+[15-03-2013:1:27:45 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[15-03-2013:1:27:56 AM] : ADMIN has Viewed Employee Details
+
+[15-03-2013:1:28:29 AM] : ADMIN has Viewed Employee Details
+
+[15-03-2013:1:44:12 AM] : ADMIN has Viewed Employee Details
+
+[15-03-2013:1:47:13 AM] : ADMIN has Viewed Employee Details
+
+[15-03-2013:1:47:22 AM] : ADMIN has Viewed Employee Details
+
+
+[15-03-2013:2:43:45 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[15-03-2013:2:43:53 AM] : ADMIN has Viewed Employee Details
+
+
+[15-03-2013:2:53:23 AM] : ADMIN has added Employee Details[DARSANRAJ ] into the Database
+
+
+[15-03-2013:2:55:01 AM] : ADMIN has added Employee Details[HARIHARAN] into the Database
+
+
+[15-03-2013:4:26:53 AM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[15-03-2013:4:27:00 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[15-03-2013:5:24:49 AM] : ADMIN has Viewed Employee Details
+
+
+[15-03-2013:5:27:25 AM] : ADMIN has added Employee Details[ANEESH S ] into the Database
+
+
+[15-03-2013:5:27:30 AM] : ADMIN has Viewed Employee Details
+
+[15-03-2013:5:27:56 AM] : ADMIN has Viewed Employee Details
+
+[15-03-2013:5:28:01 AM] : ADMIN has Viewed Employee Details
+
+
+[15-03-2013:10:12:59 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[15-03-2013:1:55:54 PM] : ADMIN has Viewed Employee Details
+
+
+[15-03-2013:1:56:13 PM] : ADMIN has Viewed Employee Details
+
+
+[15-03-2013:1:56:28 PM] : ADMIN has Viewed Employee Details
+
+
+[15-03-2013:1:56:38 PM] : ADMIN has Viewed Employee Details
+
+
+[15-03-2013:2:56:26 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[15-03-2013:2:58:38 PM] : ADMIN has logged in to Admin page using the System 117.235.180.106
+
+
+[15-03-2013:3:01:25 PM] : ADMIN has Viewed Employee Details
+
+
+[15-03-2013:3:34:58 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[15-03-2013:4:10:51 PM] : ADMIN has logged in to Admin page using the System 117.206.108.250
+
+[15-03-2013:4:11:01 PM] : ADMIN has viewed Bank Details
+
+[15-03-2013:4:11:15 PM] : ADMIN has viewed Bank Details
+
+[15-03-2013:4:11:21 PM] : ADMIN has viewed Bank Details
+
+
+[15-03-2013:4:18:05 PM] : ADMIN has logged out from the Linecount Software Using the System 117.206.108.250
+
+
+[15-03-2013:5:24:33 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[15-03-2013:5:57:36 PM] : ADMIN has logged in to Admin page using the System 117.242.217.34

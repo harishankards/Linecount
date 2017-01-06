@@ -1,0 +1,66 @@
+
+
+[13-01-2014:4:52:32 AM] : ATER002 has logged in to IDSIL / PJO using the System 124.125.41.110
+
+
+[13-01-2014:6:07:47 AM] : ATER002 has logged out from the Linecount Software Using the System 124.125.41.110
+
+
+[13-01-2014:8:26:51 AM] : ATER002 has logged in to IDSIL / PJO using the System 124.125.41.110
+
+
+[13-01-2014:8:26:52 AM] : ATER002 has logged in to IDSIL / PJO using the System 124.125.41.110
+
+
+[13-01-2014:8:27:31 AM] :  has uploaded a DUP file 90557251 in IDSIL / PJO
+
+
+[13-01-2014:8:27:45 AM] :  has uploaded a DUP file 90557106 in IDSIL / PJO
+
+
+[13-01-2014:8:28:03 AM] :  has uploaded a DUP file 90557298 in IDSIL / PJO
+
+
+[13-01-2014:8:28:14 AM] :  has uploaded a DUP file 90557398 in IDSIL / PJO
+
+
+[13-01-2014:8:28:23 AM] : ATER002 has logged out from the Linecount Software Using the System 124.125.41.110
+
+
+[13-01-2014:5:53:20 PM] : ATER002 has logged in to IDSIL / PJO using the System 124.125.41.110
+
+
+[13-01-2014:5:53:59 PM] : ATER002 has picked a file 90557397 in IDSIL / PJO
+
+
+[13-01-2014:6:14:18 PM] : ATER002 has uploaded a file 90557397 to Hospital/Customer in IDSIL / PJO
+
+
+[13-01-2014:6:15:20 PM] : ATER002 has picked a file 90557446 in IDSIL / PJO
+
+
+[13-01-2014:6:19:17 PM] : ATER002 has uploaded a file 90557446 to Hospital/Customer in IDSIL / PJO
+
+
+[13-01-2014:6:20:31 PM] : ATER002 has picked a file 90557057 in IDSIL / PJO
+
+
+[13-01-2014:6:25:57 PM] : ATER002 has uploaded a file 90557057 to Hospital/Customer in IDSIL / PJO
+
+
+[13-01-2014:6:27:03 PM] : ATER002 has picked a file 90557066 in IDSIL / PJO
+
+
+[13-01-2014:6:35:45 PM] : ATER002 has uploaded a file 90557066 to Hospital/Customer in IDSIL / PJO
+
+
+[13-01-2014:6:36:51 PM] : ATER002 has picked a file 90557266 in IDSIL / PJO
+
+
+[13-01-2014:8:04:01 PM] : ATER002 has logged in to IDSIL / PJO using the System 124.125.41.110
+
+
+[13-01-2014:8:04:09 PM] : ATER002 has uploaded a file 90557266 to Hospital/Customer in IDSIL / PJO
+
+
+[13-01-2014:8:04:15 PM] : ATER002 has logged out from the Linecount Software Using the System 124.125.41.110

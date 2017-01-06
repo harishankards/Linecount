@@ -1,0 +1,84 @@
+
+
+[27-09-2013:5:38:36 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[27-09-2013:5:38:44 AM] : ADMIN has Viewed Employee Details
+
+
+[27-09-2013:5:38:51 AM] : ADMIN has Viewed Employee Details
+
+
+[27-09-2013:6:12:53 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[27-09-2013:8:23:27 AM] : ADMIN has Viewed Employee Details
+
+
+[27-09-2013:8:23:34 AM] : ADMIN has Viewed Employee Details
+
+
+[27-09-2013:9:34:03 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[27-09-2013:10:00:20 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[27-09-2013:10:21:31 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[27-09-2013:10:41:54 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[27-09-2013:11:08:47 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[27-09-2013:11:39:34 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[27-09-2013:12:09:39 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[27-09-2013:12:12:14 PM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[27-09-2013:12:29:25 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[27-09-2013:12:37:27 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[27-09-2013:2:00:27 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[27-09-2013:2:00:59 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[27-09-2013:3:08:11 PM] : ADMIN has Viewed Employee Details
+
+
+[27-09-2013:3:08:18 PM] : ADMIN has Viewed Employee Details
+
+
+[27-09-2013:4:01:49 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[27-09-2013:5:15:16 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[27-09-2013:5:15:25 PM] : ADMIN has Viewed Employee Details
+
+
+[27-09-2013:5:15:38 PM] : ADMIN has Viewed Employee Details
+
+
+[27-09-2013:6:04:02 PM] : ADMIN has Viewed Employee Details
+
+
+[27-09-2013:6:04:09 PM] : ADMIN has Viewed Employee Details
+
+
+[27-09-2013:7:33:54 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[27-09-2013:7:34:35 PM] : ADMIN has logged out from the Linecount Software Using the System 59.90.86.47

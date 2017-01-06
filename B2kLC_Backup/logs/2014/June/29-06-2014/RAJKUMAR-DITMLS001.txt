@@ -1,0 +1,57 @@
+
+
+[29-06-2014:4:10:36 AM] : DITMLS001 has logged in to IDSIL / PJO using the System 122.178.144.133
+
+
+[29-06-2014:4:11:02 AM] : DITMLS001 has logged out from the Linecount Software Using the System 122.178.144.133
+
+
+[29-06-2014:9:07:14 AM] : DITMLS001 has logged in to IDSIL / PJO using the System 115.241.76.112
+
+
+[29-06-2014:9:07:55 AM] : DITMLS001 has uploaded a DUP file 70860476 in IDSIL / PJO
+
+
+[29-06-2014:9:08:02 AM] : DITMLS001 has logged out from the Linecount Software Using the System 115.241.76.112
+
+
+[29-06-2014:11:53:04 AM] : DITMLS001 has logged in to IDSIL / PJO using the System 122.178.114.167
+
+
+[29-06-2014:11:53:20 AM] : DITMLS001 has viewed the file details in IDSIL / PJO from 2014-06-28 to 2014-06-28
+
+
+[29-06-2014:11:54:08 AM] : DITMLS001 has Downloaded a file details in IDSIL / PJO from 2014-06-28 to 2014-06-28
+
+
+[29-06-2014:11:55:41 AM] : DITMLS001 has logged out from the Linecount Software Using the System 122.178.114.167
+
+
+[29-06-2014:11:58:05 AM] : DITMLS001 has logged in to IDSIL / PJO using the System 115.241.76.112
+
+
+[29-06-2014:11:58:47 AM] : DITMLS001 has uploaded a DUP file 70860808 in IDSIL / PJO
+
+
+[29-06-2014:11:59:00 AM] : DITMLS001 has logged out from the Linecount Software Using the System 115.241.76.112
+
+
+[29-06-2014:12:35:58 PM] : DITMLS001 has logged in to IDSIL / PJO using the System 122.178.114.167
+
+
+[29-06-2014:12:36:10 PM] : DITMLS001 has viewed the file details in IDSIL / PJO from 2014-06-28 to 2014-06-28
+
+
+[29-06-2014:12:37:05 PM] : DITMLS001 has logged out from the Linecount Software Using the System 122.178.114.167
+
+
+[29-06-2014:5:06:49 PM] : DITMLS001 has logged in to IDSIL / PJO using the System 122.178.114.167
+
+
+[29-06-2014:5:06:57 PM] : DITMLS001 has viewed the file details in IDSIL / PJO from 2014-06-29 to 2014-06-29
+
+
+[29-06-2014:5:07:07 PM] : DITMLS001 has Downloaded a file details in IDSIL / PJO from 2014-06-29 to 2014-06-29
+
+
+[29-06-2014:5:07:30 PM] : DITMLS001 has logged out from the Linecount Software Using the System 122.178.114.167

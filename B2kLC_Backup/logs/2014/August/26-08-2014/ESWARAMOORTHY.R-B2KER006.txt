@@ -1,0 +1,63 @@
+
+
+[26-08-2014:7:06:53 AM] : B2KER006 has logged in to IDSIL / PJO using the System 101.222.236.61
+
+
+[26-08-2014:7:07:57 AM] : B2KER006 has picked a file 72155814 in IDSIL / PJO
+
+
+[26-08-2014:7:08:03 AM] : B2KER006 has uploaded a file 72155814 to Hospital/Customer in IDSIL / PJO
+
+
+[26-08-2014:7:29:50 AM] : B2KER006 has added a Audit file 72137574 in IDSIL / PJO 
+
+
+[26-08-2014:7:30:10 AM] : B2KER006 has viewed the Audit file details in IDSIL / PJO from 2014-08-26 to 2014-08-26
+
+
+[26-08-2014:7:30:18 AM] : B2KER006 has viewed the Audit file details in IDSIL / PJO from 2014-08-01 to 2014-08-26
+
+
+[26-08-2014:7:40:20 AM] : B2KER006 has picked a file 72157939 in IDSIL / PJO
+
+
+[26-08-2014:7:40:25 AM] : B2KER006 has uploaded a file 72157939 to Hospital/Customer in IDSIL / PJO
+
+
+[26-08-2014:7:56:02 AM] : B2KER006 has picked a file 72147786 in IDSIL / PJO
+
+
+[26-08-2014:7:56:08 AM] : B2KER006 has uploaded a file 72147786 to Hospital/Customer in IDSIL / PJO
+
+
+[26-08-2014:8:05:10 AM] : B2KER006 has picked a file 72148113 in IDSIL / PJO
+
+
+[26-08-2014:8:05:14 AM] : B2KER006 has uploaded a file 72148113 to Hospital/Customer in IDSIL / PJO
+
+
+[26-08-2014:8:10:24 AM] : B2KER006 has picked a file 72154937 in IDSIL / PJO
+
+
+[26-08-2014:8:10:29 AM] : B2KER006 has uploaded a file 72154937 to Hospital/Customer in IDSIL / PJO
+
+
+[26-08-2014:8:10:57 AM] : B2KER006 has picked a file 72151653 in IDSIL / PJO
+
+
+[26-08-2014:8:11:04 AM] : B2KER006 has uploaded a file 72151653 to Hospital/Customer in IDSIL / PJO
+
+
+[26-08-2014:8:21:28 AM] : B2KER006 has picked a file 72151775 in IDSIL / PJO
+
+
+[26-08-2014:8:21:34 AM] : B2KER006 has uploaded a file 72151775 to Hospital/Customer in IDSIL / PJO
+
+
+[26-08-2014:8:52:20 AM] : B2KER006 has viewed the DUP file details in IDSIL/PJO from 2014-08-01 to 2014-08-26
+
+
+[26-08-2014:8:52:28 AM] : B2KER006 has viewed the Edited file details in IDSIL/PJO from 2014-08-01 to 2014-08-26
+
+
+[26-08-2014:9:30:16 AM] : B2KER006 has logged out from the Linecount Software Using the System 101.222.236.61

@@ -1,0 +1,147 @@
+
+
+[29-09-2013:12:34:14 AM] : B2KER004 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[29-09-2013:12:34:47 AM] : B2KER004 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[29-09-2013:2:21:00 AM] : B2KER004 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[29-09-2013:3:30:53 AM] : B2KER004 has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[29-09-2013:3:30:58 AM] : B2KER004 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[29-09-2013:4:24:43 AM] : B2KER004 has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[29-09-2013:4:24:47 AM] : B2KER004 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[29-09-2013:4:25:06 AM] : B2KER004 has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[29-09-2013:5:06:02 PM] : B2KER004 has logged in to IDSIL / PJO using the System 49.137.183.53
+
+
+[29-09-2013:5:06:20 PM] : B2KER004 has picked a file 64072361 in IDSIL / PJO
+
+
+[29-09-2013:5:06:26 PM] : B2KER004 has uploaded a file 64072361 to Hospital/Customer in IDSIL / PJO
+
+
+[29-09-2013:5:33:53 PM] : B2KER004 has picked a file 64072000 in IDSIL / PJO
+
+
+[29-09-2013:5:37:49 PM] : B2KER004 has uploaded a file 64072000 to Hospital/Customer in IDSIL / PJO
+
+
+[29-09-2013:6:25:37 PM] : B2KER004 has logged in to IDSIL / PJO using the System 49.137.183.53
+
+
+[29-09-2013:6:25:47 PM] : B2KER004 has picked a file 64060402 in IDSIL / PJO
+
+
+[29-09-2013:6:26:21 PM] : B2KER004 has uploaded a file 64060402 to Hospital/Customer in IDSIL / PJO
+
+
+[29-09-2013:7:33:17 PM] : B2KER004 has logged in to IDSIL / PJO using the System 101.220.125.82
+
+
+[29-09-2013:7:33:23 PM] : B2KER004 has logged in to IDSIL / PJO using the System 101.220.125.82
+
+
+[29-09-2013:7:33:47 PM] : B2KER004 has picked a file 64071838 in IDSIL / PJO
+
+
+[29-09-2013:7:40:08 PM] : B2KER004 has uploaded a file 64071838 to Hospital/Customer in IDSIL / PJO
+
+
+[29-09-2013:8:20:51 PM] : B2KER004 has picked a file 64060397 in IDSIL / PJO
+
+
+[29-09-2013:8:21:07 PM] : B2KER004 has uploaded a file 64060397 to Hospital/Customer in IDSIL / PJO
+
+
+[29-09-2013:8:40:27 PM] : B2KER004 has logged in to IDSIL / PJO using the System 101.220.125.82
+
+
+[29-09-2013:8:40:37 PM] : B2KER004 has logged in to IDSIL / PJO using the System 101.220.125.82
+
+
+[29-09-2013:8:41:00 PM] : B2KER004 has picked a file 63767522 in IDSIL / PJO
+
+
+[29-09-2013:8:41:34 PM] : B2KER004 has uploaded a file 63767522 to Hospital/Customer in IDSIL / PJO
+
+
+[29-09-2013:8:41:40 PM] : B2KER004 has logged in to IDSIL / PJO using the System 49.139.19.242
+
+
+[29-09-2013:8:42:42 PM] :  has uploaded a DUP file 63955527 in IDSIL / PJO
+
+
+[29-09-2013:8:43:12 PM] :  has uploaded a DUP file 90446335 in IDSIL / PJO
+
+
+[29-09-2013:8:43:44 PM] :  has uploaded a DUP file 90446369 in IDSIL / PJO
+
+
+[29-09-2013:8:44:20 PM] :  has uploaded a DUP file 63945489 in IDSIL / PJO
+
+
+[29-09-2013:8:45:01 PM] :  has uploaded a DUP file 63993158 in IDSIL / PJO
+
+
+[29-09-2013:8:45:33 PM] :  has uploaded a DUP file 63993235 in IDSIL / PJO
+
+
+[29-09-2013:9:15:57 PM] : B2KER004 has logged in to IDSIL / PJO using the System 49.139.19.242
+
+
+[29-09-2013:9:17:06 PM] :  has uploaded a DUP file 63953156 in IDSIL / PJO
+
+
+[29-09-2013:9:17:40 PM] :  has uploaded a DUP file 64029301 in IDSIL / PJO
+
+
+[29-09-2013:9:18:52 PM] :  has uploaded a DUP file 64029106 in IDSIL / PJO
+
+
+[29-09-2013:9:19:28 PM] :  has uploaded a DUP file 64032700 in IDSIL / PJO
+
+
+[29-09-2013:9:19:51 PM] :  has uploaded a DUP file 64036236 in IDSIL / PJO
+
+
+[29-09-2013:9:20:11 PM] :  has uploaded a DUP file 64059913 in IDSIL / PJO
+
+
+[29-09-2013:9:20:32 PM] :  has uploaded a DUP file 64060290 in IDSIL / PJO
+
+
+[29-09-2013:9:20:56 PM] :  has uploaded a DUP file 64060805 in IDSIL / PJO
+
+
+[29-09-2013:9:21:29 PM] :  has uploaded a DUP file 64072843 in IDSIL / PJO
+
+
+[29-09-2013:9:28:20 PM] : B2KER004 has viewed the DUP file details in IDSIL/PJO from 2013-09-01 to 2013-09-29
+
+
+[29-09-2013:9:29:16 PM] : B2KER004 has viewed the Edited file details in IDSIL/PJO from 2013-09-29 to 2013-09-29
+
+
+[29-09-2013:9:29:26 PM] : B2KER004 has viewed the Edited file details in IDSIL/PJO from 2013-09-01 to 2013-09-29
+
+
+[29-09-2013:9:29:40 PM] : B2KER004 has viewed the Audit file details in IDSIL / PJO from 2013-09-29 to 2013-09-29
+
+
+[29-09-2013:9:29:46 PM] : B2KER004 has viewed the Audit file details in IDSIL / PJO from 2013-09-01 to 2013-09-29
+
+
+[29-09-2013:9:30:41 PM] : B2KER004 has viewed the DUP file details in IDSIL/PJO from 2013-09-01 to 2013-09-29

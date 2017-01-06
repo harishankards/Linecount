@@ -1,0 +1,9 @@
+
+
+[21-03-2014:10:31:38 AM] : ATMLS001 has logged in to IDSIL / PJO using the System 117.203.77.220
+
+
+[21-03-2014:10:32:35 AM] : ATMLS001 has viewed the file details in IDSIL / PJO from 2014-03-01 to 2014-03-21
+
+
+[21-03-2014:10:33:29 AM] : ATMLS001 has logged out from the Linecount Software Using the System 117.203.77.220

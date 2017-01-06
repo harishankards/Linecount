@@ -1,0 +1,78 @@
+
+
+[23-12-2013:1:35:50 PM] : ATMLS029 has logged in to IDSIL / PJO using the System 202.129.197.58
+
+
+[23-12-2013:1:37:10 PM] : ATMLS029 has picked a file 66193618 in IDSIL / PJO
+
+
+[23-12-2013:1:38:02 PM] : ATMLS029 has uploaded a file 66193618 to Hospital/Customer in IDSIL / PJO
+
+
+[23-12-2013:1:52:24 PM] : ATMLS029 has picked a file 66199783 in IDSIL / PJO
+
+
+[23-12-2013:1:52:41 PM] : ATMLS029 has uploaded a file 66199783 to Hospital/Customer in IDSIL / PJO
+
+
+[23-12-2013:2:08:17 PM] : ATMLS029 has picked a file 66196160 in IDSIL / PJO
+
+
+[23-12-2013:2:08:28 PM] : ATMLS029 has uploaded a file 66196160 to Hospital/Customer in IDSIL / PJO
+
+
+[23-12-2013:2:29:58 PM] : ATMLS029 has picked a file 66198062 in IDSIL / PJO
+
+
+[23-12-2013:2:30:06 PM] : ATMLS029 has uploaded a file 66198062 to Hospital/Customer in IDSIL / PJO
+
+
+[23-12-2013:2:56:17 PM] : ATMLS029 has picked a file 66198422 in IDSIL / PJO
+
+
+[23-12-2013:2:56:27 PM] : ATMLS029 has uploaded a file 66198422 to Hospital/Customer in IDSIL / PJO
+
+
+[23-12-2013:2:57:00 PM] : ATMLS029 has picked a file 66199834 in IDSIL / PJO
+
+
+[23-12-2013:2:57:16 PM] : ATMLS029 has uploaded a file 66199834 to Hospital/Customer in IDSIL / PJO
+
+
+[23-12-2013:3:32:22 PM] : ATMLS029 has picked a file 66198146 in IDSIL / PJO
+
+
+[23-12-2013:3:32:35 PM] : ATMLS029 has uploaded a file 66198146 to Hospital/Customer in IDSIL / PJO
+
+
+[23-12-2013:3:51:13 PM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[23-12-2013:4:15:29 PM] : ATMLS029 has picked a file 66200120 in IDSIL / PJO
+
+
+[23-12-2013:4:15:43 PM] : ATMLS029 has uploaded a file 66200120 to Hospital/Customer in IDSIL / PJO
+
+
+[23-12-2013:4:37:56 PM] : ATMLS029 has picked a file 66200439 in IDSIL / PJO
+
+
+[23-12-2013:4:38:19 PM] : ATMLS029 has uploaded a file 66200439 to Hospital/Customer in IDSIL / PJO
+
+
+[23-12-2013:4:41:09 PM] : ATMLS029 has picked a file 66200504 in IDSIL / PJO
+
+
+[23-12-2013:4:41:28 PM] : ATMLS029 has uploaded a file 66200504 to Hospital/Customer in IDSIL / PJO
+
+
+[23-12-2013:5:23:26 PM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[23-12-2013:5:27:14 PM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[23-12-2013:5:46:55 PM] : ATMLS029 has picked a file 66195948 in IDSIL / PJO
+
+
+[23-12-2013:5:47:17 PM] : ATMLS029 has uploaded a file 66195948 to Hospital/Customer in IDSIL / PJO

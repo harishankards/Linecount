@@ -1,0 +1,54 @@
+
+
+[13-01-2016:5:23:10 PM] : B2KQA01 has logged in to IDSIL / PJO using the System 117.201.23.184
+
+
+[13-01-2016:5:23:20 PM] : B2KQA01 has viewed the Edited file details in IDSIL/PJO from 2016-01-01 to 2016-01-13
+
+
+[13-01-2016:5:24:03 PM] : B2KQA01 has logged out from the Linecount Software Using the System 117.201.23.184
+
+
+[13-01-2016:8:30:36 PM] : B2KQA01 has logged in to IDSIL / PJO using the System 117.207.111.236
+
+
+[13-01-2016:8:30:52 PM] : B2KQA01 has picked a file 96161657 in IDSIL / PJO
+
+
+[13-01-2016:8:37:37 PM] : B2KQA01 has picked a file 96161660 in IDSIL / PJO
+
+
+[13-01-2016:8:44:29 PM] : B2KQA01 has picked a file 96158260 in IDSIL / PJO
+
+
+[13-01-2016:8:59:32 PM] : B2KQA01 has picked a file 96158281 in IDSIL / PJO
+
+
+[13-01-2016:9:05:40 PM] : B2KQA01 has picked a file 96158304 in IDSIL / PJO
+
+
+[13-01-2016:9:07:58 PM] : B2KQA01 has picked a file 96158338 in IDSIL / PJO
+
+
+[13-01-2016:9:11:18 PM] : B2KQA01 has picked a file 96158340 in IDSIL / PJO
+
+
+[13-01-2016:9:18:48 PM] : B2KQA01 has picked a file 96158357 in IDSIL / PJO
+
+
+[13-01-2016:9:22:08 PM] : B2KQA01 has picked a file 96158386 in IDSIL / PJO
+
+
+[13-01-2016:9:25:34 PM] : B2KQA01 has picked a file 96158406 in IDSIL / PJO
+
+
+[13-01-2016:9:29:28 PM] : B2KQA01 has viewed the Edited file details in IDSIL/PJO from 2016-01-01 to 2016-01-13
+
+
+[13-01-2016:9:29:46 PM] : B2KQA01 has viewed the Audit file details in IDSIL / PJO from 2016-01-01 to 2016-01-13
+
+
+[13-01-2016:9:29:57 PM] : B2KQA01 has viewed the DUP file details in IDSIL/PJO from 2016-01-01 to 2016-01-13
+
+
+[13-01-2016:9:30:04 PM] : B2KQA01 has logged out from the Linecount Software Using the System 117.207.111.236

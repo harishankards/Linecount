@@ -1,0 +1,63 @@
+
+
+[25-01-2014:5:01:02 PM] : RTER001 has logged in to IDSIL / PJO using the System 101.222.245.183
+
+
+[25-01-2014:5:04:50 PM] : RTER001 has picked a file 67014756 in IDSIL / PJO
+
+
+[25-01-2014:5:10:26 PM] : RTER001 has uploaded a file 67014756 to Hospital/Customer in IDSIL / PJO
+
+
+[25-01-2014:6:17:30 PM] : RTER001 has logged in to IDSIL / PJO using the System 101.222.255.217
+
+
+[25-01-2014:6:18:18 PM] : RTER001 has picked a file 66999771 in IDSIL / PJO
+
+
+[25-01-2014:6:18:25 PM] : RTER001 has uploaded a file 66999771 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[25-01-2014:6:58:20 PM] : RTER001 has logged in to IDSIL / PJO using the System 101.222.255.217
+
+
+[25-01-2014:6:59:02 PM] : RTER001 has picked a file 67014985 in IDSIL / PJO
+
+
+[25-01-2014:6:59:15 PM] : RTER001 has uploaded a file 67014985 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[25-01-2014:7:01:01 PM] : RTER001 has picked a file 67016317 in IDSIL / PJO
+
+
+[25-01-2014:7:01:43 PM] : RTER001 has uploaded a file 67016317 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[25-01-2014:7:15:20 PM] : RTER001 has picked a file 67018704 in IDSIL / PJO
+
+
+[25-01-2014:8:27:28 PM] : RTER001 has logged in to IDSIL / PJO using the System 101.222.255.217
+
+
+[25-01-2014:8:27:40 PM] : RTER001 has uploaded a file 67018704 to Hospital/Customer in IDSIL / PJO
+
+
+[25-01-2014:8:28:52 PM] : RTER001 has viewed the Edited file details in IDSIL/PJO from 2014-01-24 to 2014-01-25
+
+
+[25-01-2014:8:29:43 PM] : RTER001 has viewed the Edited file details in IDSIL/PJO from 2014-01-25 to 2014-01-25
+
+
+[25-01-2014:9:29:00 PM] : RTER001 has viewed the Edited file details in IDSIL/PJO from 2014-01-25 to 2014-01-25
+
+
+[25-01-2014:9:34:07 PM] : RTER001 has picked a file 67019516 in IDSIL / PJO
+
+
+[25-01-2014:9:38:02 PM] : RTER001 has uploaded a file 67019516 to Hospital/Customer in IDSIL / PJO
+
+
+[25-01-2014:9:43:59 PM] : RTER001 has picked a file 67020746 in IDSIL / PJO
+
+
+[25-01-2014:9:44:10 PM] : RTER001 has uploaded a file 67020746 to Hospital/Customer in IDSIL / PJO

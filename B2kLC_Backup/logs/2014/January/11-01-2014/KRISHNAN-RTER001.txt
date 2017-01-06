@@ -1,0 +1,21 @@
+
+
+[11-01-2014:7:11:30 PM] : RTER001 has logged in to IDSIL / PJO using the System 101.222.244.72
+
+
+[11-01-2014:7:14:35 PM] : RTER001 has viewed the Edited file details in IDSIL/PJO from 2014-01-01 to 2014-01-11
+
+
+[11-01-2014:7:32:57 PM] : RTER001 has picked a file 66650790 in IDSIL / PJO
+
+
+[11-01-2014:7:41:04 PM] : RTER001 has uploaded a file 66650790 to Hospital/Customer in IDSIL / PJO
+
+
+[11-01-2014:9:05:00 PM] : RTER001 has logged in to IDSIL / PJO using the System 101.222.244.72
+
+
+[11-01-2014:9:05:51 PM] : RTER001 has picked a file 66650850 in IDSIL / PJO
+
+
+[11-01-2014:9:19:34 PM] : RTER001 has uploaded a file 66650850 to IDS/QA_Checkpoint in IDSIL / PJO

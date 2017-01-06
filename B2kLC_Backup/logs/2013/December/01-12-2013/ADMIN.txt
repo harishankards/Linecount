@@ -1,0 +1,32 @@
+
+
+[01-12-2013:2:07:41 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[01-12-2013:5:59:48 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[01-12-2013:7:19:17 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[01-12-2013:10:09:50 AM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[01-12-2013:10:25:18 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[01-12-2013:12:25:12 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[01-12-2013:2:43:25 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[01-12-2013:3:58:30 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[01-12-2013:5:00:02 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[01-12-2013:5:00:12 PM] : ADMIN has Approved Leave request from the ID B2KER002 on 2013-12-02.
+
+
+[01-12-2013:6:31:30 PM] : ADMIN has Viewed Employee Details

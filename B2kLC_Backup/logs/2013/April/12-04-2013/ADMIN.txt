@@ -1,0 +1,226 @@
+
+
+[12-04-2013:5:00:39 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[12-04-2013:9:13:51 AM] : ADMIN has logged in to Admin page using the System 122.174.9.70
+
+
+[12-04-2013:9:15:48 AM] : ADMIN has Viewed Employee Details
+
+[12-04-2013:9:15:49 AM] : ADMIN has Viewed Employee Details
+
+[12-04-2013:9:16:04 AM] : ADMIN has viewed Bank Details
+
+
+[12-04-2013:9:18:35 AM] : ADMIN has logged in to Admin page using the System 122.174.9.70
+
+
+[12-04-2013:9:22:19 AM] : ADMIN has logged out from the Linecount Software Using the System 122.174.9.70
+
+
+[12-04-2013:9:55:42 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[12-04-2013:10:14:30 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[12-04-2013:10:35:15 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[12-04-2013:10:36:52 AM] : ADMIN has added Attendanec Details into the Database
+
+
+[12-04-2013:10:49:32 AM] : ADMIN has logged in to Admin page using the System 117.206.98.227
+
+[12-04-2013:10:49:41 AM] : ADMIN has viewed Bank Details
+
+[12-04-2013:10:49:49 AM] : ADMIN has viewed Bank Details
+
+[12-04-2013:11:09:10 AM] : ADMIN has viewed Bank Details
+
+[12-04-2013:11:09:26 AM] : ADMIN has viewed Bank Details
+
+
+[12-04-2013:11:11:47 AM] : ADMIN has logged out from the Linecount Software Using the System 117.206.98.227
+
+
+[12-04-2013:11:28:34 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[12-04-2013:11:53:01 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[12-04-2013:11:58:55 AM] : ADMIN has Viewed Employee Details
+
+
+[12-04-2013:11:59:03 AM] : ADMIN has Viewed Employee Details
+
+
+[12-04-2013:12:00:24 PM] : ADMIN has logged out from the Linecount Software Using the System 59.90.86.47
+
+
+[12-04-2013:12:03:14 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[12-04-2013:12:05:38 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[12-04-2013:12:09:05 PM] : ADMIN has added Employee [ANITHA. M] into attendance list in the Database
+
+
+[12-04-2013:12:09:19 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[12-04-2013:12:13:40 PM] : ADMIN has Deleted Employee [RANGANATHAN] from attendance list in the Database
+
+
+[12-04-2013:12:27:31 PM] : ADMIN has Viewed Employee Details
+
+
+[12-04-2013:12:27:33 PM] : ADMIN has Viewed Employee Details
+
+
+[12-04-2013:12:29:24 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[12-04-2013:12:29:38 PM] : ADMIN has Viewed Employee Details
+
+
+[12-04-2013:12:29:40 PM] : ADMIN has Viewed Employee Details
+
+
+[12-04-2013:12:31:08 PM] : ADMIN has Viewed Employee Details
+
+
+[12-04-2013:12:31:34 PM] : ADMIN has Viewed Employee Details
+
+[12-04-2013:12:33:27 PM] : ADMIN has viewed Bank Details
+
+
+[12-04-2013:12:33:30 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[12-04-2013:12:34:46 PM] : ADMIN has viewed Bank Details
+
+[12-04-2013:12:35:24 PM] : ADMIN has viewed Bank Details
+
+[12-04-2013:12:37:08 PM] : ADMIN has viewed Bank Details
+
+
+[12-04-2013:12:40:04 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[12-04-2013:12:40:50 PM] : ADMIN has Approved Leave request from the ID B2KMLS005 on 2013-04-13.
+
+[12-04-2013:12:41:23 PM] : ADMIN has Approved Leave request from the ID B2KER001 on 2013-04-14.
+
+[12-04-2013:12:41:35 PM] : ADMIN has Approved Leave request from the ID B2KER002 on 2013-04-15.
+
+[12-04-2013:12:41:53 PM] : ADMIN has Approved Leave request from the ID KTMLS002 on 2013-04-14.
+
+
+[12-04-2013:12:43:32 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[12-04-2013:12:48:31 PM] : ADMIN has viewed Bank Details
+
+
+[12-04-2013:12:52:23 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[12-04-2013:12:52:42 PM] : ADMIN has Viewed Employee Details
+
+
+[12-04-2013:12:52:49 PM] : ADMIN has Viewed Employee Details
+
+
+[12-04-2013:12:54:53 PM] : ADMIN has Viewed Employee Details
+
+
+[12-04-2013:12:55:16 PM] : ADMIN has Viewed Employee Details
+
+[12-04-2013:12:55:18 PM] : ADMIN has Deleted the details of the file 59393539.
+
+
+[12-04-2013:1:56:16 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[12-04-2013:3:46:16 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[12-04-2013:3:50:44 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[12-04-2013:3:52:44 PM] : ADMIN has added Employee [RUBIYA .T] into attendance list in the Database
+
+
+[12-04-2013:4:45:36 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+[12-04-2013:5:01:33 PM] : ADMIN has viewed Bank Details
+
+[12-04-2013:5:02:07 PM] : ADMIN has viewed Bank Details
+
+[12-04-2013:5:02:29 PM] : ADMIN has viewed Bank Details
+
+[12-04-2013:6:26:29 PM] : ADMIN has Deleted the details of the file 59519771.
+
+
+[12-04-2013:7:13:35 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[12-04-2013:7:17:31 PM] : ADMIN has Viewed Employee Details
+
+
+[12-04-2013:8:25:30 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[12-04-2013:8:25:45 PM] : ADMIN has Viewed Employee Details
+
+
+[12-04-2013:8:51:48 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+[12-04-2013:9:18:55 PM] : ADMIN has Viewed Employee Details
+
+
+[12-04-2013:9:22:21 PM] : ADMIN has added Employee Details[P.GANESH] into the Database
+
+
+[12-04-2013:9:29:00 PM] : ADMIN has added Employee Details[THANGARAJ] into the Database
+
+[12-04-2013:9:35:13 PM] : ADMIN has Viewed Employee Details
+
+[12-04-2013:9:35:21 PM] : ADMIN has Viewed Employee Details
+
+[12-04-2013:9:48:01 PM] : ADMIN has Viewed Employee Details
+
+
+[12-04-2013:9:58:58 PM] : ADMIN has added Employee Details[SARAT] into the Database
+
+
+[12-04-2013:9:59:38 PM] : ADMIN has added Employee Details[DINAH] into the Database
+
+
+[12-04-2013:10:00:14 PM] : ADMIN has added Employee Details[LEENA] into the Database
+
+
+[12-04-2013:10:00:54 PM] : ADMIN has added Employee Details[SONIYA] into the Database
+
+
+[12-04-2013:10:02:00 PM] : ADMIN has added Employee Details[SURESH] into the Database
+
+[12-04-2013:10:02:32 PM] : ADMIN has Viewed Employee Details
+
+[12-04-2013:10:02:40 PM] : ADMIN has Viewed Employee Details
+
+
+[12-04-2013:10:23:07 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[12-04-2013:10:23:17 PM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[12-04-2013:10:24:25 PM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[12-04-2013:10:31:54 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[12-04-2013:10:36:40 PM] : ADMIN has Approved Leave request from the ID B2KHTMLS013 on 2013-04-14.
+
+[12-04-2013:10:37:04 PM] : ADMIN has Approved Leave request from the ID B2KMLS009 on 2013-04-20.

@@ -1,0 +1,89 @@
+
+
+[16-08-2013:9:08:30 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[16-08-2013:10:07:41 AM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[16-08-2013:10:07:55 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[16-08-2013:10:08:31 AM] : ADMIN has added an Update into the Database
+
+[16-08-2013:10:17:36 AM] : ADMIN has added an Update into the Database
+
+
+[16-08-2013:10:18:18 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[16-08-2013:11:23:35 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[16-08-2013:11:37:10 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[16-08-2013:11:54:49 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[16-08-2013:12:48:14 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[16-08-2013:1:33:06 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[16-08-2013:1:37:29 PM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[16-08-2013:1:53:07 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[16-08-2013:2:14:21 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[16-08-2013:2:14:21 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[16-08-2013:2:17:31 PM] : ADMIN has Viewed Employee Details
+
+
+[16-08-2013:2:23:27 PM] : ADMIN has Viewed Employee Details
+
+
+[16-08-2013:2:23:41 PM] : ADMIN has Viewed Employee Details
+
+
+[16-08-2013:3:58:03 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[16-08-2013:4:49:30 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[16-08-2013:5:56:17 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[16-08-2013:6:16:21 PM] : ADMIN has Viewed Employee Details
+
+[16-08-2013:6:43:32 PM] : ADMIN has added a Vendor Details [RAVIKUMAR TEAM] into the Database
+
+
+[16-08-2013:6:45:15 PM] : ADMIN has added Employee Details[PRAVEEN BABU.V] into the Database
+
+
+[16-08-2013:6:53:08 PM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[16-08-2013:6:53:34 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[16-08-2013:6:53:43 PM] : ADMIN has Approved Leave request from the ID B2KER002 on 2013-08-16.
+
+
+[16-08-2013:8:54:11 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[16-08-2013:9:51:10 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[16-08-2013:11:05:58 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[16-08-2013:11:07:10 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35

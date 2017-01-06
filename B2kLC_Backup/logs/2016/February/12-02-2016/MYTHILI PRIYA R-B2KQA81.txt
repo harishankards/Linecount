@@ -1,0 +1,72 @@
+
+
+[12-02-2016:4:58:09 AM] : B2KQA81 has logged in to IDSIL / PJO using the System 117.206.101.202
+
+
+[12-02-2016:5:44:49 AM] : B2KQA81 has picked a file 96674334 in IDSIL / PJO
+
+
+[12-02-2016:6:08:53 AM] : B2KQA81 has added a Audit file 96673718 in IDSIL / PJO 
+
+
+[12-02-2016:6:45:26 AM] : B2KQA81 has logged in to IDSIL / PJO using the System 117.206.108.87
+
+
+[12-02-2016:6:45:33 AM] : B2KQA81 has logged in to IDSIL / PJO using the System 117.206.108.87
+
+
+[12-02-2016:6:46:10 AM] : B2KQA81 has added a Audit file 96674550 in IDSIL / PJO 
+
+
+[12-02-2016:6:46:19 AM] : B2KQA81 has logged in to IDSIL / PJO using the System 223.185.191.189
+
+
+[12-02-2016:6:46:39 AM] : B2KQA81 has logged out from the Linecount Software Using the System 223.185.191.189
+
+
+[12-02-2016:6:48:21 AM] : B2KQA81 has picked a file 96675834 in IDSIL / PJO
+
+
+[12-02-2016:7:02:40 AM] : B2KQA81 has picked a file 96676188 in IDSIL / PJO
+
+
+[12-02-2016:7:23:55 AM] : B2KQA81 has picked a file 96676360 in IDSIL / PJO
+
+
+[12-02-2016:7:48:46 AM] : B2KQA81 has added a Audit file 96676418 in IDSIL / PJO 
+
+
+[12-02-2016:7:49:03 AM] : B2KQA81 has viewed the DUP file details in IDSIL/PJO from 2016-02-01 to 2016-02-12
+
+
+[12-02-2016:7:49:20 AM] : B2KQA81 has viewed the Edited file details in IDSIL/PJO from 2016-02-01 to 2016-02-12
+
+
+[12-02-2016:7:49:41 AM] : B2KQA81 has viewed the Audit file details in IDSIL / PJO from 2016-02-01 to 2016-02-12
+
+
+[12-02-2016:10:14:41 AM] : B2KQA81 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[12-02-2016:10:15:56 AM] : B2KQA81 has viewed the Edited file details in IDSIL/PJO from 2016-02-12 to 2016-02-12
+
+
+[12-02-2016:10:31:20 AM] : B2KQA81 has picked a file 96680778 in IDSIL / PJO
+
+
+[12-02-2016:11:30:28 AM] : B2KQA81 has picked a file 96682546 in IDSIL / PJO
+
+
+[12-02-2016:12:56:07 PM] : B2KQA81 has added a Audit file 96682708 in IDSIL / PJO 
+
+
+[12-02-2016:1:54:59 PM] : B2KQA81 has logged in to IDSIL / PJO using the System 59.90.86.47
+
+
+[12-02-2016:1:55:11 PM] : B2KQA81 has picked a file 96685749 in IDSIL / PJO
+
+
+[12-02-2016:1:55:16 PM] : B2KQA81 has logged out from the Linecount Software Using the System 59.90.86.47
+
+
+[13-02-2016:4:35:09 AM] : B2KQA81 has picked a file 96696261 in IDSIL / PJO

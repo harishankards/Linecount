@@ -1,0 +1,69 @@
+
+
+[26-06-2014:2:28:43 AM] : ADMIN has Viewed Employee Details
+
+
+[26-06-2014:2:28:57 AM] : ADMIN has Viewed Employee Details
+
+
+[26-06-2014:6:45:55 AM] : ADMIN has Viewed Employee Details
+
+
+[26-06-2014:6:46:02 AM] : ADMIN has Viewed Employee Details
+
+[26-06-2014:8:49:52 AM] : ADMIN has Viewed Employee Details
+
+
+[26-06-2014:8:51:13 AM] : ADMIN has Viewed Employee Details
+
+
+[26-06-2014:8:51:24 AM] : ADMIN has Viewed Employee Details
+
+
+[26-06-2014:9:28:50 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[26-06-2014:9:37:16 AM] : ADMIN has Viewed Employee Details
+
+
+[26-06-2014:9:41:50 AM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[26-06-2014:9:44:03 AM] : ADMIN has Viewed Employee Details
+
+
+[26-06-2014:9:44:09 AM] : ADMIN has Viewed Employee Details
+
+[26-06-2014:9:47:40 AM] : ADMIN has added an Update into the Database
+
+[26-06-2014:9:49:33 AM] : ADMIN has added an Update into the Database
+
+[26-06-2014:9:50:29 AM] : ADMIN has added an Update into the Database
+
+
+[26-06-2014:12:48:43 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[26-06-2014:12:49:12 PM] : ADMIN has Approved Leave request from the ID B2KER002 on 2014-06-26.
+
+
+[26-06-2014:3:12:18 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[26-06-2014:3:18:41 PM] : ADMIN has Deleted the details of the file 70740511.
+
+
+[26-06-2014:3:31:00 PM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[26-06-2014:3:47:51 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[26-06-2014:5:12:41 PM] : ADMIN has Viewed Employee Details
+
+
+[26-06-2014:6:30:33 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+[26-06-2014:6:30:50 PM] : ADMIN has added an Update into the Database
+
+[26-06-2014:6:50:45 PM] : ADMIN has added an Update into the Database
+
+[26-06-2014:7:12:52 PM] : ADMIN has added an Update into the Database

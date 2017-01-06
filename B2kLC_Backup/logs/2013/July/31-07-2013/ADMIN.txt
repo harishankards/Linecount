@@ -1,0 +1,91 @@
+
+
+[31-07-2013:5:48:30 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+[31-07-2013:5:48:38 AM] : ADMIN has Viewed Employee Details
+
+[31-07-2013:5:48:46 AM] : ADMIN has Viewed Employee Details
+
+[31-07-2013:5:53:14 AM] : ADMIN has Viewed Employee Details
+
+[31-07-2013:5:53:21 AM] : ADMIN has Viewed Employee Details
+
+[31-07-2013:5:54:32 AM] : ADMIN has Viewed Employee Details
+
+[31-07-2013:5:54:39 AM] : ADMIN has Viewed Employee Details
+
+[31-07-2013:5:55:21 AM] : ADMIN has Viewed Employee Details
+
+[31-07-2013:5:57:27 AM] : ADMIN has Viewed Employee Details
+
+[31-07-2013:5:57:34 AM] : ADMIN has Viewed Employee Details
+
+[31-07-2013:5:57:41 AM] : ADMIN has Viewed Employee Details
+
+[31-07-2013:5:58:08 AM] : ADMIN has Viewed Employee Details
+
+
+[31-07-2013:5:58:08 AM] : ADMIN has Deleted Employee Details B2KES127
+
+
+[31-07-2013:7:17:38 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[31-07-2013:9:43:47 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[31-07-2013:10:26:08 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[31-07-2013:10:26:14 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[31-07-2013:10:26:28 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[31-07-2013:10:39:36 AM] : ADMIN has added an Update into the Database
+
+[31-07-2013:10:51:10 AM] : ADMIN has added an Update into the Database
+
+[31-07-2013:10:52:31 AM] : ADMIN has added an Update into the Database
+
+
+[31-07-2013:10:53:29 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[31-07-2013:1:09:21 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[31-07-2013:1:34:10 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[31-07-2013:1:44:31 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[31-07-2013:1:44:56 PM] : ADMIN has Deleted the details of the file 62368559.
+
+
+[31-07-2013:1:53:29 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[31-07-2013:3:27:31 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[31-07-2013:3:28:18 PM] : ADMIN has Deleted the details of the file 62401419.
+
+[31-07-2013:3:28:55 PM] : ADMIN has Deleted the details of the file 62359465.
+
+[31-07-2013:3:29:22 PM] : ADMIN has Deleted the details of the file 62313562.
+
+
+[31-07-2013:4:10:29 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[31-07-2013:5:49:23 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[31-07-2013:5:49:34 PM] : ADMIN has Approved Leave request from the ID B2KMLS006 on 2013-07-31.
+
+[31-07-2013:5:49:51 PM] : ADMIN has Approved Leave request from the ID B2KER001 on 2013-08-01.
+
+
+[31-07-2013:6:27:28 PM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[31-07-2013:7:14:17 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47

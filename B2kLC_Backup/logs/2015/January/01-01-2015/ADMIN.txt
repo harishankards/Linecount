@@ -1,0 +1,34 @@
+
+
+[01-01-2015:12:20:59 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[01-01-2015:1:23:54 AM] : ADMIN has Deleted the details of the file 74936738.
+
+
+[01-01-2015:4:18:36 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[01-01-2015:5:43:21 AM] : ADMIN has Deleted the details of the file 74942353.
+
+
+[01-01-2015:7:06:32 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[01-01-2015:8:40:34 AM] : ADMIN has Viewed Employee Details
+
+
+[01-01-2015:8:40:44 AM] : ADMIN has Viewed Employee Details
+
+
+[01-01-2015:8:43:03 AM] : ADMIN has Viewed Employee Details
+
+
+[01-01-2015:8:43:19 AM] : ADMIN has Viewed Employee Details
+
+
+[01-01-2015:2:05:04 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[01-01-2015:7:32:34 PM] : ADMIN has Deleted the details of the file 1314208.
+
+[01-01-2015:7:33:23 PM] : ADMIN has Deleted the details of the file 1314253.
+
+[01-01-2015:7:34:02 PM] : ADMIN has Deleted the details of the file 1314201.

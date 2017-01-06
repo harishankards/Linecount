@@ -1,0 +1,108 @@
+
+
+[23-11-2013:1:58:13 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[23-11-2013:6:10:57 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[23-11-2013:7:55:18 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[23-11-2013:8:48:06 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[23-11-2013:9:20:21 AM] : ADMIN has Viewed Employee Details
+
+
+[23-11-2013:9:20:34 AM] : ADMIN has Viewed Employee Details
+
+
+[23-11-2013:10:04:42 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[23-11-2013:10:11:01 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[23-11-2013:10:11:38 AM] : ADMIN has Viewed Employee Details
+
+[23-11-2013:10:17:17 AM] : ADMIN has added an Update into the Database
+
+
+[23-11-2013:10:19:05 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[23-11-2013:11:03:12 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[23-11-2013:11:21:25 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[23-11-2013:11:21:34 AM] : ADMIN has Approved Leave request from the ID B2KMLS003 on 2013-11-24.
+
+[23-11-2013:11:21:55 AM] : ADMIN has added an Update into the Database
+
+
+[23-11-2013:11:41:04 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+[23-11-2013:12:03:46 PM] : ADMIN has Deleted the details of the file 65555689.
+
+
+[23-11-2013:1:21:11 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[23-11-2013:1:21:36 PM] : ADMIN has Viewed Employee Details
+
+
+[23-11-2013:1:22:23 PM] : ADMIN has Viewed Employee Details
+
+[23-11-2013:1:23:26 PM] : ADMIN has Viewed Employee Details
+
+[23-11-2013:1:24:06 PM] : ADMIN has Viewed Employee Details
+
+[23-11-2013:1:24:13 PM] : ADMIN has Viewed Employee Details
+
+
+[23-11-2013:1:24:13 PM] : ADMIN has Deleted Employee Details ATMLS030
+
+
+[23-11-2013:1:25:01 PM] : ADMIN has added Employee Details[EDWIN. C] into the Database
+
+
+[23-11-2013:2:41:27 PM] : ADMIN has Viewed Employee Details
+
+
+[23-11-2013:2:47:58 PM] : ADMIN has Viewed Employee Details
+
+
+[23-11-2013:2:50:38 PM] : ADMIN has Viewed Employee Details
+
+[23-11-2013:3:36:35 PM] : ADMIN has Deleted the details of the file 65541582.
+
+
+[23-11-2013:4:09:04 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[23-11-2013:4:36:32 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[23-11-2013:4:44:18 PM] : ADMIN has logged out from the Linecount Software Using the System 59.90.86.47
+
+
+[23-11-2013:5:33:38 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[23-11-2013:5:33:56 PM] : ADMIN has Approved Leave request from the ID SKPOER001 on 2013-11-24.
+
+
+[23-11-2013:5:44:09 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[23-11-2013:6:26:37 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[23-11-2013:7:22:32 PM] : ADMIN has Viewed Employee Details
+
+
+[23-11-2013:11:10:09 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[23-11-2013:11:46:30 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47

@@ -1,0 +1,102 @@
+
+
+[03-06-2014:2:02:24 AM] : ADMIN has Viewed Employee Details
+
+
+[03-06-2014:2:02:31 AM] : ADMIN has Viewed Employee Details
+
+
+[03-06-2014:6:03:53 AM] : ADMIN has Viewed Employee Details
+
+
+[03-06-2014:6:04:04 AM] : ADMIN has Viewed Employee Details
+
+
+[03-06-2014:7:04:11 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[03-06-2014:8:34:16 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[03-06-2014:9:17:43 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[03-06-2014:10:03:18 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+[03-06-2014:10:03:30 AM] : ADMIN has Approved Leave request from the ID B2KMLS042 on 2014-06-02.
+
+[03-06-2014:10:03:35 AM] : ADMIN has Approved Leave request from the ID B2KMLS002 on 2014-05-30.
+
+[03-06-2014:10:03:40 AM] : ADMIN has Approved Leave request from the ID B2KMLS042 on 2014-05-31.
+
+[03-06-2014:10:03:44 AM] : ADMIN has Approved Leave request from the ID B2KMLS042 on 2014-05-30.
+
+[03-06-2014:10:03:49 AM] : ADMIN has Approved Leave request from the ID B2KMLS042 on 2014-06-01.
+
+[03-06-2014:10:03:58 AM] : ADMIN has Approved Leave request from the ID B2KER002 on 2014-06-01.
+
+[03-06-2014:10:04:07 AM] : ADMIN has Approved Leave request from the ID B2KER005 on 2014-06-03.
+
+[03-06-2014:10:04:30 AM] : ADMIN has Approved Leave request from the ID B2KER005 on 2014-06-03.
+
+[03-06-2014:10:04:41 AM] : ADMIN has Approved Leave request from the ID B2KER005 on 2014-06-04.
+
+
+[03-06-2014:10:10:23 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[03-06-2014:11:55:34 AM] : ADMIN has Viewed Employee Details
+
+
+[03-06-2014:1:00:34 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[03-06-2014:1:06:44 PM] : ADMIN has Viewed Employee Details
+
+
+[03-06-2014:2:21:31 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[03-06-2014:3:07:33 PM] : ADMIN has Viewed Employee Details
+
+
+[03-06-2014:3:39:40 PM] : ADMIN has logged in to Admin page using the System 14.102.34.42
+
+
+[03-06-2014:3:53:28 PM] : ADMIN has logged out from the Linecount Software Using the System 14.102.34.42
+
+
+[03-06-2014:6:18:01 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[03-06-2014:6:29:52 PM] : ADMIN has Viewed Employee Details
+
+
+[03-06-2014:6:36:46 PM] : ADMIN has added Employee Details[R. KIRTHIKA DEVI] into the Database
+
+
+[03-06-2014:6:45:10 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[03-06-2014:6:45:27 PM] : ADMIN has logged out from the Linecount Software Using the System 59.90.86.47
+
+
+[03-06-2014:6:45:30 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[03-06-2014:6:50:16 PM] : ADMIN has logged out from the Linecount Software Using the System 59.90.86.47
+
+
+[03-06-2014:7:55:52 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[03-06-2014:10:16:25 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[03-06-2014:10:28:48 PM] : ADMIN has Viewed Employee Details
+
+
+[03-06-2014:10:55:31 PM] : ADMIN has Viewed Employee Details
+
+
+[03-06-2014:10:55:42 PM] : ADMIN has Viewed Employee Details

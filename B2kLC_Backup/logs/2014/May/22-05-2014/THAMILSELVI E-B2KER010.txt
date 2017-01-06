@@ -1,0 +1,63 @@
+
+
+[22-05-2014:10:15:39 AM] : B2KER010 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[22-05-2014:10:16:32 AM] : B2KER010 has picked a file 69971666 in IDSIL / PJO
+
+
+[22-05-2014:11:04:02 AM] : B2KER010 has uploaded a file 69971666 to Hospital/Customer in IDSIL / PJO
+
+
+[22-05-2014:11:05:02 AM] : B2KER010 has added a Audit file 69971666 in IDSIL / PJO 
+
+
+[22-05-2014:11:05:55 AM] : B2KER010 has picked a file 69968107 in IDSIL / PJO
+
+
+[22-05-2014:12:06:12 PM] : B2KER010 has uploaded a file 69968107 to Hospital/Customer in IDSIL / PJO
+
+
+[22-05-2014:12:10:15 PM] : B2KER010 has picked a file 69957116 in IDSIL / PJO
+
+
+[22-05-2014:12:55:58 PM] : B2KER010 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[22-05-2014:12:56:03 PM] : B2KER010 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[22-05-2014:12:56:10 PM] : B2KER010 has uploaded a file 69957116 to Hospital/Customer in IDSIL / PJO
+
+
+[22-05-2014:12:56:29 PM] : B2KER010 has picked a file 69958393 in IDSIL / PJO
+
+
+[22-05-2014:1:06:52 PM] : B2KER010 has uploaded a file 69958393 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[22-05-2014:2:13:44 PM] : B2KER010 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[22-05-2014:3:01:39 PM] : B2KER010 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[22-05-2014:3:10:17 PM] : B2KER010 has added a Audit file 69963204 in IDSIL / PJO 
+
+
+[22-05-2014:5:45:58 PM] : B2KER010 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[22-05-2014:5:46:30 PM] : B2KER010 has added a Audit file 69968963 in IDSIL / PJO 
+
+
+[22-05-2014:5:47:00 PM] : B2KER010 has viewed the Audit file details in IDSIL / PJO from 2014-05-22 to 2014-05-22
+
+
+[22-05-2014:5:47:14 PM] : B2KER010 has viewed the Edited file details in IDSIL/PJO from 2014-05-22 to 2014-05-22
+
+
+[22-05-2014:5:47:42 PM] : B2KER010 has viewed the Edited file details in IDSIL/PJO from 2014-05-21 to 2014-05-22
+
+
+[22-05-2014:5:48:00 PM] : B2KER010 has logged out from the Linecount Software Using the System 123.255.248.35

@@ -1,0 +1,63 @@
+
+
+[22-09-2013:10:57:20 AM] : B2KER006 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[22-09-2013:10:57:47 AM] : B2KER006 has viewed the Edited file details in IDSIL/PJO from 2013-09-01 to 2013-09-22
+
+
+[22-09-2013:10:58:12 AM] : B2KER006 has viewed the Audit file details in IDSIL / PJO from 2013-09-01 to 2013-09-22
+
+
+[22-09-2013:10:58:37 AM] : B2KER006 has viewed the DUP file details in IDSIL/PJO from 2013-09-01 to 2013-09-22
+
+
+[22-09-2013:11:01:14 AM] : B2KER006 has picked a file 63866694 in IDSIL / PJO
+
+
+[22-09-2013:11:01:19 AM] : B2KER006 has uploaded a file 63866694 to Hospital/Customer in IDSIL / PJO
+
+
+[22-09-2013:11:13:24 AM] : B2KER006 has picked a file 63867430 in IDSIL / PJO
+
+
+[22-09-2013:11:13:30 AM] : B2KER006 has uploaded a file 63867430 to Hospital/Customer in IDSIL / PJO
+
+
+[22-09-2013:11:24:56 AM] : B2KER006 has picked a file 63875323 in IDSIL / PJO
+
+
+[22-09-2013:11:25:01 AM] : B2KER006 has uploaded a file 63875323 to Hospital/Customer in IDSIL / PJO
+
+
+[22-09-2013:12:32:38 PM] : B2KER006 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[22-09-2013:12:32:48 PM] : B2KER006 has picked a file 63879273 in IDSIL / PJO
+
+
+[22-09-2013:12:32:54 PM] : B2KER006 has uploaded a file 63879273 to Hospital/Customer in IDSIL / PJO
+
+
+[22-09-2013:12:44:22 PM] : B2KER006 has picked a file 63873860 in IDSIL / PJO
+
+
+[22-09-2013:12:44:26 PM] : B2KER006 has uploaded a file 63873860 to Hospital/Customer in IDSIL / PJO
+
+
+[22-09-2013:12:53:37 PM] : B2KER006 has added a Audit file 63873729 in IDSIL / PJO 
+
+
+[22-09-2013:1:03:56 PM] : B2KER006 has picked a file 63879657 in IDSIL / PJO
+
+
+[22-09-2013:1:04:02 PM] : B2KER006 has uploaded a file 63879657 to Hospital/Customer in IDSIL / PJO
+
+
+[22-09-2013:1:23:44 PM] : B2KER006 has picked a file 63874273 in IDSIL / PJO
+
+
+[22-09-2013:1:23:49 PM] : B2KER006 has uploaded a file 63874273 to Hospital/Customer in IDSIL / PJO
+
+
+[22-09-2013:1:37:11 PM] : B2KER006 has logged out from the Linecount Software Using the System 123.255.248.35

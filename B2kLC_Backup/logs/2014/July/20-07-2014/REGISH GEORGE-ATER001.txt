@@ -1,0 +1,45 @@
+
+
+[20-07-2014:12:49:17 PM] : ATER001 has logged in to IDSIL / PJO using the System 106.208.12.162
+
+
+[20-07-2014:12:49:40 PM] : ATER001 has picked a file 71331543 in IDSIL / PJO
+
+
+[20-07-2014:12:49:45 PM] : ATER001 has uploaded a file 71331543 to Hospital/Customer in IDSIL / PJO
+
+
+[20-07-2014:1:05:27 PM] : ATER001 has picked a file 71334309 in IDSIL / PJO
+
+
+[20-07-2014:1:05:36 PM] : ATER001 has uploaded a file 71334309 to Hospital/Customer in IDSIL / PJO
+
+
+[20-07-2014:3:34:11 PM] : ATER001 has logged in to IDSIL / PJO using the System 106.208.38.253
+
+
+[20-07-2014:3:35:51 PM] : ATER001 has picked a file 71336424 in IDSIL / PJO
+
+
+[20-07-2014:3:35:58 PM] : ATER001 has uploaded a file 71336424 to Hospital/Customer in IDSIL / PJO
+
+
+[20-07-2014:3:54:53 PM] : ATER001 has picked a file 71336579 in IDSIL / PJO
+
+
+[20-07-2014:3:54:59 PM] : ATER001 has uploaded a file 71336579 to Hospital/Customer in IDSIL / PJO
+
+
+[20-07-2014:3:55:08 PM] : ATER001 has viewed the Edited file details in IDSIL/PJO from 2014-07-20 to 2014-07-20
+
+
+[20-07-2014:6:30:04 PM] : ATER001 has logged in to IDSIL / PJO using the System 106.208.47.217
+
+
+[20-07-2014:6:30:18 PM] : ATER001 has viewed the Edited file details in IDSIL/PJO from 2014-07-20 to 2014-07-20
+
+
+[20-07-2014:6:45:09 PM] : ATER001 has viewed the DUP file details in IDSIL/PJO from 2014-07-01 to 2014-07-20
+
+
+[20-07-2014:6:45:14 PM] : ATER001 has Downloaded a file details in IDSIL / PJO from 2014-07-01 to 2014-07-20

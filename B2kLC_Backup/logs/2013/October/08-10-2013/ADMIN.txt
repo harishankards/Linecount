@@ -1,0 +1,59 @@
+
+
+[08-10-2013:12:11:59 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[08-10-2013:6:07:29 AM] : ADMIN has Viewed Employee Details
+
+
+[08-10-2013:8:04:07 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[08-10-2013:8:04:18 AM] : ADMIN has Viewed Employee Details
+
+
+[08-10-2013:8:04:25 AM] : ADMIN has Viewed Employee Details
+
+
+[08-10-2013:9:48:29 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[08-10-2013:10:21:13 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[08-10-2013:10:37:49 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[08-10-2013:11:41:41 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[08-10-2013:11:54:17 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[08-10-2013:12:08:46 PM] : ADMIN has Viewed Employee Details
+
+
+[08-10-2013:12:11:01 PM] : ADMIN has added Employee Details[R.P. TAMILSELVI] into the Database
+
+
+[08-10-2013:1:34:57 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[08-10-2013:2:37:49 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[08-10-2013:3:54:36 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[08-10-2013:5:39:25 PM] : ADMIN has logged out from the Linecount Software Using the System 59.90.86.47
+
+
+[08-10-2013:5:39:29 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[08-10-2013:5:52:46 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[08-10-2013:6:23:58 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[08-10-2013:6:30:40 PM] : ADMIN has logged out from the Linecount Software Using the System 59.90.86.47

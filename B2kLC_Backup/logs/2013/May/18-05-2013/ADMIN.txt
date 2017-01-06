@@ -1,0 +1,62 @@
+
+
+[18-05-2013:10:22:24 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[18-05-2013:10:32:21 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[18-05-2013:11:51:39 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[18-05-2013:12:15:02 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[18-05-2013:12:42:24 PM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[18-05-2013:12:42:27 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[18-05-2013:12:44:41 PM] : ADMIN has Approved Leave request from the ID B2KER007 on 2013-05-16.
+
+
+[18-05-2013:12:56:02 PM] : ADMIN has Viewed Employee Details
+
+
+[18-05-2013:12:56:18 PM] : ADMIN has Viewed Employee Details
+
+
+[18-05-2013:1:07:50 PM] : ADMIN has Viewed Employee Details
+
+
+[18-05-2013:1:08:41 PM] : ADMIN has Viewed Employee Details
+
+
+[18-05-2013:1:54:16 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[18-05-2013:2:02:55 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[18-05-2013:3:43:13 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[18-05-2013:3:43:22 PM] : ADMIN has Viewed Employee Details
+
+
+[18-05-2013:3:43:28 PM] : ADMIN has Viewed Employee Details
+
+
+[18-05-2013:3:46:08 PM] : ADMIN has Viewed Employee Details
+
+
+[18-05-2013:3:47:23 PM] : ADMIN has Viewed Employee Details
+
+
+[18-05-2013:5:18:02 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[18-05-2013:5:44:01 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[18-05-2013:5:56:32 PM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35

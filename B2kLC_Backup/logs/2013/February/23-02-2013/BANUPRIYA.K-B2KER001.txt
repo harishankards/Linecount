@@ -1,0 +1,45 @@
+
+
+[23-02-2013:9:37:00 AM] : B2KER001 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[23-02-2013:2:33:55 PM] : B2KER001 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[23-02-2013:2:34:09 PM] : B2KER001 has picked a file 58043471 in IDSIL / PJO
+
+
+[23-02-2013:2:34:17 PM] : B2KER001 has uploaded a file 58043471 to Hospital/Customer in IDSIL / PJO
+
+
+[23-02-2013:2:34:35 PM] :  has uploaded a DUP file 58031720 in IDSIL / PJO
+
+
+[23-02-2013:2:42:54 PM] : B2KER001 has picked a file 58041589 in IDSIL / PJO
+
+
+[23-02-2013:2:43:03 PM] : B2KER001 has uploaded a file 58041589 to Hospital/Customer in IDSIL / PJO
+
+
+[23-02-2013:5:01:09 PM] : B2KER001 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[23-02-2013:5:02:15 PM] :  has uploaded a DUP file 58032109 in IDSIL / PJO
+
+
+[23-02-2013:5:19:11 PM] :  has uploaded a DUP file 58032901 in IDSIL / PJO
+
+
+[23-02-2013:5:37:58 PM] :  has uploaded a DUP file 58044836 in IDSIL / PJO
+
+
+[23-02-2013:5:46:49 PM] : B2KER001 has viewed the DUP file details in IDSIL/PJO from 2013-02-01 to 2013-02-23
+
+
+[23-02-2013:5:47:02 PM] : B2KER001 has Downloaded a file details in IDSIL / PJO from 2013-02-01 to 2013-02-23
+
+
+[23-02-2013:5:47:50 PM] : B2KER001 has viewed the DUP file details in IDSIL/PJO from 2013-02-01 to 2013-02-23
+
+
+[23-02-2013:5:48:03 PM] : B2KER001 has logged out from the Linecount Software Using the System 123.255.248.35

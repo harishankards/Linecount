@@ -1,0 +1,12 @@
+
+
+[16-04-2014:10:35:03 AM] : DITED001 has logged in to IDSIL / PJO using the System 122.178.169.188
+
+
+[16-04-2014:10:35:23 AM] : DITED001 has picked a file 69080952 in IDSIL / PJO
+
+
+[16-04-2014:10:35:29 AM] : DITED001 has uploaded a file 69080952 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[16-04-2014:10:35:38 AM] : DITED001 has logged out from the Linecount Software Using the System 122.178.169.188

@@ -1,0 +1,81 @@
+
+
+[30-06-2013:12:30:20 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[30-06-2013:1:59:15 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[30-06-2013:8:52:59 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[30-06-2013:8:53:40 AM] : ADMIN has Viewed Employee Details
+
+
+[30-06-2013:8:53:54 AM] : ADMIN has Viewed Employee Details
+
+
+[30-06-2013:10:00:03 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[30-06-2013:10:47:43 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[30-06-2013:11:45:19 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[30-06-2013:11:50:00 AM] : ADMIN has Deleted the details of the file 61045039.
+
+[30-06-2013:11:50:26 AM] : ADMIN has Deleted the details of the file 61066533.
+
+[30-06-2013:11:51:02 AM] : ADMIN has Deleted the details of the file 61083100.
+
+[30-06-2013:11:51:18 AM] : ADMIN has Deleted the details of the file 61087244.
+
+[30-06-2013:11:51:33 AM] : ADMIN has Deleted the details of the file 61125520.
+
+[30-06-2013:11:51:48 AM] : ADMIN has Deleted the details of the file 61128884.
+
+[30-06-2013:11:52:09 AM] : ADMIN has Deleted the details of the file 61148400.
+
+[30-06-2013:11:52:23 AM] : ADMIN has Deleted the details of the file 61149532.
+
+[30-06-2013:11:52:59 AM] : ADMIN has Deleted the details of the file 61214447.
+
+[30-06-2013:11:53:21 AM] : ADMIN has Deleted the details of the file 61496031.
+
+
+[30-06-2013:11:58:52 AM] : ADMIN has Viewed Employee Details
+
+[30-06-2013:12:02:09 PM] : ADMIN has Deleted the details of the file 61665457.
+
+
+[30-06-2013:1:49:01 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[30-06-2013:2:49:35 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[30-06-2013:3:08:01 PM] : ADMIN has Deleted the details of the file 61144402.
+
+
+[30-06-2013:4:05:08 PM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[30-06-2013:4:10:03 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[30-06-2013:5:17:35 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[30-06-2013:5:46:14 PM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[30-06-2013:7:33:31 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[30-06-2013:8:29:35 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[30-06-2013:9:25:23 PM] : ADMIN has Viewed Employee Details
+
+
+[30-06-2013:9:25:29 PM] : ADMIN has Viewed Employee Details

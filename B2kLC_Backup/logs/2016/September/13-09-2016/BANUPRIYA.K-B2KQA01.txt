@@ -1,0 +1,84 @@
+
+
+[13-09-2016:6:41:02 AM] : B2KQA01 has logged in to IDSIL / PJO using the System 103.204.28.210
+
+
+[13-09-2016:6:42:31 AM] : B2KQA01 has picked a file 99952065 in IDSIL / PJO
+
+
+[13-09-2016:7:35:10 AM] : B2KQA01 has picked a file 99945050 in IDSIL / PJO
+
+
+[13-09-2016:8:25:49 AM] : B2KQA01 has logged in to IDSIL / PJO using the System 103.204.28.210
+
+
+[13-09-2016:8:28:13 AM] : B2KQA01 has picked a file 99946384 in IDSIL / PJO
+
+
+[13-09-2016:9:11:08 AM] : B2KQA01 has picked a file 99946399 in IDSIL / PJO
+
+
+[13-09-2016:9:54:43 AM] : B2KQA01 has logged in to IDSIL / PJO using the System 103.204.28.210
+
+
+[13-09-2016:9:55:01 AM] : B2KQA01 has picked a file 99947569 in IDSIL / PJO
+
+
+[13-09-2016:10:53:02 AM] : B2KQA01 has picked a file 99946919 in IDSIL / PJO
+
+
+[13-09-2016:10:55:57 AM] : B2KQA01 has viewed the Edited file details in IDSIL/PJO from 2016-09-12 to 2016-09-13
+
+
+[13-09-2016:11:41:12 AM] : B2KQA01 has picked a file 99952426 in IDSIL / PJO
+
+
+[13-09-2016:12:20:21 PM] : B2KQA01 has picked a file 99953943 in IDSIL / PJO
+
+
+[13-09-2016:12:41:11 PM] : B2KQA01 has viewed the Edited file details in IDSIL/PJO from 2016-09-12 to 2016-09-13
+
+
+[13-09-2016:1:12:16 PM] : B2KQA01 has picked a file 99954274 in IDSIL / PJO
+
+
+[13-09-2016:1:57:06 PM] : B2KQA01 has viewed the Edited file details in IDSIL/PJO from 2016-09-12 to 2016-09-13
+
+
+[13-09-2016:2:07:15 PM] : B2KQA01 has picked a file 99953548 in IDSIL / PJO
+
+
+[13-09-2016:2:34:47 PM] : B2KQA01 has picked a file 99948049 in IDSIL / PJO
+
+
+[13-09-2016:2:35:02 PM] : B2KQA01 has viewed the Edited file details in IDSIL/PJO from 2016-09-12 to 2016-09-13
+
+
+[13-09-2016:7:35:11 PM] : B2KQA01 has logged in to IDSIL / PJO using the System 117.201.22.120
+
+
+[13-09-2016:7:36:40 PM] : B2KQA01 has picked a file 99951884 in IDSIL / PJO
+
+
+[13-09-2016:8:22:04 PM] : B2KQA01 has picked a file 99952029 in IDSIL / PJO
+
+
+[13-09-2016:8:59:26 PM] : B2KQA01 has viewed the Edited file details in IDSIL/PJO from 2016-09-01 to 2016-09-13
+
+
+[13-09-2016:8:59:54 PM] : B2KQA01 has viewed the Audit file details in IDSIL / PJO from 2016-09-01 to 2016-09-13
+
+
+[13-09-2016:9:00:03 PM] : B2KQA01 has viewed the Audit file details in IDSIL / PJO from 2016-09-01 to 2016-09-13
+
+
+[13-09-2016:9:00:09 PM] : B2KQA01 has viewed the Audit file details in IDSIL / PJO from 2016-09-01 to 2016-09-13
+
+
+[13-09-2016:9:00:29 PM] : B2KQA01 has viewed the DUP file details in IDSIL/PJO from 2016-09-01 to 2016-09-13
+
+
+[13-09-2016:9:04:49 PM] : B2KQA01 has viewed the Edited file details in IDSIL/PJO from 2016-09-12 to 2016-09-13
+
+
+[13-09-2016:9:06:52 PM] : B2KQA01 has logged out from the Linecount Software Using the System 172.16.210.48

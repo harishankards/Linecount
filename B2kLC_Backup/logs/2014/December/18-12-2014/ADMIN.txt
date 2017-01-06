@@ -1,0 +1,45 @@
+
+
+[18-12-2014:1:13:06 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[18-12-2014:4:05:12 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+[18-12-2014:4:05:33 AM] : ADMIN has Deleted the details of the file 74661625.
+
+[18-12-2014:5:35:57 AM] : ADMIN has Deleted the details of the file 74666602.
+
+[18-12-2014:5:36:41 AM] : ADMIN has Deleted the details of the file 74663665.
+
+
+[18-12-2014:6:40:08 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[18-12-2014:7:53:44 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[18-12-2014:10:17:36 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[18-12-2014:10:22:16 AM] : ADMIN has added Client Details into Database
+
+[18-12-2014:10:22:44 AM] : ADMIN has added a Platform Details [EBTXT] into the Database
+
+[18-12-2014:10:30:41 AM] : ADMIN has added Hospital [CLEARVIEW REGIONAL MEDICAL CENTER] into the Database
+
+[18-12-2014:10:31:24 AM] : ADMIN has added Hospital [CARLISLE REGIONAL MEDICAL CENTER] into the Database
+
+
+[18-12-2014:11:15:27 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[18-12-2014:3:59:30 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[18-12-2014:6:40:03 PM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[18-12-2014:6:55:16 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[18-12-2014:9:06:39 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47

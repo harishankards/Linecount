@@ -1,0 +1,12 @@
+
+
+[30-06-2014:4:30:00 PM] : DITMLS007 has logged in to IDSIL / PJO using the System 122.178.167.58
+
+
+[30-06-2014:4:30:15 PM] : DITMLS007 has viewed the file details in IDSIL / PJO from 2014-06-01 to 2014-06-30
+
+
+[30-06-2014:4:33:48 PM] : DITMLS007 has Downloaded a file details in IDSIL / PJO from 2014-06-01 to 2014-06-30
+
+
+[30-06-2014:4:34:55 PM] : DITMLS007 has logged out from the Linecount Software Using the System 122.178.167.58

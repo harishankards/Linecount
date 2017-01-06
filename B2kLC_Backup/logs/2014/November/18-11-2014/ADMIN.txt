@@ -1,0 +1,53 @@
+
+
+[18-11-2014:12:40:55 AM] : ADMIN has Viewed Employee Details
+
+
+[18-11-2014:12:48:00 AM] : ADMIN has added Employee Details[JOTHIPRIYA] into the Database
+
+
+[18-11-2014:12:53:40 AM] : ADMIN has added Employee Details[KANMANI.P] into the Database
+
+
+[18-11-2014:4:36:39 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[18-11-2014:5:22:25 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[18-11-2014:8:39:30 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[18-11-2014:9:10:32 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[18-11-2014:9:53:14 AM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[18-11-2014:10:14:21 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[18-11-2014:12:59:18 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[18-11-2014:2:55:56 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[18-11-2014:3:00:25 PM] : ADMIN has Deleted the details of the file 74014629.
+
+
+[18-11-2014:4:53:24 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[18-11-2014:6:01:53 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[18-11-2014:6:19:58 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[18-11-2014:6:53:19 PM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[18-11-2014:11:10:54 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[18-11-2014:11:48:17 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47

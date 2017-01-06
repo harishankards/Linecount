@@ -1,0 +1,156 @@
+
+
+[30-12-2013:8:48:04 AM] : ATMLS029 has logged in to IDSIL / PJO using the System 202.129.197.58
+
+
+[30-12-2013:8:48:56 AM] : ATMLS029 has picked a file 66328483 in IDSIL / PJO
+
+
+[30-12-2013:8:49:10 AM] : ATMLS029 has uploaded a file 66328483 to Hospital/Customer in IDSIL / PJO
+
+
+[30-12-2013:9:01:58 AM] : ATMLS029 has picked a file 66329950 in IDSIL / PJO
+
+
+[30-12-2013:9:02:08 AM] : ATMLS029 has uploaded a file 66329950 to Hospital/Customer in IDSIL / PJO
+
+
+[30-12-2013:9:02:40 AM] : ATMLS029 has picked a file 66329315 in IDSIL / PJO
+
+
+[30-12-2013:9:02:55 AM] : ATMLS029 has uploaded a file 66329315 to Hospital/Customer in IDSIL / PJO
+
+
+[30-12-2013:9:10:44 AM] : ATMLS029 has picked a file 66331791 in IDSIL / PJO
+
+
+[30-12-2013:9:11:00 AM] : ATMLS029 has uploaded a file 66331791 to Hospital/Customer in IDSIL / PJO
+
+
+[30-12-2013:9:25:07 AM] : ATMLS029 has picked a file 66333426 in IDSIL / PJO
+
+
+[30-12-2013:9:25:16 AM] : ATMLS029 has uploaded a file 66333426 to Hospital/Customer in IDSIL / PJO
+
+
+[30-12-2013:9:29:56 AM] : ATMLS029 has picked a file 66333490 in IDSIL / PJO
+
+
+[30-12-2013:9:30:05 AM] : ATMLS029 has uploaded a file 66333490 to Hospital/Customer in IDSIL / PJO
+
+
+[30-12-2013:9:50:54 AM] : ATMLS029 has picked a file 66334026 in IDSIL / PJO
+
+
+[30-12-2013:9:51:23 AM] : ATMLS029 has uploaded a file 66334026 to Hospital/Customer in IDSIL / PJO
+
+
+[30-12-2013:10:19:34 AM] : ATMLS029 has picked a file 66334975 in IDSIL / PJO
+
+
+[30-12-2013:10:19:44 AM] : ATMLS029 has uploaded a file 66334975 to Hospital/Customer in IDSIL / PJO
+
+
+[30-12-2013:10:31:39 AM] : ATMLS029 has picked a file 66335041 in IDSIL / PJO
+
+
+[30-12-2013:10:38:23 AM] : ATMLS029 has uploaded a file 66335041 to Hospital/Customer in IDSIL / PJO
+
+
+[30-12-2013:10:38:44 AM] : ATMLS029 has picked a file 66335711 in IDSIL / PJO
+
+
+[30-12-2013:10:39:34 AM] : ATMLS029 has uploaded a file 66335711 to Hospital/Customer in IDSIL / PJO
+
+
+[30-12-2013:10:51:16 AM] : ATMLS029 has picked a file 66328066 in IDSIL / PJO
+
+
+[30-12-2013:10:51:24 AM] : ATMLS029 has uploaded a file 66328066 to Hospital/Customer in IDSIL / PJO
+
+
+[30-12-2013:11:06:07 AM] : ATMLS029 has picked a file 66327313 in IDSIL / PJO
+
+
+[30-12-2013:11:10:07 AM] : ATMLS029 has picked a file 66337786 in IDSIL / PJO
+
+
+[30-12-2013:11:12:38 AM] : ATMLS029 has uploaded a file 66337786 to Hospital/Customer in IDSIL / PJO
+
+
+[30-12-2013:11:28:10 AM] : ATMLS029 has picked a file 66339557 in IDSIL / PJO
+
+
+[30-12-2013:11:28:32 AM] : ATMLS029 has uploaded a file 66339557 to Hospital/Customer in IDSIL / PJO
+
+
+[30-12-2013:11:28:58 AM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[30-12-2013:11:48:10 AM] : ATMLS029 has picked a file 66337113 in IDSIL / PJO
+
+
+[30-12-2013:11:48:27 AM] : ATMLS029 has uploaded a file 66337113 to Hospital/Customer in IDSIL / PJO
+
+
+[30-12-2013:12:01:26 PM] : ATMLS029 has picked a file 66332445 in IDSIL / PJO
+
+
+[30-12-2013:12:01:35 PM] : ATMLS029 has uploaded a file 66332445 to Hospital/Customer in IDSIL / PJO
+
+
+[30-12-2013:12:06:05 PM] : ATMLS029 has picked a file 66330021 in IDSIL / PJO
+
+
+[30-12-2013:12:06:13 PM] : ATMLS029 has uploaded a file 66330021 to Hospital/Customer in IDSIL / PJO
+
+
+[30-12-2013:12:20:07 PM] : ATMLS029 has picked a file 66330312 in IDSIL / PJO
+
+
+[30-12-2013:12:24:03 PM] : ATMLS029 has uploaded a file 66330312 to Hospital/Customer in IDSIL / PJO
+
+
+[30-12-2013:12:27:30 PM] : ATMLS029 has picked a file 66339108 in IDSIL / PJO
+
+
+[30-12-2013:12:28:06 PM] : ATMLS029 has uploaded a file 66339108 to Hospital/Customer in IDSIL / PJO
+
+
+[30-12-2013:12:29:38 PM] : ATMLS029 has picked a file 66339917 in IDSIL / PJO
+
+
+[30-12-2013:12:29:59 PM] : ATMLS029 has uploaded a file 66339917 to Hospital/Customer in IDSIL / PJO
+
+
+[30-12-2013:12:31:17 PM] : ATMLS029 has picked a file 66340278 in IDSIL / PJO
+
+
+[30-12-2013:12:31:28 PM] : ATMLS029 has uploaded a file 66340278 to Hospital/Customer in IDSIL / PJO
+
+
+[30-12-2013:12:54:59 PM] : ATMLS029 has picked a file 66340864 in IDSIL / PJO
+
+
+[30-12-2013:12:55:05 PM] : ATMLS029 has uploaded a file 66340864 to Hospital/Customer in IDSIL / PJO
+
+
+[30-12-2013:1:26:48 PM] : ATMLS029 has logged in to IDSIL / PJO using the System 202.129.197.58
+
+
+[30-12-2013:1:26:52 PM] : ATMLS029 has logged in to IDSIL / PJO using the System 202.129.197.58
+
+
+[30-12-2013:1:42:28 PM] : ATMLS029 has picked a file 66330343 in IDSIL / PJO
+
+
+[30-12-2013:2:03:04 PM] : ATMLS029 has uploaded a file 66330343 to Hospital/Customer in IDSIL / PJO
+
+
+[30-12-2013:2:13:27 PM] : ATMLS029 has viewed the Edited file details in IDSIL/PJO from 2013-12-01 to 2013-12-30
+
+
+[30-12-2013:2:15:11 PM] : ATMLS029 has viewed the Audit file details in IDSIL / PJO from 2013-12-01 to 2013-12-30
+
+
+[30-12-2013:2:31:09 PM] : ATMLS029 has logged in to IDSIL / PJO using the System 202.129.197.58

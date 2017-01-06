@@ -1,0 +1,42 @@
+
+
+[30-01-2016:1:32:44 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[30-01-2016:1:33:02 AM] : ADMIN has Deleted the details of the file 96453275.
+
+
+[30-01-2016:5:18:01 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[30-01-2016:9:33:06 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[30-01-2016:10:09:16 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[30-01-2016:1:05:27 PM] : ADMIN has logged in to Admin page using the System 59.89.248.196
+
+
+[30-01-2016:1:09:03 PM] : ADMIN has logged out from the Linecount Software Using the System 59.89.248.196
+
+[30-01-2016:1:39:44 PM] : ADMIN has Deleted the details of the file 96445498.
+
+
+[30-01-2016:1:45:05 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[30-01-2016:2:56:07 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[30-01-2016:3:39:39 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[30-01-2016:5:26:00 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[30-01-2016:5:26:55 PM] : ADMIN has added an Update into the Database
+
+
+[30-01-2016:6:04:21 PM] : ADMIN has Viewed Employee Details
+
+
+[30-01-2016:6:07:58 PM] : ADMIN has added Employee Details[ROOPDARSHI MANOHAR BHOSALE] into the Database

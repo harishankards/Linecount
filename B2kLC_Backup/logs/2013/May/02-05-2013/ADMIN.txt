@@ -1,0 +1,141 @@
+
+
+[02-05-2013:10:20:01 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[02-05-2013:10:23:39 AM] : ADMIN has Approved Leave request from the ID B2KES100 on 2013-05-01.
+
+[02-05-2013:10:23:53 AM] : ADMIN has Approved Leave request from the ID B2KMLS012 on 2013-04-27.
+
+[02-05-2013:10:24:01 AM] : ADMIN has Approved Leave request from the ID B2KMLS012 on 2013-04-29.
+
+[02-05-2013:10:24:10 AM] : ADMIN has Approved Leave request from the ID B2KMLS012 on 2013-04-30.
+
+[02-05-2013:10:24:22 AM] : ADMIN has Approved Leave request from the ID B2KES100 on 2013-04-30.
+
+[02-05-2013:10:24:35 AM] : ADMIN has Approved Leave request from the ID B2KMLS011 on 2013-04-28.
+
+[02-05-2013:10:24:47 AM] : ADMIN has Approved Leave request from the ID B2KMLS010 on 2013-04-28.
+
+[02-05-2013:10:24:58 AM] : ADMIN has Approved Leave request from the ID B2KER001 on 2013-04-28.
+
+[02-05-2013:10:25:10 AM] : ADMIN has Approved Leave request from the ID SKPOER001 on 2013-05-01.
+
+[02-05-2013:10:25:19 AM] : ADMIN has Approved Leave request from the ID B2KHTMLS003 on 2013-05-01.
+
+[02-05-2013:10:25:31 AM] : ADMIN has Rejected Leave request from the ID B2KMLS024 on 2013-05-02.
+
+[02-05-2013:10:25:50 AM] : ADMIN has Approved Leave request from the ID B2KMLS003 on 2013-05-02.
+
+[02-05-2013:10:28:05 AM] : ADMIN has added Attendanec Details into the Database
+
+
+[02-05-2013:10:30:00 AM] : ADMIN has Deleted Employee [RIJVANA.A] from attendance list in the Database
+
+
+[02-05-2013:10:30:52 AM] : ADMIN has Deleted Employee [VENKATESH] from attendance list in the Database
+
+
+[02-05-2013:10:31:18 AM] : ADMIN has added Employee [B.RANJITH] into attendance list in the Database
+
+
+[02-05-2013:10:41:57 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[02-05-2013:11:11:20 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[02-05-2013:11:30:57 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[02-05-2013:11:36:41 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[02-05-2013:12:17:25 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[02-05-2013:12:46:26 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[02-05-2013:1:03:51 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[02-05-2013:1:04:02 PM] : ADMIN has Viewed Employee Details
+
+
+[02-05-2013:1:08:41 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[02-05-2013:1:40:58 PM] : ADMIN has Deleted the details of the file 59827192.
+
+[02-05-2013:1:54:45 PM] : ADMIN has Deleted the details of the file 59296506.
+
+
+[02-05-2013:2:14:32 PM] : ADMIN has Viewed Employee Details
+
+
+[02-05-2013:2:26:44 PM] : ADMIN has added Employee Details[JUDITH ROSE MARY] into the Database
+
+
+[02-05-2013:3:04:46 PM] : ADMIN has Viewed Employee Details
+
+
+[02-05-2013:3:05:18 PM] : ADMIN has Viewed Employee Details
+
+
+[02-05-2013:3:23:18 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[02-05-2013:4:23:32 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[02-05-2013:4:35:34 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[02-05-2013:4:51:27 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[02-05-2013:5:13:52 PM] : ADMIN has Viewed Employee Details
+
+
+[02-05-2013:5:14:24 PM] : ADMIN has Viewed Employee Details
+
+[02-05-2013:5:14:24 PM] : ADMIN has Deleted Employee Details B2KAD006
+
+
+[02-05-2013:5:20:16 PM] : ADMIN has Viewed Employee Details
+
+[02-05-2013:5:20:16 PM] : ADMIN has Deleted Employee Details B2KAD006
+
+[02-05-2013:5:25:07 PM] : ADMIN has downloaded a Attendance Report
+
+
+[02-05-2013:5:25:44 PM] : ADMIN has Viewed Employee Details
+
+
+[02-05-2013:5:46:47 PM] : ADMIN has Viewed Employee Details
+
+
+[02-05-2013:6:11:44 PM] : ADMIN has Viewed Employee Details
+
+
+[02-05-2013:6:12:48 PM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[02-05-2013:6:13:20 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[02-05-2013:6:13:39 PM] : ADMIN has Viewed Employee Details
+
+
+[02-05-2013:6:17:12 PM] : ADMIN has added Employee Details[S.JAIKUMAR] into the Database
+
+
+[02-05-2013:6:40:57 PM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[02-05-2013:6:42:07 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[02-05-2013:6:52:37 PM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[02-05-2013:10:24:36 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35

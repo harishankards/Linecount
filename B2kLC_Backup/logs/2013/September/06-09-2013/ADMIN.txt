@@ -1,0 +1,188 @@
+
+
+[06-09-2013:12:34:32 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[06-09-2013:12:40:48 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[06-09-2013:12:42:30 AM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[06-09-2013:1:30:38 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[06-09-2013:2:24:53 AM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[06-09-2013:2:25:31 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[06-09-2013:5:37:22 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[06-09-2013:5:39:56 AM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[06-09-2013:7:19:04 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[06-09-2013:7:19:24 AM] : ADMIN has Viewed Employee Details
+
+
+[06-09-2013:7:19:39 AM] : ADMIN has Viewed Employee Details
+
+
+[06-09-2013:7:23:58 AM] : ADMIN has Viewed Employee Details
+
+
+[06-09-2013:7:25:30 AM] : ADMIN has Viewed Employee Details
+
+
+[06-09-2013:8:17:20 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[06-09-2013:8:18:08 AM] : ADMIN has Viewed Employee Details
+
+
+[06-09-2013:8:18:19 AM] : ADMIN has Viewed Employee Details
+
+
+[06-09-2013:8:27:43 AM] : ADMIN has Viewed Employee Details
+
+
+[06-09-2013:8:30:11 AM] : ADMIN has Viewed Employee Details
+
+
+[06-09-2013:8:43:54 AM] : ADMIN has Viewed Employee Details
+
+
+[06-09-2013:9:43:16 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[06-09-2013:9:43:26 AM] : ADMIN has Viewed Employee Details
+
+
+[06-09-2013:9:43:31 AM] : ADMIN has Viewed Employee Details
+
+
+[06-09-2013:10:00:33 AM] : ADMIN has logged out from the Linecount Software Using the System 59.90.86.47
+
+
+[06-09-2013:10:34:21 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[06-09-2013:10:49:56 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[06-09-2013:10:55:57 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[06-09-2013:11:55:13 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[06-09-2013:12:19:34 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[06-09-2013:12:26:03 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[06-09-2013:12:59:03 PM] : ADMIN has Viewed Employee Details
+
+
+[06-09-2013:3:44:01 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[06-09-2013:3:47:11 PM] : ADMIN has viewed Bank Details
+
+[06-09-2013:3:52:22 PM] : ADMIN has Viewed Employee Details
+
+[06-09-2013:3:52:43 PM] : ADMIN has Viewed Employee Details
+
+[06-09-2013:3:53:41 PM] : ADMIN has Viewed Employee Details
+
+[06-09-2013:3:53:57 PM] : ADMIN has Viewed Employee Details
+
+[06-09-2013:3:55:52 PM] : ADMIN has Viewed Employee Details
+
+[06-09-2013:3:55:58 PM] : ADMIN has Viewed Employee Details
+
+[06-09-2013:3:57:55 PM] : ADMIN has Viewed ID details in Escription.
+
+
+[06-09-2013:4:01:19 PM] : ADMIN has Viewed Employee Details
+
+
+[06-09-2013:4:01:22 PM] : ADMIN has Viewed Employee Details
+
+[06-09-2013:4:03:29 PM] : ADMIN has Viewed Employee Details
+
+
+[06-09-2013:4:03:32 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[06-09-2013:4:16:26 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[06-09-2013:4:21:42 PM] : ADMIN has Viewed Employee Details
+
+
+[06-09-2013:4:52:11 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[06-09-2013:5:23:52 PM] : ADMIN has Viewed Employee Details
+
+
+[06-09-2013:5:44:32 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[06-09-2013:5:44:51 PM] : ADMIN has Deleted the details of the file 63432914.
+
+
+[06-09-2013:5:49:50 PM] : ADMIN has Viewed Employee Details
+
+
+[06-09-2013:5:50:02 PM] : ADMIN has Viewed Employee Details
+
+
+[06-09-2013:5:51:04 PM] : ADMIN has Viewed Employee Details
+
+
+[06-09-2013:5:51:09 PM] : ADMIN has Viewed Employee Details
+
+
+[06-09-2013:5:51:17 PM] : ADMIN has Viewed Employee Details
+
+
+[06-09-2013:7:12:45 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[06-09-2013:8:49:04 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[06-09-2013:8:49:12 PM] : ADMIN has Viewed Employee Details
+
+
+[06-09-2013:8:49:37 PM] : ADMIN has Viewed Employee Details
+
+
+[06-09-2013:8:50:25 PM] : ADMIN has Viewed Employee Details
+
+
+[06-09-2013:8:52:39 PM] : ADMIN has Viewed Employee Details
+
+
+[06-09-2013:9:57:01 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[06-09-2013:9:57:09 PM] : ADMIN has Viewed Employee Details
+
+
+[06-09-2013:9:57:09 PM] : ADMIN has Viewed Employee Details
+
+
+[06-09-2013:9:57:15 PM] : ADMIN has Viewed Employee Details
+
+
+[06-09-2013:10:05:01 PM] : ADMIN has Viewed Employee Details
+
+
+[06-09-2013:10:08:55 PM] : ADMIN has Viewed Employee Details

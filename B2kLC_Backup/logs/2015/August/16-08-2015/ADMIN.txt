@@ -1,0 +1,35 @@
+
+
+[16-08-2015:1:10:37 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[16-08-2015:4:08:45 AM] : ADMIN has Viewed Employee Details
+
+
+[16-08-2015:4:09:00 AM] : ADMIN has Viewed Employee Details
+
+
+[16-08-2015:7:10:43 AM] : ADMIN has Viewed Employee Details
+
+
+[16-08-2015:9:27:22 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[16-08-2015:12:53:05 PM] : ADMIN has Deleted the details of the file 93485582.
+
+
+[16-08-2015:3:07:41 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[16-08-2015:5:29:30 PM] : ADMIN has added Employee Details[RAHUL BHATNAGAR] into the Database
+
+
+[16-08-2015:5:31:39 PM] : ADMIN has added Employee Details[VANDNA BISHT] into the Database
+
+
+[16-08-2015:5:33:33 PM] : ADMIN has Viewed Employee Details
+
+
+[16-08-2015:5:34:23 PM] : ADMIN has added Employee Details[VANDANA BISHT] into the Database
+
+
+[16-08-2015:5:37:21 PM] : ADMIN has added Employee Details[MAHESH KUMAR PASUPULATI] into the Database

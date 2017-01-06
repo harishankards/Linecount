@@ -1,0 +1,94 @@
+
+#dock ul, li 
+{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+#dock ul.menu_s li,	ul.menu_b li
+{
+	display: inline;
+}
+
+#dock ul.menu_l, ul.menu_r,	ul.menu_b 
+{
+	position: fixed;
+}
+
+#dock ul.menu_l, ul.menu_r 
+{
+	top:50%;
+	margin-top: -180px;
+}
+
+#dock ul.menu_r 
+{
+	top:50%;
+	margin-top: -70px;
+}
+
+#dock ul.menu_l, l.menu_b 
+{
+	left: 0;
+}
+
+#dock ul.menu_r 
+{
+	right: 0;
+}
+
+#dock ul.menu_b 
+{
+	bottom: 0;
+	width: 100%;
+}
+
+#dock a:hover, a:focus 
+{ /* we use :focus for keyboard navigation */
+	z-index: 200 /* bring to top when the mouse is over */
+}
+
+#dock a img 
+{
+	border: none;
+	-webkit-transition: all .2s; /* in Safari, every animatable property triggers an animation in .2s */
+}
+
+#dock ul.menu_s a img
+{
+	-webkit-transform-origin: top; /* in Safari, the origin for transformation */
+	-moz-transform-origin: top; /* in Firefox, the origin for transformation */
+}
+
+#dock ul.menu_l a img
+{
+	-webkit-transform-origin: left center;
+	-moz-transform-origin: left center;
+}
+
+#dock ul.menu_r a img
+{
+	-webkit-transform-origin: right center;
+	-moz-transform-origin: right center;
+}
+
+#dock ul.menu_b a img
+{
+	-webkit-transform-origin: bottom;
+	-moz-transform-origin: bottom;
+}
+
+	
+	
+	/*p {
+
+		text-align: center;
+
+		position: absolute;
+
+		top: 50%;
+
+		width: 100%;
+
+	}*/

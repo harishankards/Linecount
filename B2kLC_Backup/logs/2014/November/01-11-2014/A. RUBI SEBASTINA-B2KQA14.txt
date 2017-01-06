@@ -1,0 +1,129 @@
+
+
+[01-11-2014:6:59:18 AM] : B2KQA14 has logged in to IDSIL / PJO using the System 115.241.125.217
+
+
+[01-11-2014:7:40:50 AM] : B2KQA14 has picked a file 73637326 in IDSIL / PJO
+
+
+[01-11-2014:8:06:07 AM] : B2KQA14 has uploaded a file 73637326 to Hospital/Customer in IDSIL / PJO
+
+
+[01-11-2014:8:31:26 AM] : B2KQA14 has picked a file 73652249 in IDSIL / PJO
+
+
+[01-11-2014:8:41:12 AM] : B2KQA14 has picked a file 73646511 in IDSIL / PJO
+
+
+[01-11-2014:8:45:16 AM] : B2KQA14 has uploaded a file 73652249 to Hospital/Customer in IDSIL / PJO
+
+
+[01-11-2014:9:06:27 AM] : B2KQA14 has uploaded a file 73646511 to Hospital/Customer in IDSIL / PJO
+
+
+[01-11-2014:9:18:51 AM] : B2KQA14 has picked a file 73639195 in IDSIL / PJO
+
+
+[01-11-2014:9:18:58 AM] : B2KQA14 has uploaded a file 73639195 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[01-11-2014:9:23:08 AM] : B2KQA14 has picked a file 73639446 in IDSIL / PJO
+
+
+[01-11-2014:9:39:12 AM] : B2KQA14 has picked a file 73648267 in IDSIL / PJO
+
+
+[01-11-2014:9:39:24 AM] : B2KQA14 has uploaded a file 73639446 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[01-11-2014:9:54:11 AM] : B2KQA14 has uploaded a file 73648267 to Hospital/Customer in IDSIL / PJO
+
+
+[01-11-2014:9:55:12 AM] : B2KQA14 has picked a file 73649660 in IDSIL / PJO
+
+
+[01-11-2014:10:53:53 AM] : B2KQA14 has logged in to IDSIL / PJO using the System 115.241.125.217
+
+
+[01-11-2014:10:54:00 AM] : B2KQA14 has uploaded a file 73649660 to Hospital/Customer in IDSIL / PJO
+
+
+[01-11-2014:10:54:39 AM] :  has uploaded a DUP file 73649522 in IDSIL / PJO
+
+
+[01-11-2014:6:19:58 PM] : B2KQA14 has logged in to IDSIL / PJO using the System 115.241.85.154
+
+
+[01-11-2014:6:20:34 PM] : B2KQA14 has viewed the DUP file details in IDSIL/PJO from 2014-10-01 to 2014-10-31
+
+
+[01-11-2014:6:22:25 PM] : B2KQA14 has viewed the Edited file details in IDSIL/PJO from 2014-10-01 to 2014-10-31
+
+
+[01-11-2014:6:22:31 PM] : B2KQA14 has viewed the Edited file details in IDSIL/PJO from 2014-11-01 to 2014-11-01
+
+
+[01-11-2014:6:22:47 PM] : B2KQA14 has viewed the Edited file details in IDSIL/PJO from 2014-10-01 to 2014-10-31
+
+
+[01-11-2014:6:24:04 PM] : B2KQA14 has viewed the Audit file details in IDSIL / PJO from 2014-10-01 to 2014-11-01
+
+
+[01-11-2014:10:37:02 PM] : B2KQA14 has logged in to IDSIL / PJO using the System 115.241.27.162
+
+
+[01-11-2014:10:37:30 PM] :  has uploaded a DUP file 73658987 in IDSIL / PJO
+
+
+[01-11-2014:10:59:52 PM] :  has uploaded a DUP file 73659244 in IDSIL / PJO
+
+
+[01-11-2014:11:40:06 PM] : B2KQA14 has logged in to IDSIL / PJO using the System 101.63.230.125
+
+
+[01-11-2014:11:40:46 PM] :  has uploaded a DUP file 73659845 in IDSIL / PJO
+
+
+[01-11-2014:11:55:28 PM] :  has uploaded a DUP file 73660448 in IDSIL / PJO
+
+
+[02-11-2014:12:10:05 AM] :  has uploaded a DUP file 73660649 in IDSIL / PJO
+
+
+[02-11-2014:12:29:34 AM] :  has uploaded a DUP file 73660586 in IDSIL / PJO
+
+
+[02-11-2014:12:30:25 AM] : B2KQA14 has viewed the DUP file details in IDSIL/PJO from 2014-11-01 to 2014-11-02
+
+
+[02-11-2014:1:02:36 AM] :  has uploaded a DUP file 73660323 in IDSIL / PJO
+
+
+[02-11-2014:1:03:27 AM] : B2KQA14 has viewed the DUP file details in IDSIL/PJO from 2014-11-01 to 2014-11-02
+
+
+[02-11-2014:1:57:17 AM] :  has uploaded a DUP file 73661012 in IDSIL / PJO
+
+
+[02-11-2014:2:25:59 AM] :  has uploaded a DUP file 73661550 in IDSIL / PJO
+
+
+[02-11-2014:2:26:08 AM] : B2KQA14 has viewed the DUP file details in IDSIL/PJO from 2014-11-01 to 2014-11-02
+
+
+[02-11-2014:3:35:08 AM] :  has uploaded a DUP file 73662163 in IDSIL / PJO
+
+
+[02-11-2014:3:35:20 AM] : B2KQA14 has viewed the DUP file details in IDSIL/PJO from 2014-11-01 to 2014-11-02
+
+
+[02-11-2014:4:36:03 AM] :  has uploaded a DUP file 73662898 in IDSIL / PJO
+
+
+[02-11-2014:5:04:27 AM] :  has uploaded a DUP file 73663277 in IDSIL / PJO
+
+
+[02-11-2014:5:04:41 AM] : B2KQA14 has viewed the DUP file details in IDSIL/PJO from 2014-11-02 to 2014-11-02
+
+
+[02-11-2014:5:04:46 AM] : B2KQA14 has viewed the DUP file details in IDSIL/PJO from 2014-11-01 to 2014-11-02

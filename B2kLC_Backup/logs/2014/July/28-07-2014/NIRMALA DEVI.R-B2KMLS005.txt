@@ -1,0 +1,51 @@
+
+
+[28-07-2014:10:02:39 AM] : B2KMLS005 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[28-07-2014:10:03:14 AM] : B2KMLS005 has picked a file 71507128 in IDSIL / PJO
+
+
+[28-07-2014:12:02:00 PM] : B2KMLS005 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[28-07-2014:12:02:18 PM] : B2KMLS005 has uploaded a file 71507128 to Hospital/Customer in IDSIL / PJO
+
+
+[28-07-2014:12:51:25 PM] : B2KMLS005 has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[28-07-2014:12:51:30 PM] : B2KMLS005 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[28-07-2014:3:10:10 PM] : B2KMLS005 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[28-07-2014:3:11:09 PM] :  has uploaded a DUP file 71497052 in IDSIL / PJO
+
+
+[28-07-2014:4:17:15 PM] : B2KMLS005 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[28-07-2014:4:18:06 PM] :  has uploaded a DUP file 71497119 in IDSIL / PJO
+
+
+[28-07-2014:5:03:43 PM] :  has uploaded a DUP file 71502129 in IDSIL / PJO
+
+
+[28-07-2014:5:43:29 PM] :  has uploaded a DUP file 71502590 in IDSIL / PJO
+
+
+[28-07-2014:6:12:45 PM] :  has uploaded a DUP file 71508465 in IDSIL / PJO
+
+
+[28-07-2014:6:13:20 PM] : B2KMLS005 has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[28-07-2014:8:03:42 PM] : B2KMLS005 has logged in to IDSIL / PJO using the System 117.202.32.57
+
+
+[28-07-2014:8:04:26 PM] :  has uploaded a DUP file 71513849 in IDSIL / PJO
+
+
+[28-07-2014:8:10:29 PM] :  has uploaded a DUP file 71513868 in IDSIL / PJO

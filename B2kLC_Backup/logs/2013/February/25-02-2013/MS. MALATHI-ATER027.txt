@@ -1,0 +1,33 @@
+
+
+[25-02-2013:5:15:32 PM] : ATER027 has logged in to IDSIL / PJO using the System 117.218.59.252
+
+
+[25-02-2013:5:16:01 PM] : ATER027 has picked a file 58080147 in IDSIL / PJO
+
+
+[25-02-2013:5:35:53 PM] : ATER027 has uploaded a file 58080147 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[25-02-2013:5:39:48 PM] : ATER027 has picked a file 58080318 in IDSIL / PJO
+
+
+[25-02-2013:6:06:04 PM] : ATER027 has uploaded a file 58080318 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[25-02-2013:6:06:48 PM] : ATER027 has picked a file 58078253 in IDSIL / PJO
+
+
+[25-02-2013:6:14:45 PM] : ATER027 has uploaded a file 58078253 to Hospital/Customer in IDSIL / PJO
+
+
+[25-02-2013:6:15:36 PM] : ATER027 has picked a file 58080923 in IDSIL / PJO
+
+
+[25-02-2013:6:32:54 PM] : ATER027 has uploaded a file 58080923 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[25-02-2013:6:34:04 PM] : ATER027 has picked a file 58079001 in IDSIL / PJO
+
+
+[25-02-2013:6:57:14 PM] : ATER027 has uploaded a file 58079001 to Hospital/Customer in IDSIL / PJO

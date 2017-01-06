@@ -1,0 +1,98 @@
+
+
+[26-02-2013:7:04:53 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[26-02-2013:7:05:13 AM] : ADMIN has Viewed Employee Details
+
+
+[26-02-2013:7:38:26 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[26-02-2013:7:38:46 AM] : ADMIN has Viewed Employee Details
+
+
+[26-02-2013:7:39:03 AM] : ADMIN has Viewed Employee Details
+
+
+[26-02-2013:7:39:24 AM] : ADMIN has Viewed Employee Details
+
+
+[26-02-2013:9:23:42 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[26-02-2013:9:40:38 AM] : ADMIN has Approved Leave request from the ID B2KER005 on 2013-02-27.
+
+[26-02-2013:9:40:47 AM] : ADMIN has Approved Leave request from the ID B2KER005 on 2013-02-28.
+
+[26-02-2013:9:41:02 AM] : ADMIN has Approved Leave request from the ID B2KMLS005 on 2013-03-03.
+
+
+[26-02-2013:10:52:00 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[26-02-2013:10:54:47 AM] : ADMIN has added Attendanec Details into the Database
+
+
+[26-02-2013:11:45:53 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[26-02-2013:12:35:38 PM] : ADMIN has added an Update into the Database
+
+
+[26-02-2013:12:45:42 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[26-02-2013:1:41:37 PM] : ADMIN has added an Update into the Database
+
+[26-02-2013:1:42:42 PM] : ADMIN has added an Update into the Database
+
+
+[26-02-2013:1:57:28 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[26-02-2013:2:09:15 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[26-02-2013:2:20:40 PM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[26-02-2013:2:21:54 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[26-02-2013:2:23:02 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[26-02-2013:2:23:10 PM] : ADMIN has Rejected Leave request from the ID KTMLS002 on 0000-00-00.
+
+
+[26-02-2013:2:31:29 PM] : ADMIN has Viewed Employee Details
+
+
+[26-02-2013:2:31:40 PM] : ADMIN has Viewed Employee Details
+
+
+[26-02-2013:2:32:03 PM] : ADMIN has Viewed Employee Details
+
+[26-02-2013:2:36:59 PM] : ADMIN has Deleted the details of the file 90078404.
+
+[26-02-2013:2:44:15 PM] : ADMIN has Deleted the details of the file 90090305.
+
+[26-02-2013:2:44:42 PM] : ADMIN has Deleted the details of the file 58108148.
+
+
+[26-02-2013:5:33:50 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[26-02-2013:6:51:07 PM] : ADMIN has added an Update into the Database
+
+
+[26-02-2013:6:51:24 PM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[26-02-2013:6:51:28 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[26-02-2013:6:53:04 PM] : ADMIN has added an Update into the Database
+
+
+[26-02-2013:7:29:29 PM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[26-02-2013:9:32:38 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[26-02-2013:9:39:28 PM] : ADMIN has Viewed Employee Details

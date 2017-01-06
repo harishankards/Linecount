@@ -1,0 +1,49 @@
+
+
+[18-10-2014:6:50:00 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[18-10-2014:7:36:42 AM] : ADMIN has Viewed Employee Details
+
+
+[18-10-2014:7:36:51 AM] : ADMIN has Viewed Employee Details
+
+
+[18-10-2014:7:39:13 AM] : ADMIN has Viewed Employee Details
+
+
+[18-10-2014:8:35:07 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[18-10-2014:9:41:10 AM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[18-10-2014:9:41:32 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[18-10-2014:1:21:00 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[18-10-2014:2:42:41 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[18-10-2014:3:51:46 PM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[18-10-2014:3:51:51 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[18-10-2014:4:39:18 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+[18-10-2014:4:39:49 PM] : ADMIN has Deleted the details of the file 73345986.
+
+[18-10-2014:4:45:42 PM] : ADMIN has Deleted the details of the file 73345986.
+
+
+[18-10-2014:5:35:48 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[18-10-2014:6:01:19 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[18-10-2014:10:36:06 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47

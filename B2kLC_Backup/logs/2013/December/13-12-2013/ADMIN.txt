@@ -1,0 +1,102 @@
+
+
+[13-12-2013:6:23:48 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[13-12-2013:6:33:20 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[13-12-2013:7:24:19 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[13-12-2013:9:13:40 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[13-12-2013:10:16:58 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[13-12-2013:10:17:27 AM] : ADMIN has Approved Leave request from the ID B2KMLS003 on 2013-12-15.
+
+
+[13-12-2013:10:34:35 AM] : ADMIN has logged in to Admin page using the System 223.235.78.83
+
+
+[13-12-2013:10:40:03 AM] : ADMIN has logged out from the Linecount Software Using the System 223.235.78.83
+
+
+[13-12-2013:11:05:33 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[13-12-2013:12:14:29 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[13-12-2013:12:23:51 PM] : ADMIN has Deleted the details of the file 65915553.
+
+[13-12-2013:12:29:48 PM] : ADMIN has Deleted the details of the file 65944992.
+
+[13-12-2013:12:37:52 PM] : ADMIN has added an Update into the Database
+
+
+[13-12-2013:12:40:55 PM] : ADMIN has Viewed Employee Details
+
+
+[13-12-2013:1:02:12 PM] : ADMIN has Viewed Employee Details
+
+
+[13-12-2013:1:03:32 PM] : ADMIN has added Employee Details[ARAVINDHAN. A] into the Database
+
+
+[13-12-2013:1:03:53 PM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[13-12-2013:1:24:11 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[13-12-2013:3:56:54 PM] : ADMIN has Viewed Employee Details
+
+
+[13-12-2013:3:57:00 PM] : ADMIN has Viewed Employee Details
+
+
+[13-12-2013:4:40:46 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+[13-12-2013:4:40:52 PM] : ADMIN has Viewed Employee Details
+
+[13-12-2013:4:41:00 PM] : ADMIN has Viewed Employee Details
+
+
+[13-12-2013:4:41:07 PM] : ADMIN has Viewed Employee Details
+
+
+[13-12-2013:4:41:16 PM] : ADMIN has Viewed Employee Details
+
+
+[13-12-2013:7:42:16 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[13-12-2013:7:42:17 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[13-12-2013:7:43:45 PM] : ADMIN has Viewed Employee Details
+
+
+[13-12-2013:7:43:53 PM] : ADMIN has Viewed Employee Details
+
+
+[13-12-2013:10:36:52 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[13-12-2013:10:37:24 PM] : ADMIN has Viewed Employee Details
+
+
+[13-12-2013:10:37:29 PM] : ADMIN has Viewed Employee Details
+
+
+[13-12-2013:10:45:39 PM] : ADMIN has Viewed Employee Details
+
+
+[13-12-2013:10:45:45 PM] : ADMIN has Viewed Employee Details
+
+
+[13-12-2013:10:48:13 PM] : ADMIN has added Employee Details[PETER XAVIER ] into the Database
+
+
+[13-12-2013:10:48:18 PM] : ADMIN has Viewed Employee Details

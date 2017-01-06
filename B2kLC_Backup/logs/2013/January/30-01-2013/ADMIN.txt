@@ -1,0 +1,79 @@
+
+
+[30-01-2013:9:07:41 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[30-01-2013:9:13:19 AM] : ADMIN has Deleted the details of the file 57262203.
+
+
+[30-01-2013:9:35:09 AM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[30-01-2013:11:15:30 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[30-01-2013:11:15:53 AM] : ADMIN has Viewed Employee Details
+
+
+[30-01-2013:11:16:03 AM] : ADMIN has Viewed Employee Details
+
+
+[30-01-2013:12:26:45 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+[30-01-2013:12:28:36 PM] : ADMIN has Deleted the details of the file 57245842.
+
+
+[30-01-2013:1:47:53 PM] : ADMIN has logged in to Admin page using the System 117.242.216.194
+
+[30-01-2013:1:50:23 PM] : ADMIN has viewed Bank Details
+
+[30-01-2013:1:50:32 PM] : ADMIN has viewed Bank Details
+
+[30-01-2013:2:01:44 PM] : ADMIN has viewed Bank Details
+
+
+[30-01-2013:2:53:00 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[30-01-2013:2:56:59 PM] : ADMIN has Viewed Employee Details
+
+
+[30-01-2013:2:57:22 PM] : ADMIN has Viewed Employee Details
+
+
+[30-01-2013:2:58:12 PM] : ADMIN has Viewed Employee Details
+
+
+[30-01-2013:3:00:13 PM] : ADMIN has Viewed Employee Details
+
+
+[30-01-2013:3:01:45 PM] : ADMIN has Viewed Employee Details
+
+
+[30-01-2013:3:03:39 PM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[30-01-2013:3:26:43 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[30-01-2013:3:30:59 PM] : ADMIN has added Employee Details[UMA ARUNKUMAR] into the Database
+
+
+[30-01-2013:6:06:19 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[30-01-2013:6:19:07 PM] : ADMIN has logged out from the Linecount Software Using the System 59.90.86.47
+
+
+[30-01-2013:6:45:56 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[30-01-2013:6:58:10 PM] : ADMIN has added Employee Details[MR. CYRIAC] into the Database
+
+
+[30-01-2013:7:00:36 PM] : ADMIN has added Employee Details[MS. MALATHI] into the Database
+
+
+[30-01-2013:7:02:01 PM] : ADMIN has added Employee Details[MR. RADHAKRISHNAN] into the Database
+
+
+[30-01-2013:7:03:39 PM] : ADMIN has added Employee Details[MR. GOPINATH] into the Database

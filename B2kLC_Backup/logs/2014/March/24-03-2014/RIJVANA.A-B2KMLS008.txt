@@ -1,0 +1,69 @@
+
+
+[24-03-2014:6:40:14 AM] : B2KMLS008 has logged in to IDSIL / PJO using the System 117.230.139.226
+
+
+[24-03-2014:7:01:33 AM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[24-03-2014:7:23:00 AM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[24-03-2014:7:43:30 AM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[24-03-2014:7:44:52 AM] : B2KMLS008 has logged in to IDSIL / PJO using the System 101.222.230.23
+
+
+[24-03-2014:7:56:15 AM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[24-03-2014:7:58:05 AM] : B2KMLS008 has picked a file 68490112 in IDSIL / PJO
+
+
+[24-03-2014:8:00:42 AM] : B2KMLS008 has uploaded a file 68490112 to Hospital/Customer in IDSIL / PJO
+
+
+[24-03-2014:8:07:47 AM] : B2KMLS008 has added a Audit file 68498788 in IDSIL / PJO 
+
+
+[24-03-2014:8:57:27 AM] : B2KMLS008 has logged in to IDSIL / PJO using the System 101.222.230.23
+
+
+[24-03-2014:8:58:43 AM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[24-03-2014:9:18:19 AM] : B2KMLS008 has logged out from the Linecount Software Using the System 101.222.230.23
+
+
+[24-03-2014:12:02:29 PM] : B2KMLS008 has logged in to IDSIL / PJO using the System 117.209.255.35
+
+
+[24-03-2014:2:21:50 PM] : B2KMLS008 has logged in to IDSIL / PJO using the System 117.232.166.29
+
+
+[24-03-2014:2:22:16 PM] : B2KMLS008 has picked a file 68502896 in IDSIL / PJO
+
+
+[24-03-2014:2:35:19 PM] : B2KMLS008 has uploaded a file 68502896 to Hospital/Customer in IDSIL / PJO
+
+
+[24-03-2014:3:01:37 PM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[24-03-2014:3:06:06 PM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[24-03-2014:4:12:08 PM] : B2KMLS008 has logged in to IDSIL / PJO using the System 117.232.166.29
+
+
+[25-03-2014:1:01:44 AM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[25-03-2014:1:02:01 AM] : B2KMLS008 has viewed the Audit file details in IDSIL / PJO from 2014-03-01 to 2014-03-25
+
+
+[25-03-2014:1:02:22 AM] : B2KMLS008 has viewed the Edited file details in IDSIL/PJO from 2014-03-01 to 2014-03-25
+
+
+[25-03-2014:1:02:52 AM] : B2KMLS008 has viewed the DUP file details in IDSIL/PJO from 2014-03-01 to 2014-03-25

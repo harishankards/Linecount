@@ -1,0 +1,126 @@
+
+
+[06-07-2015:6:34:18 AM] : B2KQA01 has logged in to IDSIL / PJO using the System 117.201.24.67
+
+
+[06-07-2015:6:34:29 AM] : B2KQA01 has picked a file 92736561 in IDSIL / PJO
+
+
+[06-07-2015:7:22:43 AM] : B2KQA01 has picked a file 92737085 in IDSIL / PJO
+
+
+[06-07-2015:7:33:36 AM] : B2KQA01 has picked a file 92731942 in IDSIL / PJO
+
+
+[06-07-2015:8:01:31 AM] : B2KQA01 has picked a file 92738715 in IDSIL / PJO
+
+
+[06-07-2015:10:18:18 AM] : B2KQA01 has logged in to IDSIL / PJO using the System 117.201.24.67
+
+
+[06-07-2015:10:19:21 AM] : B2KQA01 has picked a file 92737039 in IDSIL / PJO
+
+
+[06-07-2015:11:00:17 AM] : B2KQA01 has logged out from the Linecount Software Using the System 117.201.24.67
+
+
+[06-07-2015:11:00:21 AM] : B2KQA01 has logged in to IDSIL / PJO using the System 117.201.24.67
+
+
+[06-07-2015:11:19:21 AM] : B2KQA01 has picked a file 92736740 in IDSIL / PJO
+
+
+[06-07-2015:11:38:31 AM] : B2KQA01 has picked a file 92737706 in IDSIL / PJO
+
+
+[06-07-2015:12:08:44 PM] : B2KQA01 has logged in to IDSIL / PJO using the System 117.201.24.67
+
+
+[06-07-2015:12:08:59 PM] : B2KQA01 has picked a file 92738262 in IDSIL / PJO
+
+
+[06-07-2015:12:26:48 PM] : B2KQA01 has picked a file 92740337 in IDSIL / PJO
+
+
+[06-07-2015:12:27:43 PM] : B2KQA01 has logged out from the Linecount Software Using the System 117.201.24.67
+
+
+[06-07-2015:12:27:48 PM] : B2KQA01 has logged in to IDSIL / PJO using the System 117.201.24.67
+
+
+[06-07-2015:1:05:01 PM] : B2KQA01 has logged in to IDSIL / PJO using the System 117.201.24.67
+
+
+[06-07-2015:1:12:48 PM] : B2KQA01 has picked a file 92734976 in IDSIL / PJO
+
+
+[06-07-2015:1:28:43 PM] : B2KQA01 has picked a file 92735529 in IDSIL / PJO
+
+
+[06-07-2015:2:02:58 PM] : B2KQA01 has logged out from the Linecount Software Using the System 117.201.24.67
+
+
+[06-07-2015:2:03:00 PM] : B2KQA01 has logged in to IDSIL / PJO using the System 117.201.24.67
+
+
+[06-07-2015:2:03:21 PM] : B2KQA01 has viewed the Audit file details in IDSIL / PJO from 2015-07-06 to 2015-07-06
+
+
+[06-07-2015:2:18:33 PM] : B2KQA01 has picked a file 92736571 in IDSIL / PJO
+
+
+[06-07-2015:2:27:22 PM] : B2KQA01 has picked a file 92736584 in IDSIL / PJO
+
+
+[06-07-2015:2:41:04 PM] : B2KQA01 has logged out from the Linecount Software Using the System 117.201.24.67
+
+
+[06-07-2015:2:41:14 PM] : B2KQA01 has logged in to IDSIL / PJO using the System 117.201.24.67
+
+
+[06-07-2015:2:42:09 PM] : B2KQA01 has picked a file 92736594 in IDSIL / PJO
+
+
+[06-07-2015:2:42:25 PM] : B2KQA01 has viewed the Edited file details in IDSIL/PJO from 2015-07-05 to 2015-07-06
+
+
+[06-07-2015:2:43:53 PM] : B2KQA01 has viewed the Edited file details in IDSIL/PJO from 2015-07-05 to 2015-07-06
+
+
+[06-07-2015:2:51:40 PM] : B2KQA01 has picked a file 92736610 in IDSIL / PJO
+
+
+[06-07-2015:2:58:25 PM] : B2KQA01 has logged out from the Linecount Software Using the System 117.201.24.67
+
+
+[06-07-2015:2:58:28 PM] : B2KQA01 has logged in to IDSIL / PJO using the System 117.201.24.67
+
+
+[06-07-2015:7:38:03 PM] : B2KQA01 has logged in to IDSIL / PJO using the System 117.222.161.12
+
+
+[06-07-2015:8:02:23 PM] : B2KQA01 has picked a file 92743562 in IDSIL / PJO
+
+
+[06-07-2015:9:10:39 PM] : B2KQA01 has logged in to IDSIL / PJO using the System 117.222.161.12
+
+
+[06-07-2015:9:10:49 PM] : B2KQA01 has picked a file 92743640 in IDSIL / PJO
+
+
+[06-07-2015:9:11:04 PM] : B2KQA01 has picked a file 92743611 in IDSIL / PJO
+
+
+[06-07-2015:9:11:11 PM] : B2KQA01 has picked a file 92743585 in IDSIL / PJO
+
+
+[06-07-2015:9:11:33 PM] : B2KQA01 has picked a file 92740422 in IDSIL / PJO
+
+
+[06-07-2015:9:45:33 PM] : B2KQA01 has added a Audit file 92744405 in IDSIL / PJO 
+
+
+[06-07-2015:9:47:04 PM] : B2KQA01 has viewed the Audit file details in IDSIL / PJO from 2015-07-06 to 2015-07-06
+
+
+[06-07-2015:10:20:20 PM] : B2KQA01 has logged out from the Linecount Software Using the System 117.222.161.12

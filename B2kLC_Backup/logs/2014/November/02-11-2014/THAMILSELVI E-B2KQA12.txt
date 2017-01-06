@@ -1,0 +1,21 @@
+
+
+[02-11-2014:12:31:12 AM] : B2KQA12 has logged in to IDSIL / PJO using the System 115.241.25.14
+
+
+[02-11-2014:3:20:59 AM] : B2KQA12 has logged out from the Linecount Software Using the System 115.241.37.30
+
+
+[02-11-2014:7:31:38 AM] : B2KQA12 has logged in to IDSIL / PJO using the System 115.242.195.222
+
+
+[02-11-2014:7:31:53 AM] : B2KQA12 has picked a file 73662789 in IDSIL / PJO
+
+
+[02-11-2014:7:33:31 AM] : B2KQA12 has viewed the Edited file details in IDSIL/PJO from 2014-11-01 to 2014-11-02
+
+
+[02-11-2014:7:52:53 AM] : B2KQA12 has uploaded a file 73662789 to Hospital/Customer in IDSIL / PJO
+
+
+[02-11-2014:7:53:04 AM] : B2KQA12 has logged out from the Linecount Software Using the System 115.242.195.222

@@ -1,0 +1,39 @@
+
+
+[09-01-2014:8:22:46 AM] : RTER001 has logged in to IDSIL / PJO using the System 101.222.254.9
+
+
+[09-01-2014:7:02:39 PM] : RTER001 has logged in to IDSIL / PJO using the System 101.222.224.157
+
+
+[09-01-2014:7:06:59 PM] : RTER001 has picked a file 66577755 in IDSIL / PJO
+
+
+[09-01-2014:7:14:37 PM] : RTER001 has uploaded a file 66577755 to Hospital/Customer in IDSIL / PJO
+
+
+[09-01-2014:7:15:06 PM] : RTER001 has picked a file 66577899 in IDSIL / PJO
+
+
+[09-01-2014:7:22:22 PM] : RTER001 has uploaded a file 66577899 to Hospital/Customer in IDSIL / PJO
+
+
+[09-01-2014:7:36:38 PM] : RTER001 has picked a file 66589784 in IDSIL / PJO
+
+
+[09-01-2014:7:36:47 PM] : RTER001 has uploaded a file 66589784 to Hospital/Customer in IDSIL / PJO
+
+
+[09-01-2014:7:37:56 PM] : RTER001 has picked a file 66557350 in IDSIL / PJO
+
+
+[09-01-2014:7:51:47 PM] : RTER001 has uploaded a file 66557350 to Hospital/Customer in IDSIL / PJO
+
+
+[09-01-2014:7:53:02 PM] : RTER001 has picked a file 66590119 in IDSIL / PJO
+
+
+[09-01-2014:8:10:52 PM] : RTER001 has uploaded a file 66590119 to Hospital/Customer in IDSIL / PJO
+
+
+[09-01-2014:8:16:27 PM] :  has uploaded a DUP file  in IDSIL / PJO

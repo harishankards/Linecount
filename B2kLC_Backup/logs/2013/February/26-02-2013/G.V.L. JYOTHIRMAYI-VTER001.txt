@@ -1,0 +1,237 @@
+
+
+[26-02-2013:8:44:12 AM] : VTER001 has logged in to IDSIL / PJO using the System 122.169.162.62
+
+
+[26-02-2013:8:44:34 AM] : VTER001 has picked a file 58115704 in IDSIL / PJO
+
+
+[26-02-2013:8:46:13 AM] : VTER001 has picked a file 58115899 in IDSIL / PJO
+
+
+[26-02-2013:8:49:37 AM] : VTER001 has picked a file 58104086 in IDSIL / PJO
+
+
+[26-02-2013:8:50:04 AM] : VTER001 has picked a file 58104206 in IDSIL / PJO
+
+
+[26-02-2013:8:50:11 AM] : VTER001 has uploaded a file 58115704 to Hospital/Customer in IDSIL / PJO
+
+
+[26-02-2013:8:50:17 AM] : VTER001 has uploaded a file 58115899 to Hospital/Customer in IDSIL / PJO
+
+
+[26-02-2013:8:52:49 AM] : VTER001 has picked a file 58105450 in IDSIL / PJO
+
+
+[26-02-2013:8:53:21 AM] : VTER001 has uploaded a file 58105450 to Hospital/Customer in IDSIL / PJO
+
+
+[26-02-2013:8:53:48 AM] : VTER001 has uploaded a file 58104206 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[26-02-2013:8:54:33 AM] : VTER001 has uploaded a file 58104086 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[26-02-2013:8:56:16 AM] : VTER001 has picked a file 58105534 in IDSIL / PJO
+
+
+[26-02-2013:8:56:21 AM] : VTER001 has uploaded a file 58105534 to Hospital/Customer in IDSIL / PJO
+
+
+[26-02-2013:8:58:34 AM] : VTER001 has picked a file 58105623 in IDSIL / PJO
+
+
+[26-02-2013:8:58:40 AM] : VTER001 has uploaded a file 58105623 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[26-02-2013:9:01:21 AM] : VTER001 has picked a file 58112235 in IDSIL / PJO
+
+
+[26-02-2013:9:01:49 AM] : VTER001 has uploaded a file 58112235 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[26-02-2013:9:07:11 AM] : VTER001 has picked a file 58116404 in IDSIL / PJO
+
+
+[26-02-2013:9:08:51 AM] : VTER001 has picked a file 58111653 in IDSIL / PJO
+
+
+[26-02-2013:9:09:00 AM] : VTER001 has picked a file 58115799 in IDSIL / PJO
+
+
+[26-02-2013:9:09:14 AM] : VTER001 has uploaded a file 58115799 to Hospital/Customer in IDSIL / PJO
+
+
+[26-02-2013:9:09:22 AM] : VTER001 has uploaded a file 58116404 to Hospital/Customer in IDSIL / PJO
+
+
+[26-02-2013:9:09:29 AM] : VTER001 has uploaded a file 58111653 to Hospital/Customer in IDSIL / PJO
+
+
+[26-02-2013:9:12:00 AM] : VTER001 has picked a file 58112348 in IDSIL / PJO
+
+
+[26-02-2013:9:12:06 AM] : VTER001 has uploaded a file 58112348 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[26-02-2013:9:13:13 AM] : VTER001 has picked a file 58113040 in IDSIL / PJO
+
+
+[26-02-2013:9:13:20 AM] : VTER001 has uploaded a file 58113040 to Hospital/Customer in IDSIL / PJO
+
+
+[26-02-2013:9:16:26 AM] : VTER001 has picked a file 58113907 in IDSIL / PJO
+
+
+[26-02-2013:9:16:34 AM] : VTER001 has uploaded a file 58113907 to Hospital/Customer in IDSIL / PJO
+
+
+[26-02-2013:9:20:39 AM] : VTER001 has picked a file 58115177 in IDSIL / PJO
+
+
+[26-02-2013:9:20:45 AM] : VTER001 has uploaded a file 58115177 to Hospital/Customer in IDSIL / PJO
+
+
+[26-02-2013:9:30:34 AM] : VTER001 has picked a file 58115702 in IDSIL / PJO
+
+
+[26-02-2013:9:30:53 AM] : VTER001 has uploaded a file 58115702 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[26-02-2013:9:32:29 AM] : VTER001 has picked a file 58116474 in IDSIL / PJO
+
+
+[26-02-2013:9:33:17 AM] : VTER001 has picked a file 58113264 in IDSIL / PJO
+
+
+[26-02-2013:9:36:08 AM] : VTER001 has picked a file 58113593 in IDSIL / PJO
+
+
+[26-02-2013:9:36:22 AM] : VTER001 has picked a file 58114020 in IDSIL / PJO
+
+
+[26-02-2013:9:38:00 AM] : VTER001 has uploaded a file 58113264 to Hospital/Customer in IDSIL / PJO
+
+
+[26-02-2013:9:38:18 AM] : VTER001 has picked a file 58113340 in IDSIL / PJO
+
+
+[26-02-2013:9:39:43 AM] : VTER001 has uploaded a file 58116474 to Hospital/Customer in IDSIL / PJO
+
+
+[26-02-2013:9:39:50 AM] : VTER001 has uploaded a file 58113593 to Hospital/Customer in IDSIL / PJO
+
+
+[26-02-2013:9:39:54 AM] : VTER001 has uploaded a file 58113340 to Hospital/Customer in IDSIL / PJO
+
+
+[26-02-2013:9:39:59 AM] : VTER001 has uploaded a file 58114020 to Hospital/Customer in IDSIL / PJO
+
+
+[26-02-2013:9:41:43 AM] : VTER001 has picked a file 58110151 in IDSIL / PJO
+
+
+[26-02-2013:9:41:52 AM] : VTER001 has uploaded a file 58110151 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[26-02-2013:9:43:00 AM] : VTER001 has picked a file 58105771 in IDSIL / PJO
+
+
+[26-02-2013:9:43:05 AM] : VTER001 has uploaded a file 58105771 to Hospital/Customer in IDSIL / PJO
+
+
+[26-02-2013:9:55:07 AM] : VTER001 has picked a file 58113860 in IDSIL / PJO
+
+
+[26-02-2013:9:56:12 AM] : VTER001 has picked a file 58093508 in IDSIL / PJO
+
+
+[26-02-2013:9:56:17 AM] : VTER001 has uploaded a file 58093508 to Hospital/Customer in IDSIL / PJO
+
+
+[26-02-2013:9:57:15 AM] : VTER001 has uploaded a file 58113860 to Hospital/Customer in IDSIL / PJO
+
+
+[26-02-2013:9:59:01 AM] : VTER001 has picked a file 58113653 in IDSIL / PJO
+
+
+[26-02-2013:9:59:06 AM] : VTER001 has uploaded a file 58113653 to Hospital/Customer in IDSIL / PJO
+
+
+[26-02-2013:10:09:21 AM] : VTER001 has picked a file 58117836 in IDSIL / PJO
+
+
+[26-02-2013:10:10:03 AM] : VTER001 has picked a file 58103011 in IDSIL / PJO
+
+
+[26-02-2013:10:11:28 AM] : VTER001 has uploaded a file 58117836 to Hospital/Customer in IDSIL / PJO
+
+
+[26-02-2013:10:11:33 AM] : VTER001 has uploaded a file 58103011 to Hospital/Customer in IDSIL / PJO
+
+
+[26-02-2013:10:11:39 AM] : VTER001 has viewed the Edited file details in IDSIL/PJO from 2013-02-26 to 2013-02-26
+
+
+[26-02-2013:10:11:56 AM] : VTER001 has viewed the Edited file details in IDSIL/PJO from 2013-02-01 to 2013-02-26
+
+
+[26-02-2013:10:16:04 AM] : VTER001 has picked a file 58114397 in IDSIL / PJO
+
+
+[26-02-2013:10:16:42 AM] : VTER001 has uploaded a file 58114397 to Hospital/Customer in IDSIL / PJO
+
+
+[26-02-2013:10:22:54 AM] : VTER001 has picked a file 58114963 in IDSIL / PJO
+
+
+[26-02-2013:10:23:00 AM] : VTER001 has uploaded a file 58114963 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[26-02-2013:10:35:34 AM] : VTER001 has viewed the Edited file details in IDSIL/PJO from 2013-02-26 to 2013-02-26
+
+
+[26-02-2013:10:39:00 AM] : VTER001 has picked a file 58115587 in IDSIL / PJO
+
+
+[26-02-2013:10:40:58 AM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[26-02-2013:10:42:49 AM] : VTER001 has picked a file 58105926 in IDSIL / PJO
+
+
+[26-02-2013:10:46:00 AM] : VTER001 has picked a file 58113746 in IDSIL / PJO
+
+
+[26-02-2013:10:52:11 AM] : VTER001 has uploaded a file 58115587 to Hospital/Customer in IDSIL / PJO
+
+
+[26-02-2013:10:54:07 AM] : VTER001 has uploaded a file 58113746 to Hospital/Customer in IDSIL / PJO
+
+
+[26-02-2013:10:54:12 AM] : VTER001 has uploaded a file 58105926 to Hospital/Customer in IDSIL / PJO
+
+
+[26-02-2013:10:57:28 AM] : VTER001 has picked a file 58103359 in IDSIL / PJO
+
+
+[26-02-2013:10:57:54 AM] : VTER001 has picked a file 58113576 in IDSIL / PJO
+
+
+[26-02-2013:10:59:13 AM] : VTER001 has picked a file 58113842 in IDSIL / PJO
+
+
+[26-02-2013:11:00:30 AM] : VTER001 has uploaded a file 58103359 to Hospital/Customer in IDSIL / PJO
+
+
+[26-02-2013:11:00:36 AM] : VTER001 has uploaded a file 58113576 to Hospital/Customer in IDSIL / PJO
+
+
+[26-02-2013:11:00:44 AM] : VTER001 has uploaded a file 58113842 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[26-02-2013:11:00:54 AM] : VTER001 has viewed the Edited file details in IDSIL/PJO from 2013-02-26 to 2013-02-26
+
+
+[26-02-2013:11:01:15 AM] : VTER001 has logged out from the Linecount Software Using the System 122.169.162.62

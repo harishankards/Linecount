@@ -1,0 +1,42 @@
+
+
+[16-01-2014:8:59:40 AM] : MTSMLS016 has logged in to IDSIL / PJO using the System 106.51.170.81
+
+
+[16-01-2014:8:59:54 AM] : MTSMLS016 has viewed the file details in IDSIL / PJO from 2014-01-15 to 2014-01-15
+
+
+[16-01-2014:9:00:30 AM] : MTSMLS016 has logged out from the Linecount Software Using the System 106.51.170.81
+
+
+[16-01-2014:9:07:13 AM] : MTSMLS016 has logged in to IDSIL / PJO using the System 106.51.170.81
+
+
+[16-01-2014:9:07:29 AM] : MTSMLS016 has viewed the file details in IDSIL / PJO from 2014-01-15 to 2014-01-15
+
+
+[16-01-2014:9:07:35 AM] : MTSMLS016 has Downloaded a file details in IDSIL / PJO from 2014-01-15 to 2014-01-15
+
+
+[16-01-2014:9:09:07 AM] : MTSMLS016 has viewed the file details in IDSIL / PJO from 2014-01-01 to 2014-01-16
+
+
+[16-01-2014:9:09:26 AM] : MTSMLS016 has logged out from the Linecount Software Using the System 106.51.170.81
+
+
+[16-01-2014:11:01:48 AM] : MTSMLS016 has logged in to IDSIL / PJO using the System 106.51.170.81
+
+
+[16-01-2014:11:02:32 AM] : MTSMLS016 has uploaded a DUP file 66767028 in IDSIL / PJO
+
+
+[16-01-2014:11:03:02 AM] : MTSMLS016 has uploaded a DUP file 66754131 in IDSIL / PJO
+
+
+[16-01-2014:11:03:27 AM] : MTSMLS016 has uploaded a DUP file 66771247 in IDSIL / PJO
+
+
+[16-01-2014:11:03:34 AM] : MTSMLS016 has viewed the file details in IDSIL / PJO from 2014-01-16 to 2014-01-16
+
+
+[16-01-2014:11:03:44 AM] : MTSMLS016 has logged out from the Linecount Software Using the System 106.51.170.81

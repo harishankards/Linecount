@@ -1,0 +1,53 @@
+
+
+[24-02-2013:9:16:20 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[24-02-2013:9:45:30 AM] : ADMIN has Rejected Leave request from the ID B2KMLS024 on 2013-02-24.
+
+
+[24-02-2013:10:52:49 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[24-02-2013:11:30:56 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[24-02-2013:12:17:02 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[24-02-2013:12:20:49 PM] : ADMIN has Viewed Employee Details
+
+
+[24-02-2013:12:21:20 PM] : ADMIN has Viewed Employee Details
+
+
+[24-02-2013:12:30:59 PM] : ADMIN has Viewed Employee Details
+
+
+[24-02-2013:12:32:34 PM] : ADMIN has Viewed Employee Details
+
+
+[24-02-2013:12:45:35 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[24-02-2013:12:49:48 PM] : ADMIN has Viewed Employee Details
+
+
+[24-02-2013:12:58:26 PM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[24-02-2013:12:58:30 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[24-02-2013:1:39:40 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[24-02-2013:5:05:23 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[24-02-2013:5:05:30 PM] : ADMIN has Viewed Employee Details
+
+
+[24-02-2013:5:05:41 PM] : ADMIN has Viewed Employee Details
+
+
+[24-02-2013:6:29:19 PM] : ADMIN has logged in to Admin page using the System 117.206.110.77

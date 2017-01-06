@@ -1,0 +1,15 @@
+
+
+[02-04-2013:9:41:04 PM] : VTER005 has logged in to IDSIL / PJO using the System 122.169.147.128
+
+
+[02-04-2013:9:41:41 PM] : VTER005 has picked a file 59210452 in IDSIL / PJO
+
+
+[02-04-2013:9:41:47 PM] : VTER005 has uploaded a file 59210452 to Hospital/Customer in IDSIL / PJO
+
+
+[02-04-2013:9:41:59 PM] : VTER005 has viewed the Edited file details in IDSIL/PJO from 2013-03-01 to 2013-03-31
+
+
+[02-04-2013:9:42:20 PM] : VTER005 has Downloaded a file details in IDSIL / PJO from 2013-03-01 to 2013-03-31

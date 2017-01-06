@@ -1,0 +1,66 @@
+
+
+[13-10-2013:1:45:12 AM] : ATER034 has logged out from the Linecount Software Using the System 180.215.79.251
+
+
+[13-10-2013:4:22:20 PM] : ATER034 has logged in to IDSIL / PJO using the System 180.215.78.181
+
+
+[13-10-2013:4:35:08 PM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[13-10-2013:4:38:09 PM] : ATER034 has picked a file 64444318 in IDSIL / PJO
+
+
+[13-10-2013:4:42:40 PM] : ATER034 has uploaded a file 64444318 to Hospital/Customer in IDSIL / PJO
+
+
+[13-10-2013:4:43:35 PM] : ATER034 has picked a file 64449609 in IDSIL / PJO
+
+
+[13-10-2013:5:07:46 PM] : ATER034 has uploaded a file 64449609 to Hospital/Customer in IDSIL / PJO
+
+
+[13-10-2013:5:09:47 PM] : ATER034 has picked a file 64449898 in IDSIL / PJO
+
+
+[13-10-2013:5:29:17 PM] : ATER034 has uploaded a file 64449898 to Hospital/Customer in IDSIL / PJO
+
+
+[13-10-2013:5:32:20 PM] : ATER034 has picked a file 64449456 in IDSIL / PJO
+
+
+[13-10-2013:5:47:00 PM] : ATER034 has uploaded a file 64449456 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[13-10-2013:5:47:50 PM] : ATER034 has picked a file 64445241 in IDSIL / PJO
+
+
+[13-10-2013:5:50:28 PM] : ATER034 has uploaded a file 64445241 to Hospital/Customer in IDSIL / PJO
+
+
+[13-10-2013:5:51:09 PM] : ATER034 has picked a file 64449204 in IDSIL / PJO
+
+
+[13-10-2013:5:53:11 PM] : ATER034 has uploaded a file 64449204 to Hospital/Customer in IDSIL / PJO
+
+
+[13-10-2013:5:54:14 PM] : ATER034 has logged out from the Linecount Software Using the System 180.215.78.181
+
+
+[13-10-2013:10:46:05 PM] : ATER034 has logged in to IDSIL / PJO using the System 116.202.179.203
+
+
+[13-10-2013:10:46:32 PM] : ATER034 has picked a file 64453466 in IDSIL / PJO
+
+
+[13-10-2013:10:53:05 PM] : ATER034 has uploaded a file 64453466 to Hospital/Customer in IDSIL / PJO
+
+
+[13-10-2013:10:53:30 PM] : ATER034 has picked a file 64452555 in IDSIL / PJO
+
+
+[13-10-2013:11:00:37 PM] : ATER034 has uploaded a file 64452555 to Hospital/Customer in IDSIL / PJO
+
+
+[13-10-2013:11:02:43 PM] : ATER034 has logged out from the Linecount Software Using the System 116.202.179.203

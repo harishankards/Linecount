@@ -1,0 +1,54 @@
+
+
+[23-01-2013:2:37:51 PM] : SKPOER018 has logged in to IDSIL / PJO using the System 223.234.126.174
+
+
+[23-01-2013:2:39:36 PM] : SKPOER018 has picked a file 57029807 in IDSIL / PJO
+
+
+[23-01-2013:3:22:10 PM] : SKPOER018 has uploaded a file 57029807 to Hospital/Customer in IDSIL / PJO
+
+
+[23-01-2013:3:24:01 PM] : SKPOER018 has picked a file 57029990 in IDSIL / PJO
+
+
+[23-01-2013:3:50:27 PM] : SKPOER018 has uploaded a file 57029990 to Hospital/Customer in IDSIL / PJO
+
+
+[23-01-2013:3:51:42 PM] : SKPOER018 has picked a file 57022144 in IDSIL / PJO
+
+
+[23-01-2013:4:00:31 PM] : SKPOER018 has picked a file 57032125 in IDSIL / PJO
+
+
+[23-01-2013:4:41:39 PM] : SKPOER018 has logged in to IDSIL / PJO using the System 223.234.126.174
+
+
+[23-01-2013:4:45:35 PM] : SKPOER018 has picked a file 57035310 in IDSIL / PJO
+
+
+[23-01-2013:4:46:28 PM] : SKPOER018 has uploaded a file 57032125 to Hospital/Customer in IDSIL / PJO
+
+
+[23-01-2013:4:58:21 PM] : SKPOER018 has uploaded a file 57035310 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[23-01-2013:5:03:17 PM] : SKPOER018 has picked a file 57035368 in IDSIL / PJO
+
+
+[23-01-2013:5:18:14 PM] : SKPOER018 has uploaded a file 57035368 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[23-01-2013:5:26:52 PM] : SKPOER018 has picked a file 57013785 in IDSIL / PJO
+
+
+[23-01-2013:5:32:55 PM] : SKPOER018 has uploaded a file 57013785 to Hospital/Customer in IDSIL / PJO
+
+
+[23-01-2013:5:34:59 PM] : SKPOER018 has picked a file 57038220 in IDSIL / PJO
+
+
+[23-01-2013:5:48:10 PM] : SKPOER018 has uploaded a file 57038220 to Hospital/Customer in IDSIL / PJO
+
+
+[23-01-2013:5:52:58 PM] : SKPOER018 has logged out from the Linecount Software Using the System 223.234.126.174

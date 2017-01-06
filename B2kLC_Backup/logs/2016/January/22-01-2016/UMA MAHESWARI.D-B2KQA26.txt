@@ -1,0 +1,42 @@
+
+
+[22-01-2016:9:00:39 AM] : B2KQA26 has logged in to IDSIL / PJO using the System 117.205.236.92
+
+
+[22-01-2016:9:17:28 AM] : B2KQA26 has picked a file 96313781 in IDSIL / PJO
+
+
+[22-01-2016:9:23:48 AM] : B2KQA26 has picked a file 96314141 in IDSIL / PJO
+
+
+[22-01-2016:9:25:17 AM] : B2KQA26 has picked a file 96318672 in IDSIL / PJO
+
+
+[22-01-2016:9:25:23 AM] : B2KQA26 has uploaded a file 96318672 to Hospital/Customer in IDSIL / PJO
+
+
+[22-01-2016:9:27:22 AM] : B2KQA26 has uploaded a file 96313781 to Hospital/Customer in IDSIL / PJO
+
+
+[22-01-2016:9:53:22 AM] : B2KQA26 has picked a file 96319814 in IDSIL / PJO
+
+
+[22-01-2016:9:53:27 AM] : B2KQA26 has uploaded a file 96319814 to Hospital/Customer in IDSIL / PJO
+
+
+[22-01-2016:12:07:42 PM] : B2KQA26 has uploaded a file 96314141 to Hospital/Customer in IDSIL / PJO
+
+
+[22-01-2016:12:07:57 PM] : B2KQA26 has viewed the Edited file details in IDSIL/PJO from 2016-01-01 to 2016-01-22
+
+
+[22-01-2016:12:09:00 PM] : B2KQA26 has viewed the Audit file details in IDSIL / PJO from 2016-01-01 to 2016-01-22
+
+
+[22-01-2016:1:46:08 PM] : B2KQA26 has logged out from the Linecount Software Using the System 117.205.236.92
+
+
+[22-01-2016:7:38:55 PM] : B2KQA26 has logged in to IDSIL / PJO using the System 117.206.121.126
+
+
+[22-01-2016:8:07:26 PM] : B2KQA26 has logged out from the Linecount Software Using the System 117.206.121.126

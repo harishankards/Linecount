@@ -1,0 +1,83 @@
+
+
+[13-10-2013:3:27:59 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[13-10-2013:3:28:12 AM] : ADMIN has Viewed Employee Details
+
+
+[13-10-2013:3:28:19 AM] : ADMIN has Viewed Employee Details
+
+
+[13-10-2013:3:33:06 AM] : ADMIN has Viewed Employee Details
+
+
+[13-10-2013:6:39:22 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[13-10-2013:6:39:59 AM] : ADMIN has Viewed Employee Details
+
+
+[13-10-2013:6:40:09 AM] : ADMIN has Viewed Employee Details
+
+
+[13-10-2013:7:26:15 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[13-10-2013:7:26:41 AM] : ADMIN has Viewed Employee Details
+
+
+[13-10-2013:7:26:48 AM] : ADMIN has Viewed Employee Details
+
+
+[13-10-2013:7:33:59 AM] : ADMIN has Viewed Employee Details
+
+
+[13-10-2013:7:34:19 AM] : ADMIN has Viewed Employee Details
+
+
+[13-10-2013:9:43:03 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[13-10-2013:9:48:37 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[13-10-2013:11:20:58 AM] : ADMIN has Viewed Employee Details
+
+[13-10-2013:11:22:18 AM] : ADMIN has Viewed Employee Details
+
+
+[13-10-2013:11:26:08 AM] : ADMIN has added Employee Details[K. RENUKA DEVI] into the Database
+
+
+[13-10-2013:1:43:15 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[13-10-2013:3:38:06 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[13-10-2013:4:29:32 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[13-10-2013:5:28:19 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+[13-10-2013:5:28:45 PM] : ADMIN has Approved Leave request from the ID B2KER001 on 2013-10-13.
+
+[13-10-2013:5:28:51 PM] : ADMIN has Approved Leave request from the ID B2KMLS011 on 2013-10-10.
+
+[13-10-2013:5:29:00 PM] : ADMIN has Approved Leave request from the ID B2KHTER013 on 2013-10-13.
+
+[13-10-2013:5:29:28 PM] : ADMIN has Approved Leave request from the ID B2KMLS010 on 2013-10-14.
+
+[13-10-2013:5:33:08 PM] : ADMIN has Approved Leave request from the ID B2KHTER013 on 2013-10-14.
+
+[13-10-2013:5:48:42 PM] : ADMIN has added an Update into the Database
+
+
+[13-10-2013:6:15:10 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[13-10-2013:6:15:33 PM] : ADMIN has Viewed Employee Details
+
+
+[13-10-2013:6:17:13 PM] : ADMIN has added Employee Details[ANUSHA RAJ] into the Database

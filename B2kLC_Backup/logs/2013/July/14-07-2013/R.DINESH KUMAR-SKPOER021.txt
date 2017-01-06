@@ -1,0 +1,90 @@
+
+
+[14-07-2013:10:28:48 AM] : SKPOER021 has logged in to IDSIL / PJO using the System 59.92.99.175
+
+
+[14-07-2013:10:29:09 AM] : SKPOER021 has viewed the Edited file details in IDSIL/PJO from 2013-07-01 to 2013-07-14
+
+
+[14-07-2013:10:29:44 AM] : SKPOER021 has viewed the Audit file details in IDSIL / PJO from 2013-07-01 to 2013-07-14
+
+
+[14-07-2013:10:37:28 AM] : SKPOER021 has picked a file 62140848 in IDSIL / PJO
+
+
+[14-07-2013:11:03:40 AM] : SKPOER021 has uploaded a file 62140848 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[14-07-2013:11:08:17 AM] : SKPOER021 has picked a file 90341680 in IDSIL / PJO
+
+
+[14-07-2013:11:29:44 AM] : SKPOER021 has uploaded a file 90341680 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[14-07-2013:11:30:50 AM] : SKPOER021 has picked a file 90341678 in IDSIL / PJO
+
+
+[14-07-2013:11:45:49 AM] : SKPOER021 has uploaded a file 90341678 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[14-07-2013:11:47:02 AM] : SKPOER021 has picked a file 90341684 in IDSIL / PJO
+
+
+[14-07-2013:12:02:45 PM] : SKPOER021 has uploaded a file 90341684 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[14-07-2013:12:03:40 PM] : SKPOER021 has picked a file 90342332 in IDSIL / PJO
+
+
+[14-07-2013:12:20:27 PM] : SKPOER021 has uploaded a file 90342332 to Hospital/Customer in IDSIL / PJO
+
+
+[14-07-2013:12:30:25 PM] : SKPOER021 has picked a file 90342123 in IDSIL / PJO
+
+
+[14-07-2013:12:48:49 PM] : SKPOER021 has uploaded a file 90342123 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[14-07-2013:12:49:49 PM] : SKPOER021 has picked a file 90342283 in IDSIL / PJO
+
+
+[14-07-2013:1:09:08 PM] : SKPOER021 has uploaded a file 90342283 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[14-07-2013:1:10:23 PM] : SKPOER021 has picked a file 90342619 in IDSIL / PJO
+
+
+[14-07-2013:1:37:52 PM] : SKPOER021 has uploaded a file 90342619 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[14-07-2013:1:38:22 PM] : SKPOER021 has logged out from the Linecount Software Using the System 59.92.99.175
+
+
+[14-07-2013:2:36:42 PM] : SKPOER021 has logged in to IDSIL / PJO using the System 59.96.167.39
+
+
+[14-07-2013:2:45:15 PM] : SKPOER021 has picked a file 62141181 in IDSIL / PJO
+
+
+[14-07-2013:3:09:17 PM] : SKPOER021 has uploaded a file 62141181 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[14-07-2013:3:10:12 PM] : SKPOER021 has picked a file 62132062 in IDSIL / PJO
+
+
+[14-07-2013:3:30:49 PM] : SKPOER021 has uploaded a file 62132062 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[14-07-2013:3:33:55 PM] : SKPOER021 has picked a file 90342451 in IDSIL / PJO
+
+
+[14-07-2013:3:54:47 PM] : SKPOER021 has uploaded a file 90342451 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[14-07-2013:3:56:36 PM] : SKPOER021 has picked a file 90342494 in IDSIL / PJO
+
+
+[14-07-2013:4:18:31 PM] : SKPOER021 has uploaded a file 90342494 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[14-07-2013:4:19:55 PM] : SKPOER021 has logged out from the Linecount Software Using the System 59.96.167.39

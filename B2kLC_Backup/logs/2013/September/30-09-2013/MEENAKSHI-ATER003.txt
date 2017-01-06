@@ -1,0 +1,66 @@
+
+
+[30-09-2013:12:29:57 PM] : ATER003 has logged in to IDSIL / PJO using the System 117.218.59.252
+
+
+[30-09-2013:12:33:36 PM] : ATER003 has picked a file 64087559 in IDSIL / PJO
+
+
+[30-09-2013:1:06:22 PM] : ATER003 has logged in to IDSIL / PJO using the System 117.218.59.252
+
+
+[30-09-2013:1:06:37 PM] : ATER003 has picked a file 64076358 in IDSIL / PJO
+
+
+[30-09-2013:1:06:47 PM] : ATER003 has uploaded a file 64087559 to Hospital/Customer in IDSIL / PJO
+
+
+[30-09-2013:1:40:46 PM] : ATER003 has uploaded a file 64076358 to Hospital/Customer in IDSIL / PJO
+
+
+[30-09-2013:1:52:09 PM] : ATER003 has picked a file 64076403 in IDSIL / PJO
+
+
+[30-09-2013:1:55:06 PM] : ATER003 has uploaded a file 64076403 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[30-09-2013:1:58:29 PM] : ATER003 has picked a file 64076990 in IDSIL / PJO
+
+
+[30-09-2013:2:32:20 PM] : ATER003 has uploaded a file 64076990 to Hospital/Customer in IDSIL / PJO
+
+
+[30-09-2013:2:40:22 PM] : ATER003 has picked a file 64077131 in IDSIL / PJO
+
+
+[30-09-2013:3:03:02 PM] : ATER003 has uploaded a file 64077131 to Hospital/Customer in IDSIL / PJO
+
+
+[30-09-2013:3:05:27 PM] : ATER003 has picked a file 64078151 in IDSIL / PJO
+
+
+[30-09-2013:3:14:18 PM] : ATER003 has uploaded a file 64078151 to Hospital/Customer in IDSIL / PJO
+
+
+[30-09-2013:3:25:09 PM] : ATER003 has picked a file 64079438 in IDSIL / PJO
+
+
+[30-09-2013:3:45:22 PM] : ATER003 has uploaded a file 64079438 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[30-09-2013:4:09:31 PM] : ATER003 has picked a file 64087777 in IDSIL / PJO
+
+
+[30-09-2013:4:09:40 PM] : ATER003 has uploaded a file 64087777 to Hospital/Customer in IDSIL / PJO
+
+
+[30-09-2013:4:12:16 PM] : ATER003 has picked a file 64087824 in IDSIL / PJO
+
+
+[30-09-2013:4:19:52 PM] : ATER003 has uploaded a file 64087824 to Hospital/Customer in IDSIL / PJO
+
+
+[30-09-2013:4:28:38 PM] : ATER003 has picked a file 64087862 in IDSIL / PJO
+
+
+[30-09-2013:4:28:47 PM] : ATER003 has uploaded a file 64087862 to Hospital/Customer in IDSIL / PJO

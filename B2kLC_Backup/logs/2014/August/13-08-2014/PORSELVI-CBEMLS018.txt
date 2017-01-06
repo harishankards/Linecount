@@ -1,0 +1,30 @@
+
+
+[13-08-2014:10:22:08 PM] : CBEMLS018 has logged in to IDSIL / PJO using the System 182.65.102.34
+
+
+[13-08-2014:10:27:20 PM] : CBEMLS018 has picked a file 71880241 in IDSIL / PJO
+
+
+[13-08-2014:10:27:27 PM] : CBEMLS018 has uploaded a file 71880241 to Hospital/Customer in IDSIL / PJO
+
+
+[13-08-2014:11:19:47 PM] : CBEMLS018 has picked a file 71881285 in IDSIL / PJO
+
+
+[13-08-2014:11:20:24 PM] : CBEMLS018 has uploaded a file 71881285 to Hospital/Customer in IDSIL / PJO
+
+
+[14-08-2014:12:08:56 AM] : CBEMLS018 has added a Audit file 71850813 in IDSIL / PJO 
+
+
+[14-08-2014:12:09:12 AM] : CBEMLS018 has added a Audit file 71850601 in IDSIL / PJO 
+
+
+[14-08-2014:12:09:23 AM] : CBEMLS018 has added a Audit file 71850446 in IDSIL / PJO 
+
+
+[14-08-2014:12:09:33 AM] : CBEMLS018 has added a Audit file 71849860 in IDSIL / PJO 
+
+
+[14-08-2014:12:09:45 AM] : CBEMLS018 has added a Audit file 71850319 in IDSIL / PJO 

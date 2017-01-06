@@ -1,0 +1,9 @@
+
+
+[29-01-2014:3:22:53 PM] : MTSQA001 has logged in to IDSIL / PJO using the System 59.97.27.52
+
+
+[29-01-2014:3:23:13 PM] : MTSQA001 has viewed the DUP file details in IDSIL/PJO from 2014-01-27 to 2014-01-29
+
+
+[29-01-2014:3:23:24 PM] : MTSQA001 has Downloaded a file details in IDSIL / PJO from 2014-01-27 to 2014-01-29

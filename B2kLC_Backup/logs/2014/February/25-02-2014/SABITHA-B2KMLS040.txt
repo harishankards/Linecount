@@ -1,0 +1,69 @@
+
+
+[25-02-2014:10:53:06 AM] : B2KMLS040 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[25-02-2014:10:53:19 AM] : B2KMLS040 has viewed the DUP file details in IDSIL/PJO from 2014-02-01 to 2014-02-25
+
+
+[25-02-2014:10:58:29 AM] : B2KMLS040 has logged in to IDSIL / PJO using the System 59.90.86.47
+
+
+[25-02-2014:10:59:29 AM] : B2KMLS040 has logged in to IDSIL / PJO using the System 59.90.86.47
+
+
+[25-02-2014:11:00:29 AM] : B2KMLS040 has picked a file 67804548 in IDSIL / PJO
+
+
+[25-02-2014:11:00:40 AM] : B2KMLS040 has uploaded a file 67804548 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[25-02-2014:11:02:39 AM] : B2KMLS040 has picked a file 67794764 in IDSIL / PJO
+
+
+[25-02-2014:11:02:58 AM] : B2KMLS040 has uploaded a file 67794764 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[25-02-2014:11:03:39 AM] : B2KMLS040 has picked a file 67796292 in IDSIL / PJO
+
+
+[25-02-2014:1:46:05 PM] : B2KMLS040 has logged in to IDSIL / PJO using the System 59.90.86.47
+
+
+[25-02-2014:1:46:22 PM] : B2KMLS040 has uploaded a file 67796292 to Hospital/Customer in IDSIL / PJO
+
+
+[25-02-2014:1:46:49 PM] : B2KMLS040 has picked a file 67805399 in IDSIL / PJO
+
+
+[25-02-2014:1:47:00 PM] : B2KMLS040 has uploaded a file 67805399 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[25-02-2014:1:47:23 PM] : B2KMLS040 has viewed the Edited file details in IDSIL/PJO from 2014-02-25 to 2014-02-25
+
+
+[25-02-2014:3:01:27 PM] : B2KMLS040 has logged in to IDSIL / PJO using the System 59.90.86.47
+
+
+[25-02-2014:3:03:16 PM] :  has uploaded a DUP file 67801157 in IDSIL / PJO
+
+
+[25-02-2014:3:43:08 PM] : B2KMLS040 has logged in to IDSIL / PJO using the System 59.90.86.47
+
+
+[25-02-2014:3:43:55 PM] : B2KMLS040 has picked a file 67804698 in IDSIL / PJO
+
+
+[25-02-2014:4:57:54 PM] : B2KMLS040 has uploaded a file 67804698 to Hospital/Customer in IDSIL / PJO
+
+
+[25-02-2014:5:01:13 PM] : B2KMLS040 has picked a file 67804998 in IDSIL / PJO
+
+
+[25-02-2014:5:51:21 PM] : B2KMLS040 has uploaded a file 67804998 to Hospital/Customer in IDSIL / PJO
+
+
+[25-02-2014:5:54:34 PM] : B2KMLS040 has logged in to IDSIL / PJO using the System 59.90.86.47
+
+
+[25-02-2014:5:54:54 PM] : B2KMLS040 has viewed the Edited file details in IDSIL/PJO from 2014-02-25 to 2014-02-25

@@ -1,0 +1,36 @@
+
+
+[04-09-2016:6:30:30 AM] : B2KQA56 has logged in to IDSIL / PJO using the System 122.178.164.75
+
+
+[04-09-2016:6:44:57 AM] : B2KQA56 has picked a file 99835004 in IDSIL / PJO
+
+
+[04-09-2016:7:12:14 AM] : B2KQA56 has picked a file 99841031 in IDSIL / PJO
+
+
+[04-09-2016:7:34:43 AM] : B2KQA56 has picked a file 99822422 in IDSIL / PJO
+
+
+[04-09-2016:8:41:18 AM] : B2KQA56 has logged in to IDSIL / PJO using the System 122.178.164.75
+
+
+[04-09-2016:8:43:04 AM] : B2KQA56 has viewed the Audit file details in IDSIL / PJO from 2016-09-01 to 2016-09-04
+
+
+[04-09-2016:8:44:24 AM] : B2KQA56 has added a Audit file 99822621 in IDSIL / PJO 
+
+
+[04-09-2016:6:54:44 PM] : B2KQA56 has logged in to IDSIL / PJO using the System 122.178.181.161
+
+
+[04-09-2016:6:56:57 PM] : B2KQA56 has picked a file 99842251 in IDSIL / PJO
+
+
+[04-09-2016:9:35:38 PM] : B2KQA56 has picked a file 99843253 in IDSIL / PJO
+
+
+[04-09-2016:10:18:49 PM] : B2KQA56 has picked a file 99842156 in IDSIL / PJO
+
+
+[04-09-2016:11:13:27 PM] : B2KQA56 has logged out from the Linecount Software Using the System 172.16.210.48

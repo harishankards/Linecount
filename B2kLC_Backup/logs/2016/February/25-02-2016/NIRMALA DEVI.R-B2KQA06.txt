@@ -1,0 +1,66 @@
+
+
+[25-02-2016:9:48:36 AM] : B2KQA06 has logged in to IDSIL / PJO using the System 117.222.178.236
+
+
+[25-02-2016:9:49:07 AM] : B2KQA06 has picked a file 96906051 in IDSIL / PJO
+
+
+[25-02-2016:10:15:20 AM] : B2KQA06 has logged in to IDSIL / PJO using the System 117.222.178.236
+
+
+[25-02-2016:10:15:40 AM] : B2KQA06 has uploaded a file 96906051 to Hospital/Customer in IDSIL / PJO
+
+
+[25-02-2016:10:16:18 AM] : B2KQA06 has picked a file 96895626 in IDSIL / PJO
+
+
+[25-02-2016:10:33:48 AM] : B2KQA06 has logged in to IDSIL / PJO using the System 117.222.178.236
+
+
+[25-02-2016:10:34:52 AM] : B2KQA06 has picked a file 96897408 in IDSIL / PJO
+
+
+[25-02-2016:10:36:46 AM] : B2KQA06 has uploaded a file 96895626 to Hospital/Customer in IDSIL / PJO
+
+
+[25-02-2016:10:46:53 AM] : B2KQA06 has uploaded a file 96897408 to Hospital/Customer in IDSIL / PJO
+
+
+[25-02-2016:10:47:30 AM] : B2KQA06 has picked a file 96897703 in IDSIL / PJO
+
+
+[25-02-2016:11:13:13 AM] : B2KQA06 has uploaded a file 96897703 to Hospital/Customer in IDSIL / PJO
+
+
+[25-02-2016:11:15:06 AM] : B2KQA06 has picked a file 96900995 in IDSIL / PJO
+
+
+[25-02-2016:11:31:27 AM] : B2KQA06 has uploaded a file 96900995 to Hospital/Customer in IDSIL / PJO
+
+
+[25-02-2016:11:33:02 AM] : B2KQA06 has picked a file 96906488 in IDSIL / PJO
+
+
+[25-02-2016:11:46:26 AM] : B2KQA06 has uploaded a file 96906488 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[25-02-2016:11:47:26 AM] : B2KQA06 has viewed the Edited file details in IDSIL/PJO from 2016-02-01 to 2016-02-25
+
+
+[25-02-2016:11:48:11 AM] : B2KQA06 has viewed the DUP file details in IDSIL/PJO from 2016-02-01 to 2016-02-25
+
+
+[25-02-2016:11:48:38 AM] : B2KQA06 has viewed the Audit file details in IDSIL / PJO from 2016-02-01 to 2016-02-25
+
+
+[25-02-2016:12:52:15 PM] : B2KQA06 has logged in to IDSIL / PJO using the System 117.222.177.37
+
+
+[25-02-2016:12:54:29 PM] : B2KQA06 has logged out from the Linecount Software Using the System 117.222.177.37
+
+
+[25-02-2016:12:55:08 PM] : B2KQA06 has logged in to IDSIL / PJO using the System 117.222.177.37
+
+
+[25-02-2016:12:55:28 PM] : B2KQA06 has logged out from the Linecount Software Using the System 117.222.177.37

@@ -1,0 +1,60 @@
+
+
+[01-04-2014:5:18:48 AM] : ARER007 has logged in to IDSIL / PJO using the System 115.242.147.233
+
+
+[01-04-2014:6:25:34 AM] : ARER007 has picked a file 68698793 in IDSIL / PJO
+
+
+[01-04-2014:6:34:44 AM] : ARER007 has uploaded a file 68698793 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[01-04-2014:6:37:51 AM] : ARER007 has picked a file 68699426 in IDSIL / PJO
+
+
+[01-04-2014:6:38:25 AM] : ARER007 has picked a file 68699171 in IDSIL / PJO
+
+
+[01-04-2014:6:48:57 AM] : ARER007 has uploaded a file 68699171 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[01-04-2014:6:59:12 AM] : ARER007 has picked a file 68700549 in IDSIL / PJO
+
+
+[01-04-2014:7:02:03 AM] : ARER007 has uploaded a file 68699426 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[01-04-2014:7:08:44 AM] : ARER007 has uploaded a file 68700549 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[01-04-2014:7:08:52 AM] : ARER007 has picked a file 68700299 in IDSIL / PJO
+
+
+[01-04-2014:7:25:54 AM] : ARER007 has uploaded a file 68700299 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[01-04-2014:7:26:45 AM] : ARER007 has picked a file 68700894 in IDSIL / PJO
+
+
+[01-04-2014:7:42:18 AM] : ARER007 has uploaded a file 68700894 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[01-04-2014:7:42:41 AM] : ARER007 has picked a file 68700447 in IDSIL / PJO
+
+
+[01-04-2014:7:51:38 AM] : ARER007 has uploaded a file 68700447 to Hospital/Customer in IDSIL / PJO
+
+
+[01-04-2014:7:58:08 AM] : ARER007 has picked a file 68701187 in IDSIL / PJO
+
+
+[01-04-2014:8:28:11 AM] : ARER007 has uploaded a file 68701187 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[01-04-2014:8:28:33 AM] : ARER007 has picked a file 68702002 in IDSIL / PJO
+
+
+[01-04-2014:8:46:36 AM] : ARER007 has uploaded a file 68702002 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[01-04-2014:8:47:34 AM] : ARER007 has logged out from the Linecount Software Using the System 115.242.147.233

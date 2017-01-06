@@ -1,0 +1,162 @@
+
+
+[25-04-2014:5:40:15 AM] : ATER006 has logged in to IDSIL / PJO using the System 122.178.158.12
+
+
+[25-04-2014:5:41:48 AM] : ATER006 has picked a file 69253476 in IDSIL / PJO
+
+
+[25-04-2014:5:42:22 AM] : ATER006 has picked a file 69253578 in IDSIL / PJO
+
+
+[25-04-2014:6:13:08 AM] : ATER006 has uploaded a file 69253476 to Hospital/Customer in IDSIL / PJO
+
+
+[25-04-2014:6:13:19 AM] : ATER006 has viewed the Edited file details in IDSIL/PJO from 2014-04-01 to 2014-04-25
+
+
+[25-04-2014:6:53:48 AM] : ATER006 has uploaded a file 69253578 to Hospital/Customer in IDSIL / PJO
+
+
+[25-04-2014:6:54:07 AM] : ATER006 has picked a file 69292407 in IDSIL / PJO
+
+
+[25-04-2014:7:20:24 AM] : ATER006 has uploaded a file 69292407 to Hospital/Customer in IDSIL / PJO
+
+
+[25-04-2014:7:20:46 AM] : ATER006 has picked a file 69295889 in IDSIL / PJO
+
+
+[25-04-2014:7:33:17 AM] : ATER006 has uploaded a file 69295889 to Hospital/Customer in IDSIL / PJO
+
+
+[25-04-2014:7:33:55 AM] : ATER006 has picked a file 69295877 in IDSIL / PJO
+
+
+[25-04-2014:8:24:37 AM] : ATER006 has picked a file 69295877 in IDSIL / PJO
+
+
+[25-04-2014:8:41:24 AM] : ATER006 has uploaded a file 69295877 to Hospital/Customer in IDSIL / PJO
+
+
+[25-04-2014:8:42:24 AM] : ATER006 has picked a file 69308120 in IDSIL / PJO
+
+
+[25-04-2014:8:52:54 AM] : ATER006 has uploaded a file 69308120 to Hospital/Customer in IDSIL / PJO
+
+
+[25-04-2014:8:53:54 AM] : ATER006 has picked a file 69310761 in IDSIL / PJO
+
+
+[25-04-2014:9:04:36 AM] : ATER006 has uploaded a file 69310761 to Hospital/Customer in IDSIL / PJO
+
+
+[25-04-2014:9:06:14 AM] : ATER006 has picked a file 69311214 in IDSIL / PJO
+
+
+[25-04-2014:9:31:46 AM] : ATER006 has picked a file 69292787 in IDSIL / PJO
+
+
+[25-04-2014:9:31:58 AM] : ATER006 has uploaded a file 69311214 to Hospital/Customer in IDSIL / PJO
+
+
+[25-04-2014:9:46:47 AM] : ATER006 has viewed the Edited file details in IDSIL/PJO from 2014-04-01 to 2014-04-25
+
+
+[25-04-2014:1:20:51 PM] : ATER006 has logged in to IDSIL / PJO using the System 122.178.158.12
+
+
+[25-04-2014:1:37:23 PM] : ATER006 has picked a file 69312441 in IDSIL / PJO
+
+
+[25-04-2014:1:55:32 PM] : ATER006 has picked a file 69312881 in IDSIL / PJO
+
+
+[25-04-2014:1:55:40 PM] : ATER006 has uploaded a file 69312881 to Hospital/Customer in IDSIL / PJO
+
+
+[25-04-2014:2:59:55 PM] : ATER006 has logged in to IDSIL / PJO using the System 122.178.158.12
+
+
+[25-04-2014:3:00:08 PM] : ATER006 has uploaded a file 69312441 to Hospital/Customer in IDSIL / PJO
+
+
+[25-04-2014:3:00:24 PM] : ATER006 has picked a file 69313123 in IDSIL / PJO
+
+
+[25-04-2014:3:16:43 PM] : ATER006 has logged in to IDSIL / PJO using the System 122.178.158.12
+
+
+[25-04-2014:4:06:21 PM] : ATER006 has uploaded a file 69313123 to Hospital/Customer in IDSIL / PJO
+
+
+[25-04-2014:4:06:42 PM] : ATER006 has picked a file 69313253 in IDSIL / PJO
+
+
+[25-04-2014:4:26:10 PM] : ATER006 has uploaded a file 69313253 to Hospital/Customer in IDSIL / PJO
+
+
+[25-04-2014:4:27:09 PM] : ATER006 has picked a file 69313712 in IDSIL / PJO
+
+
+[25-04-2014:4:37:24 PM] : ATER006 has viewed the Edited file details in IDSIL/PJO from 2014-04-24 to 2014-04-25
+
+
+[25-04-2014:4:54:22 PM] : ATER006 has uploaded a file 69313712 to Hospital/Customer in IDSIL / PJO
+
+
+[25-04-2014:4:59:32 PM] : ATER006 has viewed the Edited file details in IDSIL/PJO from 2014-04-01 to 2014-04-25
+
+
+[25-04-2014:5:05:18 PM] : ATER006 has picked a file 69312869 in IDSIL / PJO
+
+
+[25-04-2014:5:05:44 PM] : ATER006 has viewed the Edited file details in IDSIL/PJO from 2014-04-01 to 2014-04-25
+
+
+[25-04-2014:5:35:04 PM] : ATER006 has logged in to IDSIL / PJO using the System 122.178.158.12
+
+
+[25-04-2014:5:35:14 PM] : ATER006 has uploaded a file 69312869 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[25-04-2014:5:41:28 PM] : ATER006 has picked a file 69302808 in IDSIL / PJO
+
+
+[25-04-2014:7:12:23 PM] : ATER006 has logged in to IDSIL / PJO using the System 122.178.158.12
+
+
+[25-04-2014:7:13:46 PM] : ATER006 has uploaded a file 69302808 to Hospital/Customer in IDSIL / PJO
+
+
+[25-04-2014:7:17:54 PM] : ATER006 has picked a file 69306827 in IDSIL / PJO
+
+
+[25-04-2014:9:22:56 PM] : ATER006 has logged in to IDSIL / PJO using the System 122.178.158.12
+
+
+[25-04-2014:9:23:08 PM] : ATER006 has uploaded a file 69306827 to Hospital/Customer in IDSIL / PJO
+
+
+[25-04-2014:9:27:45 PM] : ATER006 has logged in to IDSIL / PJO using the System 122.178.158.12
+
+
+[25-04-2014:9:28:37 PM] : ATER006 has picked a file 69284106 in IDSIL / PJO
+
+
+[25-04-2014:9:33:03 PM] : ATER006 has viewed the Edited file details in IDSIL/PJO from 2014-04-01 to 2014-04-25
+
+
+[25-04-2014:9:36:48 PM] : ATER006 has logged in to IDSIL / PJO using the System 122.178.158.12
+
+
+[25-04-2014:9:59:54 PM] : ATER006 has uploaded a file 69284106 to Hospital/Customer in IDSIL / PJO
+
+
+[25-04-2014:10:13:11 PM] : ATER006 has picked a file 69313663 in IDSIL / PJO
+
+
+[25-04-2014:10:13:18 PM] : ATER006 has uploaded a file 69313663 to Hospital/Customer in IDSIL / PJO
+
+
+[25-04-2014:10:13:36 PM] : ATER006 has logged out from the Linecount Software Using the System 122.178.158.12

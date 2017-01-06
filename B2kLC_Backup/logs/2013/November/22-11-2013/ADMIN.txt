@@ -1,0 +1,104 @@
+
+
+[22-11-2013:12:45:42 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[22-11-2013:1:53:35 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[22-11-2013:6:05:43 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[22-11-2013:7:50:25 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[22-11-2013:9:13:24 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+[22-11-2013:9:41:24 AM] : ADMIN has Deleted the details of the file 65210080.
+
+[22-11-2013:9:41:52 AM] : ADMIN has Deleted the details of the file 65232916.
+
+[22-11-2013:9:42:25 AM] : ADMIN has Deleted the details of the file 65232034.
+
+[22-11-2013:9:42:56 AM] : ADMIN has Deleted the details of the file 65233497.
+
+
+[22-11-2013:10:34:32 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[22-11-2013:10:43:44 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[22-11-2013:10:54:49 AM] : ADMIN has Viewed Employee Details
+
+[22-11-2013:11:04:27 AM] : ADMIN has Deleted the details of the file 65521822.
+
+
+[22-11-2013:11:07:09 AM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[22-11-2013:11:08:19 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[22-11-2013:11:08:34 AM] : ADMIN has added an Update into the Database
+
+
+[22-11-2013:11:38:42 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[22-11-2013:12:11:35 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[22-11-2013:12:21:08 PM] : ADMIN has added an Update into the Database
+
+
+[22-11-2013:1:02:50 PM] : ADMIN has Viewed Employee Details
+
+
+[22-11-2013:2:33:09 PM] : ADMIN has Viewed Employee Details
+
+
+[22-11-2013:2:38:37 PM] : ADMIN has added Employee Details[EDWIN. C] into the Database
+
+
+[22-11-2013:2:50:10 PM] : ADMIN has added Employee Details[SAKTHI UMADEVI] into the Database
+
+
+[22-11-2013:2:52:51 PM] : ADMIN has added Employee Details[MALLIGA MANOHARAN] into the Database
+
+
+[22-11-2013:2:54:45 PM] : ADMIN has added Employee Details[SELVARANI] into the Database
+
+
+[22-11-2013:2:54:58 PM] : ADMIN has Viewed Employee Details
+
+
+[22-11-2013:2:55:14 PM] : ADMIN has Viewed Employee Details
+
+
+[22-11-2013:3:01:18 PM] : ADMIN has Viewed Employee Details
+
+
+[22-11-2013:4:03:06 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[22-11-2013:4:03:39 PM] : ADMIN has Viewed Employee Details
+
+
+[22-11-2013:4:04:28 PM] : ADMIN has Viewed Employee Details
+
+
+[22-11-2013:4:11:40 PM] : ADMIN has Viewed Employee Details
+
+
+[22-11-2013:5:53:49 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[22-11-2013:7:29:14 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[22-11-2013:8:26:37 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[22-11-2013:9:27:21 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[22-11-2013:11:42:16 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47

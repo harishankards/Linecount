@@ -1,0 +1,30 @@
+
+
+[14-11-2015:8:39:46 AM] : ADMIN has Viewed Employee Details
+
+
+[14-11-2015:8:40:03 AM] : ADMIN has Viewed Employee Details
+
+
+[14-11-2015:9:31:19 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[14-11-2015:11:43:50 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[14-11-2015:3:11:23 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[14-11-2015:5:08:01 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[14-11-2015:5:15:03 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[14-11-2015:5:32:03 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[14-11-2015:5:49:35 PM] : ADMIN has Viewed Employee Details
+
+
+[14-11-2015:5:50:45 PM] : ADMIN has added Employee Details[HIMANSHU DUA] into the Database

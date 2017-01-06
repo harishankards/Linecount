@@ -1,0 +1,192 @@
+
+
+[25-11-2015:10:36:57 AM] : B2KQA11 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[25-11-2015:10:38:34 AM] : B2KQA11 has picked a file 95326644 in IDSIL / PJO
+
+
+[25-11-2015:10:52:45 AM] : B2KQA11 has uploaded a file 95326644 to Hospital/Customer in IDSIL / PJO
+
+
+[25-11-2015:10:53:49 AM] : B2KQA11 has picked a file 95327717 in IDSIL / PJO
+
+
+[25-11-2015:11:08:30 AM] : B2KQA11 has uploaded a file 95327717 to Hospital/Customer in IDSIL / PJO
+
+
+[25-11-2015:11:09:09 AM] : B2KQA11 has picked a file 95329684 in IDSIL / PJO
+
+
+[25-11-2015:11:27:19 AM] : B2KQA11 has uploaded a file 95329684 to Hospital/Customer in IDSIL / PJO
+
+
+[25-11-2015:11:33:09 AM] : B2KQA11 has picked a file 95330408 in IDSIL / PJO
+
+
+[25-11-2015:11:38:09 AM] : B2KQA11 has uploaded a file 95330408 to Hospital/Customer in IDSIL / PJO
+
+
+[25-11-2015:11:39:19 AM] : B2KQA11 has picked a file 95330400 in IDSIL / PJO
+
+
+[25-11-2015:12:06:50 PM] : B2KQA11 has uploaded a file 95330400 to Hospital/Customer in IDSIL / PJO
+
+
+[25-11-2015:12:16:37 PM] : B2KQA11 has picked a file 95313932 in IDSIL / PJO
+
+
+[25-11-2015:12:36:15 PM] : B2KQA11 has uploaded a file 95313932 to Hospital/Customer in IDSIL / PJO
+
+
+[25-11-2015:12:36:55 PM] : B2KQA11 has picked a file 95314108 in IDSIL / PJO
+
+
+[25-11-2015:1:02:24 PM] : B2KQA11 has uploaded a file 95314108 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[25-11-2015:1:04:22 PM] : B2KQA11 has picked a file 95315956 in IDSIL / PJO
+
+
+[25-11-2015:1:09:08 PM] : B2KQA11 has picked a file 95316205 in IDSIL / PJO
+
+
+[25-11-2015:1:18:56 PM] : B2KQA11 has uploaded a file 95316205 to Hospital/Customer in IDSIL / PJO
+
+
+[25-11-2015:1:18:57 PM] : B2KQA11 has uploaded a file 95315956 to Hospital/Customer in IDSIL / PJO
+
+
+[25-11-2015:1:47:54 PM] : B2KQA11 has picked a file 95316772 in IDSIL / PJO
+
+
+[25-11-2015:2:00:55 PM] : B2KQA11 has uploaded a file 95316772 to Hospital/Customer in IDSIL / PJO
+
+
+[25-11-2015:2:01:04 PM] : B2KQA11 has viewed the Edited file details in IDSIL/PJO from 2015-11-24 to 2015-11-25
+
+
+[25-11-2015:2:02:29 PM] : B2KQA11 has picked a file 95317170 in IDSIL / PJO
+
+
+[25-11-2015:2:06:51 PM] : B2KQA11 has uploaded a file 95317170 to Hospital/Customer in IDSIL / PJO
+
+
+[25-11-2015:2:08:22 PM] : B2KQA11 has picked a file 95317266 in IDSIL / PJO
+
+
+[25-11-2015:2:14:49 PM] : B2KQA11 has uploaded a file 95317266 to Hospital/Customer in IDSIL / PJO
+
+
+[25-11-2015:2:28:37 PM] : B2KQA11 has picked a file 95317457 in IDSIL / PJO
+
+
+[25-11-2015:2:28:45 PM] : B2KQA11 has uploaded a file 95317457 to Hospital/Customer in IDSIL / PJO
+
+
+[25-11-2015:2:30:43 PM] : B2KQA11 has picked a file 95317623 in IDSIL / PJO
+
+
+[25-11-2015:2:51:48 PM] : B2KQA11 has uploaded a file 95317623 to Hospital/Customer in IDSIL / PJO
+
+
+[25-11-2015:2:53:13 PM] : B2KQA11 has picked a file 95317724 in IDSIL / PJO
+
+
+[25-11-2015:3:10:25 PM] : B2KQA11 has uploaded a file 95317724 to Hospital/Customer in IDSIL / PJO
+
+
+[25-11-2015:3:11:54 PM] : B2KQA11 has picked a file 95317841 in IDSIL / PJO
+
+
+[25-11-2015:3:34:12 PM] : B2KQA11 has uploaded a file 95317841 to Hospital/Customer in IDSIL / PJO
+
+
+[25-11-2015:3:34:24 PM] : B2KQA11 has viewed the Edited file details in IDSIL/PJO from 2015-11-24 to 2015-11-25
+
+
+[25-11-2015:3:34:55 PM] : B2KQA11 has viewed the Edited file details in IDSIL/PJO from 2015-11-01 to 2015-11-25
+
+
+[25-11-2015:3:35:37 PM] : B2KQA11 has picked a file 95318383 in IDSIL / PJO
+
+
+[25-11-2015:3:54:37 PM] : B2KQA11 has picked a file 95319416 in IDSIL / PJO
+
+
+[25-11-2015:3:55:01 PM] : B2KQA11 has uploaded a file 95318383 to Hospital/Customer in IDSIL / PJO
+
+
+[25-11-2015:4:07:24 PM] : B2KQA11 has uploaded a file 95319416 to Hospital/Customer in IDSIL / PJO
+
+
+[25-11-2015:4:08:34 PM] : B2KQA11 has picked a file 95320257 in IDSIL / PJO
+
+
+[25-11-2015:4:19:25 PM] : B2KQA11 has uploaded a file 95320257 to Hospital/Customer in IDSIL / PJO
+
+
+[25-11-2015:4:19:45 PM] : B2KQA11 has picked a file 95322732 in IDSIL / PJO
+
+
+[25-11-2015:4:44:15 PM] : B2KQA11 has viewed the Edited file details in IDSIL/PJO from 2015-11-24 to 2015-11-25
+
+
+[25-11-2015:4:45:25 PM] : B2KQA11 has viewed the Edited file details in IDSIL/PJO from 2015-11-01 to 2015-11-25
+
+
+[25-11-2015:4:50:40 PM] : B2KQA11 has picked a file 95322974 in IDSIL / PJO
+
+
+[25-11-2015:4:51:02 PM] : B2KQA11 has uploaded a file 95322732 to Hospital/Customer in IDSIL / PJO
+
+
+[25-11-2015:5:02:02 PM] : B2KQA11 has uploaded a file 95322974 to Hospital/Customer in IDSIL / PJO
+
+
+[25-11-2015:5:04:01 PM] : B2KQA11 has picked a file 95323316 in IDSIL / PJO
+
+
+[25-11-2015:5:19:55 PM] : B2KQA11 has picked a file 95323516 in IDSIL / PJO
+
+
+[25-11-2015:5:26:30 PM] : B2KQA11 has uploaded a file 95323316 to Hospital/Customer in IDSIL / PJO
+
+
+[25-11-2015:5:26:31 PM] : B2KQA11 has uploaded a file 95323516 to Hospital/Customer in IDSIL / PJO
+
+
+[25-11-2015:5:29:48 PM] : B2KQA11 has picked a file 95323632 in IDSIL / PJO
+
+
+[25-11-2015:5:38:33 PM] : B2KQA11 has uploaded a file 95323632 to Hospital/Customer in IDSIL / PJO
+
+
+[25-11-2015:5:38:49 PM] : B2KQA11 has viewed the Edited file details in IDSIL/PJO from 2015-11-24 to 2015-11-25
+
+
+[25-11-2015:5:39:41 PM] : B2KQA11 has viewed the Edited file details in IDSIL/PJO from 2015-11-24 to 2015-11-25
+
+
+[25-11-2015:5:42:24 PM] : B2KQA11 has picked a file 95324413 in IDSIL / PJO
+
+
+[25-11-2015:5:53:53 PM] : B2KQA11 has uploaded a file 95324413 to Hospital/Customer in IDSIL / PJO
+
+
+[25-11-2015:5:55:18 PM] : B2KQA11 has viewed the Edited file details in IDSIL/PJO from 2015-11-02 to 2015-11-25
+
+
+[25-11-2015:5:55:40 PM] : B2KQA11 has viewed the Edited file details in IDSIL/PJO from 2015-11-01 to 2015-11-25
+
+
+[25-11-2015:5:56:39 PM] : B2KQA11 has picked a file 95324526 in IDSIL / PJO
+
+
+[25-11-2015:6:06:00 PM] : B2KQA11 has uploaded a file 95324526 to Hospital/Customer in IDSIL / PJO
+
+
+[25-11-2015:6:06:11 PM] : B2KQA11 has viewed the Edited file details in IDSIL/PJO from 2015-11-01 to 2015-11-25
+
+
+[25-11-2015:6:10:33 PM] : B2KQA11 has logged out from the Linecount Software Using the System 123.255.248.35

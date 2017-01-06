@@ -1,0 +1,36 @@
+
+
+[23-08-2016:4:45:18 AM] : ADMIN has logged in to Admin page using the System 182.72.119.226
+
+
+[23-08-2016:5:47:35 AM] : ADMIN has logged in to Admin page using the System 182.72.119.226
+
+
+[23-08-2016:6:50:26 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[23-08-2016:8:48:02 AM] : ADMIN has logged in to Admin page using the System 14.102.34.42
+
+
+[23-08-2016:10:45:56 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[23-08-2016:10:53:29 AM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[23-08-2016:10:53:35 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[23-08-2016:1:16:56 PM] : ADMIN has Viewed Employee Details
+
+
+[23-08-2016:1:20:34 PM] : ADMIN has added Employee Details[KAVIN KUMAR. A] into the Database
+
+
+[23-08-2016:5:41:50 PM] : ADMIN has logged in to Admin page using the System 117.222.183.121
+
+
+[23-08-2016:5:42:56 PM] : ADMIN has logged out from the Linecount Software Using the System 117.222.183.121
+
+
+[23-08-2016:10:25:25 PM] : ADMIN has logged in to Admin page using the System 182.72.119.226

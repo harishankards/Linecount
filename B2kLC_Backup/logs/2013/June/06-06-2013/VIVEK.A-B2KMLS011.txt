@@ -1,0 +1,63 @@
+
+
+[06-06-2013:9:17:51 AM] : B2KMLS011 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[06-06-2013:9:39:52 AM] : B2KMLS011 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[06-06-2013:10:39:47 AM] : B2KMLS011 has picked a file 61082034 in IDSIL / PJO
+
+
+[06-06-2013:11:41:13 AM] : B2KMLS011 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[06-06-2013:11:45:42 AM] : B2KMLS011 has picked a file 61084830 in IDSIL / PJO
+
+
+[06-06-2013:11:57:05 AM] : B2KMLS011 has uploaded a file 61084830 to Hospital/Customer in IDSIL / PJO
+
+
+[06-06-2013:12:13:34 PM] : B2KMLS011 has picked a file 61085863 in IDSIL / PJO
+
+
+[06-06-2013:12:36:34 PM] : B2KMLS011 has uploaded a file 61085863 to Hospital/Customer in IDSIL / PJO
+
+
+[06-06-2013:12:48:19 PM] : B2KMLS011 has picked a file 61105097 in IDSIL / PJO
+
+
+[06-06-2013:1:24:37 PM] : B2KMLS011 has uploaded a file 61105097 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[06-06-2013:2:17:59 PM] : B2KMLS011 has picked a file 61091008 in IDSIL / PJO
+
+
+[06-06-2013:2:50:48 PM] : B2KMLS011 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[06-06-2013:2:50:55 PM] : B2KMLS011 has uploaded a file 61091008 to Hospital/Customer in IDSIL / PJO
+
+
+[06-06-2013:2:52:32 PM] : B2KMLS011 has picked a file 61087244 in IDSIL / PJO
+
+
+[06-06-2013:4:32:40 PM] : B2KMLS011 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[06-06-2013:4:32:57 PM] : B2KMLS011 has uploaded a file 61087244 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[06-06-2013:4:40:54 PM] : B2KMLS011 has picked a file 61094248 in IDSIL / PJO
+
+
+[06-06-2013:5:10:06 PM] : B2KMLS011 has uploaded a file 61094248 to Hospital/Customer in IDSIL / PJO
+
+
+[06-06-2013:5:13:00 PM] :  has uploaded a DUP file 61100125 in IDSIL / PJO
+
+
+[06-06-2013:5:13:20 PM] : B2KMLS011 has viewed the Edited file details in IDSIL/PJO from 2013-06-06 to 2013-06-06
+
+
+[06-06-2013:5:13:38 PM] : B2KMLS011 has logged out from the Linecount Software Using the System 123.255.248.35

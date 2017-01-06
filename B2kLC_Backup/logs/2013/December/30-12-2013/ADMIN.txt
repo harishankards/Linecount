@@ -1,0 +1,80 @@
+
+
+[30-12-2013:1:12:22 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[30-12-2013:2:29:02 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[30-12-2013:3:07:34 AM] : ADMIN has Viewed Employee Details
+
+
+[30-12-2013:3:07:41 AM] : ADMIN has Viewed Employee Details
+
+
+[30-12-2013:7:32:56 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[30-12-2013:9:16:11 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[30-12-2013:9:48:43 AM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[30-12-2013:9:58:41 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[30-12-2013:10:48:34 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[30-12-2013:11:29:54 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[30-12-2013:11:33:29 AM] : ADMIN has Viewed Employee Details
+
+
+[30-12-2013:12:15:10 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[30-12-2013:12:37:21 PM] : ADMIN has Deleted the details of the file 66322706.
+
+
+[30-12-2013:1:19:47 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[30-12-2013:1:35:33 PM] : ADMIN has Viewed Employee Details
+
+
+[30-12-2013:2:45:45 PM] : ADMIN has Viewed Employee Details
+
+
+[30-12-2013:4:04:34 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[30-12-2013:5:27:15 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[30-12-2013:6:00:26 PM] : ADMIN has logged out from the Linecount Software Using the System 59.90.86.47
+
+
+[30-12-2013:7:07:27 PM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[30-12-2013:8:01:51 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[30-12-2013:8:01:59 PM] : ADMIN has Viewed Employee Details
+
+
+[30-12-2013:8:06:34 PM] : ADMIN has Viewed Employee Details
+
+
+[30-12-2013:8:46:37 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[30-12-2013:10:01:58 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[30-12-2013:10:57:44 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[30-12-2013:11:12:20 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35

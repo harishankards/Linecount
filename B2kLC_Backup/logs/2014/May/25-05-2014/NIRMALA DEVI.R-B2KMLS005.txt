@@ -1,0 +1,15 @@
+
+
+[25-05-2014:7:25:36 PM] : B2KMLS005 has logged in to IDSIL / PJO using the System 117.222.178.218
+
+
+[25-05-2014:7:25:57 PM] : B2KMLS005 has viewed the DUP file details in IDSIL/PJO from 2014-05-01 to 2014-05-25
+
+
+[25-05-2014:7:26:08 PM] : B2KMLS005 has Downloaded a file details in IDSIL / PJO from 2014-05-01 to 2014-05-25
+
+
+[25-05-2014:7:41:37 PM] : B2KMLS005 has viewed the Audit file details in IDSIL / PJO from 2014-05-01 to 2014-05-25
+
+
+[25-05-2014:8:08:49 PM] : B2KMLS005 has logged out from the Linecount Software Using the System 117.222.178.218

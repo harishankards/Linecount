@@ -1,0 +1,72 @@
+
+
+[15-12-2013:1:11:08 AM] : ATER026 has logged in to IDSIL / PJO using the System 115.242.238.159
+
+
+[15-12-2013:1:11:09 AM] : ATER026 has logged in to IDSIL / PJO using the System 115.242.238.159
+
+
+[15-12-2013:3:48:12 AM] : ATER026 has logged in to IDSIL / PJO using the System 115.242.238.159
+
+
+[15-12-2013:4:53:52 AM] : ATER026 has logged out from the Linecount Software Using the System 115.242.238.159
+
+
+[15-12-2013:8:18:03 AM] : ATER026 has logged in to IDSIL / PJO using the System 115.241.15.213
+
+
+[15-12-2013:8:18:05 AM] : ATER026 has logged in to IDSIL / PJO using the System 115.241.15.213
+
+
+[15-12-2013:8:24:32 AM] : ATER026 has logged out from the Linecount Software Using the System 115.241.15.213
+
+
+[15-12-2013:10:18:13 PM] : ATER026 has logged in to IDSIL / PJO using the System 115.242.232.98
+
+
+[15-12-2013:10:18:15 PM] : ATER026 has logged in to IDSIL / PJO using the System 115.242.232.98
+
+
+[15-12-2013:10:30:01 PM] : ATER026 has picked a file 65988292 in IDSIL / PJO
+
+
+[15-12-2013:10:47:57 PM] : ATER026 has uploaded a file 65988292 to Hospital/Customer in IDSIL / PJO
+
+
+[15-12-2013:10:48:33 PM] : ATER026 has picked a file 65989222 in IDSIL / PJO
+
+
+[15-12-2013:11:01:41 PM] : ATER026 has uploaded a file 65989222 to Hospital/Customer in IDSIL / PJO
+
+
+[15-12-2013:11:04:05 PM] : ATER026 has picked a file 65991614 in IDSIL / PJO
+
+
+[15-12-2013:11:17:47 PM] : ATER026 has uploaded a file 65991614 to Hospital/Customer in IDSIL / PJO
+
+
+[15-12-2013:11:20:38 PM] : ATER026 has picked a file 65992246 in IDSIL / PJO
+
+
+[15-12-2013:11:28:00 PM] : ATER026 has uploaded a file 65992246 to Hospital/Customer in IDSIL / PJO
+
+
+[15-12-2013:11:32:08 PM] : ATER026 has picked a file 65995733 in IDSIL / PJO
+
+
+[15-12-2013:11:42:39 PM] : ATER026 has uploaded a file 65995733 to Hospital/Customer in IDSIL / PJO
+
+
+[15-12-2013:11:46:32 PM] : ATER026 has picked a file 65990785 in IDSIL / PJO
+
+
+[16-12-2013:12:27:20 AM] : ATER026 has uploaded a file 65990785 to Hospital/Customer in IDSIL / PJO
+
+
+[16-12-2013:12:32:23 AM] : ATER026 has viewed the Audit file details in IDSIL / PJO from 2013-12-01 to 2013-12-16
+
+
+[16-12-2013:12:33:40 AM] : ATER026 has viewed the Edited file details in IDSIL/PJO from 2013-12-01 to 2013-12-16
+
+
+[16-12-2013:12:33:43 AM] : ATER026 has viewed the Edited file details in IDSIL/PJO from 2013-12-01 to 2013-12-16

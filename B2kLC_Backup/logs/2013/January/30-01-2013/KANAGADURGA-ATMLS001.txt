@@ -1,0 +1,51 @@
+
+
+[30-01-2013:10:17:33 AM] : ATMLS001 has logged in to IDSIL / PJO using the System 117.203.110.130
+
+
+[30-01-2013:10:18:21 AM] : ATMLS001 has added a file details in IDSIL / PJO File No: 57255713
+
+
+[30-01-2013:10:19:12 AM] : ATMLS001 has added a file details in IDSIL / PJO File No: 57257036
+
+
+[30-01-2013:11:04:58 AM] : ATMLS001 has added a file details in IDSIL / PJO File No: 57257014
+
+
+[30-01-2013:11:33:45 AM] : ATMLS001 has added a file details in IDSIL / PJO File No: 57256917
+
+
+[30-01-2013:11:51:47 AM] : ATMLS001 has added a file details in IDSIL / PJO File No: 57258241
+
+
+[30-01-2013:1:43:17 PM] : ATMLS001 has logged in to IDSIL / PJO using the System 117.203.110.130
+
+
+[30-01-2013:1:43:48 PM] : ATMLS001 has added a file details in IDSIL / PJO File No: 57257009
+
+
+[30-01-2013:2:14:11 PM] : ATMLS001 has added a file details in IDSIL / PJO File No: 57258962
+
+
+[30-01-2013:2:49:27 PM] : ATMLS001 has added a file details in IDSIL / PJO File No: 57258365
+
+
+[30-01-2013:2:50:12 PM] : ATMLS001 has viewed the file details in IDSIL / PJO from 2013-01-30 to 2013-01-30
+
+
+[30-01-2013:2:53:36 PM] : ATMLS001 has viewed the file details in IDSIL / PJO from 2013-01-30 to 2013-01-30
+
+
+[30-01-2013:2:53:59 PM] : ATMLS001 has logged out from the Linecount Software Using the System 117.203.110.130
+
+
+[30-01-2013:2:54:25 PM] : ATMLS001 has logged in to IDSIL / PJO using the System 117.203.110.130
+
+
+[30-01-2013:2:54:47 PM] : ATMLS001 has viewed the file details in IDSIL / PJO from 2013-01-30 to 2013-01-30
+
+
+[30-01-2013:2:55:25 PM] : ATMLS001 has viewed the file details in IDSIL / PJO from 2013-01-30 to 2013-01-30
+
+
+[30-01-2013:2:55:43 PM] : ATMLS001 has logged out from the Linecount Software Using the System 117.203.110.130

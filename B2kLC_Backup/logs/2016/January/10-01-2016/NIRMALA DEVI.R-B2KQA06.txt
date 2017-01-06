@@ -1,0 +1,105 @@
+
+
+[10-01-2016:10:15:51 AM] : B2KQA06 has logged in to IDSIL / PJO using the System 117.241.90.34
+
+
+[10-01-2016:10:16:32 AM] : B2KQA06 has viewed the Edited file details in IDSIL/PJO from 2016-01-01 to 2016-01-10
+
+
+[10-01-2016:10:23:19 AM] : B2KQA06 has picked a file 96104446 in IDSIL / PJO
+
+
+[10-01-2016:10:41:50 AM] : B2KQA06 has uploaded a file 96104446 to Hospital/Customer in IDSIL / PJO
+
+
+[10-01-2016:10:44:24 AM] : B2KQA06 has picked a file 96104615 in IDSIL / PJO
+
+
+[10-01-2016:10:57:51 AM] : B2KQA06 has uploaded a file 96104615 to Hospital/Customer in IDSIL / PJO
+
+
+[10-01-2016:10:59:14 AM] : B2KQA06 has picked a file 96105262 in IDSIL / PJO
+
+
+[10-01-2016:11:15:21 AM] : B2KQA06 has uploaded a file 96105262 to Hospital/Customer in IDSIL / PJO
+
+
+[10-01-2016:11:18:58 AM] : B2KQA06 has picked a file 96105365 in IDSIL / PJO
+
+
+[10-01-2016:11:45:39 AM] : B2KQA06 has uploaded a file 96105365 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[10-01-2016:11:48:58 AM] : B2KQA06 has picked a file 96105903 in IDSIL / PJO
+
+
+[10-01-2016:11:51:44 AM] : B2KQA06 has viewed the Edited file details in IDSIL/PJO from 2016-01-01 to 2016-01-10
+
+
+[10-01-2016:12:22:44 PM] : B2KQA06 has uploaded a file 96105903 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[10-01-2016:12:27:07 PM] : B2KQA06 has picked a file 96106413 in IDSIL / PJO
+
+
+[10-01-2016:12:56:48 PM] : B2KQA06 has uploaded a file 96106413 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[10-01-2016:12:57:12 PM] : B2KQA06 has picked a file 96106852 in IDSIL / PJO
+
+
+[10-01-2016:1:09:34 PM] : B2KQA06 has uploaded a file 96106852 to Hospital/Customer in IDSIL / PJO
+
+
+[10-01-2016:1:10:03 PM] : B2KQA06 has picked a file 96106870 in IDSIL / PJO
+
+
+[10-01-2016:1:29:32 PM] : B2KQA06 has uploaded a file 96106870 to Hospital/Customer in IDSIL / PJO
+
+
+[10-01-2016:1:29:58 PM] : B2KQA06 has picked a file 96107144 in IDSIL / PJO
+
+
+[10-01-2016:1:45:40 PM] : B2KQA06 has uploaded a file 96107144 to Hospital/Customer in IDSIL / PJO
+
+
+[10-01-2016:1:46:13 PM] : B2KQA06 has picked a file 96107224 in IDSIL / PJO
+
+
+[10-01-2016:1:47:29 PM] : B2KQA06 has uploaded a file 96107224 to Hospital/Customer in IDSIL / PJO
+
+
+[10-01-2016:1:54:32 PM] : B2KQA06 has picked a file 96107692 in IDSIL / PJO
+
+
+[10-01-2016:2:03:08 PM] : B2KQA06 has uploaded a file 96107692 to Hospital/Customer in IDSIL / PJO
+
+
+[10-01-2016:2:03:37 PM] : B2KQA06 has picked a file 96107781 in IDSIL / PJO
+
+
+[10-01-2016:2:32:26 PM] : B2KQA06 has uploaded a file 96107781 to Hospital/Customer in IDSIL / PJO
+
+
+[10-01-2016:2:33:10 PM] : B2KQA06 has picked a file 96108374 in IDSIL / PJO
+
+
+[10-01-2016:2:48:20 PM] : B2KQA06 has uploaded a file 96108374 to Hospital/Customer in IDSIL / PJO
+
+
+[10-01-2016:2:48:59 PM] : B2KQA06 has picked a file 96108487 in IDSIL / PJO
+
+
+[10-01-2016:3:00:05 PM] : B2KQA06 has uploaded a file 96108487 to Hospital/Customer in IDSIL / PJO
+
+
+[10-01-2016:3:00:46 PM] : B2KQA06 has picked a file 96108591 in IDSIL / PJO
+
+
+[10-01-2016:3:01:42 PM] : B2KQA06 has uploaded a file 96108591 to Hospital/Customer in IDSIL / PJO
+
+
+[10-01-2016:3:12:19 PM] : B2KQA06 has viewed the Edited file details in IDSIL/PJO from 2016-01-01 to 2016-01-10
+
+
+[10-01-2016:3:13:23 PM] : B2KQA06 has logged out from the Linecount Software Using the System 117.241.91.120

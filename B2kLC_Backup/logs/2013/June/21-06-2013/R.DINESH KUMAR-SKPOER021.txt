@@ -1,0 +1,96 @@
+
+
+[21-06-2013:10:00:01 AM] : SKPOER021 has logged in to IDSIL / PJO using the System 14.102.34.42
+
+
+[21-06-2013:10:05:31 AM] : SKPOER021 has added a Audit file 61533606 in IDSIL / PJO 
+
+
+[21-06-2013:10:17:22 AM] : SKPOER021 has added a Audit file 61534475 in IDSIL / PJO 
+
+
+[21-06-2013:10:30:42 AM] : SKPOER021 has added a Audit file 61534520 in IDSIL / PJO 
+
+
+[21-06-2013:10:44:25 AM] : SKPOER021 has added a Audit file 61534630 in IDSIL / PJO 
+
+
+[21-06-2013:11:09:22 AM] : SKPOER021 has added a Audit file 61535082 in IDSIL / PJO 
+
+
+[21-06-2013:11:23:17 AM] : SKPOER021 has picked a file 61535822 in IDSIL / PJO
+
+
+[21-06-2013:11:26:28 AM] : SKPOER021 has viewed the Audit file details in IDSIL / PJO from 2013-06-21 to 2013-06-21
+
+
+[21-06-2013:11:40:41 AM] : SKPOER021 has uploaded a file 61535822 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[21-06-2013:11:41:52 AM] : SKPOER021 has picked a file 61536979 in IDSIL / PJO
+
+
+[21-06-2013:11:53:56 AM] : SKPOER021 has uploaded a file 61536979 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[21-06-2013:11:55:02 AM] : SKPOER021 has picked a file 61538955 in IDSIL / PJO
+
+
+[21-06-2013:12:07:32 PM] : SKPOER021 has uploaded a file 61538955 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[21-06-2013:12:09:06 PM] : SKPOER021 has picked a file 61538995 in IDSIL / PJO
+
+
+[21-06-2013:12:25:38 PM] : SKPOER021 has uploaded a file 61538995 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[21-06-2013:12:26:22 PM] : SKPOER021 has picked a file 61536133 in IDSIL / PJO
+
+
+[21-06-2013:12:37:48 PM] : SKPOER021 has uploaded a file 61536133 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[21-06-2013:12:38:32 PM] : SKPOER021 has picked a file 61537112 in IDSIL / PJO
+
+
+[21-06-2013:12:44:18 PM] : SKPOER021 has uploaded a file 61537112 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[21-06-2013:12:44:31 PM] : SKPOER021 has picked a file 61538559 in IDSIL / PJO
+
+
+[21-06-2013:1:00:18 PM] : SKPOER021 has uploaded a file 61538559 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[21-06-2013:1:00:41 PM] : SKPOER021 has viewed the Audit file details in IDSIL / PJO from 2013-06-21 to 2013-06-21
+
+
+[21-06-2013:1:00:57 PM] : SKPOER021 has logged out from the Linecount Software Using the System 14.102.34.42
+
+
+[21-06-2013:2:02:12 PM] : SKPOER021 has logged in to IDSIL / PJO using the System 14.102.34.42
+
+
+[21-06-2013:3:06:40 PM] : SKPOER021 has picked a file 61539733 in IDSIL / PJO
+
+
+[21-06-2013:3:23:05 PM] : SKPOER021 has uploaded a file 61539733 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[21-06-2013:3:25:17 PM] : SKPOER021 has picked a file 61539345 in IDSIL / PJO
+
+
+[21-06-2013:4:04:36 PM] : SKPOER021 has uploaded a file 61539345 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[21-06-2013:4:04:55 PM] : SKPOER021 has viewed the Audit file details in IDSIL / PJO from 2013-06-21 to 2013-06-21
+
+
+[21-06-2013:4:05:12 PM] : SKPOER021 has viewed the Edited file details in IDSIL/PJO from 2013-06-01 to 2013-06-21
+
+
+[21-06-2013:4:05:30 PM] : SKPOER021 has viewed the Audit file details in IDSIL / PJO from 2013-06-01 to 2013-06-21
+
+
+[21-06-2013:4:06:13 PM] : SKPOER021 has logged out from the Linecount Software Using the System 14.102.34.42

@@ -1,0 +1,72 @@
+
+
+[11-02-2016:10:28:46 AM] : B2KQA04 has logged in to IDSIL / PJO using the System 61.1.66.222
+
+
+[11-02-2016:11:11:01 AM] : B2KQA04 has picked a file 96647333 in IDSIL / PJO
+
+
+[11-02-2016:11:35:25 AM] : B2KQA04 has uploaded a file 96647333 to Hospital/Customer in IDSIL / PJO
+
+
+[11-02-2016:11:36:40 AM] : B2KQA04 has picked a file 96657386 in IDSIL / PJO
+
+
+[11-02-2016:11:37:08 AM] : B2KQA04 has picked a file 96657276 in IDSIL / PJO
+
+
+[11-02-2016:12:11:51 PM] : B2KQA04 has logged in to IDSIL / PJO using the System 117.201.30.35
+
+
+[11-02-2016:12:21:39 PM] : B2KQA04 has uploaded a file 96657276 to Hospital/Customer in IDSIL / PJO
+
+
+[11-02-2016:12:28:43 PM] : B2KQA04 has viewed the Edited file details in IDSIL/PJO from 2016-02-01 to 2016-02-11
+
+
+[11-02-2016:1:02:55 PM] : B2KQA04 has uploaded a file 96657386 to Hospital/Customer in IDSIL / PJO
+
+
+[11-02-2016:1:03:39 PM] : B2KQA04 has picked a file 96662096 in IDSIL / PJO
+
+
+[11-02-2016:1:12:36 PM] : B2KQA04 has picked a file 96663503 in IDSIL / PJO
+
+
+[11-02-2016:1:32:46 PM] : B2KQA04 has uploaded a file 96662096 to Hospital/Customer in IDSIL / PJO
+
+
+[11-02-2016:1:32:59 PM] : B2KQA04 has viewed the Edited file details in IDSIL/PJO from 2016-02-10 to 2016-02-11
+
+
+[11-02-2016:3:13:45 PM] : B2KQA04 has uploaded a file 96663503 to Hospital/Customer in IDSIL / PJO
+
+
+[11-02-2016:4:09:16 PM] : B2KQA04 has logged in to IDSIL / PJO using the System 117.201.30.35
+
+
+[11-02-2016:4:11:53 PM] : B2KQA04 has picked a file 96652780 in IDSIL / PJO
+
+
+[11-02-2016:4:25:21 PM] : B2KQA04 has uploaded a file 96652780 to Hospital/Customer in IDSIL / PJO
+
+
+[11-02-2016:4:29:25 PM] : B2KQA04 has added a Audit file 96665625 in IDSIL / PJO 
+
+
+[11-02-2016:4:29:32 PM] : B2KQA04 has viewed the Audit file details in IDSIL / PJO from 2016-02-11 to 2016-02-11
+
+
+[11-02-2016:5:47:06 PM] : B2KQA04 has logged in to IDSIL / PJO using the System 117.201.30.35
+
+
+[11-02-2016:5:48:01 PM] : B2KQA04 has picked a file 96661947 in IDSIL / PJO
+
+
+[11-02-2016:5:49:06 PM] : B2KQA04 has picked a file 96661947 in IDSIL / PJO
+
+
+[11-02-2016:7:14:43 PM] : B2KQA04 has uploaded a file 96661947 to Hospital/Customer in IDSIL / PJO
+
+
+[11-02-2016:7:14:56 PM] : B2KQA04 has viewed the Edited file details in IDSIL/PJO from 2016-02-10 to 2016-02-11

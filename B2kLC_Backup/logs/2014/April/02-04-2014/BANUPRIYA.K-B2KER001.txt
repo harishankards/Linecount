@@ -1,0 +1,63 @@
+
+
+[02-04-2014:12:24:08 AM] : B2KER001 has logged in to IDSIL / PJO using the System 117.213.71.214
+
+
+[02-04-2014:12:25:32 AM] : B2KER001 has logged out from the Linecount Software Using the System 117.213.71.214
+
+
+[02-04-2014:9:59:21 AM] : B2KER001 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[02-04-2014:10:45:39 AM] : B2KER001 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[02-04-2014:11:40:36 AM] : B2KER001 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[02-04-2014:11:41:06 AM] : B2KER001 has picked a file 68704207 in IDSIL / PJO
+
+
+[02-04-2014:2:59:50 PM] : B2KER001 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[02-04-2014:3:00:05 PM] : B2KER001 has picked a file 68705986 in IDSIL / PJO
+
+
+[02-04-2014:3:17:12 PM] : B2KER001 has picked a file 68706175 in IDSIL / PJO
+
+
+[02-04-2014:3:31:37 PM] : B2KER001 has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[02-04-2014:3:31:43 PM] : B2KER001 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[02-04-2014:4:58:15 PM] : B2KER001 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[02-04-2014:4:59:06 PM] :  has uploaded a DUP file 68737805 in IDSIL / PJO
+
+
+[02-04-2014:5:11:50 PM] : B2KER001 has picked a file 68737774 in IDSIL / PJO
+
+
+[02-04-2014:5:56:26 PM] : B2KER001 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[02-04-2014:6:00:37 PM] : B2KER001 has picked a file 68737884 in IDSIL / PJO
+
+
+[02-04-2014:6:05:46 PM] : B2KER001 has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[02-04-2014:11:44:39 PM] : B2KER001 has logged in to IDSIL / PJO using the System 117.213.68.81
+
+
+[02-04-2014:11:45:02 PM] : B2KER001 has viewed the DUP file details in IDSIL/PJO from 2014-04-01 to 2014-04-02
+
+
+[02-04-2014:11:45:12 PM] : B2KER001 has viewed the Edited file details in IDSIL/PJO from 2014-04-01 to 2014-04-02
+
+
+[02-04-2014:11:45:17 PM] : B2KER001 has logged out from the Linecount Software Using the System 117.213.68.81

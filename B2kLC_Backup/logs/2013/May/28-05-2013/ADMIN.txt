@@ -1,0 +1,53 @@
+
+
+[28-05-2013:12:25:06 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[28-05-2013:12:27:46 AM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[28-05-2013:2:02:55 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[28-05-2013:9:04:51 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[28-05-2013:11:57:26 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[28-05-2013:12:10:08 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[28-05-2013:1:39:58 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[28-05-2013:2:46:34 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[28-05-2013:3:06:07 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[28-05-2013:3:39:02 PM] : ADMIN has Deleted the details of the file 60242110.
+
+
+[28-05-2013:4:14:20 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[28-05-2013:4:14:27 PM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[28-05-2013:4:14:31 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[28-05-2013:4:16:19 PM] : ADMIN has Approved Leave request from the ID B2KMLS006 on 2013-05-27.
+
+[28-05-2013:4:16:27 PM] : ADMIN has Approved Leave request from the ID B2KMLS003 on 2013-05-27.
+
+[28-05-2013:4:16:36 PM] : ADMIN has Rejected Leave request from the ID B2KMLS010 on 2013-05-29.
+
+
+[28-05-2013:5:50:09 PM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[28-05-2013:5:54:31 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[28-05-2013:10:05:57 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35

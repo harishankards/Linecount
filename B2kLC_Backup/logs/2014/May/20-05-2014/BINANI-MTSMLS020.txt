@@ -1,0 +1,21 @@
+
+
+[20-05-2014:9:03:52 AM] : MTSMLS020 has logged in to IDSIL / PJO using the System 116.202.145.41
+
+
+[20-05-2014:9:32:55 AM] : MTSMLS020 has viewed the file details in IDSIL / PJO from 2014-05-01 to 2014-05-20
+
+
+[20-05-2014:9:44:38 AM] : MTSMLS020 has logged out from the Linecount Software Using the System 116.202.145.41
+
+
+[20-05-2014:10:24:41 AM] : MTSMLS020 has logged in to IDSIL / PJO using the System 116.202.145.41
+
+
+[20-05-2014:10:27:19 PM] : MTSMLS020 has logged in to IDSIL / PJO using the System 116.202.112.165
+
+
+[20-05-2014:10:58:51 PM] : MTSMLS020 has uploaded a DUP file 69923182 in IDSIL / PJO
+
+
+[20-05-2014:11:20:57 PM] : MTSMLS020 has uploaded a DUP file 69927466 in IDSIL / PJO

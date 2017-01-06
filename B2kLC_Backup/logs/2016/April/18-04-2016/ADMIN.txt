@@ -1,0 +1,22 @@
+
+
+[18-04-2016:5:34:33 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[18-04-2016:5:34:57 AM] : ADMIN has Deleted the details of the file 97785571.
+
+[18-04-2016:5:39:09 AM] : ADMIN has Deleted the details of the file 97787636.
+
+
+[18-04-2016:7:48:03 AM] : ADMIN has logged in to Admin page using the System 182.72.119.226
+
+
+[18-04-2016:2:04:25 PM] : ADMIN has logged in to Admin page using the System 14.102.34.42
+
+
+[18-04-2016:5:41:56 PM] : ADMIN has logged in to Admin page using the System 117.206.100.24
+
+
+[18-04-2016:5:42:44 PM] : ADMIN has logged out from the Linecount Software Using the System 117.206.100.24
+
+
+[18-04-2016:11:24:29 PM] : ADMIN has logged in to Admin page using the System 182.72.119.226

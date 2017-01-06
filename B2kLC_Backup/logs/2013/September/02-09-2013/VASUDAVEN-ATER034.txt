@@ -1,0 +1,135 @@
+
+
+[02-09-2013:12:58:57 AM] : ATER034 has logged out from the Linecount Software Using the System 116.202.181.198
+
+
+[02-09-2013:12:46:10 PM] : ATER034 has logged in to IDSIL / PJO using the System 117.218.59.252
+
+
+[02-09-2013:12:46:56 PM] : ATER034 has viewed the Edited file details in IDSIL/PJO from 2013-08-01 to 2013-08-31
+
+
+[02-09-2013:12:48:12 PM] : ATER034 has viewed the Audit file details in IDSIL / PJO from 2013-08-01 to 2013-08-31
+
+
+[02-09-2013:12:48:24 PM] : ATER034 has logged out from the Linecount Software Using the System 117.218.59.252
+
+
+[02-09-2013:8:06:01 PM] : ATER034 has logged in to IDSIL / PJO using the System 180.215.90.71
+
+
+[02-09-2013:8:08:50 PM] : ATER034 has picked a file 63322426 in IDSIL / PJO
+
+
+[02-09-2013:8:25:56 PM] : ATER034 has uploaded a file 63322426 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[02-09-2013:8:27:12 PM] : ATER034 has logged in to IDSIL / PJO using the System 180.215.90.71
+
+
+[02-09-2013:8:28:57 PM] : ATER034 has picked a file 63315758 in IDSIL / PJO
+
+
+[02-09-2013:9:11:54 PM] : ATER034 has logged in to IDSIL / PJO using the System 180.215.90.71
+
+
+[02-09-2013:9:12:10 PM] : ATER034 has picked a file 63320281 in IDSIL / PJO
+
+
+[02-09-2013:9:23:03 PM] : ATER034 has uploaded a file 63320281 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[02-09-2013:9:24:00 PM] : ATER034 has picked a file 63322906 in IDSIL / PJO
+
+
+[02-09-2013:9:32:48 PM] : ATER034 has uploaded a file 63322906 to Hospital/Customer in IDSIL / PJO
+
+
+[02-09-2013:9:33:41 PM] : ATER034 has picked a file 63323841 in IDSIL / PJO
+
+
+[02-09-2013:9:41:52 PM] : ATER034 has uploaded a file 63323841 to Hospital/Customer in IDSIL / PJO
+
+
+[02-09-2013:9:42:51 PM] : ATER034 has picked a file 63324296 in IDSIL / PJO
+
+
+[02-09-2013:9:53:04 PM] : ATER034 has uploaded a file 63324296 to Hospital/Customer in IDSIL / PJO
+
+
+[02-09-2013:9:54:02 PM] : ATER034 has picked a file 63324887 in IDSIL / PJO
+
+
+[02-09-2013:10:06:15 PM] : ATER034 has uploaded a file 63324887 to Hospital/Customer in IDSIL / PJO
+
+
+[02-09-2013:10:07:14 PM] : ATER034 has picked a file 63325292 in IDSIL / PJO
+
+
+[02-09-2013:10:19:03 PM] : ATER034 has uploaded a file 63325292 to Hospital/Customer in IDSIL / PJO
+
+
+[02-09-2013:10:22:55 PM] : ATER034 has picked a file 63321979 in IDSIL / PJO
+
+
+[02-09-2013:10:31:44 PM] : ATER034 has uploaded a file 63321979 to Hospital/Customer in IDSIL / PJO
+
+
+[02-09-2013:10:33:37 PM] : ATER034 has picked a file 63326830 in IDSIL / PJO
+
+
+[02-09-2013:10:46:33 PM] : ATER034 has uploaded a file 63326830 to Hospital/Customer in IDSIL / PJO
+
+
+[02-09-2013:10:47:12 PM] : ATER034 has picked a file 63323218 in IDSIL / PJO
+
+
+[02-09-2013:10:58:27 PM] : ATER034 has uploaded a file 63323218 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[02-09-2013:10:59:11 PM] : ATER034 has picked a file 63326573 in IDSIL / PJO
+
+
+[02-09-2013:11:06:13 PM] : ATER034 has uploaded a file 63326573 to Hospital/Customer in IDSIL / PJO
+
+
+[02-09-2013:11:06:48 PM] : ATER034 has picked a file 63327544 in IDSIL / PJO
+
+
+[02-09-2013:11:19:43 PM] : ATER034 has uploaded a file 63327544 to Hospital/Customer in IDSIL / PJO
+
+
+[02-09-2013:11:23:13 PM] : ATER034 has picked a file 63321869 in IDSIL / PJO
+
+
+[02-09-2013:11:27:26 PM] : ATER034 has uploaded a file 63321869 to Hospital/Customer in IDSIL / PJO
+
+
+[02-09-2013:11:28:02 PM] : ATER034 has picked a file 63320298 in IDSIL / PJO
+
+
+[02-09-2013:11:33:33 PM] : ATER034 has uploaded a file 63320298 to Hospital/Customer in IDSIL / PJO
+
+
+[02-09-2013:11:34:02 PM] : ATER034 has picked a file 63320303 in IDSIL / PJO
+
+
+[02-09-2013:11:39:02 PM] : ATER034 has uploaded a file 63320303 to Hospital/Customer in IDSIL / PJO
+
+
+[02-09-2013:11:39:30 PM] : ATER034 has picked a file 63306864 in IDSIL / PJO
+
+
+[02-09-2013:11:49:16 PM] : ATER034 has uploaded a file 63306864 to Hospital/Customer in IDSIL / PJO
+
+
+[02-09-2013:11:51:50 PM] : ATER034 has picked a file 63322003 in IDSIL / PJO
+
+
+[02-09-2013:11:56:15 PM] : ATER034 has uploaded a file 63322003 to Hospital/Customer in IDSIL / PJO
+
+
+[02-09-2013:11:57:04 PM] : ATER034 has picked a file 63322007 in IDSIL / PJO
+
+
+[03-09-2013:12:01:53 AM] : ATER034 has uploaded a file 63322007 to IDS/QA_Checkpoint in IDSIL / PJO

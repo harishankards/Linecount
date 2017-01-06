@@ -1,0 +1,207 @@
+
+
+[30-10-2014:12:33:34 PM] : B2KQA08 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[30-10-2014:12:49:42 PM] : B2KQA08 has viewed the Edited file details in IDSIL/PJO from 2014-10-01 to 2014-10-30
+
+
+[30-10-2014:12:49:55 PM] : B2KQA08 has Downloaded a file details in IDSIL / PJO from 2014-10-01 to 2014-10-30
+
+
+[30-10-2014:12:54:14 PM] : B2KQA08 has viewed the Edited file details in IDSIL/PJO from 2014-09-01 to 2014-09-30
+
+
+[30-10-2014:12:54:29 PM] : B2KQA08 has Downloaded a file details in IDSIL / PJO from 2014-09-01 to 2014-09-30
+
+
+[30-10-2014:12:55:08 PM] : B2KQA08 has viewed the Edited file details in IDSIL/PJO from 2014-10-01 to 2014-10-15
+
+
+[30-10-2014:12:55:19 PM] : B2KQA08 has Downloaded a file details in IDSIL / PJO from 2014-10-01 to 2014-10-15
+
+
+[30-10-2014:12:56:03 PM] : B2KQA08 has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[30-10-2014:9:54:56 PM] : B2KQA08 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[30-10-2014:10:43:34 PM] : B2KQA08 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[30-10-2014:10:43:45 PM] : B2KQA08 has picked a file 73608699 in IDSIL / PJO
+
+
+[30-10-2014:10:59:59 PM] : B2KQA08 has picked a file 73610102 in IDSIL / PJO
+
+
+[30-10-2014:11:00:10 PM] : B2KQA08 has uploaded a file 73610102 to Hospital/Customer in IDSIL / PJO
+
+
+[30-10-2014:11:00:10 PM] : B2KQA08 has uploaded a file 73608699 to Hospital/Customer in IDSIL / PJO
+
+
+[30-10-2014:11:06:35 PM] : B2KQA08 has added a Audit file 73601839 in IDSIL / PJO 
+
+
+[30-10-2014:11:21:41 PM] : B2KQA08 has picked a file 73610747 in IDSIL / PJO
+
+
+[30-10-2014:11:34:08 PM] : B2KQA08 has uploaded a file 73610747 to Hospital/Customer in IDSIL / PJO
+
+
+[30-10-2014:11:35:16 PM] : B2KQA08 has picked a file 73612145 in IDSIL / PJO
+
+
+[30-10-2014:11:35:27 PM] : B2KQA08 has uploaded a file 73612145 to Hospital/Customer in IDSIL / PJO
+
+
+[31-10-2014:12:00:05 AM] : B2KQA08 has picked a file 73612515 in IDSIL / PJO
+
+
+[31-10-2014:12:00:26 AM] : B2KQA08 has picked a file 73612337 in IDSIL / PJO
+
+
+[31-10-2014:12:15:32 AM] : B2KQA08 has uploaded a file 73612337 to Hospital/Customer in IDSIL / PJO
+
+
+[31-10-2014:12:15:33 AM] : B2KQA08 has uploaded a file 73612515 to Hospital/Customer in IDSIL / PJO
+
+
+[31-10-2014:12:23:02 AM] : B2KQA08 has picked a file 73612647 in IDSIL / PJO
+
+
+[31-10-2014:12:23:12 AM] : B2KQA08 has uploaded a file 73612647 to Hospital/Customer in IDSIL / PJO
+
+
+[31-10-2014:12:25:09 AM] : B2KQA08 has picked a file 73612619 in IDSIL / PJO
+
+
+[31-10-2014:12:27:20 AM] : B2KQA08 has uploaded a file 73612619 to Hospital/Customer in IDSIL / PJO
+
+
+[31-10-2014:12:28:06 AM] : B2KQA08 has picked a file 73612586 in IDSIL / PJO
+
+
+[31-10-2014:12:32:45 AM] : B2KQA08 has uploaded a file 73612586 to Hospital/Customer in IDSIL / PJO
+
+
+[31-10-2014:12:35:08 AM] : B2KQA08 has picked a file 73612993 in IDSIL / PJO
+
+
+[31-10-2014:12:35:15 AM] : B2KQA08 has uploaded a file 73612993 to Hospital/Customer in IDSIL / PJO
+
+
+[31-10-2014:12:42:58 AM] : B2KQA08 has picked a file 73613368 in IDSIL / PJO
+
+
+[31-10-2014:12:48:10 AM] : B2KQA08 has picked a file 73613286 in IDSIL / PJO
+
+
+[31-10-2014:1:02:49 AM] : B2KQA08 has uploaded a file 73613286 to Hospital/Customer in IDSIL / PJO
+
+
+[31-10-2014:1:02:54 AM] : B2KQA08 has uploaded a file 73613368 to Hospital/Customer in IDSIL / PJO
+
+
+[31-10-2014:1:09:58 AM] : B2KQA08 has picked a file 73613482 in IDSIL / PJO
+
+
+[31-10-2014:1:27:38 AM] : B2KQA08 has picked a file 73614125 in IDSIL / PJO
+
+
+[31-10-2014:1:27:45 AM] : B2KQA08 has uploaded a file 73614125 to Hospital/Customer in IDSIL / PJO
+
+
+[31-10-2014:1:27:45 AM] : B2KQA08 has uploaded a file 73613482 to Hospital/Customer in IDSIL / PJO
+
+
+[31-10-2014:1:32:00 AM] : B2KQA08 has picked a file 73614461 in IDSIL / PJO
+
+
+[31-10-2014:1:38:27 AM] : B2KQA08 has uploaded a file 73614461 to Hospital/Customer in IDSIL / PJO
+
+
+[31-10-2014:1:39:02 AM] : B2KQA08 has picked a file 73615172 in IDSIL / PJO
+
+
+[31-10-2014:1:43:29 AM] : B2KQA08 has uploaded a file 73615172 to Hospital/Customer in IDSIL / PJO
+
+
+[31-10-2014:1:44:39 AM] : B2KQA08 has picked a file 73615266 in IDSIL / PJO
+
+
+[31-10-2014:1:45:14 AM] : B2KQA08 has uploaded a file 73615266 to Hospital/Customer in IDSIL / PJO
+
+
+[31-10-2014:1:54:26 AM] : B2KQA08 has picked a file 73602517 in IDSIL / PJO
+
+
+[31-10-2014:1:54:33 AM] : B2KQA08 has uploaded a file 73602517 to Hospital/Customer in IDSIL / PJO
+
+
+[31-10-2014:2:15:54 AM] : B2KQA08 has picked a file 73602534 in IDSIL / PJO
+
+
+[31-10-2014:2:17:34 AM] : B2KQA08 has uploaded a file 73602534 to Hospital/Customer in IDSIL / PJO
+
+
+[31-10-2014:2:19:24 AM] : B2KQA08 has picked a file 73619390 in IDSIL / PJO
+
+
+[31-10-2014:2:56:51 AM] : B2KQA08 has picked a file 73619912 in IDSIL / PJO
+
+
+[31-10-2014:2:58:21 AM] : B2KQA08 has picked a file 73620731 in IDSIL / PJO
+
+
+[31-10-2014:3:34:48 AM] : B2KQA08 has picked a file 73601180 in IDSIL / PJO
+
+
+[31-10-2014:3:46:22 AM] : B2KQA08 has picked a file 73611222 in IDSIL / PJO
+
+
+[31-10-2014:3:56:25 AM] : B2KQA08 has uploaded a file 73619912 to Hospital/Customer in IDSIL / PJO
+
+
+[31-10-2014:3:56:26 AM] : B2KQA08 has uploaded a file 73620731 to Hospital/Customer in IDSIL / PJO
+
+
+[31-10-2014:3:56:27 AM] : B2KQA08 has uploaded a file 73619390 to Hospital/Customer in IDSIL / PJO
+
+
+[31-10-2014:3:56:27 AM] : B2KQA08 has uploaded a file 73611222 to Hospital/Customer in IDSIL / PJO
+
+
+[31-10-2014:3:56:28 AM] : B2KQA08 has uploaded a file 73601180 to Hospital/Customer in IDSIL / PJO
+
+
+[31-10-2014:4:26:38 AM] : B2KQA08 has picked a file 73620742 in IDSIL / PJO
+
+
+[31-10-2014:4:27:10 AM] : B2KQA08 has uploaded a file 73620742 to Hospital/Customer in IDSIL / PJO
+
+
+[31-10-2014:4:31:34 AM] : B2KQA08 has picked a file 73620897 in IDSIL / PJO
+
+
+[31-10-2014:4:31:39 AM] : B2KQA08 has uploaded a file 73620897 to Hospital/Customer in IDSIL / PJO
+
+
+[31-10-2014:4:37:43 AM] : B2KQA08 has picked a file 73621036 in IDSIL / PJO
+
+
+[31-10-2014:4:43:56 AM] : B2KQA08 has picked a file 73612011 in IDSIL / PJO
+
+
+[31-10-2014:4:44:05 AM] : B2KQA08 has uploaded a file 73612011 to Hospital/Customer in IDSIL / PJO
+
+
+[31-10-2014:4:44:06 AM] : B2KQA08 has uploaded a file 73621036 to Hospital/Customer in IDSIL / PJO
+
+
+[31-10-2014:5:22:41 AM] : B2KQA08 has picked a file 73624882 in IDSIL / PJO
+
+
+[31-10-2014:5:23:03 AM] : B2KQA08 has picked a file 73622674 in IDSIL / PJO

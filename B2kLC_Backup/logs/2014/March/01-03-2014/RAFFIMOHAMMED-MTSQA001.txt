@@ -1,0 +1,39 @@
+
+
+[01-03-2014:9:17:28 PM] : MTSQA001 has logged in to IDSIL / PJO using the System 114.79.134.149
+
+
+[02-03-2014:2:34:54 AM] : MTSQA001 has picked a file 67922911 in IDSIL / PJO
+
+
+[02-03-2014:2:36:55 AM] : MTSQA001 has uploaded a file 67922911 to Hospital/Customer in IDSIL / PJO
+
+
+[02-03-2014:2:39:00 AM] : MTSQA001 has picked a file 67927848 in IDSIL / PJO
+
+
+[02-03-2014:2:47:57 AM] : MTSQA001 has uploaded a file 67927848 to Hospital/Customer in IDSIL / PJO
+
+
+[02-03-2014:2:48:45 AM] : MTSQA001 has picked a file 67923514 in IDSIL / PJO
+
+
+[02-03-2014:2:53:33 AM] : MTSQA001 has uploaded a file 67923514 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[02-03-2014:2:54:48 AM] : MTSQA001 has picked a file 67923235 in IDSIL / PJO
+
+
+[02-03-2014:2:58:02 AM] : MTSQA001 has uploaded a file 67923235 to Hospital/Customer in IDSIL / PJO
+
+
+[02-03-2014:3:15:17 AM] : MTSQA001 has picked a file 67927735 in IDSIL / PJO
+
+
+[02-03-2014:3:15:25 AM] : MTSQA001 has uploaded a file 67927735 to Hospital/Customer in IDSIL / PJO
+
+
+[02-03-2014:3:16:44 AM] : MTSQA001 has picked a file 67927788 in IDSIL / PJO
+
+
+[02-03-2014:3:27:06 AM] : MTSQA001 has uploaded a file 67927788 to Hospital/Customer in IDSIL / PJO

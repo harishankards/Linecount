@@ -1,0 +1,132 @@
+
+
+[09-03-2013:11:24:21 AM] : ATER026 has logged in to IDSIL / PJO using the System 115.242.129.129
+
+
+[09-03-2013:3:49:07 PM] : ATER026 has logged in to IDSIL / PJO using the System 101.63.217.96
+
+
+[09-03-2013:3:58:45 PM] : ATER026 has logged in to IDSIL / PJO using the System 101.63.217.96
+
+
+[09-03-2013:4:47:50 PM] : ATER026 has picked a file 58494991 in IDSIL / PJO
+
+
+[09-03-2013:4:48:07 PM] : ATER026 has uploaded a file 58494991 to Hospital/Customer in IDSIL / PJO
+
+
+[09-03-2013:4:50:33 PM] : ATER026 has logged out from the Linecount Software Using the System 101.63.217.96
+
+
+[10-03-2013:1:23:58 AM] : ATER026 has picked a file 58501891 in IDSIL / PJO
+
+
+[10-03-2013:1:30:21 AM] : ATER026 has uploaded a file 58501891 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[10-03-2013:1:31:17 AM] : ATER026 has picked a file 58502010 in IDSIL / PJO
+
+
+[10-03-2013:1:34:54 AM] : ATER026 has uploaded a file 58502010 to Hospital/Customer in IDSIL / PJO
+
+
+[10-03-2013:1:37:16 AM] : ATER026 has picked a file 58505054 in IDSIL / PJO
+
+
+[10-03-2013:1:39:34 AM] : ATER026 has uploaded a file 58505054 to Hospital/Customer in IDSIL / PJO
+
+
+[10-03-2013:1:40:09 AM] : ATER026 has picked a file 58500909 in IDSIL / PJO
+
+
+[10-03-2013:1:50:17 AM] : ATER026 has uploaded a file 58500909 to Hospital/Customer in IDSIL / PJO
+
+
+[10-03-2013:1:51:19 AM] : ATER026 has picked a file 58502387 in IDSIL / PJO
+
+
+[10-03-2013:2:01:08 AM] : ATER026 has uploaded a file 58502387 to Hospital/Customer in IDSIL / PJO
+
+
+[10-03-2013:2:14:34 AM] : ATER026 has picked a file 58505782 in IDSIL / PJO
+
+
+[10-03-2013:3:33:49 AM] : ATER026 has picked a file 58505032 in IDSIL / PJO
+
+
+[10-03-2013:3:34:37 AM] : ATER026 has uploaded a file 58505032 to Hospital/Customer in IDSIL / PJO
+
+
+[10-03-2013:3:37:00 AM] : ATER026 has picked a file 58505164 in IDSIL / PJO
+
+
+[10-03-2013:3:37:13 AM] : ATER026 has uploaded a file 58505164 to Hospital/Customer in IDSIL / PJO
+
+
+[10-03-2013:3:39:03 AM] : ATER026 has uploaded a file 58505782 to Hospital/Customer in IDSIL / PJO
+
+
+[10-03-2013:3:50:26 AM] : ATER026 has picked a file 58506975 in IDSIL / PJO
+
+
+[10-03-2013:3:50:44 AM] : ATER026 has uploaded a file 58506975 to Hospital/Customer in IDSIL / PJO
+
+
+[10-03-2013:3:54:32 AM] : ATER026 has picked a file 58507086 in IDSIL / PJO
+
+
+[10-03-2013:3:57:24 AM] : ATER026 has uploaded a file 58507086 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[10-03-2013:3:58:31 AM] : ATER026 has picked a file 58507197 in IDSIL / PJO
+
+
+[10-03-2013:4:02:23 AM] : ATER026 has uploaded a file 58507197 to Hospital/Customer in IDSIL / PJO
+
+
+[10-03-2013:4:03:24 AM] : ATER026 has picked a file 58507277 in IDSIL / PJO
+
+
+[10-03-2013:4:09:31 AM] : ATER026 has uploaded a file 58507277 to Hospital/Customer in IDSIL / PJO
+
+
+[10-03-2013:4:10:50 AM] : ATER026 has picked a file 58507304 in IDSIL / PJO
+
+
+[10-03-2013:4:13:32 AM] : ATER026 has uploaded a file 58507304 to Hospital/Customer in IDSIL / PJO
+
+
+[10-03-2013:4:17:01 AM] : ATER026 has picked a file 58507328 in IDSIL / PJO
+
+
+[10-03-2013:4:20:19 AM] : ATER026 has uploaded a file 58507328 to Hospital/Customer in IDSIL / PJO
+
+
+[10-03-2013:4:21:06 AM] : ATER026 has picked a file 58507400 in IDSIL / PJO
+
+
+[10-03-2013:4:23:03 AM] : ATER026 has uploaded a file 58507400 to Hospital/Customer in IDSIL / PJO
+
+
+[10-03-2013:4:28:27 AM] : ATER026 has picked a file 58507426 in IDSIL / PJO
+
+
+[10-03-2013:4:28:44 AM] : ATER026 has uploaded a file 58507426 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[10-03-2013:4:36:20 AM] : ATER026 has picked a file 58499989 in IDSIL / PJO
+
+
+[10-03-2013:4:58:48 AM] : ATER026 has uploaded a file 58499989 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[10-03-2013:5:03:19 AM] : ATER026 has picked a file 58500390 in IDSIL / PJO
+
+
+[10-03-2013:5:07:01 AM] : ATER026 has uploaded a file 58500390 to Hospital/Customer in IDSIL / PJO
+
+
+[10-03-2013:5:12:27 AM] : ATER026 has picked a file 58500817 in IDSIL / PJO
+
+
+[10-03-2013:5:12:45 AM] : ATER026 has uploaded a file 58500817 to Hospital/Customer in IDSIL / PJO

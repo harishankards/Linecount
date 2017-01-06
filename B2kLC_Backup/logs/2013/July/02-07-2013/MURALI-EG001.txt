@@ -1,0 +1,30 @@
+
+
+[02-07-2013:12:57:23 PM] : EG001 has logged in to IDSIL / PJO using the System 117.197.204.153
+
+
+[02-07-2013:12:59:34 PM] : EG001 has logged out from the Linecount Software Using the System 117.197.204.153
+
+
+[02-07-2013:1:00:23 PM] : EG001 has logged in to IDSIL / PJO using the System 117.197.204.153
+
+
+[02-07-2013:1:01:14 PM] : EG001 has uploaded a DUP file 61803544 in IDSIL / PJO
+
+
+[02-07-2013:1:01:43 PM] : EG001 has uploaded a DUP file 61803827 in IDSIL / PJO
+
+
+[02-07-2013:1:02:06 PM] : EG001 has uploaded a DUP file 61806028 in IDSIL / PJO
+
+
+[02-07-2013:1:02:31 PM] : EG001 has uploaded a DUP file 61807283 in IDSIL / PJO
+
+
+[02-07-2013:1:02:54 PM] : EG001 has uploaded a DUP file 61814804 in IDSIL / PJO
+
+
+[02-07-2013:1:04:20 PM] : EG001 has viewed the file details in IDSIL / PJO from 2013-07-01 to 2013-07-02
+
+
+[02-07-2013:1:05:24 PM] : EG001 has logged out from the Linecount Software Using the System 117.197.204.153

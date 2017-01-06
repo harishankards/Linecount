@@ -1,0 +1,144 @@
+
+
+[03-03-2013:1:24:25 PM] : KTER001 has logged in to IDSIL / PJO using the System 111.92.80.157
+
+
+[03-03-2013:1:27:47 PM] : KTER001 has picked a file 57919961 in IDSIL / PJO
+
+
+[03-03-2013:1:28:21 PM] : KTER001 has uploaded a file 57919961 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[03-03-2013:1:32:32 PM] : KTER001 has picked a file 57958335 in IDSIL / PJO
+
+
+[03-03-2013:1:32:39 PM] : KTER001 has uploaded a file 57958335 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[03-03-2013:1:33:31 PM] : KTER001 has picked a file 57960877 in IDSIL / PJO
+
+
+[03-03-2013:1:34:14 PM] : KTER001 has uploaded a file 57960877 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[03-03-2013:1:34:52 PM] : KTER001 has picked a file 57971305 in IDSIL / PJO
+
+
+[03-03-2013:1:35:01 PM] : KTER001 has uploaded a file 57971305 to Hospital/Customer in IDSIL / PJO
+
+
+[03-03-2013:1:36:35 PM] : KTER001 has picked a file 57872838 in IDSIL / PJO
+
+
+[03-03-2013:1:36:41 PM] : KTER001 has uploaded a file 57872838 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[03-03-2013:1:37:13 PM] : KTER001 has picked a file 57878253 in IDSIL / PJO
+
+
+[03-03-2013:1:37:18 PM] : KTER001 has uploaded a file 57878253 to Hospital/Customer in IDSIL / PJO
+
+
+[03-03-2013:1:37:44 PM] : KTER001 has picked a file 57886413 in IDSIL / PJO
+
+
+[03-03-2013:1:37:50 PM] : KTER001 has uploaded a file 57886413 to Hospital/Customer in IDSIL / PJO
+
+
+[03-03-2013:1:38:17 PM] : KTER001 has picked a file 57886492 in IDSIL / PJO
+
+
+[03-03-2013:1:38:27 PM] : KTER001 has uploaded a file 57886492 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[03-03-2013:1:41:27 PM] : KTER001 has picked a file 57890761 in IDSIL / PJO
+
+
+[03-03-2013:1:41:33 PM] : KTER001 has uploaded a file 57890761 to Hospital/Customer in IDSIL / PJO
+
+
+[03-03-2013:1:41:58 PM] : KTER001 has picked a file 57890905 in IDSIL / PJO
+
+
+[03-03-2013:1:42:06 PM] : KTER001 has uploaded a file 57890905 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[03-03-2013:1:42:42 PM] : KTER001 has picked a file 57891023 in IDSIL / PJO
+
+
+[03-03-2013:1:42:48 PM] : KTER001 has uploaded a file 57891023 to Hospital/Customer in IDSIL / PJO
+
+
+[03-03-2013:1:43:16 PM] : KTER001 has picked a file 57892609 in IDSIL / PJO
+
+
+[03-03-2013:1:43:27 PM] : KTER001 has uploaded a file 57892609 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[03-03-2013:1:43:47 PM] : KTER001 has picked a file 57895533 in IDSIL / PJO
+
+
+[03-03-2013:1:43:55 PM] : KTER001 has uploaded a file 57895533 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[03-03-2013:1:44:21 PM] : KTER001 has picked a file 57895626 in IDSIL / PJO
+
+
+[03-03-2013:1:44:27 PM] : KTER001 has uploaded a file 57895626 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[03-03-2013:1:44:54 PM] : KTER001 has picked a file 57895633 in IDSIL / PJO
+
+
+[03-03-2013:1:45:00 PM] : KTER001 has uploaded a file 57895633 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[03-03-2013:1:45:24 PM] : KTER001 has picked a file 57896911 in IDSIL / PJO
+
+
+[03-03-2013:1:45:31 PM] : KTER001 has uploaded a file 57896911 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[03-03-2013:2:08:56 PM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[03-03-2013:2:52:42 PM] : KTER001 has logged in to IDSIL / PJO using the System 111.92.80.157
+
+
+[03-03-2013:2:53:41 PM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[03-03-2013:2:54:44 PM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[03-03-2013:2:55:39 PM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[03-03-2013:2:56:45 PM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[03-03-2013:2:58:32 PM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[03-03-2013:2:59:26 PM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[03-03-2013:3:00:24 PM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[03-03-2013:3:01:08 PM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[03-03-2013:3:01:52 PM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[03-03-2013:3:06:39 PM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[03-03-2013:3:07:53 PM] : KTER001 has viewed the Edited file details in IDSIL/PJO from 2013-02-01 to 2013-02-28
+
+
+[03-03-2013:3:09:25 PM] : KTER001 has Downloaded a file details in IDSIL / PJO from 2013-02-01 to 2013-02-28
+
+
+[03-03-2013:3:16:26 PM] : KTER001 has logged out from the Linecount Software Using the System 111.92.80.157

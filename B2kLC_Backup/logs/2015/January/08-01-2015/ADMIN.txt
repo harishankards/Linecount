@@ -1,0 +1,52 @@
+
+
+[08-01-2015:5:11:39 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[08-01-2015:5:42:42 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[08-01-2015:8:46:15 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[08-01-2015:9:16:20 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[08-01-2015:9:17:13 AM] : ADMIN has Approved Leave request from the ID B2KMLS07 on 2015-01-11.
+
+[08-01-2015:9:17:14 AM] : ADMIN has Approved Leave request from the ID B2KMLS48 on 2015-01-07.
+
+[08-01-2015:9:17:16 AM] : ADMIN has Approved Leave request from the ID B2KMLS48 on 2015-01-06.
+
+[08-01-2015:9:17:16 AM] : ADMIN has Approved Leave request from the ID B2KMLS37 on 2015-01-04.
+
+[08-01-2015:9:17:18 AM] : ADMIN has Approved Leave request from the ID B2KMLS10 on 2015-01-15.
+
+
+[08-01-2015:10:05:40 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[08-01-2015:1:47:14 PM] : ADMIN has added an Update into the Database
+
+[08-01-2015:1:54:57 PM] : ADMIN has Deleted the details of the file 90863513.
+
+
+[08-01-2015:2:00:56 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[08-01-2015:2:15:28 PM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[08-01-2015:4:10:22 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[08-01-2015:5:03:33 PM] : ADMIN has Deleted the details of the file 75082475.
+
+[08-01-2015:5:03:52 PM] : ADMIN has Deleted the details of the file 75088433.
+
+[08-01-2015:5:04:14 PM] : ADMIN has Deleted the details of the file 75088532.
+
+[08-01-2015:5:04:26 PM] : ADMIN has Deleted the details of the file 75084974.
+
+[08-01-2015:5:04:37 PM] : ADMIN has Deleted the details of the file 75088513.
+
+[08-01-2015:5:04:50 PM] : ADMIN has Deleted the details of the file 75084981.
+
+[08-01-2015:10:04:33 PM] : ADMIN has Deleted the details of the file 75097498.

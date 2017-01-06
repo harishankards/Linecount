@@ -1,0 +1,68 @@
+
+
+[03-10-2014:12:00:59 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[03-10-2014:12:25:40 AM] : ADMIN has logged in to Admin page using the System 1.39.60.34
+
+
+[03-10-2014:1:03:18 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[03-10-2014:2:57:51 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[03-10-2014:6:17:41 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[03-10-2014:6:53:30 AM] : ADMIN has Viewed Employee Details
+
+
+[03-10-2014:6:53:32 AM] : ADMIN has Viewed Employee Details
+
+
+[03-10-2014:6:53:48 AM] : ADMIN has Viewed Employee Details
+
+
+[03-10-2014:6:59:20 AM] : ADMIN has Viewed Employee Details
+
+
+[03-10-2014:6:59:32 AM] : ADMIN has Viewed Employee Details
+
+
+[03-10-2014:10:12:01 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[03-10-2014:10:43:01 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[03-10-2014:11:30:49 AM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[03-10-2014:11:35:25 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[03-10-2014:12:30:54 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[03-10-2014:2:10:30 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[03-10-2014:2:13:47 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[03-10-2014:2:14:14 PM] : ADMIN has Deleted the details of the file 73019355.
+
+
+[03-10-2014:6:35:02 PM] : ADMIN has logged in to Admin page using the System 1.39.60.181
+
+
+[03-10-2014:6:47:38 PM] : ADMIN has logged out from the Linecount Software Using the System 1.39.60.181
+
+
+[03-10-2014:7:12:12 PM] : ADMIN has logged in to Admin page using the System 1.39.60.181
+
+
+[03-10-2014:7:20:18 PM] : ADMIN has logged out from the Linecount Software Using the System 1.39.60.181
+
+
+[03-10-2014:9:30:03 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35

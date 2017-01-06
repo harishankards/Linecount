@@ -1,0 +1,66 @@
+
+
+[14-07-2014:5:12:18 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[14-07-2014:8:21:22 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[14-07-2014:8:22:42 AM] : ADMIN has Viewed Employee Details
+
+
+[14-07-2014:8:23:00 AM] : ADMIN has Viewed Employee Details
+
+
+[14-07-2014:9:05:27 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[14-07-2014:9:21:58 AM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[14-07-2014:9:27:21 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[14-07-2014:9:30:01 AM] : ADMIN has added an Update into the Database
+
+
+[14-07-2014:10:45:46 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[14-07-2014:12:33:41 PM] : ADMIN has Deleted the details of the file 71185685.
+
+
+[14-07-2014:1:01:08 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[14-07-2014:2:06:23 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[14-07-2014:2:06:43 PM] : ADMIN has Approved Leave request from the ID ARER007 on 2014-07-05.
+
+[14-07-2014:2:06:55 PM] : ADMIN has Approved Leave request from the ID B2KMLS025 on 2014-07-09.
+
+[14-07-2014:2:07:08 PM] : ADMIN has Approved Leave request from the ID B2KMLS002 on 2014-07-17.
+
+[14-07-2014:2:07:16 PM] : ADMIN has Approved Leave request from the ID B2KMLS002 on 2014-07-18.
+
+[14-07-2014:2:07:32 PM] : ADMIN has Approved Leave request from the ID CBEMLS018 on 2014-07-16.
+
+[14-07-2014:2:25:01 PM] : ADMIN has Deleted the details of the file 90710219.
+
+
+[14-07-2014:2:33:55 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[14-07-2014:3:14:31 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[14-07-2014:3:36:13 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[14-07-2014:5:35:39 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[14-07-2014:5:36:30 PM] : ADMIN has added an Update into the Database
+
+
+[14-07-2014:6:19:41 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[14-07-2014:6:34:21 PM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35

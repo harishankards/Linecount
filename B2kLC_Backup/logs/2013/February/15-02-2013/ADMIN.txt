@@ -1,0 +1,80 @@
+
+
+[15-02-2013:11:26:09 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[15-02-2013:11:27:06 AM] : ADMIN has Viewed Employee Details
+
+
+[15-02-2013:11:27:07 AM] : ADMIN has Viewed Employee Details
+
+
+[15-02-2013:11:27:19 AM] : ADMIN has Viewed Employee Details
+
+
+[15-02-2013:11:29:25 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[15-02-2013:11:29:44 AM] : ADMIN has Viewed Employee Details
+
+
+[15-02-2013:11:29:49 AM] : ADMIN has Viewed Employee Details
+
+
+[15-02-2013:11:29:59 AM] : ADMIN has Viewed Employee Details
+
+
+[15-02-2013:12:05:25 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[15-02-2013:12:21:49 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[15-02-2013:12:25:13 PM] : ADMIN has added Attendanec Details into the Database
+
+[15-02-2013:12:27:05 PM] : ADMIN has added Attendanec Details into the Database
+
+
+[15-02-2013:1:01:27 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[15-02-2013:1:15:45 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[15-02-2013:2:51:14 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[15-02-2013:3:00:03 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[15-02-2013:3:00:19 PM] : ADMIN has Viewed Employee Details
+
+
+[15-02-2013:4:07:46 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[15-02-2013:5:02:11 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[15-02-2013:5:29:21 PM] : ADMIN has logged in to Admin page using the System 117.242.216.116
+
+[15-02-2013:5:29:59 PM] : ADMIN has viewed Bank Details
+
+[15-02-2013:5:31:06 PM] : ADMIN has viewed Bank Details
+
+[15-02-2013:5:31:32 PM] : ADMIN has viewed Bank Details
+
+[15-02-2013:5:32:50 PM] : ADMIN has viewed Bank Details
+
+
+[15-02-2013:9:15:24 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[15-02-2013:9:38:38 PM] : ADMIN has added an Update into the Database
+
+
+[15-02-2013:9:45:45 PM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[15-02-2013:10:15:44 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[15-02-2013:10:15:58 PM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35

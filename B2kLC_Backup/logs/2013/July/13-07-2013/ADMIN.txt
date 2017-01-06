@@ -1,0 +1,65 @@
+
+
+[13-07-2013:12:07:09 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[13-07-2013:12:08:01 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[13-07-2013:1:01:12 AM] : ADMIN has logged out from the Linecount Software Using the System 59.90.86.47
+
+
+[13-07-2013:6:04:02 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[13-07-2013:6:12:31 AM] : ADMIN has Viewed Employee Details
+
+
+[13-07-2013:6:12:38 AM] : ADMIN has Viewed Employee Details
+
+
+[13-07-2013:9:41:28 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[13-07-2013:10:12:28 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[13-07-2013:10:36:10 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[13-07-2013:10:41:17 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[13-07-2013:11:17:29 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[13-07-2013:11:44:45 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[13-07-2013:12:35:31 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[13-07-2013:12:35:47 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[13-07-2013:12:40:27 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[13-07-2013:2:48:10 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[13-07-2013:3:11:14 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[13-07-2013:5:40:12 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+[13-07-2013:5:50:14 PM] : ADMIN has Approved Leave request from the ID B2KMLS003 on 2013-07-14.
+
+
+[13-07-2013:6:06:29 PM] : ADMIN has logged out from the Linecount Software Using the System 59.90.86.47
+
+
+[13-07-2013:9:21:17 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[13-07-2013:11:23:24 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35

@@ -1,0 +1,60 @@
+
+
+[31-03-2014:8:01:01 AM] : LHSMLS002 has logged in to IDSIL / PJO using the System 122.178.151.180
+
+
+[31-03-2014:8:01:53 AM] : LHSMLS002 has viewed the file details in IDSIL / PJO from 2014-03-01 to 2014-03-31
+
+
+[31-03-2014:8:02:35 AM] : LHSMLS002 has Downloaded a file details in IDSIL / PJO from 2014-03-01 to 2014-03-31
+
+
+[31-03-2014:8:44:53 AM] : LHSMLS002 has logged in to IDSIL / PJO using the System 122.178.151.180
+
+
+[31-03-2014:8:45:07 AM] : LHSMLS002 has viewed the file details in IDSIL / PJO from 2014-03-01 to 2014-03-31
+
+
+[31-03-2014:8:45:45 AM] : LHSMLS002 has logged out from the Linecount Software Using the System 122.178.151.180
+
+
+[31-03-2014:8:47:40 AM] : LHSMLS002 has logged in to IDSIL / PJO using the System 122.178.151.180
+
+
+[31-03-2014:8:48:03 AM] : LHSMLS002 has viewed the file details in IDSIL / PJO from 2014-03-01 to 2014-03-31
+
+
+[31-03-2014:9:47:33 AM] : LHSMLS002 has logged in to IDSIL / PJO using the System 122.178.151.180
+
+
+[31-03-2014:9:47:51 AM] : LHSMLS002 has uploaded a DUP file 68660128 in IDSIL / PJO
+
+
+[31-03-2014:9:48:11 AM] : LHSMLS002 has uploaded a DUP file 68660602 in IDSIL / PJO
+
+
+[31-03-2014:9:48:29 AM] : LHSMLS002 has uploaded a DUP file 68659064 in IDSIL / PJO
+
+
+[31-03-2014:9:48:49 AM] : LHSMLS002 has uploaded a DUP file 68660543 in IDSIL / PJO
+
+
+[31-03-2014:9:50:23 AM] : LHSMLS002 has uploaded a DUP file 68658199 in IDSIL / PJO
+
+
+[31-03-2014:9:50:40 AM] : LHSMLS002 has uploaded a DUP file 68658140 in IDSIL / PJO
+
+
+[31-03-2014:9:50:56 AM] : LHSMLS002 has uploaded a DUP file 68656666 in IDSIL / PJO
+
+
+[31-03-2014:9:53:11 AM] : LHSMLS002 has logged out from the Linecount Software Using the System 122.178.151.180
+
+
+[31-03-2014:5:55:20 PM] : LHSMLS002 has logged in to IDSIL / PJO using the System 122.178.186.218
+
+
+[31-03-2014:5:55:31 PM] : LHSMLS002 has viewed the file details in IDSIL / PJO from 2014-03-01 to 2014-03-31
+
+
+[31-03-2014:5:56:28 PM] : LHSMLS002 has logged out from the Linecount Software Using the System 122.178.186.218

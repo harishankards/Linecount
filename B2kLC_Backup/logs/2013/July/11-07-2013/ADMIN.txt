@@ -1,0 +1,50 @@
+
+
+[11-07-2013:9:21:58 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[11-07-2013:9:51:34 AM] : ADMIN has Viewed Employee Details
+
+
+[11-07-2013:9:51:50 AM] : ADMIN has Viewed Employee Details
+
+
+[11-07-2013:11:13:16 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[11-07-2013:12:46:09 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[11-07-2013:12:54:50 PM] : ADMIN has Viewed Employee Details
+
+
+[11-07-2013:12:57:41 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[11-07-2013:1:32:35 PM] : ADMIN has Viewed Employee Details
+
+
+[11-07-2013:1:32:45 PM] : ADMIN has Viewed Employee Details
+
+
+[11-07-2013:2:53:43 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[11-07-2013:2:56:23 PM] : ADMIN has Viewed Employee Details
+
+
+[11-07-2013:2:57:18 PM] : ADMIN has added Employee Details[DAYANANDA A.V] into the Database
+
+
+[11-07-2013:2:58:05 PM] : ADMIN has Viewed Employee Details
+
+
+[11-07-2013:2:58:46 PM] : ADMIN has added Employee Details[LATA MADHUSUDHAN] into the Database
+
+[11-07-2013:4:31:35 PM] : ADMIN has Deleted the details of the file 62051111.
+
+
+[11-07-2013:5:10:24 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[11-07-2013:6:52:18 PM] : ADMIN has logged in to Admin page using the System 14.102.34.42

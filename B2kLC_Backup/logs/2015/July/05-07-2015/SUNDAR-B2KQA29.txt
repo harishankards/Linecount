@@ -1,0 +1,57 @@
+
+
+[05-07-2015:9:01:47 AM] : B2KQA29 has logged in to IDSIL / PJO using the System 203.223.191.82
+
+
+[05-07-2015:9:02:02 AM] : B2KQA29 has picked a file 92729433 in IDSIL / PJO
+
+
+[05-07-2015:9:36:23 AM] : B2KQA29 has logged in to IDSIL / PJO using the System 203.223.191.82
+
+
+[05-07-2015:9:36:34 AM] : B2KQA29 has picked a file 92728077 in IDSIL / PJO
+
+
+[05-07-2015:10:51:49 AM] : B2KQA29 has logged in to IDSIL / PJO using the System 203.223.191.82
+
+
+[05-07-2015:10:52:15 AM] : B2KQA29 has uploaded a file 92728077 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[05-07-2015:10:52:44 AM] : B2KQA29 has uploaded a file 92729433 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[05-07-2015:10:53:53 AM] : B2KQA29 has picked a file 92728474 in IDSIL / PJO
+
+
+[05-07-2015:11:21:53 AM] : B2KQA29 has picked a file 92728609 in IDSIL / PJO
+
+
+[05-07-2015:11:41:29 AM] : B2KQA29 has logged in to IDSIL / PJO using the System 117.206.99.198
+
+
+[05-07-2015:11:43:57 AM] : B2KQA29 has picked a file 92728738 in IDSIL / PJO
+
+
+[05-07-2015:12:16:31 PM] : B2KQA29 has uploaded a file 92728738 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[05-07-2015:12:19:55 PM] : B2KQA29 has added a Audit file 92728881 in IDSIL / PJO 
+
+
+[05-07-2015:12:35:19 PM] : B2KQA29 has picked a file 92728952 in IDSIL / PJO
+
+
+[05-07-2015:2:11:05 PM] : B2KQA29 has added a Audit file 92730050 in IDSIL / PJO 
+
+
+[05-07-2015:2:28:52 PM] : B2KQA29 has picked a file 92729408 in IDSIL / PJO
+
+
+[05-07-2015:2:47:44 PM] : B2KQA29 has logged out from the Linecount Software Using the System 203.223.191.82
+
+
+[05-07-2015:2:47:47 PM] : B2KQA29 has logged in to IDSIL / PJO using the System 203.223.191.82
+
+
+[05-07-2015:2:48:04 PM] : B2KQA29 has logged out from the Linecount Software Using the System 203.223.191.82

@@ -1,0 +1,21 @@
+
+
+[13-12-2013:10:51:02 PM] : CBEMLS006 has logged in to IDSIL / PJO using the System 203.223.191.82
+
+
+[13-12-2013:10:51:52 PM] : CBEMLS006 has Changed Password
+
+
+[13-12-2013:10:51:56 PM] : CBEMLS006 has logged out from the Linecount Software Using the System 203.223.191.82
+
+
+[13-12-2013:10:52:13 PM] : CBEMLS006 has logged in to IDSIL / PJO using the System 203.223.191.82
+
+
+[13-12-2013:10:54:06 PM] : CBEMLS006 has uploaded a DUP file 78658343 in IDSIL / PJO
+
+
+[13-12-2013:10:54:22 PM] : CBEMLS006 has viewed the file details in IDSIL / PJO from 2013-12-01 to 2013-12-13
+
+
+[13-12-2013:10:54:52 PM] : CBEMLS006 has viewed the file details in IDSIL / PJO from 2013-12-04 to 2013-12-04

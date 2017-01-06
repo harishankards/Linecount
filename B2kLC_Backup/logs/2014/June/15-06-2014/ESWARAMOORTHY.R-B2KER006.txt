@@ -1,0 +1,51 @@
+
+
+[15-06-2014:10:11:09 AM] : B2KER006 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[15-06-2014:10:12:18 AM] : B2KER006 has picked a file 90690421 in IDSIL / PJO
+
+
+[15-06-2014:10:12:22 AM] : B2KER006 has uploaded a file 90690421 to Hospital/Customer in IDSIL / PJO
+
+
+[15-06-2014:10:30:41 AM] : B2KER006 has picked a file 90690471 in IDSIL / PJO
+
+
+[15-06-2014:10:30:45 AM] : B2KER006 has uploaded a file 90690471 to Hospital/Customer in IDSIL / PJO
+
+
+[15-06-2014:10:40:59 AM] : B2KER006 has picked a file 70523487 in IDSIL / PJO
+
+
+[15-06-2014:10:41:07 AM] : B2KER006 has uploaded a file 70523487 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[15-06-2014:10:55:56 AM] : B2KER006 has picked a file 70525281 in IDSIL / PJO
+
+
+[15-06-2014:10:56:00 AM] : B2KER006 has uploaded a file 70525281 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[15-06-2014:11:17:51 AM] : B2KER006 has picked a file 70530252 in IDSIL / PJO
+
+
+[15-06-2014:11:17:55 AM] : B2KER006 has uploaded a file 70530252 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[15-06-2014:11:57:30 AM] : B2KER006 has picked a file 70532242 in IDSIL / PJO
+
+
+[15-06-2014:11:57:37 AM] : B2KER006 has uploaded a file 70532242 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[15-06-2014:12:06:16 PM] : B2KER006 has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[16-06-2014:4:53:08 AM] : B2KER006 has viewed the DUP file details in IDSIL/PJO from 2014-06-01 to 2014-06-16
+
+
+[16-06-2014:4:53:28 AM] : B2KER006 has viewed the Edited file details in IDSIL/PJO from 2014-06-01 to 2014-06-16
+
+
+[16-06-2014:4:53:46 AM] : B2KER006 has viewed the Audit file details in IDSIL / PJO from 2014-06-01 to 2014-06-16

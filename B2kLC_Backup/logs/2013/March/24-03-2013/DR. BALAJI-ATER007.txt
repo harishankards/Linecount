@@ -1,0 +1,18 @@
+
+
+[24-03-2013:4:00:32 PM] : ATER007 has logged in to IDSIL / PJO using the System 202.129.197.58
+
+
+[24-03-2013:4:01:59 PM] : ATER007 has picked a file 58799594 in IDSIL / PJO
+
+
+[24-03-2013:4:02:38 PM] : ATER007 has uploaded a file 58799594 to Hospital/Customer in IDSIL / PJO
+
+
+[24-03-2013:4:02:48 PM] : ATER007 has uploaded a file 56096328 to Hospital/Customer in IDSIL / PJO
+
+
+[24-03-2013:4:04:04 PM] : ATER007 has added a Audit file 58809509 in IDSIL / PJO 
+
+
+[24-03-2013:4:04:27 PM] : ATER007 has logged out from the Linecount Software Using the System 202.129.197.58

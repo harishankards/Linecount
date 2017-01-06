@@ -1,0 +1,145 @@
+
+
+[08-05-2013:10:17:04 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[08-05-2013:10:38:36 AM] : ADMIN has logged in to Admin page using the System 117.206.101.206
+
+
+[08-05-2013:11:15:01 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[08-05-2013:12:18:11 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[08-05-2013:12:33:52 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[08-05-2013:1:15:56 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[08-05-2013:1:16:45 PM] : ADMIN has logged in to Admin page using the System 117.242.216.251
+
+[08-05-2013:1:17:20 PM] : ADMIN has viewed Bank Details
+
+
+[08-05-2013:1:17:23 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[08-05-2013:1:17:34 PM] : ADMIN has viewed Bank Details
+
+
+[08-05-2013:1:18:00 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+[08-05-2013:1:18:02 PM] : ADMIN has viewed Bank Details
+
+
+[08-05-2013:1:25:58 PM] : ADMIN has Viewed Employee Details
+
+[08-05-2013:1:30:53 PM] : ADMIN has viewed Bank Details
+
+[08-05-2013:1:31:00 PM] : ADMIN has viewed Bank Details
+
+[08-05-2013:1:31:26 PM] : ADMIN has viewed Bank Details
+
+
+[08-05-2013:1:39:39 PM] : ADMIN has added Bank Details of an Employee [SMITHA KASHYAB] into the Database
+
+
+[08-05-2013:1:42:14 PM] : ADMIN has added Bank Details of an Employee [SHIVARAM KRISHNARAJ] into the Database
+
+
+[08-05-2013:1:44:47 PM] : ADMIN has added Bank Details of an Employee [HARI KUMAR B.S] into the Database
+
+
+[08-05-2013:1:46:56 PM] : ADMIN has added Bank Details of an Employee [MANJUNATH GR] into the Database
+
+
+[08-05-2013:1:49:50 PM] : ADMIN has added Bank Details of an Employee [BHARATI BHAT] into the Database
+
+
+[08-05-2013:1:53:54 PM] : ADMIN has added Bank Details of an Employee [RAGHAVENDRA RAO .A] into the Database
+
+
+[08-05-2013:1:55:36 PM] : ADMIN has added Bank Details of an Employee [LAKSHMI MADENENI] into the Database
+
+
+[08-05-2013:1:55:53 PM] : ADMIN has logged out from the Linecount Software Using the System 117.242.216.251
+
+
+[08-05-2013:1:57:42 PM] : ADMIN has logged in to Admin page using the System 117.242.216.251
+
+
+[08-05-2013:2:00:04 PM] : ADMIN has logged out from the Linecount Software Using the System 117.242.216.251
+
+
+[08-05-2013:2:00:46 PM] : ADMIN has logged in to Admin page using the System 117.242.216.251
+
+
+[08-05-2013:2:01:25 PM] : ADMIN has logged out from the Linecount Software Using the System 117.242.216.251
+
+
+[08-05-2013:2:02:08 PM] : ADMIN has logged in to Admin page using the System 117.242.216.251
+
+
+[08-05-2013:2:04:34 PM] : ADMIN has added Bank Details of an Employee [DINESH SHETTY] into the Database
+
+
+[08-05-2013:2:06:41 PM] : ADMIN has added Bank Details of an Employee [VIJAYA SHANTHI RV] into the Database
+
+
+[08-05-2013:2:12:39 PM] : ADMIN has added Bank Details of an Employee [BHAGYALAKSHMI S] into the Database
+
+
+[08-05-2013:2:14:42 PM] : ADMIN has added Bank Details of an Employee [RAVI KUMAR R] into the Database
+
+
+[08-05-2013:2:16:32 PM] : ADMIN has added Bank Details of an Employee [SUBHAMOY LAHA] into the Database
+
+
+[08-05-2013:2:17:47 PM] : ADMIN has added Bank Details of an Employee [ASHOK BM] into the Database
+
+
+[08-05-2013:2:19:40 PM] : ADMIN has added Bank Details of an Employee [MADHU CHANDRASHEKAR] into the Database
+
+
+[08-05-2013:2:21:57 PM] : ADMIN has added Bank Details of an Employee [KASHI VISHWANAATH] into the Database
+
+
+[08-05-2013:3:53:01 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[08-05-2013:4:00:48 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[08-05-2013:4:08:51 PM] : ADMIN has logged in to Admin page using the System 117.242.216.251
+
+[08-05-2013:4:09:08 PM] : ADMIN has viewed Bank Details
+
+
+[08-05-2013:4:11:18 PM] : ADMIN has added Bank Details of an Employee [M.L SIVAKUMAR] into the Database
+
+
+[08-05-2013:4:12:45 PM] : ADMIN has added Bank Details of an Employee [K.SIVA KUMAR] into the Database
+
+
+[08-05-2013:4:14:12 PM] : ADMIN has added Bank Details of an Employee [G.MURALI MANOHAR] into the Database
+
+
+[08-05-2013:4:16:20 PM] : ADMIN has added Bank Details of an Employee [EASURAJA .A] into the Database
+
+
+[08-05-2013:4:17:39 PM] : ADMIN has added Bank Details of an Employee [S.LAKSHMI SRI] into the Database
+
+
+[08-05-2013:4:19:07 PM] : ADMIN has added Bank Details of an Employee [C.MURUGAN] into the Database
+
+
+[08-05-2013:4:19:23 PM] : ADMIN has logged out from the Linecount Software Using the System 117.242.216.251
+
+[08-05-2013:4:50:00 PM] : ADMIN has Deleted the details of the file 60278303.
+
+
+[08-05-2013:9:58:05 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[08-05-2013:11:52:05 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47

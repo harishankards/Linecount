@@ -1,0 +1,72 @@
+
+
+[12-05-2014:12:16:24 PM] : B2KMLS040 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[12-05-2014:1:00:47 PM] : B2KMLS040 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[12-05-2014:1:01:15 PM] : B2KMLS040 has added a Audit file 69711456 in IDSIL / PJO 
+
+
+[12-05-2014:1:03:45 PM] : B2KMLS040 has picked a file 69706028 in IDSIL / PJO
+
+
+[12-05-2014:1:53:45 PM] : B2KMLS040 has uploaded a file 69706028 to Hospital/Customer in IDSIL / PJO
+
+
+[12-05-2014:1:54:46 PM] : B2KMLS040 has picked a file 69708007 in IDSIL / PJO
+
+
+[12-05-2014:2:15:10 PM] : B2KMLS040 has uploaded a file 69708007 to Hospital/Customer in IDSIL / PJO
+
+
+[12-05-2014:3:16:25 PM] : B2KMLS040 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[12-05-2014:3:16:45 PM] : B2KMLS040 has picked a file 69708569 in IDSIL / PJO
+
+
+[12-05-2014:3:17:41 PM] : B2KMLS040 has uploaded a file 69708569 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[12-05-2014:3:43:00 PM] : B2KMLS040 has picked a file 69712102 in IDSIL / PJO
+
+
+[12-05-2014:4:27:32 PM] : B2KMLS040 has uploaded a file 69712102 to Hospital/Customer in IDSIL / PJO
+
+
+[12-05-2014:5:49:44 PM] : B2KMLS040 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[12-05-2014:5:50:09 PM] : B2KMLS040 has added a Audit file 69713269 in IDSIL / PJO 
+
+
+[12-05-2014:6:27:58 PM] : B2KMLS040 has picked a file 69712554 in IDSIL / PJO
+
+
+[12-05-2014:6:28:04 PM] : B2KMLS040 has uploaded a file 69712554 to Hospital/Customer in IDSIL / PJO
+
+
+[12-05-2014:7:01:20 PM] : B2KMLS040 has picked a file 69711776 in IDSIL / PJO
+
+
+[12-05-2014:7:01:26 PM] : B2KMLS040 has uploaded a file 69711776 to Hospital/Customer in IDSIL / PJO
+
+
+[12-05-2014:7:06:51 PM] : B2KMLS040 has picked a file 69711979 in IDSIL / PJO
+
+
+[12-05-2014:7:32:53 PM] : B2KMLS040 has uploaded a file 69711979 to Hospital/Customer in IDSIL / PJO
+
+
+[12-05-2014:7:36:56 PM] : B2KMLS040 has picked a file 69712010 in IDSIL / PJO
+
+
+[12-05-2014:7:51:22 PM] : B2KMLS040 has uploaded a file 69712010 to Hospital/Customer in IDSIL / PJO
+
+
+[12-05-2014:7:51:54 PM] : B2KMLS040 has viewed the Audit file details in IDSIL / PJO from 2014-05-11 to 2014-05-12
+
+
+[12-05-2014:7:58:17 PM] : B2KMLS040 has viewed the Edited file details in IDSIL/PJO from 2014-05-01 to 2014-05-12

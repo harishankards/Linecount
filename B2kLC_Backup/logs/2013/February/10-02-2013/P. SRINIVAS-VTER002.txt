@@ -1,0 +1,132 @@
+
+
+[10-02-2013:10:42:39 AM] : VTER002 has logged in to IDSIL / PJO using the System 122.169.180.197
+
+
+[10-02-2013:10:55:43 AM] : VTER002 has picked a file 57617068 in IDSIL / PJO
+
+
+[10-02-2013:10:55:50 AM] : VTER002 has uploaded a file 57617068 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[10-02-2013:10:57:20 AM] : VTER002 has picked a file 57617087 in IDSIL / PJO
+
+
+[10-02-2013:10:57:27 AM] : VTER002 has uploaded a file 57617087 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[10-02-2013:11:39:50 AM] : VTER002 has picked a file 57617673 in IDSIL / PJO
+
+
+[10-02-2013:11:40:08 AM] : VTER002 has uploaded a file 57617673 to Hospital/Customer in IDSIL / PJO
+
+
+[10-02-2013:11:47:42 AM] : VTER002 has picked a file 57623341 in IDSIL / PJO
+
+
+[10-02-2013:11:47:49 AM] : VTER002 has uploaded a file 57623341 to Hospital/Customer in IDSIL / PJO
+
+
+[10-02-2013:11:56:06 AM] : VTER002 has picked a file 57616362 in IDSIL / PJO
+
+
+[10-02-2013:11:58:05 AM] : VTER002 has uploaded a file 57616362 to Hospital/Customer in IDSIL / PJO
+
+
+[10-02-2013:11:59:19 AM] : VTER002 has picked a file 57621695 in IDSIL / PJO
+
+
+[10-02-2013:11:59:34 AM] : VTER002 has uploaded a file 57621695 to Hospital/Customer in IDSIL / PJO
+
+
+[10-02-2013:12:01:56 PM] : VTER002 has picked a file 57617730 in IDSIL / PJO
+
+
+[10-02-2013:12:02:09 PM] : VTER002 has uploaded a file 57617730 to Hospital/Customer in IDSIL / PJO
+
+
+[10-02-2013:12:04:20 PM] : VTER002 has picked a file 57623429 in IDSIL / PJO
+
+
+[10-02-2013:12:04:27 PM] : VTER002 has uploaded a file 57623429 to Hospital/Customer in IDSIL / PJO
+
+
+[10-02-2013:12:10:16 PM] : VTER002 has added a Audit file 57616612 in IDSIL / PJO 
+
+
+[10-02-2013:12:19:45 PM] : VTER002 has picked a file 57622004 in IDSIL / PJO
+
+
+[10-02-2013:12:20:52 PM] : VTER002 has uploaded a file 57622004 to Hospital/Customer in IDSIL / PJO
+
+
+[10-02-2013:12:21:05 PM] : VTER002 has picked a file 57622653 in IDSIL / PJO
+
+
+[10-02-2013:12:21:21 PM] : VTER002 has uploaded a file 57622653 to Hospital/Customer in IDSIL / PJO
+
+
+[10-02-2013:3:03:43 PM] : VTER002 has logged in to IDSIL / PJO using the System 14.96.61.106
+
+
+[10-02-2013:3:29:26 PM] : VTER002 has picked a file 57622928 in IDSIL / PJO
+
+
+[10-02-2013:3:30:11 PM] : VTER002 has uploaded a file 57622928 to Hospital/Customer in IDSIL / PJO
+
+
+[10-02-2013:3:46:54 PM] : VTER002 has picked a file 57625253 in IDSIL / PJO
+
+
+[10-02-2013:3:47:07 PM] : VTER002 has uploaded a file 57625253 to Hospital/Customer in IDSIL / PJO
+
+
+[10-02-2013:3:52:06 PM] : VTER002 has picked a file 57624926 in IDSIL / PJO
+
+
+[10-02-2013:3:52:14 PM] : VTER002 has uploaded a file 57624926 to Hospital/Customer in IDSIL / PJO
+
+
+[10-02-2013:3:58:03 PM] : VTER002 has picked a file 57623528 in IDSIL / PJO
+
+
+[10-02-2013:3:58:40 PM] : VTER002 has uploaded a file 57623528 to Hospital/Customer in IDSIL / PJO
+
+
+[10-02-2013:4:09:42 PM] : VTER002 has picked a file 57626009 in IDSIL / PJO
+
+
+[10-02-2013:4:10:02 PM] : VTER002 has uploaded a file 57626009 to Hospital/Customer in IDSIL / PJO
+
+
+[10-02-2013:4:24:20 PM] : VTER002 has picked a file 57627833 in IDSIL / PJO
+
+
+[10-02-2013:4:24:44 PM] : VTER002 has uploaded a file 57627833 to Hospital/Customer in IDSIL / PJO
+
+
+[10-02-2013:4:27:10 PM] : VTER002 has picked a file 57627786 in IDSIL / PJO
+
+
+[10-02-2013:4:27:25 PM] : VTER002 has uploaded a file 57627786 to Hospital/Customer in IDSIL / PJO
+
+
+[10-02-2013:4:29:34 PM] : VTER002 has picked a file 57627732 in IDSIL / PJO
+
+
+[10-02-2013:4:29:54 PM] : VTER002 has uploaded a file 57627732 to Hospital/Customer in IDSIL / PJO
+
+
+[10-02-2013:6:08:45 PM] : VTER002 has logged in to IDSIL / PJO using the System 122.169.180.197
+
+
+[10-02-2013:6:15:20 PM] : VTER002 has picked a file 57618389 in IDSIL / PJO
+
+
+[10-02-2013:6:15:28 PM] : VTER002 has uploaded a file 57618389 to Hospital/Customer in IDSIL / PJO
+
+
+[10-02-2013:6:16:59 PM] : VTER002 has picked a file 57617049 in IDSIL / PJO
+
+
+[10-02-2013:6:17:11 PM] : VTER002 has uploaded a file 57617049 to Hospital/Customer in IDSIL / PJO

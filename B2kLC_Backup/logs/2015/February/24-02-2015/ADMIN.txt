@@ -1,0 +1,60 @@
+
+
+[24-02-2015:12:47:11 AM] : ADMIN has Viewed Employee Details
+
+
+[24-02-2015:12:47:27 AM] : ADMIN has Viewed Employee Details
+
+[24-02-2015:12:55:37 AM] : ADMIN has Deleted the details of the file 76122796.
+
+[24-02-2015:1:19:46 AM] : ADMIN has Deleted the details of the file 76116706.
+
+[24-02-2015:5:28:24 AM] : ADMIN has Deleted the details of the file 76121253.
+
+[24-02-2015:8:58:57 AM] : ADMIN has Deleted the details of the file 76117223.
+
+
+[24-02-2015:10:16:19 AM] : ADMIN has logged in to Admin page using the System 117.239.247.26
+
+
+[24-02-2015:10:55:45 AM] : ADMIN has logged in to Admin page using the System 117.239.247.26
+
+[24-02-2015:11:16:55 AM] : ADMIN has Deleted the details of the file 76129950.
+
+
+[24-02-2015:11:58:56 AM] : ADMIN has logged in to Admin page using the System 117.239.247.26
+
+
+[24-02-2015:12:38:48 PM] : ADMIN has logged in to Admin page using the System 117.239.247.26
+
+
+[24-02-2015:1:40:19 PM] : ADMIN has Viewed Employee Details
+
+
+[24-02-2015:3:03:48 PM] : ADMIN has logged out from the Linecount Software Using the System 117.239.247.26
+
+
+[24-02-2015:3:03:55 PM] : ADMIN has logged in to Admin page using the System 117.239.247.26
+
+[24-02-2015:3:04:22 PM] : ADMIN has Deleted the details of the file 76137750.
+
+
+[24-02-2015:4:41:35 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[24-02-2015:6:26:38 PM] : ADMIN has logged in to Admin page using the System 117.239.247.26
+
+
+[24-02-2015:6:48:58 PM] : ADMIN has added Employee Details[RAGINI KUMARI] into the Database
+
+
+[24-02-2015:7:43:52 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[24-02-2015:7:58:52 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[24-02-2015:8:30:32 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[24-02-2015:9:34:33 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35

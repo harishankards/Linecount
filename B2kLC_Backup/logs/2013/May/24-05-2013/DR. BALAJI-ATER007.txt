@@ -1,0 +1,66 @@
+
+
+[24-05-2013:12:02:09 PM] : ATER007 has logged in to IDSIL / PJO using the System 117.218.59.252
+
+
+[24-05-2013:12:02:32 PM] : ATER007 has picked a file 60748549 in IDSIL / PJO
+
+
+[24-05-2013:12:17:47 PM] : ATER007 has uploaded a file 60748549 to Hospital/Customer in IDSIL / PJO
+
+
+[24-05-2013:12:18:00 PM] : ATER007 has picked a file 60748572 in IDSIL / PJO
+
+
+[24-05-2013:12:24:39 PM] : ATER007 has uploaded a file 60748572 to Hospital/Customer in IDSIL / PJO
+
+
+[24-05-2013:12:27:46 PM] : ATER007 has picked a file 60748714 in IDSIL / PJO
+
+
+[24-05-2013:1:35:00 PM] : ATER007 has logged in to IDSIL / PJO using the System 117.218.59.252
+
+
+[24-05-2013:1:35:07 PM] : ATER007 has uploaded a file 60748714 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[24-05-2013:1:36:34 PM] : ATER007 has viewed the Edited file details in IDSIL/PJO from 2013-05-24 to 2013-05-24
+
+
+[24-05-2013:1:36:42 PM] : ATER007 has viewed the Audit file details in IDSIL / PJO from 2013-05-24 to 2013-05-24
+
+
+[24-05-2013:1:36:44 PM] : ATER007 has logged out from the Linecount Software Using the System 117.218.59.252
+
+
+[24-05-2013:4:58:23 PM] : ATER007 has logged in to IDSIL / PJO using the System 117.218.59.252
+
+
+[24-05-2013:5:01:49 PM] : ATER007 has picked a file 60749307 in IDSIL / PJO
+
+
+[24-05-2013:5:12:25 PM] : ATER007 has uploaded a file 60749307 to Hospital/Customer in IDSIL / PJO
+
+
+[24-05-2013:5:13:34 PM] : ATER007 has picked a file 60749442 in IDSIL / PJO
+
+
+[24-05-2013:5:20:04 PM] : ATER007 has uploaded a file 60749442 to Hospital/Customer in IDSIL / PJO
+
+
+[24-05-2013:5:27:13 PM] : ATER007 has picked a file 60749635 in IDSIL / PJO
+
+
+[24-05-2013:5:40:02 PM] : ATER007 has uploaded a file 60749635 to Hospital/Customer in IDSIL / PJO
+
+
+[24-05-2013:6:12:46 PM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[24-05-2013:6:15:50 PM] : ATER007 has viewed the Audit file details in IDSIL / PJO from 2013-05-24 to 2013-05-24
+
+
+[24-05-2013:6:15:56 PM] : ATER007 has viewed the Edited file details in IDSIL/PJO from 2013-05-24 to 2013-05-24
+
+
+[24-05-2013:6:16:03 PM] : ATER007 has logged out from the Linecount Software Using the System 117.218.59.252

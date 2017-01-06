@@ -1,0 +1,78 @@
+
+
+[01-04-2013:10:30:38 PM] : ATER026 has logged in to IDSIL / PJO using the System 101.63.157.107
+
+
+[01-04-2013:10:31:25 PM] : ATER026 has picked a file 59187553 in IDSIL / PJO
+
+
+[01-04-2013:10:34:38 PM] : ATER026 has uploaded a file 59187553 to Hospital/Customer in IDSIL / PJO
+
+
+[01-04-2013:10:36:46 PM] : ATER026 has picked a file 59189100 in IDSIL / PJO
+
+
+[01-04-2013:10:48:47 PM] : ATER026 has uploaded a file 59189100 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[01-04-2013:11:05:07 PM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[01-04-2013:11:08:02 PM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[01-04-2013:11:22:14 PM] : ATER026 has picked a file 59186967 in IDSIL / PJO
+
+
+[01-04-2013:11:22:45 PM] : ATER026 has uploaded a file 59186967 to Hospital/Customer in IDSIL / PJO
+
+
+[01-04-2013:11:25:57 PM] : ATER026 has picked a file 59186668 in IDSIL / PJO
+
+
+[01-04-2013:11:34:25 PM] : ATER026 has uploaded a file 59186668 to Hospital/Customer in IDSIL / PJO
+
+
+[01-04-2013:11:34:57 PM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[01-04-2013:11:46:58 PM] : ATER026 has picked a file 59198034 in IDSIL / PJO
+
+
+[01-04-2013:11:47:21 PM] : ATER026 has uploaded a file 59198034 to Hospital/Customer in IDSIL / PJO
+
+
+[01-04-2013:11:50:29 PM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[01-04-2013:11:55:43 PM] : ATER026 has picked a file 59199069 in IDSIL / PJO
+
+
+[02-04-2013:12:00:59 AM] : ATER026 has uploaded a file 59199069 to Hospital/Customer in IDSIL / PJO
+
+
+[02-04-2013:12:01:36 AM] : ATER026 has picked a file 59194000 in IDSIL / PJO
+
+
+[02-04-2013:12:13:27 AM] : ATER026 has uploaded a file 59194000 to Hospital/Customer in IDSIL / PJO
+
+
+[02-04-2013:12:18:06 AM] : ATER026 has picked a file 59199749 in IDSIL / PJO
+
+
+[02-04-2013:12:19:02 AM] : ATER026 has uploaded a file 59199749 to Hospital/Customer in IDSIL / PJO
+
+
+[02-04-2013:12:19:44 AM] : ATER026 has picked a file 59197559 in IDSIL / PJO
+
+
+[02-04-2013:12:25:36 AM] : ATER026 has uploaded a file 59197559 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[02-04-2013:12:32:26 AM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[02-04-2013:12:43:54 AM] : ATER026 has added a Audit file 59200485 in IDSIL / PJO 
+
+
+[02-04-2013:12:47:55 AM] : ATER026 has added a Audit file 59202082 in IDSIL / PJO 

@@ -1,0 +1,66 @@
+
+
+[31-01-2014:12:34:21 PM] : ATER006 has logged in to IDSIL / PJO using the System 202.129.197.58
+
+
+[31-01-2014:12:35:46 PM] : ATER006 has viewed the Edited file details in IDSIL/PJO from 2014-01-01 to 2014-01-31
+
+
+[31-01-2014:12:36:09 PM] : ATER006 has viewed the Audit file details in IDSIL / PJO from 2014-01-01 to 2014-01-31
+
+
+[31-01-2014:12:36:10 PM] : ATER006 has viewed the Audit file details in IDSIL / PJO from 2014-01-01 to 2014-01-31
+
+
+[31-01-2014:12:38:19 PM] : ATER006 has picked a file 67157061 in IDSIL / PJO
+
+
+[31-01-2014:1:00:21 PM] : ATER006 has uploaded a file 67157061 to Hospital/Customer in IDSIL / PJO
+
+
+[31-01-2014:1:01:48 PM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[31-01-2014:1:32:33 PM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[31-01-2014:1:38:45 PM] : ATER006 has viewed the Audit file details in IDSIL / PJO from 2014-01-31 to 2014-01-31
+
+
+[31-01-2014:3:08:08 PM] : ATER006 has logged in to IDSIL / PJO using the System 202.129.197.58
+
+
+[31-01-2014:3:08:20 PM] : ATER006 has viewed the Audit file details in IDSIL / PJO from 2014-01-31 to 2014-01-31
+
+
+[31-01-2014:3:11:36 PM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[31-01-2014:3:20:50 PM] : ATER006 has viewed the Audit file details in IDSIL / PJO from 2014-01-31 to 2014-01-31
+
+
+[31-01-2014:3:33:00 PM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[31-01-2014:3:33:18 PM] : ATER006 has viewed the Audit file details in IDSIL / PJO from 2014-01-31 to 2014-01-31
+
+
+[31-01-2014:3:33:27 PM] : ATER006 has viewed the Edited file details in IDSIL/PJO from 2014-01-31 to 2014-01-31
+
+
+[31-01-2014:4:00:42 PM] : ATER006 has viewed the Edited file details in IDSIL/PJO from 2014-01-31 to 2014-01-31
+
+
+[31-01-2014:4:00:51 PM] : ATER006 has viewed the Audit file details in IDSIL / PJO from 2014-01-31 to 2014-01-31
+
+
+[31-01-2014:4:01:08 PM] : ATER006 has viewed the Audit file details in IDSIL / PJO from 2014-01-01 to 2014-01-31
+
+
+[31-01-2014:4:01:19 PM] : ATER006 has viewed the Edited file details in IDSIL/PJO from 2014-01-01 to 2014-01-31
+
+
+[31-01-2014:4:01:23 PM] : ATER006 has viewed the Edited file details in IDSIL/PJO from 2014-01-01 to 2014-01-31
+
+
+[31-01-2014:4:06:41 PM] : ATER006 has logged out from the Linecount Software Using the System 202.129.197.58

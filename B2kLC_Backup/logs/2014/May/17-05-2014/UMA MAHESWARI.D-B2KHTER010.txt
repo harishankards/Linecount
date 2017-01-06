@@ -1,0 +1,138 @@
+
+
+[17-05-2014:6:12:33 AM] : B2KHTER010 has logged in to IDSIL / PJO using the System 117.201.42.220
+
+
+[17-05-2014:7:43:46 AM] : B2KHTER010 has logged out from the Linecount Software Using the System 117.201.42.220
+
+
+[17-05-2014:9:51:41 AM] : B2KHTER010 has logged in to IDSIL / PJO using the System 117.221.139.139
+
+
+[17-05-2014:9:54:11 AM] : B2KHTER010 has picked a file 69854122 in IDSIL / PJO
+
+
+[17-05-2014:9:54:22 AM] : B2KHTER010 has picked a file 69855138 in IDSIL / PJO
+
+
+[17-05-2014:9:58:49 AM] : B2KHTER010 has uploaded a file 69854122 to Hospital/Customer in IDSIL / PJO
+
+
+[17-05-2014:10:00:13 AM] : B2KHTER010 has picked a file 69854843 in IDSIL / PJO
+
+
+[17-05-2014:10:00:22 AM] : B2KHTER010 has uploaded a file 69854843 to Hospital/Customer in IDSIL / PJO
+
+
+[17-05-2014:10:01:06 AM] : B2KHTER010 has picked a file 69855285 in IDSIL / PJO
+
+
+[17-05-2014:10:15:12 AM] : B2KHTER010 has uploaded a file 69855138 to Hospital/Customer in IDSIL / PJO
+
+
+[17-05-2014:10:27:05 AM] : B2KHTER010 has uploaded a file 69855285 to Hospital/Customer in IDSIL / PJO
+
+
+[17-05-2014:10:27:16 AM] : B2KHTER010 has picked a file 69855571 in IDSIL / PJO
+
+
+[17-05-2014:10:28:21 AM] : B2KHTER010 has picked a file 69856606 in IDSIL / PJO
+
+
+[17-05-2014:10:33:41 AM] : B2KHTER010 has uploaded a file 69855571 to Hospital/Customer in IDSIL / PJO
+
+
+[17-05-2014:10:44:47 AM] : B2KHTER010 has uploaded a file 69856606 to Hospital/Customer in IDSIL / PJO
+
+
+[17-05-2014:10:51:42 AM] : B2KHTER010 has picked a file 69847400 in IDSIL / PJO
+
+
+[17-05-2014:11:01:33 AM] : B2KHTER010 has uploaded a file 69847400 to Hospital/Customer in IDSIL / PJO
+
+
+[17-05-2014:11:15:48 AM] : B2KHTER010 has added a Audit file 69856785 in IDSIL / PJO 
+
+
+[17-05-2014:11:26:19 AM] : B2KHTER010 has picked a file 69857498 in IDSIL / PJO
+
+
+[17-05-2014:11:26:25 AM] : B2KHTER010 has uploaded a file 69857498 to Hospital/Customer in IDSIL / PJO
+
+
+[17-05-2014:11:34:05 AM] : B2KHTER010 has picked a file 69844432 in IDSIL / PJO
+
+
+[17-05-2014:11:40:11 AM] : B2KHTER010 has uploaded a file 69844432 to Hospital/Customer in IDSIL / PJO
+
+
+[17-05-2014:11:40:34 AM] : B2KHTER010 has picked a file 69852217 in IDSIL / PJO
+
+
+[17-05-2014:11:40:46 AM] : B2KHTER010 has picked a file 69858495 in IDSIL / PJO
+
+
+[17-05-2014:11:41:29 AM] : B2KHTER010 has picked a file 69858343 in IDSIL / PJO
+
+
+[17-05-2014:11:46:02 AM] : B2KHTER010 has uploaded a file 69852217 to Hospital/Customer in IDSIL / PJO
+
+
+[17-05-2014:11:50:11 AM] : B2KHTER010 has picked a file 69839414 in IDSIL / PJO
+
+
+[17-05-2014:11:50:21 AM] : B2KHTER010 has uploaded a file 69839414 to Hospital/Customer in IDSIL / PJO
+
+
+[17-05-2014:11:55:17 AM] : B2KHTER010 has uploaded a file 69858343 to Hospital/Customer in IDSIL / PJO
+
+
+[17-05-2014:11:56:06 AM] : B2KHTER010 has picked a file 69858632 in IDSIL / PJO
+
+
+[17-05-2014:12:03:22 PM] : B2KHTER010 has uploaded a file 69858495 to Hospital/Customer in IDSIL / PJO
+
+
+[17-05-2014:12:27:49 PM] : B2KHTER010 has uploaded a file 69858632 to Hospital/Customer in IDSIL / PJO
+
+
+[17-05-2014:12:32:44 PM] : B2KHTER010 has viewed the Edited file details in IDSIL/PJO from 2014-05-01 to 2014-05-17
+
+
+[17-05-2014:12:35:03 PM] : B2KHTER010 has viewed the Audit file details in IDSIL / PJO from 2014-05-01 to 2014-05-17
+
+
+[17-05-2014:12:38:39 PM] : B2KHTER010 has logged out from the Linecount Software Using the System 117.221.136.60
+
+
+[17-05-2014:5:26:02 PM] : B2KHTER010 has logged in to IDSIL / PJO using the System 61.3.192.237
+
+
+[17-05-2014:5:31:02 PM] : B2KHTER010 has added a Audit file 69857156 in IDSIL / PJO 
+
+
+[17-05-2014:5:35:01 PM] : B2KHTER010 has viewed the Audit file details in IDSIL / PJO from 2014-05-17 to 2014-05-17
+
+
+[17-05-2014:5:38:07 PM] : B2KHTER010 has picked a file 69857558 in IDSIL / PJO
+
+
+[17-05-2014:5:38:16 PM] : B2KHTER010 has uploaded a file 69857558 to Hospital/Customer in IDSIL / PJO
+
+
+[17-05-2014:5:40:43 PM] : B2KHTER010 has added a Audit file 67854482 in IDSIL / PJO 
+
+
+[17-05-2014:6:07:52 PM] : B2KHTER010 has viewed the Audit file details in IDSIL / PJO from 2014-05-17 to 2014-05-17
+
+
+[17-05-2014:6:40:41 PM] : B2KHTER010 has added a Audit file 69857204 in IDSIL / PJO 
+
+
+[17-05-2014:6:41:29 PM] : B2KHTER010 has picked a file 69857401 in IDSIL / PJO
+
+
+[17-05-2014:7:05:52 PM] : B2KHTER010 has uploaded a file 69857401 to Hospital/Customer in IDSIL / PJO
+
+
+[17-05-2014:7:12:57 PM] : B2KHTER010 has logged out from the Linecount Software Using the System 61.3.192.237

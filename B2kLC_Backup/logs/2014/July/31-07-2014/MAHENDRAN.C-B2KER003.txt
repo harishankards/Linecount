@@ -1,0 +1,48 @@
+
+
+[31-07-2014:8:51:31 AM] : B2KER003 has logged in to IDSIL / PJO using the System 59.90.86.47
+
+
+[31-07-2014:9:08:05 AM] : B2KER003 has logged out from the Linecount Software Using the System 59.90.86.47
+
+
+[31-07-2014:12:34:55 PM] : B2KER003 has logged in to IDSIL / PJO using the System 59.90.86.47
+
+
+[31-07-2014:5:32:05 PM] : B2KER003 has logged in to IDSIL / PJO using the System 59.90.86.47
+
+
+[31-07-2014:5:32:22 PM] : B2KER003 has picked a file 71589919 in IDSIL / PJO
+
+
+[31-07-2014:5:32:42 PM] : B2KER003 has picked a file 71528049 in IDSIL / PJO
+
+
+[31-07-2014:5:32:49 PM] : B2KER003 has uploaded a file 71528049 to Hospital/Customer in IDSIL / PJO
+
+
+[31-07-2014:7:41:22 PM] : B2KER003 has logged in to IDSIL / PJO using the System 59.90.86.47
+
+
+[31-07-2014:7:41:32 PM] : B2KER003 has uploaded a file 71589919 to Hospital/Customer in IDSIL / PJO
+
+
+[31-07-2014:7:49:40 PM] : B2KER003 has picked a file 71590478 in IDSIL / PJO
+
+
+[31-07-2014:7:49:57 PM] : B2KER003 has picked a file 71591353 in IDSIL / PJO
+
+
+[31-07-2014:7:50:06 PM] : B2KER003 has uploaded a file 71591353 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[31-07-2014:7:53:51 PM] : B2KER003 has uploaded a file 71590478 to Hospital/Customer in IDSIL / PJO
+
+
+[31-07-2014:9:20:05 PM] : B2KER003 has logged in to IDSIL / PJO using the System 59.90.86.47
+
+
+[31-07-2014:9:20:20 PM] : B2KER003 has picked a file 71593760 in IDSIL / PJO
+
+
+[31-07-2014:9:20:28 PM] : B2KER003 has uploaded a file 71593760 to Hospital/Customer in IDSIL / PJO

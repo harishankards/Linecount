@@ -1,0 +1,75 @@
+
+
+[03-04-2014:9:20:39 AM] : ATER038 has logged in to IDSIL / PJO using the System 202.129.197.58
+
+
+[03-04-2014:9:49:48 AM] : ATER038 has picked a file 68757978 in IDSIL / PJO
+
+
+[03-04-2014:11:03:46 AM] : ATER038 has logged in to IDSIL / PJO using the System 202.129.197.58
+
+
+[03-04-2014:11:07:55 AM] : ATER038 has uploaded a file 68757978 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[03-04-2014:11:08:19 AM] : ATER038 has picked a file 68764650 in IDSIL / PJO
+
+
+[03-04-2014:11:34:19 AM] : ATER038 has uploaded a file 68764650 to Hospital/Customer in IDSIL / PJO
+
+
+[03-04-2014:12:46:43 PM] : ATER038 has logged in to IDSIL / PJO using the System 202.129.197.58
+
+
+[03-04-2014:12:50:05 PM] : ATER038 has picked a file 68766694 in IDSIL / PJO
+
+
+[03-04-2014:2:52:04 PM] : ATER038 has logged in to IDSIL / PJO using the System 202.129.197.58
+
+
+[03-04-2014:2:53:06 PM] : ATER038 has uploaded a file 68766694 to Hospital/Customer in IDSIL / PJO
+
+
+[03-04-2014:3:08:58 PM] : ATER038 has picked a file 68767476 in IDSIL / PJO
+
+
+[03-04-2014:3:19:25 PM] : ATER038 has uploaded a file 68767476 to Hospital/Customer in IDSIL / PJO
+
+
+[03-04-2014:3:21:21 PM] : ATER038 has picked a file 68767554 in IDSIL / PJO
+
+
+[03-04-2014:3:22:39 PM] : ATER038 has viewed the Edited file details in IDSIL/PJO from 2014-04-03 to 2014-04-03
+
+
+[03-04-2014:3:46:16 PM] : ATER038 has uploaded a file 68767554 to Hospital/Customer in IDSIL / PJO
+
+
+[03-04-2014:4:19:29 PM] : ATER038 has viewed the Edited file details in IDSIL/PJO from 2014-04-03 to 2014-04-03
+
+
+[03-04-2014:4:20:50 PM] : ATER038 has logged out from the Linecount Software Using the System 117.218.59.252
+
+
+[03-04-2014:4:21:18 PM] : ATER038 has logged in to IDSIL / PJO using the System 117.218.59.252
+
+
+[03-04-2014:4:44:21 PM] : ATER038 has viewed the Edited file details in IDSIL/PJO from 2014-04-03 to 2014-04-03
+
+
+[03-04-2014:4:52:40 PM] : ATER038 has picked a file 68767571 in IDSIL / PJO
+
+
+[03-04-2014:5:16:41 PM] : ATER038 has uploaded a file 68767571 to Hospital/Customer in IDSIL / PJO
+
+
+[03-04-2014:5:55:11 PM] : ATER038 has viewed the Edited file details in IDSIL/PJO from 2014-04-03 to 2014-04-03
+
+
+[03-04-2014:5:55:28 PM] : ATER038 has logged out from the Linecount Software Using the System 117.218.59.252
+
+
+[03-04-2014:5:56:31 PM] : ATER038 has logged in to IDSIL / PJO using the System 117.218.59.252
+
+
+[03-04-2014:5:56:42 PM] : ATER038 has logged out from the Linecount Software Using the System 117.218.59.252

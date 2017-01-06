@@ -1,0 +1,123 @@
+
+
+[07-05-2014:10:13:41 AM] : B2KER010 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[07-05-2014:10:16:15 AM] : B2KER010 has picked a file 69596206 in IDSIL / PJO
+
+
+[07-05-2014:10:55:02 AM] : B2KER010 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[07-05-2014:10:58:21 AM] : B2KER010 has uploaded a file 69596206 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[07-05-2014:10:59:03 AM] : B2KER010 has picked a file 69598703 in IDSIL / PJO
+
+
+[07-05-2014:11:13:37 AM] : B2KER010 has uploaded a file 69598703 to Hospital/Customer in IDSIL / PJO
+
+
+[07-05-2014:11:14:21 AM] : B2KER010 has picked a file 69598782 in IDSIL / PJO
+
+
+[07-05-2014:11:57:06 AM] : B2KER010 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[07-05-2014:11:57:15 AM] : B2KER010 has uploaded a file 69598782 to Hospital/Customer in IDSIL / PJO
+
+
+[07-05-2014:11:57:33 AM] : B2KER010 has picked a file 69599399 in IDSIL / PJO
+
+
+[07-05-2014:12:21:58 PM] : B2KER010 has uploaded a file 69599399 to Hospital/Customer in IDSIL / PJO
+
+
+[07-05-2014:12:22:41 PM] : B2KER010 has picked a file 69598813 in IDSIL / PJO
+
+
+[07-05-2014:12:49:11 PM] : B2KER010 has uploaded a file 69598813 to Hospital/Customer in IDSIL / PJO
+
+
+[07-05-2014:12:49:29 PM] : B2KER010 has picked a file 69582672 in IDSIL / PJO
+
+
+[07-05-2014:2:16:03 PM] : B2KER010 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[07-05-2014:2:16:14 PM] : B2KER010 has uploaded a file 69582672 to Hospital/Customer in IDSIL / PJO
+
+
+[07-05-2014:2:29:27 PM] : B2KER010 has picked a file 69594079 in IDSIL / PJO
+
+
+[07-05-2014:2:30:01 PM] : B2KER010 has added a Audit file 69590643 in IDSIL / PJO 
+
+
+[07-05-2014:3:23:25 PM] : B2KER010 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[07-05-2014:3:23:55 PM] : B2KER010 has added a Audit file 69594079 in IDSIL / PJO 
+
+
+[07-05-2014:3:24:41 PM] : B2KER010 has viewed the Audit file details in IDSIL / PJO from 2014-05-07 to 2014-05-07
+
+
+[07-05-2014:3:24:53 PM] : B2KER010 has viewed the Edited file details in IDSIL/PJO from 2014-05-07 to 2014-05-07
+
+
+[07-05-2014:3:25:17 PM] : B2KER010 has uploaded a file 69594079 to Hospital/Customer in IDSIL / PJO
+
+
+[07-05-2014:3:25:33 PM] : B2KER010 has picked a file 69594602 in IDSIL / PJO
+
+
+[07-05-2014:4:06:44 PM] : B2KER010 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[07-05-2014:4:06:53 PM] : B2KER010 has uploaded a file 69594602 to Hospital/Customer in IDSIL / PJO
+
+
+[07-05-2014:4:29:49 PM] : B2KER010 has picked a file 69596675 in IDSIL / PJO
+
+
+[07-05-2014:5:46:32 PM] : B2KER010 has viewed the DUP file details in IDSIL/PJO from 2014-05-01 to 2014-05-07
+
+
+[07-05-2014:5:46:55 PM] : B2KER010 has viewed the Edited file details in IDSIL/PJO from 2014-05-01 to 2014-05-07
+
+
+[07-05-2014:5:47:16 PM] : B2KER010 has viewed the Audit file details in IDSIL / PJO from 2014-05-01 to 2014-05-07
+
+
+[07-05-2014:6:06:06 PM] : B2KER010 has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[07-05-2014:6:07:06 PM] : B2KER010 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[07-05-2014:6:07:14 PM] : B2KER010 has uploaded a file 69596675 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[07-05-2014:6:07:57 PM] : B2KER010 has picked a file 69598343 in IDSIL / PJO
+
+
+[07-05-2014:6:19:23 PM] : B2KER010 has uploaded a file 69598343 to Hospital/Customer in IDSIL / PJO
+
+
+[07-05-2014:6:33:46 PM] : B2KER010 has added a Audit file 69597460 in IDSIL / PJO 
+
+
+[07-05-2014:6:35:55 PM] : B2KER010 has added a Audit file 69597758 in IDSIL / PJO 
+
+
+[07-05-2014:7:18:47 PM] : B2KER010 has viewed the Audit file details in IDSIL / PJO from 2014-05-07 to 2014-05-07
+
+
+[07-05-2014:7:19:03 PM] : B2KER010 has viewed the Edited file details in IDSIL/PJO from 2014-05-07 to 2014-05-07
+
+
+[07-05-2014:7:19:24 PM] : B2KER010 has viewed the Audit file details in IDSIL / PJO from 2014-05-07 to 2014-05-07
+
+
+[07-05-2014:7:19:42 PM] : B2KER010 has logged out from the Linecount Software Using the System 123.255.248.35

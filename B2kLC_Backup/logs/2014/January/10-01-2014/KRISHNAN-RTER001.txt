@@ -1,0 +1,12 @@
+
+
+[10-01-2014:7:12:13 AM] : RTER001 has logged in to IDSIL / PJO using the System 101.222.224.173
+
+
+[10-01-2014:7:14:42 AM] : RTER001 has picked a file 66608412 in IDSIL / PJO
+
+
+[10-01-2014:9:01:33 AM] : RTER001 has logged in to IDSIL / PJO using the System 101.222.224.173
+
+
+[10-01-2014:9:01:52 AM] : RTER001 has uploaded a file 66608412 to IDS/QA_Checkpoint in IDSIL / PJO

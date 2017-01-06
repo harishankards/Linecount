@@ -1,0 +1,21 @@
+
+
+[01-01-2014:3:56:27 PM] : DITMLS001 has logged in to IDSIL / PJO using the System 122.178.152.201
+
+
+[01-01-2014:3:56:38 PM] : DITMLS001 has viewed the file details in IDSIL / PJO from 2013-12-01 to 2013-12-31
+
+
+[01-01-2014:4:06:34 PM] : DITMLS001 has logged out from the Linecount Software Using the System 122.178.152.201
+
+
+[01-01-2014:4:08:49 PM] : DITMLS001 has logged in to IDSIL / PJO using the System 122.178.152.201
+
+
+[01-01-2014:4:09:45 PM] : DITMLS001 has viewed the file details in IDSIL / PJO from 2013-12-01 to 2013-12-31
+
+
+[01-01-2014:4:10:44 PM] : DITMLS001 has Downloaded a file details in IDSIL / PJO from 2013-12-01 to 2013-12-31
+
+
+[01-01-2014:4:11:18 PM] : DITMLS001 has logged out from the Linecount Software Using the System 122.178.152.201

@@ -1,0 +1,45 @@
+
+
+[30-03-2014:12:21:13 PM] : B2KMLS040 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[30-03-2014:12:21:57 PM] : B2KMLS040 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[30-03-2014:12:22:31 PM] : B2KMLS040 has picked a file 68658036 in IDSIL / PJO
+
+
+[30-03-2014:12:40:51 PM] : B2KMLS040 has uploaded a file 68658036 to Hospital/Customer in IDSIL / PJO
+
+
+[30-03-2014:1:02:05 PM] : B2KMLS040 has picked a file 68654611 in IDSIL / PJO
+
+
+[30-03-2014:1:53:27 PM] : B2KMLS040 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[30-03-2014:1:53:42 PM] : B2KMLS040 has uploaded a file 68654611 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[30-03-2014:1:55:15 PM] : B2KMLS040 has picked a file 68654995 in IDSIL / PJO
+
+
+[30-03-2014:2:30:28 PM] : B2KMLS040 has picked a file 68655740 in IDSIL / PJO
+
+
+[30-03-2014:2:32:16 PM] : B2KMLS040 has uploaded a file 68654995 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[30-03-2014:3:28:54 PM] : B2KMLS040 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[30-03-2014:4:07:38 PM] : B2KMLS040 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[30-03-2014:4:07:48 PM] : B2KMLS040 has uploaded a file 68655740 to Hospital/Customer in IDSIL / PJO
+
+
+[30-03-2014:4:10:08 PM] : B2KMLS040 has picked a file 68657668 in IDSIL / PJO
+
+
+[30-03-2014:4:44:30 PM] : B2KMLS040 has uploaded a file 68657668 to Hospital/Customer in IDSIL / PJO

@@ -1,0 +1,81 @@
+
+
+[17-05-2015:8:53:14 AM] : B2KQA12 has logged in to IDSIL / PJO using the System 115.242.207.32
+
+
+[17-05-2015:8:53:57 AM] : B2KQA12 has picked a file 91821648 in IDSIL / PJO
+
+
+[17-05-2015:9:38:38 AM] : B2KQA12 has logged in to IDSIL / PJO using the System 115.242.207.32
+
+
+[17-05-2015:10:48:07 AM] : B2KQA12 has uploaded a file 91821648 to Hospital/Customer in IDSIL / PJO
+
+
+[17-05-2015:10:49:16 AM] : B2KQA12 has picked a file 91821750 in IDSIL / PJO
+
+
+[17-05-2015:11:43:58 AM] : B2KQA12 has logged in to IDSIL / PJO using the System 115.242.234.200
+
+
+[17-05-2015:11:45:10 AM] : B2KQA12 has viewed the Edited file details in IDSIL/PJO from 2015-05-17 to 2015-05-17
+
+
+[17-05-2015:11:49:11 AM] : B2KQA12 has picked a file 91823149 in IDSIL / PJO
+
+
+[17-05-2015:1:13:05 PM] : B2KQA12 has logged in to IDSIL / PJO using the System 115.242.234.200
+
+
+[17-05-2015:1:17:37 PM] : B2KQA12 has uploaded a file 91823149 to Hospital/Customer in IDSIL / PJO
+
+
+[17-05-2015:1:20:00 PM] : B2KQA12 has picked a file 91823192 in IDSIL / PJO
+
+
+[17-05-2015:3:13:03 PM] : B2KQA12 has logged in to IDSIL / PJO using the System 115.242.234.200
+
+
+[17-05-2015:3:13:22 PM] : B2KQA12 has uploaded a file 91823192 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[17-05-2015:3:13:54 PM] : B2KQA12 has picked a file 91813911 in IDSIL / PJO
+
+
+[17-05-2015:3:27:11 PM] : B2KQA12 has uploaded a file 91813911 to Hospital/Customer in IDSIL / PJO
+
+
+[17-05-2015:3:32:39 PM] : B2KQA12 has picked a file 91814076 in IDSIL / PJO
+
+
+[17-05-2015:4:33:27 PM] : B2KQA12 has logged in to IDSIL / PJO using the System 115.242.234.200
+
+
+[17-05-2015:4:34:25 PM] : B2KQA12 has picked a file 91823146 in IDSIL / PJO
+
+
+[17-05-2015:4:34:33 PM] : B2KQA12 has uploaded a file 91814076 to Hospital/Customer in IDSIL / PJO
+
+
+[17-05-2015:5:12:27 PM] : B2KQA12 has logged in to IDSIL / PJO using the System 115.242.234.200
+
+
+[17-05-2015:5:12:37 PM] : B2KQA12 has uploaded a file 91823146 to Hospital/Customer in IDSIL / PJO
+
+
+[17-05-2015:5:13:07 PM] : B2KQA12 has picked a file 91823154 in IDSIL / PJO
+
+
+[17-05-2015:5:23:20 PM] : B2KQA12 has picked a file 91823631 in IDSIL / PJO
+
+
+[17-05-2015:5:40:21 PM] : B2KQA12 has uploaded a file 91823631 to Hospital/Customer in IDSIL / PJO
+
+
+[17-05-2015:5:41:40 PM] : B2KQA12 has viewed the Edited file details in IDSIL/PJO from 2015-05-17 to 2015-05-17
+
+
+[17-05-2015:5:51:07 PM] : B2KQA12 has uploaded a file 91823154 to Hospital/Customer in IDSIL / PJO
+
+
+[17-05-2015:5:51:38 PM] : B2KQA12 has logged out from the Linecount Software Using the System 115.242.234.200

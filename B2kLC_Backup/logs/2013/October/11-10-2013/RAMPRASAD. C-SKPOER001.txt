@@ -1,0 +1,18 @@
+
+
+[11-10-2013:9:12:19 AM] : SKPOER001 has logged in to IDSIL / PJO using the System 117.197.199.69
+
+
+[11-10-2013:9:12:39 AM] : SKPOER001 has picked a file 64398248 in IDSIL / PJO
+
+
+[11-10-2013:9:16:41 AM] : SKPOER001 has uploaded a file 64398248 to Hospital/Customer in IDSIL / PJO
+
+
+[11-10-2013:9:19:14 AM] : SKPOER001 has picked a file 64398884 in IDSIL / PJO
+
+
+[11-10-2013:9:52:50 AM] : SKPOER001 has uploaded a file 64398884 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[11-10-2013:10:05:05 AM] : SKPOER001 has logged out from the Linecount Software Using the System 117.197.199.69

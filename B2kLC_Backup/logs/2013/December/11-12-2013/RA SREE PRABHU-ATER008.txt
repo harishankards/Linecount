@@ -1,0 +1,18 @@
+
+
+[11-12-2013:2:08:56 PM] : ATER008 has logged in to IDSIL / PJO using the System 117.218.59.252
+
+
+[11-12-2013:2:11:27 PM] : ATER008 has picked a file 65882578 in IDSIL / PJO
+
+
+[11-12-2013:2:15:24 PM] : ATER008 has uploaded a file 65882578 to Hospital/Customer in IDSIL / PJO
+
+
+[11-12-2013:2:35:53 PM] : ATER008 has picked a file 65882604 in IDSIL / PJO
+
+
+[11-12-2013:2:36:00 PM] : ATER008 has uploaded a file 65882604 to Hospital/Customer in IDSIL / PJO
+
+
+[11-12-2013:2:38:32 PM] : ATER008 has logged out from the Linecount Software Using the System 117.218.59.252

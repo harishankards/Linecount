@@ -1,0 +1,61 @@
+
+
+[18-01-2013:9:32:49 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[18-01-2013:9:35:46 AM] : ADMIN has Viewed Employee Details
+
+
+[18-01-2013:9:36:00 AM] : ADMIN has Viewed Employee Details
+
+
+[18-01-2013:9:36:07 AM] : ADMIN has Viewed Employee Details
+
+
+[18-01-2013:9:36:21 AM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[18-01-2013:9:36:33 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[18-01-2013:9:37:33 AM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[18-01-2013:10:44:48 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[18-01-2013:10:56:56 AM] : ADMIN has Deleted the details of the file 56889911.
+
+[18-01-2013:10:57:35 AM] : ADMIN has Deleted the details of the file 56889911.
+
+
+[18-01-2013:10:57:38 AM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[18-01-2013:11:37:10 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[18-01-2013:11:50:43 AM] : ADMIN has Viewed Employee Details
+
+
+[18-01-2013:11:50:50 AM] : ADMIN has Viewed Employee Details
+
+
+[18-01-2013:11:51:39 AM] : ADMIN has Viewed Employee Details
+
+
+[18-01-2013:11:53:11 AM] : ADMIN has Viewed Employee Details
+
+
+[18-01-2013:11:54:45 AM] : ADMIN has Viewed Employee Details
+
+
+[18-01-2013:11:56:14 AM] : ADMIN has Viewed Employee Details
+
+
+[18-01-2013:12:00:20 PM] : ADMIN has Viewed Employee Details
+
+
+[18-01-2013:12:17:30 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[18-01-2013:5:14:40 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47

@@ -1,0 +1,88 @@
+
+
+[04-06-2014:12:15:18 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[04-06-2014:2:45:09 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[04-06-2014:4:28:51 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[04-06-2014:4:34:43 AM] : ADMIN has Deleted the details of the file 70262368.
+
+
+[04-06-2014:6:28:56 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[04-06-2014:7:05:28 AM] : ADMIN has logged in to Admin page using the System 101.222.246.229
+
+
+[04-06-2014:7:11:52 AM] : ADMIN has Viewed Employee Details
+
+
+[04-06-2014:8:05:10 AM] : ADMIN has logged in to Admin page using the System 101.222.246.229
+
+[04-06-2014:8:08:52 AM] : ADMIN has viewed Bank Details
+
+[04-06-2014:8:11:03 AM] : ADMIN has viewed Bank Details
+
+
+[04-06-2014:8:11:58 AM] : ADMIN has logged out from the Linecount Software Using the System 101.222.246.229
+
+
+[04-06-2014:8:38:49 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[04-06-2014:10:33:58 AM] : ADMIN has logged in to Admin page using the System 101.222.255.113
+
+
+[04-06-2014:10:44:23 AM] : ADMIN has logged out from the Linecount Software Using the System 101.222.255.113
+
+[04-06-2014:10:53:49 AM] : ADMIN has added an Update into the Database
+
+
+[04-06-2014:11:34:24 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[04-06-2014:12:24:21 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[04-06-2014:1:41:22 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[04-06-2014:2:00:49 PM] : ADMIN has Deleted the details of the file 70117712.
+
+
+[04-06-2014:2:52:09 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[04-06-2014:4:36:02 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[04-06-2014:5:53:28 PM] : ADMIN has logged in to Admin page using the System 117.206.110.164
+
+
+[04-06-2014:6:00:10 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[04-06-2014:6:00:35 PM] : ADMIN has logged out from the Linecount Software Using the System 59.90.86.47
+
+
+[04-06-2014:6:53:23 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[04-06-2014:7:35:09 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[04-06-2014:8:36:05 PM] : ADMIN has logged in to Admin page using the System 117.206.105.45
+
+
+[04-06-2014:8:53:32 PM] : ADMIN has logged in to Admin page using the System 117.206.109.129
+
+
+[04-06-2014:10:07:09 PM] : ADMIN has logged in to Admin page using the System 117.206.105.168
+
+
+[04-06-2014:10:30:29 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[04-06-2014:10:31:49 PM] : ADMIN has logged out from the Linecount Software Using the System 117.206.105.168

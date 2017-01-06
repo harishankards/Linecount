@@ -1,0 +1,38 @@
+
+
+[16-01-2013:1:16:26 PM] : Admin has logged in to Admin page using the System ::1
+
+
+[16-01-2013:1:19:25 PM] : Admin has logged out from the Linecount Software Using the System ::1
+
+
+[16-01-2013:1:37:29 PM] : Admin has logged in to Admin page using the System 123.255.248.35
+
+
+[16-01-2013:1:38:14 PM] : Admin has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[16-01-2013:1:43:28 PM] : Admin has logged in to Admin page using the System 123.255.248.35
+
+[16-01-2013:1:44:31 PM] : Admin has deleted a file details in Database from 2012-09-01 to 2012-10-31.
+
+
+[16-01-2013:1:46:53 PM] : Admin has Viewed Employee Details
+
+
+[16-01-2013:1:47:02 PM] : Admin has Viewed Employee Details
+
+
+[16-01-2013:1:57:45 PM] : Admin has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[16-01-2013:11:26:05 PM] : Admin has logged in to Admin page using the System 117.218.59.252
+
+
+[16-01-2013:11:26:39 PM] : Admin has Viewed Employee Details
+
+
+[16-01-2013:11:28:12 PM] : Admin has added Employee Details[SOUNDARAJAN] into the Database
+
+
+[16-01-2013:11:28:27 PM] : Admin has logged out from the Linecount Software Using the System 117.218.59.252

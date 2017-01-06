@@ -1,0 +1,48 @@
+
+
+[01-02-2016:6:29:00 AM] : B2KMLS131 has logged in to IDSIL / PJO using the System 196.207.92.17
+
+
+[01-02-2016:6:29:35 AM] : B2KMLS131 has viewed the file details in IDSIL / PJO from 2016-01-01 to 2016-01-31
+
+
+[01-02-2016:6:35:40 AM] : B2KMLS131 has Downloaded a file details in IDSIL / PJO from 2016-01-01 to 2016-01-31
+
+
+[01-02-2016:6:37:39 AM] : B2KMLS131 has logged out from the Linecount Software Using the System 196.207.92.17
+
+
+[01-02-2016:8:00:24 PM] : B2KMLS131 has logged in to IDSIL / PJO using the System 196.207.92.17
+
+
+[01-02-2016:8:00:55 PM] : B2KMLS131 has uploaded a DUP file 96487167 in IDSIL / PJO
+
+
+[01-02-2016:8:01:11 PM] : B2KMLS131 has uploaded a DUP file 96487108 in IDSIL / PJO
+
+
+[01-02-2016:8:06:51 PM] : B2KMLS131 has uploaded a DUP file 96487279 in IDSIL / PJO
+
+
+[01-02-2016:8:07:02 PM] : B2KMLS131 has logged out from the Linecount Software Using the System 196.207.92.17
+
+
+[01-02-2016:9:33:21 PM] : B2KMLS131 has logged in to IDSIL / PJO using the System 43.249.54.195
+
+
+[01-02-2016:9:35:20 PM] : B2KMLS131 has viewed the file details in IDSIL / PJO from 2016-01-01 to 2016-01-31
+
+
+[01-02-2016:9:35:38 PM] : B2KMLS131 has Downloaded a file details in IDSIL / PJO from 2016-01-01 to 2016-01-31
+
+
+[01-02-2016:9:39:12 PM] : B2KMLS131 has viewed the file details in IDSIL / PJO from 2016-01-01 to 2016-01-31
+
+
+[01-02-2016:9:39:21 PM] : B2KMLS131 has Downloaded a file details in IDSIL / PJO from 2016-01-01 to 2016-01-31
+
+
+[01-02-2016:10:59:58 PM] : B2KMLS131 has uploaded a DUP file 96487859 in IDSIL / PJO
+
+
+[01-02-2016:11:00:12 PM] : B2KMLS131 has uploaded a DUP file 96490014 in IDSIL / PJO

@@ -1,0 +1,180 @@
+
+
+[16-06-2015:7:07:16 PM] : B2KQA14 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[16-06-2015:7:16:48 PM] : B2KQA14 has picked a file 92365477 in IDSIL / PJO
+
+
+[16-06-2015:7:34:06 PM] : B2KQA14 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[16-06-2015:7:54:32 PM] : B2KQA14 has picked a file 92365610 in IDSIL / PJO
+
+
+[16-06-2015:7:59:17 PM] : B2KQA14 has uploaded a file 92365610 to Hospital/Customer in IDSIL / PJO
+
+
+[16-06-2015:7:59:19 PM] : B2KQA14 has uploaded a file 92365477 to Hospital/Customer in IDSIL / PJO
+
+
+[16-06-2015:8:05:44 PM] : B2KQA14 has picked a file 92365693 in IDSIL / PJO
+
+
+[16-06-2015:8:27:34 PM] : B2KQA14 has picked a file 92365930 in IDSIL / PJO
+
+
+[16-06-2015:8:40:52 PM] : B2KQA14 has picked a file 92365997 in IDSIL / PJO
+
+
+[16-06-2015:8:41:02 PM] : B2KQA14 has uploaded a file 92365930 to Hospital/Customer in IDSIL / PJO
+
+
+[16-06-2015:8:41:02 PM] : B2KQA14 has uploaded a file 92365997 to Hospital/Customer in IDSIL / PJO
+
+
+[16-06-2015:8:41:03 PM] : B2KQA14 has uploaded a file 92365693 to Hospital/Customer in IDSIL / PJO
+
+
+[16-06-2015:8:44:08 PM] : B2KQA14 has picked a file 92366064 in IDSIL / PJO
+
+
+[16-06-2015:9:00:14 PM] : B2KQA14 has picked a file 92367548 in IDSIL / PJO
+
+
+[16-06-2015:9:21:51 PM] : B2KQA14 has uploaded a file 92366064 to Hospital/Customer in IDSIL / PJO
+
+
+[16-06-2015:9:21:52 PM] : B2KQA14 has uploaded a file 92367548 to Hospital/Customer in IDSIL / PJO
+
+
+[16-06-2015:9:22:02 PM] : B2KQA14 has picked a file 92369624 in IDSIL / PJO
+
+
+[16-06-2015:9:36:57 PM] : B2KQA14 has uploaded a file 92369624 to Hospital/Customer in IDSIL / PJO
+
+
+[16-06-2015:9:37:08 PM] : B2KQA14 has viewed the Edited file details in IDSIL/PJO from 2015-06-15 to 2015-06-16
+
+
+[16-06-2015:9:44:15 PM] : B2KQA14 has picked a file 92370322 in IDSIL / PJO
+
+
+[16-06-2015:10:30:02 PM] : B2KQA14 has uploaded a file 92370322 to Hospital/Customer in IDSIL / PJO
+
+
+[16-06-2015:10:30:14 PM] : B2KQA14 has picked a file 92371660 in IDSIL / PJO
+
+
+[16-06-2015:10:53:09 PM] : B2KQA14 has uploaded a file 92371660 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[16-06-2015:10:53:20 PM] : B2KQA14 has picked a file 92382089 in IDSIL / PJO
+
+
+[16-06-2015:11:10:13 PM] : B2KQA14 has uploaded a file 92382089 to Hospital/Customer in IDSIL / PJO
+
+
+[16-06-2015:11:10:23 PM] : B2KQA14 has picked a file 92382499 in IDSIL / PJO
+
+
+[16-06-2015:11:37:39 PM] : B2KQA14 has uploaded a file 92382499 to Hospital/Customer in IDSIL / PJO
+
+
+[16-06-2015:11:37:47 PM] : B2KQA14 has picked a file 92382653 in IDSIL / PJO
+
+
+[16-06-2015:11:58:23 PM] : B2KQA14 has uploaded a file 92382653 to Hospital/Customer in IDSIL / PJO
+
+
+[16-06-2015:11:58:46 PM] : B2KQA14 has picked a file 92383129 in IDSIL / PJO
+
+
+[17-06-2015:12:42:54 AM] : B2KQA14 has uploaded a file 92383129 to Hospital/Customer in IDSIL / PJO
+
+
+[17-06-2015:12:43:05 AM] : B2KQA14 has picked a file 92389558 in IDSIL / PJO
+
+
+[17-06-2015:1:05:56 AM] : B2KQA14 has picked a file 92389687 in IDSIL / PJO
+
+
+[17-06-2015:1:06:00 AM] : B2KQA14 has uploaded a file 92389558 to Hospital/Customer in IDSIL / PJO
+
+
+[17-06-2015:1:06:02 AM] : B2KQA14 has uploaded a file 92389687 to Hospital/Customer in IDSIL / PJO
+
+
+[17-06-2015:1:07:24 AM] : B2KQA14 has picked a file 92386783 in IDSIL / PJO
+
+
+[17-06-2015:1:23:08 AM] : B2KQA14 has uploaded a file 92386783 to Hospital/Customer in IDSIL / PJO
+
+
+[17-06-2015:1:24:54 AM] : B2KQA14 has picked a file 92387207 in IDSIL / PJO
+
+
+[17-06-2015:1:31:15 AM] : B2KQA14 has uploaded a file 92387207 to Hospital/Customer in IDSIL / PJO
+
+
+[17-06-2015:1:32:13 AM] : B2KQA14 has picked a file 92389106 in IDSIL / PJO
+
+
+[17-06-2015:1:42:00 AM] : B2KQA14 has uploaded a file 92389106 to Hospital/Customer in IDSIL / PJO
+
+
+[17-06-2015:1:43:50 AM] : B2KQA14 has picked a file 92382708 in IDSIL / PJO
+
+
+[17-06-2015:1:51:16 AM] : B2KQA14 has uploaded a file 92382708 to Hospital/Customer in IDSIL / PJO
+
+
+[17-06-2015:1:51:33 AM] : B2KQA14 has viewed the Edited file details in IDSIL/PJO from 2015-06-16 to 2015-06-17
+
+
+[17-06-2015:1:53:39 AM] : B2KQA14 has picked a file 92393739 in IDSIL / PJO
+
+
+[17-06-2015:2:10:25 AM] : B2KQA14 has uploaded a file 92393739 to Hospital/Customer in IDSIL / PJO
+
+
+[17-06-2015:2:11:30 AM] : B2KQA14 has picked a file 92394262 in IDSIL / PJO
+
+
+[17-06-2015:2:22:24 AM] : B2KQA14 has uploaded a file 92394262 to Hospital/Customer in IDSIL / PJO
+
+
+[17-06-2015:2:22:31 AM] : B2KQA14 has picked a file 92383086 in IDSIL / PJO
+
+
+[17-06-2015:2:27:24 AM] : B2KQA14 has uploaded a file 92383086 to Hospital/Customer in IDSIL / PJO
+
+
+[17-06-2015:2:41:14 AM] : B2KQA14 has picked a file 92383158 in IDSIL / PJO
+
+
+[17-06-2015:2:45:15 AM] : B2KQA14 has uploaded a file 92383158 to Hospital/Customer in IDSIL / PJO
+
+
+[17-06-2015:3:40:22 AM] : B2KQA14 has picked a file 92390983 in IDSIL / PJO
+
+
+[17-06-2015:4:35:47 AM] : B2KQA14 has uploaded a file 92390983 to Hospital/Customer in IDSIL / PJO
+
+
+[17-06-2015:4:35:58 AM] : B2KQA14 has picked a file 92391080 in IDSIL / PJO
+
+
+[17-06-2015:4:53:49 AM] : B2KQA14 has uploaded a file 92391080 to Hospital/Customer in IDSIL / PJO
+
+
+[17-06-2015:4:54:11 AM] : B2KQA14 has picked a file 92383736 in IDSIL / PJO
+
+
+[17-06-2015:5:22:47 AM] : B2KQA14 has uploaded a file 92383736 to Hospital/Customer in IDSIL / PJO
+
+
+[17-06-2015:5:23:13 AM] : B2KQA14 has viewed the Edited file details in IDSIL/PJO from 2015-06-15 to 2015-06-17
+
+
+[17-06-2015:5:25:59 AM] : B2KQA14 has picked a file 92384141 in IDSIL / PJO

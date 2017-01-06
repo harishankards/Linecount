@@ -1,0 +1,99 @@
+
+[15-06-2016:5:40:38 AM] : ADMIN has Deleted the details of the file 98693004.
+
+[15-06-2016:5:47:16 AM] : ADMIN has Deleted the details of the file 98701662.
+
+[15-06-2016:5:50:03 AM] : ADMIN has Deleted the details of the file 98701662.
+
+
+[15-06-2016:6:44:52 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[15-06-2016:11:45:12 AM] : ADMIN has logged in to Admin page using the System 182.72.119.226
+
+
+[15-06-2016:4:09:41 PM] : ADMIN has logged in to Admin page using the System 182.72.119.226
+
+
+[15-06-2016:4:35:44 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[15-06-2016:5:36:50 PM] : ADMIN has logged in to Admin page using the System 117.206.106.172
+
+
+[15-06-2016:5:38:38 PM] : ADMIN has logged out from the Linecount Software Using the System 117.206.106.172
+
+
+[15-06-2016:7:53:06 PM] : ADMIN has logged in to Admin page using the System 182.72.119.226
+
+
+[15-06-2016:8:00:23 PM] : ADMIN has added Employee Details[ARAVINDH S] into the Database
+
+
+[15-06-2016:8:00:57 PM] : ADMIN has Viewed Employee Details
+
+
+[15-06-2016:8:01:10 PM] : ADMIN has Viewed Employee Details
+
+
+[15-06-2016:8:02:54 PM] : ADMIN has Viewed Employee Details
+
+
+[15-06-2016:8:03:03 PM] : ADMIN has Viewed Employee Details
+
+
+[15-06-2016:8:19:34 PM] : ADMIN has Viewed Employee Details
+
+[15-06-2016:8:21:28 PM] : ADMIN has added ID [B2KIT0001] into the Database
+
+[15-06-2016:8:22:31 PM] : ADMIN has Viewed Employee Details
+
+
+[15-06-2016:8:23:31 PM] : ADMIN has Viewed Employee Details
+
+
+[15-06-2016:8:24:07 PM] : ADMIN has Viewed Employee Details
+
+
+[15-06-2016:8:24:15 PM] : ADMIN has Viewed Employee Details
+
+
+[15-06-2016:8:25:10 PM] : ADMIN has Viewed Employee Details
+
+
+[15-06-2016:8:36:03 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[15-06-2016:8:39:12 PM] : ADMIN has Changed Password for B2KIT0001
+
+[15-06-2016:8:41:13 PM] : ADMIN has viewed job Details.
+
+[15-06-2016:9:06:36 PM] : ADMIN has deleted a Platform Details [B2K128250 ] from the Database
+
+[15-06-2016:9:06:47 PM] : ADMIN has deleted a Platform Details [B2K128251 ] from the Database
+
+[15-06-2016:9:06:59 PM] : ADMIN has Viewed ID details in Escription.
+
+
+[15-06-2016:9:11:12 PM] : ADMIN has Viewed Employee Details
+
+[15-06-2016:9:17:42 PM] : ADMIN has Viewed Employee Details
+
+[15-06-2016:9:18:05 PM] : ADMIN has Viewed Employee Details
+
+
+[15-06-2016:9:34:31 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[15-06-2016:9:35:21 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[15-06-2016:9:41:29 PM] : ADMIN has Viewed Employee Details
+
+
+[15-06-2016:9:41:42 PM] : ADMIN has Viewed Employee Details
+
+
+[15-06-2016:10:48:43 PM] : ADMIN has added Employee Details[VIGNESH K] into the Database
+
+
+[15-06-2016:11:04:04 PM] : ADMIN has logged in to Admin page using the System 182.72.119.226

@@ -1,0 +1,126 @@
+
+
+[12-05-2014:7:37:38 AM] : B2KMLS005 has logged in to IDSIL / PJO using the System 117.206.98.133
+
+
+[12-05-2014:7:38:44 AM] : B2KMLS005 has picked a file 69706711 in IDSIL / PJO
+
+
+[12-05-2014:8:16:16 AM] : B2KMLS005 has uploaded a file 69706711 to Hospital/Customer in IDSIL / PJO
+
+
+[12-05-2014:8:16:38 AM] : B2KMLS005 has picked a file 69707100 in IDSIL / PJO
+
+
+[12-05-2014:9:01:16 AM] : B2KMLS005 has uploaded a file 69707100 to Hospital/Customer in IDSIL / PJO
+
+
+[12-05-2014:10:03:29 AM] : B2KMLS005 has picked a file 69707636 in IDSIL / PJO
+
+
+[12-05-2014:10:20:00 AM] : B2KMLS005 has uploaded a file 69707636 to Hospital/Customer in IDSIL / PJO
+
+
+[12-05-2014:10:20:20 AM] : B2KMLS005 has picked a file 69708009 in IDSIL / PJO
+
+
+[12-05-2014:11:10:41 AM] : B2KMLS005 has logged in to IDSIL / PJO using the System 117.206.98.133
+
+
+[12-05-2014:11:10:49 AM] : B2KMLS005 has uploaded a file 69708009 to Hospital/Customer in IDSIL / PJO
+
+
+[12-05-2014:11:11:02 AM] : B2KMLS005 has picked a file 69707672 in IDSIL / PJO
+
+
+[12-05-2014:12:17:54 PM] : B2KMLS005 has logged in to IDSIL / PJO using the System 117.206.98.133
+
+
+[12-05-2014:12:18:01 PM] : B2KMLS005 has uploaded a file 69707672 to Hospital/Customer in IDSIL / PJO
+
+
+[12-05-2014:1:38:25 PM] : B2KMLS005 has added a Audit file 69709229 in IDSIL / PJO 
+
+
+[12-05-2014:2:13:31 PM] : B2KMLS005 has picked a file 69712126 in IDSIL / PJO
+
+
+[12-05-2014:5:39:55 PM] : B2KMLS005 has logged in to IDSIL / PJO using the System 117.206.104.234
+
+
+[12-05-2014:5:40:22 PM] : B2KMLS005 has uploaded a file 69712126 to Hospital/Customer in IDSIL / PJO
+
+
+[12-05-2014:5:41:09 PM] : B2KMLS005 has picked a file 69712457 in IDSIL / PJO
+
+
+[12-05-2014:6:05:14 PM] : B2KMLS005 has uploaded a file 69712457 to Hospital/Customer in IDSIL / PJO
+
+
+[12-05-2014:6:08:48 PM] : B2KMLS005 has added a Audit file 69708657 in IDSIL / PJO 
+
+
+[12-05-2014:6:08:55 PM] : B2KMLS005 has viewed the Audit file details in IDSIL / PJO from 2014-05-12 to 2014-05-12
+
+
+[12-05-2014:6:09:36 PM] : B2KMLS005 has viewed the Edited file details in IDSIL/PJO from 2014-05-11 to 2014-05-12
+
+
+[12-05-2014:7:28:52 PM] : B2KMLS005 has logged in to IDSIL / PJO using the System 117.206.104.234
+
+
+[12-05-2014:7:29:43 PM] :  has uploaded a DUP file 69716333 in IDSIL / PJO
+
+
+[12-05-2014:7:30:22 PM] : B2KMLS005 has picked a file 69710031 in IDSIL / PJO
+
+
+[12-05-2014:8:22:04 PM] : B2KMLS005 has logged in to IDSIL / PJO using the System 117.206.104.234
+
+
+[12-05-2014:8:22:14 PM] : B2KMLS005 has uploaded a file 69710031 to Hospital/Customer in IDSIL / PJO
+
+
+[12-05-2014:8:22:28 PM] : B2KMLS005 has picked a file 69710132 in IDSIL / PJO
+
+
+[12-05-2014:8:36:03 PM] : B2KMLS005 has uploaded a file 69710132 to Hospital/Customer in IDSIL / PJO
+
+
+[12-05-2014:8:36:18 PM] : B2KMLS005 has picked a file 69713865 in IDSIL / PJO
+
+
+[12-05-2014:8:54:11 PM] : B2KMLS005 has uploaded a file 69713865 to Hospital/Customer in IDSIL / PJO
+
+
+[12-05-2014:8:55:18 PM] : B2KMLS005 has added a Audit file 69710825 in IDSIL / PJO 
+
+
+[12-05-2014:9:17:35 PM] : B2KMLS005 has viewed the DUP file details in IDSIL/PJO from 2014-05-01 to 2014-05-12
+
+
+[12-05-2014:9:17:45 PM] : B2KMLS005 has Downloaded a file details in IDSIL / PJO from 2014-05-01 to 2014-05-12
+
+
+[12-05-2014:9:21:29 PM] : B2KMLS005 has picked a file 69707524 in IDSIL / PJO
+
+
+[12-05-2014:9:21:36 PM] : B2KMLS005 has uploaded a file 69707524 to Hospital/Customer in IDSIL / PJO
+
+
+[12-05-2014:9:22:14 PM] : B2KMLS005 has viewed the Audit file details in IDSIL / PJO from 2014-05-12 to 2014-05-12
+
+
+[12-05-2014:9:22:55 PM] : B2KMLS005 has added a Audit file 69707983 in IDSIL / PJO 
+
+
+[12-05-2014:9:23:33 PM] : B2KMLS005 has viewed the DUP file details in IDSIL/PJO from 2014-05-01 to 2014-05-12
+
+
+[12-05-2014:9:23:43 PM] : B2KMLS005 has Downloaded a file details in IDSIL / PJO from 2014-05-01 to 2014-05-12
+
+
+[12-05-2014:10:01:35 PM] :  has uploaded a DUP file 69723098 in IDSIL / PJO
+
+
+[12-05-2014:10:44:41 PM] :  has uploaded a DUP file 69720678 in IDSIL / PJO

@@ -1,0 +1,66 @@
+
+
+[02-01-2014:12:19:23 AM] : ATER034 has logged in to IDSIL / PJO using the System 116.202.147.152
+
+
+[02-01-2014:12:23:51 AM] : ATER034 has logged out from the Linecount Software Using the System 116.202.147.152
+
+
+[02-01-2014:5:08:36 AM] : ATER034 has logged in to IDSIL / PJO using the System 116.202.112.180
+
+
+[02-01-2014:5:43:23 AM] : ATER034 has uploaded a file 66395701 to Hospital/Customer in IDSIL / PJO
+
+
+[02-01-2014:5:44:26 AM] : ATER034 has picked a file 66401452 in IDSIL / PJO
+
+
+[02-01-2014:5:57:29 AM] : ATER034 has uploaded a file 66401452 to Hospital/Customer in IDSIL / PJO
+
+
+[02-01-2014:5:59:38 AM] : ATER034 has picked a file 66406917 in IDSIL / PJO
+
+
+[02-01-2014:6:08:42 AM] : ATER034 has uploaded a file 66406917 to Hospital/Customer in IDSIL / PJO
+
+
+[02-01-2014:6:09:03 AM] : ATER034 has picked a file 66407380 in IDSIL / PJO
+
+
+[02-01-2014:6:18:10 AM] : ATER034 has uploaded a file 66407380 to Hospital/Customer in IDSIL / PJO
+
+
+[02-01-2014:6:34:21 AM] : ATER034 has picked a file 66404931 in IDSIL / PJO
+
+
+[02-01-2014:6:42:23 AM] : ATER034 has uploaded a file 66404931 to Hospital/Customer in IDSIL / PJO
+
+
+[02-01-2014:6:42:51 AM] : ATER034 has picked a file 66407278 in IDSIL / PJO
+
+
+[02-01-2014:6:58:06 AM] : ATER034 has uploaded a file 66407278 to Hospital/Customer in IDSIL / PJO
+
+
+[02-01-2014:7:02:29 AM] : ATER034 has picked a file 66393354 in IDSIL / PJO
+
+
+[02-01-2014:7:18:17 AM] : ATER034 has uploaded a file 66393354 to Hospital/Customer in IDSIL / PJO
+
+
+[02-01-2014:7:20:34 AM] : ATER034 has logged out from the Linecount Software Using the System 116.202.112.180
+
+
+[03-01-2014:5:09:36 AM] : ATER034 has picked a file 66420268 in IDSIL / PJO
+
+
+[03-01-2014:5:16:31 AM] : ATER034 has uploaded a file 66420268 to Hospital/Customer in IDSIL / PJO
+
+
+[03-01-2014:5:16:50 AM] : ATER034 has picked a file 66423065 in IDSIL / PJO
+
+
+[03-01-2014:5:21:41 AM] : ATER034 has uploaded a file 66423065 to Hospital/Customer in IDSIL / PJO
+
+
+[03-01-2014:5:21:57 AM] : ATER034 has picked a file 66423871 in IDSIL / PJO

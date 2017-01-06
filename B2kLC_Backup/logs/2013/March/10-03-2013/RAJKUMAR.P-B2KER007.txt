@@ -1,0 +1,129 @@
+
+
+[10-03-2013:9:41:32 AM] : B2KER007 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[10-03-2013:10:11:49 AM] : B2KER007 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[10-03-2013:10:34:03 AM] : B2KER007 has picked a file 58496969 in IDSIL / PJO
+
+
+[10-03-2013:10:40:07 AM] : B2KER007 has uploaded a file 58496969 to Hospital/Customer in IDSIL / PJO
+
+
+[10-03-2013:10:58:29 AM] : B2KER007 has picked a file 58503149 in IDSIL / PJO
+
+
+[10-03-2013:10:58:35 AM] : B2KER007 has uploaded a file 58503149 to Hospital/Customer in IDSIL / PJO
+
+
+[10-03-2013:10:59:59 AM] : B2KER007 has picked a file 58496981 in IDSIL / PJO
+
+
+[10-03-2013:11:05:40 AM] : B2KER007 has uploaded a file 58496981 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[10-03-2013:11:52:12 AM] : B2KER007 has picked a file 58499533 in IDSIL / PJO
+
+
+[10-03-2013:12:14:05 PM] : B2KER007 has uploaded a file 58499533 to Hospital/Customer in IDSIL / PJO
+
+
+[10-03-2013:12:15:24 PM] : B2KER007 has picked a file 58499879 in IDSIL / PJO
+
+
+[10-03-2013:12:31:19 PM] : B2KER007 has uploaded a file 58499879 to Hospital/Customer in IDSIL / PJO
+
+
+[10-03-2013:12:33:38 PM] : B2KER007 has picked a file 58500972 in IDSIL / PJO
+
+
+[10-03-2013:12:41:26 PM] : B2KER007 has uploaded a file 58500972 to Hospital/Customer in IDSIL / PJO
+
+
+[10-03-2013:1:00:37 PM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[10-03-2013:1:02:17 PM] : B2KER007 has picked a file 58497440 in IDSIL / PJO
+
+
+[10-03-2013:1:13:06 PM] : B2KER007 has uploaded a file 58497440 to Hospital/Customer in IDSIL / PJO
+
+
+[10-03-2013:1:25:52 PM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[10-03-2013:2:15:35 PM] : B2KER007 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[10-03-2013:2:15:46 PM] : B2KER007 has picked a file 58503027 in IDSIL / PJO
+
+
+[10-03-2013:2:21:14 PM] : B2KER007 has uploaded a file 58503027 to Hospital/Customer in IDSIL / PJO
+
+
+[10-03-2013:2:24:01 PM] : B2KER007 has picked a file 58503109 in IDSIL / PJO
+
+
+[10-03-2013:2:29:57 PM] : B2KER007 has uploaded a file 58503109 to Hospital/Customer in IDSIL / PJO
+
+
+[10-03-2013:2:38:04 PM] : B2KER007 has picked a file 58504439 in IDSIL / PJO
+
+
+[10-03-2013:2:45:17 PM] : B2KER007 has uploaded a file 58504439 to Hospital/Customer in IDSIL / PJO
+
+
+[10-03-2013:2:51:01 PM] : B2KER007 has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[10-03-2013:2:51:06 PM] : B2KER007 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[10-03-2013:2:52:08 PM] : B2KER007 has viewed the Audit file details in IDSIL / PJO from 2013-03-10 to 2013-03-10
+
+
+[10-03-2013:2:57:19 PM] : B2KER007 has picked a file 58502785 in IDSIL / PJO
+
+
+[10-03-2013:3:06:02 PM] : B2KER007 has uploaded a file 58502785 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[10-03-2013:3:08:51 PM] : B2KER007 has picked a file 58506844 in IDSIL / PJO
+
+
+[10-03-2013:3:13:44 PM] : B2KER007 has uploaded a file 58506844 to Hospital/Customer in IDSIL / PJO
+
+
+[10-03-2013:3:14:55 PM] : B2KER007 has picked a file 58506902 in IDSIL / PJO
+
+
+[10-03-2013:3:20:01 PM] : B2KER007 has uploaded a file 58506902 to Hospital/Customer in IDSIL / PJO
+
+
+[10-03-2013:3:21:41 PM] : B2KER007 has picked a file 58508432 in IDSIL / PJO
+
+
+[10-03-2013:3:27:55 PM] : B2KER007 has uploaded a file 58508432 to Hospital/Customer in IDSIL / PJO
+
+
+[10-03-2013:3:33:17 PM] : B2KER007 has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[10-03-2013:3:33:21 PM] : B2KER007 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[10-03-2013:3:44:39 PM] : B2KER007 has picked a file 58503113 in IDSIL / PJO
+
+
+[10-03-2013:3:48:15 PM] : B2KER007 has uploaded a file 58503113 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[10-03-2013:4:24:06 PM] : B2KER007 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[10-03-2013:4:24:17 PM] : B2KER007 has picked a file 58509448 in IDSIL / PJO
+
+
+[10-03-2013:4:32:43 PM] : B2KER007 has uploaded a file 58509448 to Hospital/Customer in IDSIL / PJO

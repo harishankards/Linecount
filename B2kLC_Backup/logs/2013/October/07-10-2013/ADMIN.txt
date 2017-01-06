@@ -1,0 +1,42 @@
+
+
+[07-10-2013:2:02:37 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[07-10-2013:2:02:48 AM] : ADMIN has Viewed Employee Details
+
+
+[07-10-2013:2:02:54 AM] : ADMIN has Viewed Employee Details
+
+
+[07-10-2013:6:57:47 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[07-10-2013:6:57:57 AM] : ADMIN has Viewed Employee Details
+
+
+[07-10-2013:6:59:16 AM] : ADMIN has Viewed Employee Details
+
+
+[07-10-2013:7:57:37 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[07-10-2013:7:57:58 AM] : ADMIN has Viewed Employee Details
+
+
+[07-10-2013:7:58:05 AM] : ADMIN has Viewed Employee Details
+
+
+[07-10-2013:9:44:49 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[07-10-2013:6:53:02 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[07-10-2013:7:19:12 PM] : ADMIN has Viewed Employee Details
+
+
+[07-10-2013:7:19:21 PM] : ADMIN has Viewed Employee Details
+
+
+[07-10-2013:8:43:23 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35

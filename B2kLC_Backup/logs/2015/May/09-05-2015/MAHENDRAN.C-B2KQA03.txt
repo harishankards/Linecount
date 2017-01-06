@@ -1,0 +1,54 @@
+
+
+[09-05-2015:12:52:01 AM] : B2KQA03 has logged in to IDSIL / PJO using the System 59.90.86.47
+
+
+[09-05-2015:7:01:53 AM] : B2KQA03 has logged in to IDSIL / PJO using the System 59.90.86.47
+
+
+[09-05-2015:11:57:03 AM] : B2KQA03 has logged in to IDSIL / PJO using the System 59.90.86.47
+
+
+[09-05-2015:12:21:25 PM] : B2KQA03 has picked a file 91628711 in IDSIL / PJO
+
+
+[09-05-2015:12:21:41 PM] : B2KQA03 has picked a file 91628732 in IDSIL / PJO
+
+
+[09-05-2015:12:21:52 PM] : B2KQA03 has picked a file 91655032 in IDSIL / PJO
+
+
+[09-05-2015:12:22:06 PM] : B2KQA03 has picked a file 91657611 in IDSIL / PJO
+
+
+[09-05-2015:12:22:25 PM] : B2KQA03 has picked a file 91659087 in IDSIL / PJO
+
+
+[09-05-2015:12:23:01 PM] : B2KQA03 has uploaded a file 91628711 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[09-05-2015:12:23:01 PM] : B2KQA03 has uploaded a file 91628732 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[09-05-2015:12:23:02 PM] : B2KQA03 has uploaded a file 91657611 to Hospital/Customer in IDSIL / PJO
+
+
+[09-05-2015:12:23:02 PM] : B2KQA03 has uploaded a file 91659087 to Hospital/Customer in IDSIL / PJO
+
+
+[09-05-2015:12:23:03 PM] : B2KQA03 has uploaded a file 91655032 to Hospital/Customer in IDSIL / PJO
+
+
+[09-05-2015:1:57:13 PM] : B2KQA03 has logged in to IDSIL / PJO using the System 59.90.86.47
+
+
+[09-05-2015:1:57:28 PM] : B2KQA03 has picked a file 91651560 in IDSIL / PJO
+
+
+[09-05-2015:1:57:49 PM] : B2KQA03 has uploaded a file 91651560 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[09-05-2015:1:58:01 PM] : B2KQA03 has picked a file 91651557 in IDSIL / PJO
+
+
+[09-05-2015:1:58:10 PM] : B2KQA03 has uploaded a file 91651557 to Hospital/Customer in IDSIL / PJO

@@ -1,0 +1,63 @@
+
+
+[10-05-2014:4:04:21 AM] : B2KMLS013 has logged in to IDSIL / PJO using the System 101.63.150.17
+
+
+[10-05-2014:7:09:40 AM] : B2KMLS013 has logged in to IDSIL / PJO using the System 115.241.79.109
+
+
+[10-05-2014:7:10:50 AM] : B2KMLS013 has picked a file 69660894 in IDSIL / PJO
+
+
+[10-05-2014:7:44:41 AM] : B2KMLS013 has logged in to IDSIL / PJO using the System 115.241.79.109
+
+
+[10-05-2014:7:47:17 AM] : B2KMLS013 has uploaded a file 69660894 to Hospital/Customer in IDSIL / PJO
+
+
+[10-05-2014:7:48:51 AM] : B2KMLS013 has picked a file 69663314 in IDSIL / PJO
+
+
+[10-05-2014:8:12:28 AM] : B2KMLS013 has uploaded a file 69663314 to Hospital/Customer in IDSIL / PJO
+
+
+[10-05-2014:8:12:50 AM] : B2KMLS013 has picked a file 69665252 in IDSIL / PJO
+
+
+[10-05-2014:8:47:02 AM] : B2KMLS013 has logged in to IDSIL / PJO using the System 115.241.79.109
+
+
+[10-05-2014:8:47:17 AM] : B2KMLS013 has uploaded a file 69665252 to Hospital/Customer in IDSIL / PJO
+
+
+[10-05-2014:8:48:15 AM] : B2KMLS013 has picked a file 69668329 in IDSIL / PJO
+
+
+[10-05-2014:9:16:35 AM] : B2KMLS013 has uploaded a file 69668329 to Hospital/Customer in IDSIL / PJO
+
+
+[10-05-2014:9:20:17 AM] : B2KMLS013 has picked a file 69669524 in IDSIL / PJO
+
+
+[10-05-2014:10:15:36 AM] : B2KMLS013 has logged in to IDSIL / PJO using the System 115.241.79.109
+
+
+[10-05-2014:10:15:45 AM] : B2KMLS013 has uploaded a file 69669524 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[10-05-2014:11:50:44 AM] : B2KMLS013 has logged in to IDSIL / PJO using the System 115.241.38.163
+
+
+[10-05-2014:11:51:23 AM] :  has uploaded a DUP file 69679536 in IDSIL / PJO
+
+
+[10-05-2014:12:50:39 PM] : B2KMLS013 has logged in to IDSIL / PJO using the System 115.241.38.163
+
+
+[10-05-2014:1:24:06 PM] : B2KMLS013 has picked a file 69676796 in IDSIL / PJO
+
+
+[10-05-2014:2:52:06 PM] : B2KMLS013 has logged in to IDSIL / PJO using the System 115.241.38.163
+
+
+[10-05-2014:2:52:23 PM] : B2KMLS013 has uploaded a file 69676796 to IDS/QA_Checkpoint in IDSIL / PJO

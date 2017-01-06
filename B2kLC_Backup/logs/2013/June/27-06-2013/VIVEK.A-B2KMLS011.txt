@@ -1,0 +1,63 @@
+
+
+[27-06-2013:9:36:31 AM] : B2KMLS011 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[27-06-2013:9:41:59 AM] : B2KMLS011 has picked a file 61683312 in IDSIL / PJO
+
+
+[27-06-2013:10:02:22 AM] : B2KMLS011 has uploaded a file 61683312 to Hospital/Customer in IDSIL / PJO
+
+
+[27-06-2013:9:04:11 PM] : B2KMLS011 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[27-06-2013:9:04:50 PM] :  has uploaded a DUP file 61699999 in IDSIL / PJO
+
+
+[27-06-2013:9:05:19 PM] :  has uploaded a DUP file 61690785 in IDSIL / PJO
+
+
+[27-06-2013:9:05:36 PM] :  has uploaded a DUP file 61692272 in IDSIL / PJO
+
+
+[27-06-2013:9:05:56 PM] :  has uploaded a DUP file 61692097 in IDSIL / PJO
+
+
+[27-06-2013:9:06:14 PM] :  has uploaded a DUP file 61695231 in IDSIL / PJO
+
+
+[27-06-2013:9:06:33 PM] :  has uploaded a DUP file 61695512 in IDSIL / PJO
+
+
+[27-06-2013:9:06:50 PM] :  has uploaded a DUP file 61699180 in IDSIL / PJO
+
+
+[27-06-2013:9:07:03 PM] :  has uploaded a DUP file 61701597 in IDSIL / PJO
+
+
+[27-06-2013:9:07:22 PM] :  has uploaded a DUP file 61701609 in IDSIL / PJO
+
+
+[27-06-2013:9:07:40 PM] :  has uploaded a DUP file 61705472 in IDSIL / PJO
+
+
+[27-06-2013:9:07:49 PM] : B2KMLS011 has viewed the DUP file details in IDSIL/PJO from 2013-06-27 to 2013-06-27
+
+
+[27-06-2013:9:07:58 PM] : B2KMLS011 has viewed the DUP file details in IDSIL/PJO from 2013-06-01 to 2013-06-27
+
+
+[27-06-2013:9:08:19 PM] : B2KMLS011 has viewed the Edited file details in IDSIL/PJO from 2013-06-27 to 2013-06-27
+
+
+[27-06-2013:9:08:27 PM] : B2KMLS011 has viewed the Edited file details in IDSIL/PJO from 2013-06-01 to 2013-06-27
+
+
+[27-06-2013:9:08:44 PM] : B2KMLS011 has viewed the Audit file details in IDSIL / PJO from 2013-06-27 to 2013-06-27
+
+
+[27-06-2013:9:08:51 PM] : B2KMLS011 has viewed the Audit file details in IDSIL / PJO from 2013-06-01 to 2013-06-27
+
+
+[27-06-2013:9:09:24 PM] : B2KMLS011 has logged out from the Linecount Software Using the System 123.255.248.35

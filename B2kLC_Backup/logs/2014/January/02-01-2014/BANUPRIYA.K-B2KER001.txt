@@ -1,0 +1,72 @@
+
+
+[02-01-2014:10:04:07 AM] : B2KER001 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[02-01-2014:10:05:10 AM] : B2KER001 has picked a file 66410288 in IDSIL / PJO
+
+
+[02-01-2014:10:19:23 AM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[02-01-2014:11:13:52 AM] : B2KER001 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[02-01-2014:11:14:05 AM] : B2KER001 has picked a file 66399039 in IDSIL / PJO
+
+
+[02-01-2014:11:33:54 AM] : B2KER001 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[02-01-2014:11:35:37 AM] : B2KER001 has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[02-01-2014:12:07:50 PM] : B2KER001 has picked a file 66386962 in IDSIL / PJO
+
+
+[02-01-2014:12:47:02 PM] : B2KER001 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[02-01-2014:12:47:13 PM] : B2KER001 has picked a file 66404626 in IDSIL / PJO
+
+
+[02-01-2014:1:00:40 PM] : B2KER001 has picked a file 66404665 in IDSIL / PJO
+
+
+[02-01-2014:1:09:55 PM] : B2KER001 has picked a file 66404740 in IDSIL / PJO
+
+
+[02-01-2014:1:18:33 PM] : B2KER001 has picked a file 66404811 in IDSIL / PJO
+
+
+[02-01-2014:2:34:40 PM] : B2KER001 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[02-01-2014:2:34:58 PM] : B2KER001 has picked a file 66405121 in IDSIL / PJO
+
+
+[02-01-2014:2:44:00 PM] : B2KER001 has picked a file 66407207 in IDSIL / PJO
+
+
+[02-01-2014:3:06:11 PM] : B2KER001 has picked a file 66407606 in IDSIL / PJO
+
+
+[02-01-2014:4:42:45 PM] : B2KER001 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[02-01-2014:4:43:59 PM] :  has uploaded a DUP file 66409802 in IDSIL / PJO
+
+
+[02-01-2014:4:45:01 PM] : B2KER001 has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[02-01-2014:7:36:25 PM] : B2KER001 has logged in to IDSIL / PJO using the System 117.222.180.86
+
+
+[02-01-2014:7:36:46 PM] : B2KER001 has viewed the DUP file details in IDSIL/PJO from 2014-01-01 to 2014-01-02
+
+
+[02-01-2014:7:36:54 PM] : B2KER001 has viewed the Edited file details in IDSIL/PJO from 2014-01-01 to 2014-01-02
+
+
+[02-01-2014:7:37:02 PM] : B2KER001 has logged out from the Linecount Software Using the System 117.222.180.86

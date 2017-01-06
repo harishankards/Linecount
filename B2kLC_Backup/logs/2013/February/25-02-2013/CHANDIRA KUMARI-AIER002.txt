@@ -1,0 +1,48 @@
+
+
+[25-02-2013:11:59:33 AM] : AIER002 has logged in to IDSIL / PJO using the System 14.99.207.212
+
+
+[25-02-2013:12:07:10 PM] : AIER002 has picked a file 58075739 in IDSIL / PJO
+
+
+[25-02-2013:12:27:16 PM] : AIER002 has uploaded a file 58075739 to Hospital/Customer in IDSIL / PJO
+
+
+[25-02-2013:12:28:10 PM] : AIER002 has picked a file 58075913 in IDSIL / PJO
+
+
+[25-02-2013:12:49:28 PM] : AIER002 has uploaded a file 58075913 to Hospital/Customer in IDSIL / PJO
+
+
+[25-02-2013:12:50:53 PM] : AIER002 has picked a file 58076197 in IDSIL / PJO
+
+
+[25-02-2013:1:14:29 PM] : AIER002 has uploaded a file 58076197 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[25-02-2013:1:15:51 PM] : AIER002 has picked a file 58066216 in IDSIL / PJO
+
+
+[25-02-2013:4:27:06 PM] : AIER002 has logged in to IDSIL / PJO using the System 14.99.255.165
+
+
+[25-02-2013:4:27:28 PM] : AIER002 has uploaded a file 58066216 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[25-02-2013:4:28:22 PM] : AIER002 has viewed the third level Edited file details in IDSIL / PJO from 2013-02-17 to 2013-02-25
+
+
+[25-02-2013:4:28:34 PM] : AIER002 has viewed the third level Edited file details in IDSIL / PJO from 2013-02-17 to 2013-02-25
+
+
+[25-02-2013:4:28:45 PM] : AIER002 has viewed the Edited file details in IDSIL/PJO from 2013-02-25 to 2013-02-25
+
+
+[25-02-2013:4:28:57 PM] : AIER002 has viewed the Edited file details in IDSIL/PJO from 2013-02-15 to 2013-02-25
+
+
+[25-02-2013:4:36:11 PM] : AIER002 has viewed the Audit file details in IDSIL / PJO from 2013-02-17 to 2013-02-25
+
+
+[25-02-2013:4:36:37 PM] : AIER002 has viewed the Edited file details in IDSIL/PJO from 2013-02-25 to 2013-02-25

@@ -1,0 +1,147 @@
+
+
+[28-01-2014:10:02:43 AM] : RTER001 has logged in to IDSIL / PJO using the System 223.231.167.120
+
+
+[28-01-2014:10:04:39 AM] : RTER001 has picked a file 67081271 in IDSIL / PJO
+
+
+[28-01-2014:10:07:40 AM] : RTER001 has picked a file 67077993 in IDSIL / PJO
+
+
+[28-01-2014:10:19:21 AM] : RTER001 has uploaded a file 67077993 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[28-01-2014:10:25:30 AM] : RTER001 has picked a file 67069266 in IDSIL / PJO
+
+
+[28-01-2014:10:33:28 AM] : RTER001 has uploaded a file 67069266 to Hospital/Customer in IDSIL / PJO
+
+
+[28-01-2014:10:55:54 AM] : RTER001 has uploaded a file 67081271 to Hospital/Customer in IDSIL / PJO
+
+
+[28-01-2014:10:57:43 AM] : RTER001 has picked a file 67085771 in IDSIL / PJO
+
+
+[28-01-2014:11:03:43 AM] : RTER001 has uploaded a file 67085771 to Hospital/Customer in IDSIL / PJO
+
+
+[28-01-2014:11:04:48 AM] : RTER001 has picked a file 67078085 in IDSIL / PJO
+
+
+[28-01-2014:11:28:51 AM] : RTER001 has uploaded a file 67078085 to Hospital/Customer in IDSIL / PJO
+
+
+[28-01-2014:11:30:07 AM] : RTER001 has picked a file 67079706 in IDSIL / PJO
+
+
+[28-01-2014:11:46:12 AM] : RTER001 has uploaded a file 67079706 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[28-01-2014:11:48:35 AM] : RTER001 has picked a file 67088053 in IDSIL / PJO
+
+
+[28-01-2014:11:59:12 AM] : RTER001 has uploaded a file 67088053 to Hospital/Customer in IDSIL / PJO
+
+
+[28-01-2014:12:01:22 PM] : RTER001 has picked a file 67081528 in IDSIL / PJO
+
+
+[28-01-2014:12:03:52 PM] : RTER001 has uploaded a file 67081528 to Hospital/Customer in IDSIL / PJO
+
+
+[28-01-2014:12:05:12 PM] : RTER001 has picked a file 67076222 in IDSIL / PJO
+
+
+[28-01-2014:12:27:37 PM] : RTER001 has uploaded a file 67076222 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[28-01-2014:12:32:48 PM] : RTER001 has picked a file 67088315 in IDSIL / PJO
+
+
+[28-01-2014:12:41:40 PM] : RTER001 has uploaded a file 67088315 to Hospital/Customer in IDSIL / PJO
+
+
+[28-01-2014:12:42:23 PM] : RTER001 has picked a file 67082523 in IDSIL / PJO
+
+
+[28-01-2014:12:48:36 PM] : RTER001 has uploaded a file 67082523 to Hospital/Customer in IDSIL / PJO
+
+
+[28-01-2014:12:49:39 PM] : RTER001 has picked a file 67088383 in IDSIL / PJO
+
+
+[28-01-2014:12:57:53 PM] : RTER001 has uploaded a file 67088383 to Hospital/Customer in IDSIL / PJO
+
+
+[28-01-2014:12:59:02 PM] : RTER001 has picked a file 67088430 in IDSIL / PJO
+
+
+[28-01-2014:1:06:08 PM] : RTER001 has uploaded a file 67088430 to Hospital/Customer in IDSIL / PJO
+
+
+[28-01-2014:1:07:35 PM] : RTER001 has picked a file 67082867 in IDSIL / PJO
+
+
+[28-01-2014:1:18:09 PM] : RTER001 has uploaded a file 67082867 to Hospital/Customer in IDSIL / PJO
+
+
+[28-01-2014:1:19:08 PM] : RTER001 has picked a file 67083039 in IDSIL / PJO
+
+
+[28-01-2014:1:43:28 PM] : RTER001 has uploaded a file 67083039 to Hospital/Customer in IDSIL / PJO
+
+
+[28-01-2014:1:45:45 PM] : RTER001 has logged out from the Linecount Software Using the System 223.231.167.120
+
+
+[28-01-2014:2:40:02 PM] : RTER001 has logged in to IDSIL / PJO using the System 223.234.41.60
+
+
+[28-01-2014:2:42:09 PM] : RTER001 has picked a file 67088798 in IDSIL / PJO
+
+
+[28-01-2014:2:55:39 PM] : RTER001 has uploaded a file 67088798 to Hospital/Customer in IDSIL / PJO
+
+
+[28-01-2014:2:59:25 PM] : RTER001 has picked a file 67089014 in IDSIL / PJO
+
+
+[28-01-2014:3:19:47 PM] : RTER001 has uploaded a file 67089014 to Hospital/Customer in IDSIL / PJO
+
+
+[28-01-2014:3:20:51 PM] : RTER001 has picked a file 67086496 in IDSIL / PJO
+
+
+[28-01-2014:3:21:39 PM] : RTER001 has picked a file 67086751 in IDSIL / PJO
+
+
+[28-01-2014:3:31:24 PM] : RTER001 has uploaded a file 67086496 to Hospital/Customer in IDSIL / PJO
+
+
+[28-01-2014:3:40:25 PM] : RTER001 has uploaded a file 67086751 to Hospital/Customer in IDSIL / PJO
+
+
+[28-01-2014:3:41:07 PM] : RTER001 has picked a file 67085892 in IDSIL / PJO
+
+
+[28-01-2014:3:47:05 PM] : RTER001 has uploaded a file 67085892 to Hospital/Customer in IDSIL / PJO
+
+
+[28-01-2014:3:50:16 PM] : RTER001 has picked a file 67089048 in IDSIL / PJO
+
+
+[28-01-2014:3:58:27 PM] : RTER001 has uploaded a file 67089048 to Hospital/Customer in IDSIL / PJO
+
+
+[28-01-2014:3:59:47 PM] : RTER001 has picked a file 67067555 in IDSIL / PJO
+
+
+[28-01-2014:4:12:55 PM] : RTER001 has uploaded a file 67067555 to Hospital/Customer in IDSIL / PJO
+
+
+[28-01-2014:4:23:47 PM] : RTER001 has logged out from the Linecount Software Using the System 223.234.41.60
+
+
+[28-01-2014:10:31:20 PM] : RTER001 has logged in to IDSIL / PJO using the System 101.222.255.81

@@ -1,0 +1,33 @@
+
+
+[08-05-2013:1:19:56 PM] : VTMLS002 has logged in to IDSIL / PJO using the System 122.178.120.41
+
+
+[08-05-2013:1:20:13 PM] : VTMLS002 has viewed the file details in IDSIL / PJO from 2013-01-01 to 2013-01-31
+
+
+[08-05-2013:1:20:20 PM] : VTMLS002 has Downloaded a file details in IDSIL / PJO from 2013-01-01 to 2013-01-31
+
+
+[08-05-2013:1:20:51 PM] : VTMLS002 has logged out from the Linecount Software Using the System 122.178.120.41
+
+
+[08-05-2013:3:25:18 PM] : VTMLS002 has logged in to IDSIL / PJO using the System 122.178.120.41
+
+
+[08-05-2013:3:25:29 PM] : VTMLS002 has viewed the file details in IDSIL / PJO from 2013-02-01 to 2013-02-28
+
+
+[08-05-2013:3:25:35 PM] : VTMLS002 has Downloaded a file details in IDSIL / PJO from 2013-02-01 to 2013-02-28
+
+
+[08-05-2013:3:26:10 PM] : VTMLS002 has logged out from the Linecount Software Using the System 122.178.120.41
+
+
+[08-05-2013:3:56:14 PM] : VTMLS002 has logged in to IDSIL / PJO using the System 122.178.120.41
+
+
+[08-05-2013:3:56:26 PM] : VTMLS002 has viewed the file details in IDSIL / PJO from 2013-03-01 to 2013-03-31
+
+
+[08-05-2013:3:56:29 PM] : VTMLS002 has logged out from the Linecount Software Using the System 122.178.120.41

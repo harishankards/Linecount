@@ -1,0 +1,72 @@
+
+
+[20-05-2013:4:37:15 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[20-05-2013:9:59:56 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[20-05-2013:10:23:05 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[20-05-2013:10:43:03 AM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[20-05-2013:10:49:59 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[20-05-2013:10:53:38 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[20-05-2013:10:57:33 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[20-05-2013:11:38:11 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[20-05-2013:12:51:21 PM] : ADMIN has logged in to Admin page using the System 117.206.101.108
+
+[20-05-2013:12:51:41 PM] : ADMIN has viewed Bank Details
+
+[20-05-2013:12:52:05 PM] : ADMIN has viewed Bank Details
+
+[20-05-2013:12:55:00 PM] : ADMIN has viewed Bank Details
+
+[20-05-2013:12:55:03 PM] : ADMIN has viewed Bank Details
+
+[20-05-2013:12:56:32 PM] : ADMIN has viewed Bank Details
+
+[20-05-2013:12:56:44 PM] : ADMIN has viewed Bank Details
+
+
+[20-05-2013:1:27:55 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[20-05-2013:1:39:08 PM] : ADMIN has logged in to Admin page using the System 117.213.66.67
+
+
+[20-05-2013:2:37:07 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[20-05-2013:4:05:30 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[20-05-2013:4:42:58 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[20-05-2013:5:36:43 PM] : ADMIN has Viewed Employee Details
+
+
+[20-05-2013:5:39:07 PM] : ADMIN has added Employee Details[AYESHA] into the Database
+
+
+[20-05-2013:6:53:38 PM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[20-05-2013:9:02:25 PM] : ADMIN has logged in to Admin page using the System 117.216.99.8
+
+
+[20-05-2013:10:15:30 PM] : ADMIN has logged in to Admin page using the System 223.185.137.203
+
+
+[20-05-2013:10:50:20 PM] : ADMIN has logged in to Admin page using the System 117.197.196.148

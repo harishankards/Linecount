@@ -1,0 +1,30 @@
+
+
+[18-01-2014:1:28:02 AM] : B2KER003 has logged in to IDSIL / PJO using the System 101.63.139.204
+
+
+[18-01-2014:1:29:57 AM] : B2KER003 has logged out from the Linecount Software Using the System 101.63.139.204
+
+
+[18-01-2014:1:41:41 AM] : B2KER003 has logged in to IDSIL / PJO using the System 101.63.139.204
+
+
+[18-01-2014:1:51:31 AM] : B2KER003 has logged out from the Linecount Software Using the System 101.63.139.204
+
+
+[18-01-2014:9:52:20 AM] : B2KER003 has logged in to IDSIL / PJO using the System 223.234.194.50
+
+
+[18-01-2014:9:55:04 AM] : B2KER003 has logged out from the Linecount Software Using the System 223.234.194.50
+
+
+[18-01-2014:10:29:51 AM] : B2KER003 has logged in to IDSIL / PJO using the System 101.63.208.109
+
+
+[18-01-2014:10:30:16 AM] : B2KER003 has picked a file 66840316 in IDSIL / PJO
+
+
+[18-01-2014:10:30:24 AM] : B2KER003 has uploaded a file 66840316 to Hospital/Customer in IDSIL / PJO
+
+
+[18-01-2014:10:30:36 AM] : B2KER003 has logged out from the Linecount Software Using the System 101.63.208.109

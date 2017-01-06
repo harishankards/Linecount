@@ -1,0 +1,24 @@
+
+
+[12-06-2014:9:21:51 AM] : B2KMLS005 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[12-06-2014:9:44:26 AM] : B2KMLS005 has viewed the DUP file details in IDSIL/PJO from 2014-05-01 to 2014-05-31
+
+
+[12-06-2014:9:44:35 AM] : B2KMLS005 has Downloaded a file details in IDSIL / PJO from 2014-05-01 to 2014-05-31
+
+
+[12-06-2014:9:45:15 AM] : B2KMLS005 has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[12-06-2014:4:03:33 PM] : B2KMLS005 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[12-06-2014:4:56:15 PM] : B2KMLS005 has picked a file 70451493 in IDSIL / PJO
+
+
+[12-06-2014:5:03:25 PM] : B2KMLS005 has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[12-06-2014:5:28:58 PM] : B2KMLS005 has logged in to IDSIL / PJO using the System 123.255.248.35

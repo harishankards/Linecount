@@ -1,0 +1,105 @@
+
+
+[16-06-2013:9:36:14 AM] : SKPOMLS029 has logged in to IDSIL / PJO using the System 14.102.34.42
+
+
+[16-06-2013:9:40:52 AM] : SKPOMLS029 has picked a file 61376422 in IDSIL / PJO
+
+
+[16-06-2013:10:26:27 AM] : SKPOMLS029 has logged in to IDSIL / PJO using the System 14.102.34.42
+
+
+[16-06-2013:10:27:02 AM] : SKPOMLS029 has uploaded a file 61376422 to Hospital/Customer in IDSIL / PJO
+
+
+[16-06-2013:10:27:23 AM] : SKPOMLS029 has viewed the Edited file details in IDSIL/PJO from 2013-06-16 to 2013-06-16
+
+
+[16-06-2013:10:30:33 AM] : SKPOMLS029 has picked a file 61378691 in IDSIL / PJO
+
+
+[16-06-2013:10:41:58 AM] : SKPOMLS029 has viewed the Edited file details in IDSIL/PJO from 2013-06-16 to 2013-06-16
+
+
+[16-06-2013:11:10:08 AM] : SKPOMLS029 has uploaded a file 61378691 to Hospital/Customer in IDSIL / PJO
+
+
+[16-06-2013:11:21:06 AM] : SKPOMLS029 has picked a file 61383682 in IDSIL / PJO
+
+
+[16-06-2013:11:27:43 AM] : SKPOMLS029 has viewed the Edited file details in IDSIL/PJO from 2013-06-16 to 2013-06-16
+
+
+[16-06-2013:11:31:34 AM] : SKPOMLS029 has viewed the DUP file details in IDSIL/PJO from 2013-06-01 to 2013-06-16
+
+
+[16-06-2013:11:31:38 AM] : SKPOMLS029 has Downloaded a file details in IDSIL / PJO from 2013-06-01 to 2013-06-16
+
+
+[16-06-2013:12:02:51 PM] : SKPOMLS029 has uploaded a file 61383682 to Hospital/Customer in IDSIL / PJO
+
+
+[16-06-2013:12:15:23 PM] : SKPOMLS029 has added a Audit file 61381040 in IDSIL / PJO 
+
+
+[16-06-2013:12:18:50 PM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[16-06-2013:1:01:03 PM] : SKPOMLS029 has logged in to IDSIL / PJO using the System 14.102.34.42
+
+
+[16-06-2013:1:02:45 PM] : SKPOMLS029 has added a Audit file 61383923 in IDSIL / PJO 
+
+
+[16-06-2013:1:05:05 PM] : SKPOMLS029 has picked a file 61385361 in IDSIL / PJO
+
+
+[16-06-2013:1:06:40 PM] : SKPOMLS029 has viewed the Edited file details in IDSIL/PJO from 2013-06-16 to 2013-06-16
+
+
+[16-06-2013:1:06:55 PM] : SKPOMLS029 has viewed the Audit file details in IDSIL / PJO from 2013-06-16 to 2013-06-16
+
+
+[16-06-2013:1:35:36 PM] : SKPOMLS029 has uploaded a file 61385361 to Hospital/Customer in IDSIL / PJO
+
+
+[16-06-2013:1:39:00 PM] : SKPOMLS029 has picked a file 61378895 in IDSIL / PJO
+
+
+[16-06-2013:1:55:27 PM] : SKPOMLS029 has uploaded a file 61378895 to Hospital/Customer in IDSIL / PJO
+
+
+[16-06-2013:1:57:56 PM] : SKPOMLS029 has picked a file 61380225 in IDSIL / PJO
+
+
+[16-06-2013:2:22:59 PM] : SKPOMLS029 has uploaded a file 61380225 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[16-06-2013:2:28:47 PM] : SKPOMLS029 has added a Audit file 61386711 in IDSIL / PJO 
+
+
+[16-06-2013:2:29:33 PM] : SKPOMLS029 has viewed the Audit file details in IDSIL / PJO from 2013-06-16 to 2013-06-16
+
+
+[16-06-2013:2:32:33 PM] : SKPOMLS029 has picked a file 61381286 in IDSIL / PJO
+
+
+[16-06-2013:3:03:11 PM] : SKPOMLS029 has uploaded a file 61381286 to Hospital/Customer in IDSIL / PJO
+
+
+[16-06-2013:3:08:20 PM] : SKPOMLS029 has picked a file 61386965 in IDSIL / PJO
+
+
+[16-06-2013:3:27:36 PM] : SKPOMLS029 has uploaded a file 61386965 to Hospital/Customer in IDSIL / PJO
+
+
+[16-06-2013:3:34:00 PM] : SKPOMLS029 has picked a file 61386397 in IDSIL / PJO
+
+
+[16-06-2013:3:34:13 PM] : SKPOMLS029 has viewed the Edited file details in IDSIL/PJO from 2013-06-16 to 2013-06-16
+
+
+[16-06-2013:3:34:25 PM] : SKPOMLS029 has viewed the Audit file details in IDSIL / PJO from 2013-06-16 to 2013-06-16
+
+
+[16-06-2013:3:52:24 PM] : SKPOMLS029 has uploaded a file 61386397 to Hospital/Customer in IDSIL / PJO

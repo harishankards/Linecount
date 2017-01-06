@@ -1,0 +1,120 @@
+
+
+[09-04-2013:5:29:42 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[09-04-2013:9:59:10 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[09-04-2013:10:22:52 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[09-04-2013:10:23:19 AM] : ADMIN has Viewed Employee Details
+
+
+[09-04-2013:10:23:22 AM] : ADMIN has Viewed Employee Details
+
+
+[09-04-2013:10:23:44 AM] : ADMIN has Viewed Employee Details
+
+
+[09-04-2013:10:55:16 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[09-04-2013:11:07:04 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[09-04-2013:11:39:19 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[09-04-2013:12:06:50 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[09-04-2013:12:54:33 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[09-04-2013:1:05:31 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[09-04-2013:1:21:26 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[09-04-2013:2:01:06 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[09-04-2013:2:34:11 PM] : ADMIN has logged in to Admin page using the System 117.242.217.6
+
+[09-04-2013:2:34:30 PM] : ADMIN has viewed Bank Details
+
+[09-04-2013:2:34:42 PM] : ADMIN has viewed Bank Details
+
+[09-04-2013:2:39:47 PM] : ADMIN has viewed Bank Details
+
+[09-04-2013:2:39:53 PM] : ADMIN has viewed Bank Details
+
+[09-04-2013:2:40:20 PM] : ADMIN has viewed Bank Details
+
+[09-04-2013:2:42:39 PM] : ADMIN has viewed Bank Details
+
+[09-04-2013:2:43:03 PM] : ADMIN has viewed Bank Details
+
+[09-04-2013:2:44:03 PM] : ADMIN has viewed Bank Details
+
+[09-04-2013:2:44:08 PM] : ADMIN has viewed Bank Details
+
+
+[09-04-2013:2:48:11 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[09-04-2013:3:28:43 PM] : ADMIN has logged in to Admin page using the System 117.213.70.224
+
+[09-04-2013:3:29:08 PM] : ADMIN has viewed Bank Details
+
+[09-04-2013:3:29:27 PM] : ADMIN has viewed Bank Details
+
+
+[09-04-2013:3:32:42 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[09-04-2013:4:02:31 PM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[09-04-2013:4:02:35 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[09-04-2013:4:31:22 PM] : ADMIN has Viewed Employee Details
+
+
+[09-04-2013:5:13:18 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[09-04-2013:5:20:14 PM] : ADMIN has added a Vendor Details [TRESTON TECHNOLOGIES] into the Database
+
+
+[09-04-2013:5:22:24 PM] : ADMIN has Viewed Employee Details
+
+
+[09-04-2013:5:23:40 PM] : ADMIN has Viewed Employee Details
+
+
+[09-04-2013:5:23:44 PM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[09-04-2013:5:26:02 PM] : ADMIN has added Employee Details[PRAVEEN BABU] into the Database
+
+
+[09-04-2013:5:27:16 PM] : ADMIN has added Employee Details[ANURAJ.V. MADHAVAN] into the Database
+
+
+[09-04-2013:5:28:31 PM] : ADMIN has added Employee Details[SREEKUMAR.R.R] into the Database
+
+
+[09-04-2013:5:29:43 PM] : ADMIN has added Employee Details[JITHIN PETER] into the Database
+
+
+[09-04-2013:5:54:29 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[09-04-2013:8:52:14 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[09-04-2013:11:29:41 PM] : ADMIN has logged in to Admin page using the System 117.235.175.212

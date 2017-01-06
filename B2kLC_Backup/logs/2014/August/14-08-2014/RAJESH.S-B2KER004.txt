@@ -1,0 +1,69 @@
+
+
+[14-08-2014:9:15:06 AM] : B2KER004 has logged in to IDSIL / PJO using the System 42.104.63.45
+
+
+[14-08-2014:9:15:48 AM] : B2KER004 has picked a file 71895138 in IDSIL / PJO
+
+
+[14-08-2014:9:22:00 AM] : B2KER004 has uploaded a file 71895138 to Hospital/Customer in IDSIL / PJO
+
+
+[14-08-2014:11:11:06 AM] : B2KER004 has logged in to IDSIL / PJO using the System 42.104.61.245
+
+
+[14-08-2014:11:13:15 AM] : B2KER004 has picked a file 71899637 in IDSIL / PJO
+
+
+[14-08-2014:11:39:47 AM] : B2KER004 has uploaded a file 71899637 to Hospital/Customer in IDSIL / PJO
+
+
+[14-08-2014:11:42:51 AM] : B2KER004 has picked a file 71895923 in IDSIL / PJO
+
+
+[14-08-2014:11:46:40 AM] : B2KER004 has uploaded a file 71895923 to Hospital/Customer in IDSIL / PJO
+
+
+[14-08-2014:11:51:34 AM] : B2KER004 has picked a file 71900204 in IDSIL / PJO
+
+
+[14-08-2014:11:52:10 AM] : B2KER004 has uploaded a file 71900204 to Hospital/Customer in IDSIL / PJO
+
+
+[14-08-2014:11:56:40 AM] : B2KER004 has picked a file 71898135 in IDSIL / PJO
+
+
+[14-08-2014:11:56:50 AM] : B2KER004 has uploaded a file 71898135 to Hospital/Customer in IDSIL / PJO
+
+
+[14-08-2014:12:03:28 PM] : B2KER004 has picked a file 71898842 in IDSIL / PJO
+
+
+[14-08-2014:12:03:35 PM] : B2KER004 has uploaded a file 71898842 to Hospital/Customer in IDSIL / PJO
+
+
+[14-08-2014:12:10:07 PM] : B2KER004 has picked a file 71899726 in IDSIL / PJO
+
+
+[14-08-2014:12:10:21 PM] : B2KER004 has uploaded a file 71899726 to Hospital/Customer in IDSIL / PJO
+
+
+[14-08-2014:12:33:27 PM] : B2KER004 has picked a file 71894812 in IDSIL / PJO
+
+
+[14-08-2014:12:35:48 PM] : B2KER004 has uploaded a file 71894812 to Hospital/Customer in IDSIL / PJO
+
+
+[14-08-2014:12:39:03 PM] : B2KER004 has added a Audit file 71899856 in IDSIL / PJO 
+
+
+[14-08-2014:1:13:26 PM] : B2KER004 has picked a file 71900256 in IDSIL / PJO
+
+
+[14-08-2014:1:17:34 PM] : B2KER004 has uploaded a file 71900256 to Hospital/Customer in IDSIL / PJO
+
+
+[14-08-2014:1:22:25 PM] : B2KER004 has picked a file 71900443 in IDSIL / PJO
+
+
+[14-08-2014:1:22:33 PM] : B2KER004 has uploaded a file 71900443 to Hospital/Customer in IDSIL / PJO

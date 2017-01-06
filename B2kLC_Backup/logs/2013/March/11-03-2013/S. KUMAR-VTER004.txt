@@ -1,0 +1,30 @@
+
+
+[11-03-2013:12:08:11 AM] : VTER004 has logged in to IDSIL / PJO using the System 122.169.132.203
+
+
+[12-03-2013:12:13:59 AM] : VTER004 has picked a file 58545450 in IDSIL / PJO
+
+
+[12-03-2013:12:14:04 AM] : VTER004 has uploaded a file 58545450 to Hospital/Customer in IDSIL / PJO
+
+
+[12-03-2013:12:14:20 AM] : VTER004 has picked a file 58548063 in IDSIL / PJO
+
+
+[12-03-2013:12:14:25 AM] : VTER004 has uploaded a file 58548063 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[12-03-2013:12:43:29 AM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[12-03-2013:12:46:11 AM] : VTER004 has picked a file 58549935 in IDSIL / PJO
+
+
+[12-03-2013:12:46:17 AM] : VTER004 has uploaded a file 58549935 to Hospital/Customer in IDSIL / PJO
+
+
+[12-03-2013:1:01:43 AM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[12-03-2013:1:02:52 AM] :  has uploaded a DUP file  in IDSIL / PJO

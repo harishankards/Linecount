@@ -1,0 +1,126 @@
+
+
+[21-01-2014:12:21:14 PM] : ATER007 has logged in to IDSIL / PJO using the System 117.218.59.252
+
+
+[21-01-2014:12:39:12 PM] : ATER007 has logged in to IDSIL / PJO using the System 117.218.59.252
+
+
+[21-01-2014:12:48:37 PM] : ATER007 has logged out from the Linecount Software Using the System 117.218.59.252
+
+
+[21-01-2014:2:06:47 PM] : ATER007 has logged in to IDSIL / PJO using the System 117.218.59.252
+
+
+[21-01-2014:2:30:07 PM] : ATER007 has logged out from the Linecount Software Using the System 117.218.59.252
+
+
+[21-01-2014:3:17:15 PM] : ATER007 has logged in to IDSIL / PJO using the System 117.218.59.252
+
+
+[21-01-2014:3:20:01 PM] : ATER007 has picked a file 66875051 in IDSIL / PJO
+
+
+[21-01-2014:3:39:47 PM] : ATER007 has uploaded a file 66875051 to Hospital/Customer in IDSIL / PJO
+
+
+[21-01-2014:4:30:03 PM] : ATER007 has logged out from the Linecount Software Using the System 117.218.59.252
+
+
+[21-01-2014:6:04:38 PM] : ATER007 has logged in to IDSIL / PJO using the System 117.218.59.252
+
+
+[21-01-2014:6:08:11 PM] : ATER007 has picked a file 66881093 in IDSIL / PJO
+
+
+[21-01-2014:6:25:56 PM] : ATER007 has uploaded a file 66881093 to Hospital/Customer in IDSIL / PJO
+
+
+[21-01-2014:6:28:46 PM] : ATER007 has picked a file 66885086 in IDSIL / PJO
+
+
+[21-01-2014:6:35:12 PM] : ATER007 has uploaded a file 66885086 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[21-01-2014:6:42:09 PM] : ATER007 has picked a file 66885262 in IDSIL / PJO
+
+
+[21-01-2014:6:49:05 PM] : ATER007 has uploaded a file 66885262 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[21-01-2014:7:08:15 PM] : ATER007 has picked a file 66892780 in IDSIL / PJO
+
+
+[21-01-2014:7:08:33 PM] : ATER007 has uploaded a file 66892780 to Hospital/Customer in IDSIL / PJO
+
+
+[21-01-2014:7:15:40 PM] : ATER007 has picked a file 66892906 in IDSIL / PJO
+
+
+[21-01-2014:7:22:19 PM] : ATER007 has uploaded a file 66892906 to Hospital/Customer in IDSIL / PJO
+
+
+[21-01-2014:7:22:33 PM] : ATER007 has picked a file 66892948 in IDSIL / PJO
+
+
+[21-01-2014:7:23:47 PM] : ATER007 has uploaded a file 66892948 to Hospital/Customer in IDSIL / PJO
+
+
+[21-01-2014:7:25:59 PM] : ATER007 has picked a file 66892986 in IDSIL / PJO
+
+
+[21-01-2014:7:32:23 PM] : ATER007 has uploaded a file 66892986 to Hospital/Customer in IDSIL / PJO
+
+
+[21-01-2014:8:02:36 PM] : ATER007 has logged in to IDSIL / PJO using the System 117.218.59.252
+
+
+[21-01-2014:8:09:51 PM] : ATER007 has logged in to IDSIL / PJO using the System 117.218.59.252
+
+
+[21-01-2014:8:10:01 PM] : ATER007 has viewed the Edited file details in IDSIL/PJO from 2014-01-21 to 2014-01-21
+
+
+[21-01-2014:8:10:26 PM] : ATER007 has viewed the Edited file details in IDSIL/PJO from 2014-01-01 to 2014-01-21
+
+
+[21-01-2014:8:10:36 PM] : ATER007 has Downloaded a file details in IDSIL / PJO from 2014-01-01 to 2014-01-21
+
+
+[21-01-2014:8:10:50 PM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[21-01-2014:8:11:34 PM] : ATER007 has logged out from the Linecount Software Using the System 117.218.59.252
+
+
+[21-01-2014:8:22:40 PM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[21-01-2014:8:27:57 PM] : ATER007 has picked a file 66886551 in IDSIL / PJO
+
+
+[21-01-2014:8:45:10 PM] : ATER007 has uploaded a file 66886551 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[21-01-2014:8:51:00 PM] : ATER007 has picked a file 66903343 in IDSIL / PJO
+
+
+[21-01-2014:8:58:02 PM] : ATER007 has uploaded a file 66903343 to Hospital/Customer in IDSIL / PJO
+
+
+[21-01-2014:9:16:06 PM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[21-01-2014:9:19:29 PM] : ATER007 has picked a file 66888043 in IDSIL / PJO
+
+
+[21-01-2014:9:30:48 PM] : ATER007 has uploaded a file 66888043 to Hospital/Customer in IDSIL / PJO
+
+
+[21-01-2014:9:33:55 PM] : ATER007 has viewed the Edited file details in IDSIL/PJO from 2014-01-21 to 2014-01-21
+
+
+[21-01-2014:9:34:06 PM] : ATER007 has viewed the Audit file details in IDSIL / PJO from 2014-01-21 to 2014-01-21
+
+
+[21-01-2014:9:34:11 PM] : ATER007 has logged out from the Linecount Software Using the System 117.218.59.252

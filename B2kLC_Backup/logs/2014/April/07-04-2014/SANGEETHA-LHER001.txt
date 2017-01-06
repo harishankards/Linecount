@@ -1,0 +1,378 @@
+
+
+[07-04-2014:1:01:17 PM] : LHER001 has logged in to IDSIL / PJO using the System 122.178.160.15
+
+
+[07-04-2014:1:02:29 PM] : LHER001 has picked a file 68823128 in IDSIL / PJO
+
+
+[07-04-2014:1:02:42 PM] : LHER001 has uploaded a file 68823128 to Hospital/Customer in IDSIL / PJO
+
+
+[07-04-2014:1:03:00 PM] : LHER001 has picked a file 68819591 in IDSIL / PJO
+
+
+[07-04-2014:1:03:07 PM] : LHER001 has uploaded a file 68819591 to Hospital/Customer in IDSIL / PJO
+
+
+[07-04-2014:4:15:45 PM] : LHER001 has logged in to IDSIL / PJO using the System 122.178.160.15
+
+
+[07-04-2014:4:17:59 PM] : LHER001 has picked a file 68696984 in IDSIL / PJO
+
+
+[07-04-2014:4:18:14 PM] : LHER001 has uploaded a file 68696984 to Hospital/Customer in IDSIL / PJO
+
+
+[07-04-2014:4:18:45 PM] : LHER001 has picked a file 68700826 in IDSIL / PJO
+
+
+[07-04-2014:4:18:51 PM] : LHER001 has uploaded a file 68700826 to Hospital/Customer in IDSIL / PJO
+
+
+[07-04-2014:4:19:06 PM] : LHER001 has picked a file 68701424 in IDSIL / PJO
+
+
+[07-04-2014:4:19:17 PM] : LHER001 has uploaded a file 68701424 to Hospital/Customer in IDSIL / PJO
+
+
+[07-04-2014:4:19:31 PM] : LHER001 has picked a file 68705045 in IDSIL / PJO
+
+
+[07-04-2014:4:19:37 PM] : LHER001 has uploaded a file 68705045 to Hospital/Customer in IDSIL / PJO
+
+
+[07-04-2014:4:19:50 PM] : LHER001 has picked a file 68704525 in IDSIL / PJO
+
+
+[07-04-2014:4:19:56 PM] : LHER001 has uploaded a file 68704525 to Hospital/Customer in IDSIL / PJO
+
+
+[07-04-2014:4:20:16 PM] : LHER001 has picked a file 68704686 in IDSIL / PJO
+
+
+[07-04-2014:4:20:22 PM] : LHER001 has uploaded a file 68704686 to Hospital/Customer in IDSIL / PJO
+
+
+[07-04-2014:4:20:37 PM] : LHER001 has picked a file 68703445 in IDSIL / PJO
+
+
+[07-04-2014:4:20:45 PM] : LHER001 has uploaded a file 68703445 to Hospital/Customer in IDSIL / PJO
+
+
+[07-04-2014:4:21:03 PM] : LHER001 has picked a file 68706416 in IDSIL / PJO
+
+
+[07-04-2014:4:21:19 PM] : LHER001 has uploaded a file 68706416 to Hospital/Customer in IDSIL / PJO
+
+
+[07-04-2014:4:21:33 PM] : LHER001 has picked a file 68705378 in IDSIL / PJO
+
+
+[07-04-2014:4:21:39 PM] : LHER001 has uploaded a file 68705378 to Hospital/Customer in IDSIL / PJO
+
+
+[07-04-2014:4:21:50 PM] : LHER001 has picked a file 68703794 in IDSIL / PJO
+
+
+[07-04-2014:4:21:56 PM] : LHER001 has uploaded a file 68703794 to Hospital/Customer in IDSIL / PJO
+
+
+[07-04-2014:4:22:12 PM] : LHER001 has picked a file 68704015 in IDSIL / PJO
+
+
+[07-04-2014:4:22:18 PM] : LHER001 has uploaded a file 68704015 to Hospital/Customer in IDSIL / PJO
+
+
+[07-04-2014:4:22:30 PM] : LHER001 has picked a file 68703860 in IDSIL / PJO
+
+
+[07-04-2014:4:22:36 PM] : LHER001 has uploaded a file 68703860 to Hospital/Customer in IDSIL / PJO
+
+
+[07-04-2014:4:22:49 PM] : LHER001 has picked a file 68693295 in IDSIL / PJO
+
+
+[07-04-2014:4:22:55 PM] : LHER001 has uploaded a file 68693295 to Hospital/Customer in IDSIL / PJO
+
+
+[07-04-2014:4:23:08 PM] : LHER001 has picked a file 68705004 in IDSIL / PJO
+
+
+[07-04-2014:4:23:15 PM] : LHER001 has uploaded a file 68705004 to Hospital/Customer in IDSIL / PJO
+
+
+[07-04-2014:4:23:28 PM] : LHER001 has picked a file 68706035 in IDSIL / PJO
+
+
+[07-04-2014:4:23:34 PM] : LHER001 has uploaded a file 68706035 to Hospital/Customer in IDSIL / PJO
+
+
+[07-04-2014:4:23:51 PM] : LHER001 has picked a file 68732376 in IDSIL / PJO
+
+
+[07-04-2014:4:23:57 PM] : LHER001 has uploaded a file 68732376 to Hospital/Customer in IDSIL / PJO
+
+
+[07-04-2014:4:24:11 PM] : LHER001 has picked a file 68732830 in IDSIL / PJO
+
+
+[07-04-2014:4:24:16 PM] : LHER001 has uploaded a file 68732830 to Hospital/Customer in IDSIL / PJO
+
+
+[07-04-2014:4:24:31 PM] : LHER001 has picked a file 68733305 in IDSIL / PJO
+
+
+[07-04-2014:4:24:37 PM] : LHER001 has uploaded a file 68733305 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[07-04-2014:4:28:53 PM] : LHER001 has picked a file 68735497 in IDSIL / PJO
+
+
+[07-04-2014:4:28:59 PM] : LHER001 has uploaded a file 68735497 to Hospital/Customer in IDSIL / PJO
+
+
+[07-04-2014:4:29:26 PM] : LHER001 has picked a file 68731082 in IDSIL / PJO
+
+
+[07-04-2014:4:29:47 PM] : LHER001 has uploaded a file 68731082 to Third_level in IDSIL / PJO
+
+
+[07-04-2014:4:30:11 PM] : LHER001 has picked a file 68735729 in IDSIL / PJO
+
+
+[07-04-2014:4:30:23 PM] : LHER001 has uploaded a file 68735729 to Hospital/Customer in IDSIL / PJO
+
+
+[07-04-2014:4:30:51 PM] : LHER001 has picked a file 68704432 in IDSIL / PJO
+
+
+[07-04-2014:4:30:58 PM] : LHER001 has uploaded a file 68704432 to Hospital/Customer in IDSIL / PJO
+
+
+[07-04-2014:4:31:18 PM] : LHER001 has picked a file 68734422 in IDSIL / PJO
+
+
+[07-04-2014:4:31:39 PM] : LHER001 has uploaded a file 68734422 to Hospital/Customer in IDSIL / PJO
+
+
+[07-04-2014:4:31:53 PM] : LHER001 has picked a file 68766056 in IDSIL / PJO
+
+
+[07-04-2014:4:31:59 PM] : LHER001 has uploaded a file 68766056 to Hospital/Customer in IDSIL / PJO
+
+
+[07-04-2014:4:32:09 PM] : LHER001 has picked a file 68761767 in IDSIL / PJO
+
+
+[07-04-2014:4:32:16 PM] : LHER001 has uploaded a file 68761767 to Hospital/Customer in IDSIL / PJO
+
+
+[07-04-2014:4:32:30 PM] : LHER001 has picked a file 68766036 in IDSIL / PJO
+
+
+[07-04-2014:4:32:36 PM] : LHER001 has uploaded a file 68766036 to Hospital/Customer in IDSIL / PJO
+
+
+[07-04-2014:4:32:47 PM] : LHER001 has picked a file 68762537 in IDSIL / PJO
+
+
+[07-04-2014:4:32:53 PM] : LHER001 has uploaded a file 68762537 to Hospital/Customer in IDSIL / PJO
+
+
+[07-04-2014:4:33:06 PM] : LHER001 has picked a file 68762553 in IDSIL / PJO
+
+
+[07-04-2014:4:33:26 PM] : LHER001 has uploaded a file 68762553 to Third_level in IDSIL / PJO
+
+
+[07-04-2014:4:33:44 PM] : LHER001 has picked a file 68763721 in IDSIL / PJO
+
+
+[07-04-2014:4:33:51 PM] : LHER001 has uploaded a file 68763721 to Hospital/Customer in IDSIL / PJO
+
+
+[07-04-2014:4:34:03 PM] : LHER001 has picked a file 68762975 in IDSIL / PJO
+
+
+[07-04-2014:4:34:09 PM] : LHER001 has uploaded a file 68762975 to Third_level in IDSIL / PJO
+
+
+[07-04-2014:4:34:22 PM] : LHER001 has picked a file 68753694 in IDSIL / PJO
+
+
+[07-04-2014:4:34:28 PM] : LHER001 has uploaded a file 68753694 to Hospital/Customer in IDSIL / PJO
+
+
+[07-04-2014:4:34:49 PM] : LHER001 has picked a file 68764703 in IDSIL / PJO
+
+
+[07-04-2014:4:34:59 PM] : LHER001 has uploaded a file 68764703 to Hospital/Customer in IDSIL / PJO
+
+
+[07-04-2014:4:35:13 PM] : LHER001 has picked a file 68765646 in IDSIL / PJO
+
+
+[07-04-2014:4:35:20 PM] : LHER001 has uploaded a file 68765646 to Hospital/Customer in IDSIL / PJO
+
+
+[07-04-2014:4:35:31 PM] : LHER001 has picked a file 68764504 in IDSIL / PJO
+
+
+[07-04-2014:4:35:37 PM] : LHER001 has uploaded a file 68764504 to Third_level in IDSIL / PJO
+
+
+[07-04-2014:4:35:49 PM] : LHER001 has picked a file 68765718 in IDSIL / PJO
+
+
+[07-04-2014:4:35:55 PM] : LHER001 has uploaded a file 68765718 to Hospital/Customer in IDSIL / PJO
+
+
+[07-04-2014:4:36:27 PM] : LHER001 has picked a file 68765753 in IDSIL / PJO
+
+
+[07-04-2014:4:36:34 PM] : LHER001 has uploaded a file 68765753 to Hospital/Customer in IDSIL / PJO
+
+
+[07-04-2014:4:36:55 PM] : LHER001 has picked a file 68764014 in IDSIL / PJO
+
+
+[07-04-2014:4:37:01 PM] : LHER001 has uploaded a file 68764014 to Hospital/Customer in IDSIL / PJO
+
+
+[07-04-2014:4:37:12 PM] : LHER001 has picked a file 68767507 in IDSIL / PJO
+
+
+[07-04-2014:4:37:18 PM] : LHER001 has uploaded a file 68767507 to Hospital/Customer in IDSIL / PJO
+
+
+[07-04-2014:4:37:28 PM] : LHER001 has picked a file 68787002 in IDSIL / PJO
+
+
+[07-04-2014:4:37:36 PM] : LHER001 has uploaded a file 68787002 to Hospital/Customer in IDSIL / PJO
+
+
+[07-04-2014:4:37:47 PM] : LHER001 has picked a file 68795465 in IDSIL / PJO
+
+
+[07-04-2014:4:37:54 PM] : LHER001 has uploaded a file 68795465 to Hospital/Customer in IDSIL / PJO
+
+
+[07-04-2014:4:38:06 PM] : LHER001 has picked a file 68793483 in IDSIL / PJO
+
+
+[07-04-2014:4:38:12 PM] : LHER001 has uploaded a file 68793483 to Hospital/Customer in IDSIL / PJO
+
+
+[07-04-2014:4:38:23 PM] : LHER001 has picked a file 68788537 in IDSIL / PJO
+
+
+[07-04-2014:4:38:30 PM] : LHER001 has uploaded a file 68788537 to Hospital/Customer in IDSIL / PJO
+
+
+[07-04-2014:4:39:09 PM] : LHER001 has picked a file 68792831 in IDSIL / PJO
+
+
+[07-04-2014:4:39:16 PM] : LHER001 has uploaded a file 68792831 to Hospital/Customer in IDSIL / PJO
+
+
+[07-04-2014:4:39:27 PM] : LHER001 has picked a file 68795796 in IDSIL / PJO
+
+
+[07-04-2014:4:39:34 PM] : LHER001 has uploaded a file 68795796 to Hospital/Customer in IDSIL / PJO
+
+
+[07-04-2014:4:39:51 PM] : LHER001 has picked a file 68795803 in IDSIL / PJO
+
+
+[07-04-2014:4:39:58 PM] : LHER001 has uploaded a file 68795803 to Hospital/Customer in IDSIL / PJO
+
+
+[07-04-2014:4:40:11 PM] : LHER001 has picked a file 68790696 in IDSIL / PJO
+
+
+[07-04-2014:4:40:20 PM] : LHER001 has uploaded a file 68790696 to Hospital/Customer in IDSIL / PJO
+
+
+[07-04-2014:4:40:30 PM] : LHER001 has picked a file 68794079 in IDSIL / PJO
+
+
+[07-04-2014:4:40:36 PM] : LHER001 has uploaded a file 68794079 to Hospital/Customer in IDSIL / PJO
+
+
+[07-04-2014:4:40:48 PM] : LHER001 has picked a file 68790599 in IDSIL / PJO
+
+
+[07-04-2014:4:40:54 PM] : LHER001 has uploaded a file 68790599 to Hospital/Customer in IDSIL / PJO
+
+
+[07-04-2014:4:41:09 PM] : LHER001 has picked a file 68796047 in IDSIL / PJO
+
+
+[07-04-2014:4:41:16 PM] : LHER001 has uploaded a file 68796047 to Hospital/Customer in IDSIL / PJO
+
+
+[07-04-2014:4:41:39 PM] : LHER001 has picked a file 68793372 in IDSIL / PJO
+
+
+[07-04-2014:4:41:46 PM] : LHER001 has uploaded a file 68793372 to Hospital/Customer in IDSIL / PJO
+
+
+[07-04-2014:4:42:05 PM] : LHER001 has picked a file 68795762 in IDSIL / PJO
+
+
+[07-04-2014:4:42:10 PM] : LHER001 has uploaded a file 68795762 to Hospital/Customer in IDSIL / PJO
+
+
+[07-04-2014:4:42:20 PM] : LHER001 has picked a file 68794019 in IDSIL / PJO
+
+
+[07-04-2014:4:42:28 PM] : LHER001 has uploaded a file 68794019 to Hospital/Customer in IDSIL / PJO
+
+
+[07-04-2014:4:42:39 PM] : LHER001 has picked a file 68797079 in IDSIL / PJO
+
+
+[07-04-2014:4:42:45 PM] : LHER001 has uploaded a file 68797079 to Hospital/Customer in IDSIL / PJO
+
+
+[07-04-2014:4:43:31 PM] : LHER001 has picked a file 68821126 in IDSIL / PJO
+
+
+[07-04-2014:4:43:38 PM] : LHER001 has uploaded a file 68821126 to Third_level in IDSIL / PJO
+
+
+[07-04-2014:4:44:00 PM] : LHER001 has picked a file 68815422 in IDSIL / PJO
+
+
+[07-04-2014:4:44:06 PM] : LHER001 has uploaded a file 68815422 to Third_level in IDSIL / PJO
+
+
+[07-04-2014:4:44:21 PM] : LHER001 has picked a file 68815731 in IDSIL / PJO
+
+
+[07-04-2014:4:44:28 PM] : LHER001 has uploaded a file 68815731 to Hospital/Customer in IDSIL / PJO
+
+
+[07-04-2014:4:44:39 PM] : LHER001 has picked a file 68815503 in IDSIL / PJO
+
+
+[07-04-2014:4:44:47 PM] : LHER001 has uploaded a file 68815503 to Third_level in IDSIL / PJO
+
+
+[07-04-2014:4:44:57 PM] : LHER001 has picked a file 68816161 in IDSIL / PJO
+
+
+[07-04-2014:4:45:02 PM] : LHER001 has uploaded a file 68816161 to Hospital/Customer in IDSIL / PJO
+
+
+[07-04-2014:4:45:41 PM] : LHER001 has viewed the DUP file details in IDSIL/PJO from 2014-04-01 to 2014-04-07
+
+
+[07-04-2014:4:45:49 PM] : LHER001 has viewed the DUP file details in IDSIL/PJO from 2014-04-01 to 2014-04-07
+
+
+[07-04-2014:4:46:09 PM] : LHER001 has viewed the Edited file details in IDSIL/PJO from 2014-04-01 to 2014-04-07
+
+
+[07-04-2014:4:52:56 PM] : LHER001 has logged out from the Linecount Software Using the System 122.178.160.15

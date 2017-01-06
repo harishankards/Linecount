@@ -1,0 +1,21 @@
+
+
+[17-01-2013:11:53:33 AM] : SKPOER006 has logged in to IDSIL / PJO using the System 14.102.34.42
+
+
+[17-01-2013:11:58:11 AM] : SKPOER006 has picked a file 56818147 in IDSIL / PJO
+
+
+[17-01-2013:12:17:42 PM] : SKPOER006 has logged in to IDSIL / PJO using the System 14.102.34.42
+
+
+[17-01-2013:12:17:47 PM] : SKPOER006 has uploaded a file 56818147 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[17-01-2013:12:28:07 PM] : SKPOER006 has added a Audit file 56835041 in IDSIL / PJO 
+
+
+[17-01-2013:12:29:24 PM] : SKPOER006 has picked a file 56839509 in IDSIL / PJO
+
+
+[17-01-2013:12:47:37 PM] : SKPOER006 has uploaded a file 56839509 to IDS/QA_Checkpoint in IDSIL / PJO

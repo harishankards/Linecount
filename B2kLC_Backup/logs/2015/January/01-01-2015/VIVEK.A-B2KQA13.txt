@@ -1,0 +1,120 @@
+
+
+[01-01-2015:1:26:40 AM] : B2KQA13 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[01-01-2015:1:57:45 AM] : B2KQA13 has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[01-01-2015:5:43:24 AM] : B2KQA13 has logged in to IDSIL / PJO using the System 122.178.155.163
+
+
+[01-01-2015:5:44:31 AM] : B2KQA13 has uploaded a file 74936366 to Hospital/Customer in IDSIL / PJO
+
+
+[01-01-2015:5:45:14 AM] : B2KQA13 has picked a file 74924533 in IDSIL / PJO
+
+
+[01-01-2015:6:27:59 AM] : B2KQA13 has uploaded a file 74924533 to Hospital/Customer in IDSIL / PJO
+
+
+[01-01-2015:6:29:06 AM] : B2KQA13 has picked a file 74938539 in IDSIL / PJO
+
+
+[01-01-2015:6:45:49 AM] : B2KQA13 has uploaded a file 74938539 to Hospital/Customer in IDSIL / PJO
+
+
+[01-01-2015:6:46:13 AM] : B2KQA13 has picked a file 74938525 in IDSIL / PJO
+
+
+[01-01-2015:6:59:17 AM] : B2KQA13 has uploaded a file 74938525 to Hospital/Customer in IDSIL / PJO
+
+
+[01-01-2015:7:00:02 AM] : B2KQA13 has picked a file 74939913 in IDSIL / PJO
+
+
+[01-01-2015:7:27:25 AM] : B2KQA13 has uploaded a file 74939913 to Hospital/Customer in IDSIL / PJO
+
+
+[01-01-2015:7:27:29 AM] : B2KQA13 has logged in to IDSIL / PJO using the System 122.178.155.163
+
+
+[01-01-2015:7:28:15 AM] : B2KQA13 has picked a file 74940811 in IDSIL / PJO
+
+
+[01-01-2015:7:54:33 AM] : B2KQA13 has uploaded a file 74940811 to Hospital/Customer in IDSIL / PJO
+
+
+[01-01-2015:7:54:53 AM] : B2KQA13 has picked a file 74941305 in IDSIL / PJO
+
+
+[01-01-2015:8:18:01 AM] : B2KQA13 has uploaded a file 74941305 to Hospital/Customer in IDSIL / PJO
+
+
+[01-01-2015:9:30:37 AM] : B2KQA13 has logged in to IDSIL / PJO using the System 122.178.155.163
+
+
+[01-01-2015:9:31:28 AM] :  has uploaded a DUP file 74943251 in IDSIL / PJO
+
+
+[01-01-2015:9:51:07 AM] :  has uploaded a DUP file 74943266 in IDSIL / PJO
+
+
+[01-01-2015:11:00:35 AM] : B2KQA13 has logged in to IDSIL / PJO using the System 122.178.155.163
+
+
+[01-01-2015:11:01:08 AM] :  has uploaded a DUP file 74948321 in IDSIL / PJO
+
+
+[01-01-2015:11:07:00 AM] : B2KQA13 has viewed the DUP file details in IDSIL/PJO from 2014-12-01 to 2014-12-31
+
+
+[01-01-2015:11:07:30 AM] : B2KQA13 has viewed the Edited file details in IDSIL/PJO from 2014-12-01 to 2014-12-31
+
+
+[01-01-2015:11:49:11 AM] : B2KQA13 has logged in to IDSIL / PJO using the System 122.178.140.120
+
+
+[01-01-2015:11:58:08 AM] :  has uploaded a DUP file 74948396 in IDSIL / PJO
+
+
+[01-01-2015:12:34:15 PM] : B2KQA13 has logged in to IDSIL / PJO using the System 122.178.140.120
+
+
+[01-01-2015:12:35:12 PM] :  has uploaded a DUP file 74950064 in IDSIL / PJO
+
+
+[01-01-2015:12:51:06 PM] :  has uploaded a DUP file 74937568 in IDSIL / PJO
+
+
+[01-01-2015:1:19:18 PM] :  has uploaded a DUP file 74937704 in IDSIL / PJO
+
+
+[01-01-2015:1:57:54 PM] : B2KQA13 has logged in to IDSIL / PJO using the System 122.178.140.120
+
+
+[01-01-2015:1:58:25 PM] :  has uploaded a DUP file 74938919 in IDSIL / PJO
+
+
+[01-01-2015:2:13:39 PM] :  has uploaded a DUP file 74938925 in IDSIL / PJO
+
+
+[01-01-2015:2:14:44 PM] : B2KQA13 has logged out from the Linecount Software Using the System 122.178.140.120
+
+
+[01-01-2015:2:14:48 PM] : B2KQA13 has logged in to IDSIL / PJO using the System 122.178.140.120
+
+
+[01-01-2015:2:15:00 PM] : B2KQA13 has viewed the DUP file details in IDSIL/PJO from 2015-01-01 to 2015-01-01
+
+
+[01-01-2015:2:16:04 PM] :  has uploaded a DUP file 74938586 in IDSIL / PJO
+
+
+[01-01-2015:2:16:10 PM] : B2KQA13 has viewed the DUP file details in IDSIL/PJO from 2015-01-01 to 2015-01-01
+
+
+[01-01-2015:2:16:17 PM] : B2KQA13 has viewed the Edited file details in IDSIL/PJO from 2015-01-01 to 2015-01-01
+
+
+[01-01-2015:2:16:27 PM] : B2KQA13 has logged out from the Linecount Software Using the System 122.178.140.120

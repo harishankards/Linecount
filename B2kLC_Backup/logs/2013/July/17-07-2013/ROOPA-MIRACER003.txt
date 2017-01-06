@@ -1,0 +1,78 @@
+
+
+[17-07-2013:1:18:21 PM] : MIRACER003 has logged in to IDSIL / PJO using the System 27.59.9.186
+
+
+[17-07-2013:1:25:39 PM] : MIRACER003 has viewed the Edited file details in IDSIL/PJO from 2013-07-07 to 2013-07-14
+
+
+[17-07-2013:1:26:28 PM] : MIRACER003 has Downloaded a file details in IDSIL / PJO from 2013-07-07 to 2013-07-14
+
+
+[17-07-2013:1:27:12 PM] : MIRACER003 has logged out from the Linecount Software Using the System 27.59.9.186
+
+
+[17-07-2013:3:03:40 PM] : MIRACER003 has logged in to IDSIL / PJO using the System 117.199.10.7
+
+
+[17-07-2013:3:04:10 PM] : MIRACER003 has picked a file 62221539 in IDSIL / PJO
+
+
+[17-07-2013:3:04:23 PM] : MIRACER003 has picked a file 62221516 in IDSIL / PJO
+
+
+[17-07-2013:3:04:32 PM] : MIRACER003 has uploaded a file 62221539 to Hospital/Customer in IDSIL / PJO
+
+
+[17-07-2013:3:04:33 PM] : MIRACER003 has uploaded a file 62221516 to Hospital/Customer in IDSIL / PJO
+
+
+[17-07-2013:3:04:49 PM] : MIRACER003 has picked a file 62222109 in IDSIL / PJO
+
+
+[17-07-2013:3:04:55 PM] : MIRACER003 has uploaded a file 62222109 to Hospital/Customer in IDSIL / PJO
+
+
+[17-07-2013:3:05:21 PM] : MIRACER003 has picked a file 62222396 in IDSIL / PJO
+
+
+[17-07-2013:3:05:27 PM] : MIRACER003 has uploaded a file 62222396 to Hospital/Customer in IDSIL / PJO
+
+
+[17-07-2013:3:05:54 PM] : MIRACER003 has picked a file 62222622 in IDSIL / PJO
+
+
+[17-07-2013:3:06:00 PM] : MIRACER003 has uploaded a file 62222622 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[17-07-2013:3:06:15 PM] : MIRACER003 has picked a file 62222514 in IDSIL / PJO
+
+
+[17-07-2013:3:06:21 PM] : MIRACER003 has uploaded a file 62222514 to Hospital/Customer in IDSIL / PJO
+
+
+[17-07-2013:3:06:44 PM] : MIRACER003 has picked a file 62222643 in IDSIL / PJO
+
+
+[17-07-2013:3:06:51 PM] : MIRACER003 has uploaded a file 62222643 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[17-07-2013:3:42:00 PM] : MIRACER003 has logged in to IDSIL / PJO using the System 117.199.10.7
+
+
+[17-07-2013:3:42:19 PM] : MIRACER003 has picked a file 62222681 in IDSIL / PJO
+
+
+[17-07-2013:3:42:26 PM] : MIRACER003 has uploaded a file 62222681 to Hospital/Customer in IDSIL / PJO
+
+
+[17-07-2013:3:42:38 PM] : MIRACER003 has picked a file 62222758 in IDSIL / PJO
+
+
+[17-07-2013:3:42:44 PM] : MIRACER003 has uploaded a file 62222758 to Hospital/Customer in IDSIL / PJO
+
+
+[17-07-2013:3:43:04 PM] : MIRACER003 has picked a file 62221537 in IDSIL / PJO
+
+
+[17-07-2013:3:43:10 PM] : MIRACER003 has uploaded a file 62221537 to Hospital/Customer in IDSIL / PJO

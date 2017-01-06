@@ -1,0 +1,33 @@
+
+
+[24-10-2015:12:00:57 PM] : B2KQA03 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[24-10-2015:12:01:19 PM] : B2KQA03 has picked a file 94710508 in IDSIL / PJO
+
+
+[24-10-2015:12:01:33 PM] : B2KQA03 has picked a file 94713459 in IDSIL / PJO
+
+
+[24-10-2015:12:01:49 PM] : B2KQA03 has picked a file 94714158 in IDSIL / PJO
+
+
+[24-10-2015:12:02:08 PM] : B2KQA03 has picked a file 94714747 in IDSIL / PJO
+
+
+[24-10-2015:12:02:23 PM] : B2KQA03 has uploaded a file 94710508 to Hospital/Customer in IDSIL / PJO
+
+
+[24-10-2015:12:02:24 PM] : B2KQA03 has uploaded a file 94713459 to Hospital/Customer in IDSIL / PJO
+
+
+[24-10-2015:12:02:25 PM] : B2KQA03 has uploaded a file 94714158 to Hospital/Customer in IDSIL / PJO
+
+
+[24-10-2015:12:02:25 PM] : B2KQA03 has uploaded a file 94714747 to Hospital/Customer in IDSIL / PJO
+
+
+[24-10-2015:12:02:46 PM] : B2KQA03 has viewed the Edited file details in IDSIL/PJO from 2015-10-01 to 2015-10-20
+
+
+[24-10-2015:12:03:08 PM] : B2KQA03 has viewed the Edited file details in IDSIL/PJO from 2015-10-21 to 2015-10-24

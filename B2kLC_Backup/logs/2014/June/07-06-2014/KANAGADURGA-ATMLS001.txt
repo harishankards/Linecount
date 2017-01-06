@@ -1,0 +1,9 @@
+
+
+[07-06-2014:10:02:41 AM] : ATMLS001 has logged in to IDSIL / PJO using the System 117.203.100.125
+
+
+[07-06-2014:10:03:17 AM] : ATMLS001 has uploaded a DUP file 70352185 in IDSIL / PJO
+
+
+[07-06-2014:10:03:38 AM] : ATMLS001 has logged out from the Linecount Software Using the System 117.203.100.125

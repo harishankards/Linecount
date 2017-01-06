@@ -1,0 +1,57 @@
+
+
+[01-03-2015:7:00:34 AM] : B2KQA06 has logged in to IDSIL / PJO using the System 117.213.65.48
+
+
+[01-03-2015:7:00:57 AM] : B2KQA06 has viewed the DUP file details in IDSIL/PJO from 2015-02-01 to 2015-02-28
+
+
+[01-03-2015:7:01:08 AM] : B2KQA06 has Downloaded a file details in IDSIL / PJO from 2015-02-01 to 2015-02-28
+
+
+[01-03-2015:7:59:34 AM] :  has uploaded a DUP file 76249762 in IDSIL / PJO
+
+
+[01-03-2015:10:00:36 AM] : B2KQA06 has logged in to IDSIL / PJO using the System 117.222.177.47
+
+
+[01-03-2015:10:06:58 AM] :  has uploaded a DUP file 76249856 in IDSIL / PJO
+
+
+[01-03-2015:10:12:55 AM] : B2KQA06 has picked a file 76243294 in IDSIL / PJO
+
+
+[01-03-2015:10:20:15 AM] : B2KQA06 has uploaded a file 76243294 to Hospital/Customer in IDSIL / PJO
+
+
+[01-03-2015:10:22:31 AM] : B2KQA06 has picked a file 76243889 in IDSIL / PJO
+
+
+[01-03-2015:10:34:14 AM] : B2KQA06 has uploaded a file 76243889 to Hospital/Customer in IDSIL / PJO
+
+
+[01-03-2015:11:52:47 AM] : B2KQA06 has logged in to IDSIL / PJO using the System 59.89.251.138
+
+
+[01-03-2015:1:02:06 PM] :  has uploaded a DUP file 76250061 in IDSIL / PJO
+
+
+[01-03-2015:1:09:44 PM] : B2KQA06 has picked a file 76250266 in IDSIL / PJO
+
+
+[01-03-2015:1:41:17 PM] : B2KQA06 has uploaded a file 76250266 to Hospital/Customer in IDSIL / PJO
+
+
+[01-03-2015:2:09:09 PM] : B2KQA06 has logged in to IDSIL / PJO using the System 117.213.64.186
+
+
+[01-03-2015:2:14:53 PM] : B2KQA06 has picked a file 76251534 in IDSIL / PJO
+
+
+[01-03-2015:3:29:54 PM] : B2KQA06 has uploaded a file 76251534 to Hospital/Customer in IDSIL / PJO
+
+
+[01-03-2015:4:13:40 PM] :  has uploaded a DUP file 76251796 in IDSIL / PJO
+
+
+[01-03-2015:4:13:58 PM] : B2KQA06 has logged out from the Linecount Software Using the System 117.213.66.119

@@ -1,0 +1,21 @@
+
+
+[21-08-2014:7:51:46 AM] : ATER039 has logged in to IDSIL / PJO using the System 122.178.160.134
+
+
+[21-08-2014:7:52:36 AM] : ATER039 has viewed the DUP file details in IDSIL/PJO from 2014-08-01 to 2014-08-21
+
+
+[21-08-2014:7:52:47 AM] : ATER039 has Downloaded a file details in IDSIL / PJO from 2014-08-01 to 2014-08-21
+
+
+[21-08-2014:7:53:18 AM] : ATER039 has logged out from the Linecount Software Using the System 122.178.160.134
+
+
+[21-08-2014:10:57:49 AM] : ATER039 has logged in to IDSIL / PJO using the System 117.218.59.252
+
+
+[21-08-2014:10:59:40 AM] :  has uploaded a DUP file 72054174 in IDSIL / PJO
+
+
+[21-08-2014:12:02:59 PM] : ATER039 has logged out from the Linecount Software Using the System 117.218.59.252

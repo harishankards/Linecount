@@ -1,0 +1,33 @@
+
+
+[23-06-2013:9:00:13 AM] : B2KER002 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[23-06-2013:9:00:24 AM] : B2KER002 has viewed the DUP file details in IDSIL/PJO from 2013-06-01 to 2013-06-23
+
+
+[23-06-2013:9:01:36 AM] : B2KER002 has viewed the Edited file details in IDSIL/PJO from 2013-06-01 to 2013-06-23
+
+
+[23-06-2013:9:02:06 AM] : B2KER002 has viewed the Audit file details in IDSIL / PJO from 2013-06-01 to 2013-06-23
+
+
+[23-06-2013:10:19:29 AM] : B2KER002 has picked a file 61578577 in IDSIL / PJO
+
+
+[23-06-2013:10:19:39 AM] : B2KER002 has uploaded a file 61578577 to Hospital/Customer in IDSIL / PJO
+
+
+[23-06-2013:10:21:13 AM] :  has uploaded a DUP file 61583463 in IDSIL / PJO
+
+
+[23-06-2013:10:22:06 AM] :  has uploaded a DUP file 61578161 in IDSIL / PJO
+
+
+[23-06-2013:10:22:43 AM] :  has uploaded a DUP file 61581786 in IDSIL / PJO
+
+
+[23-06-2013:10:46:06 AM] : B2KER002 has picked a file 90309413 in IDSIL / PJO
+
+
+[23-06-2013:10:46:11 AM] : B2KER002 has uploaded a file 90309413 to Hospital/Customer in IDSIL / PJO

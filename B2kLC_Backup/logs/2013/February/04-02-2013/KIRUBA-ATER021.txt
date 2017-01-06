@@ -1,0 +1,114 @@
+
+
+[04-02-2013:8:37:28 AM] : ATER021 has logged in to IDSIL / PJO using the System 117.218.59.252
+
+
+[04-02-2013:8:38:02 AM] : ATER021 has added a Audit file 57402679 in IDSIL / PJO 
+
+
+[04-02-2013:9:23:36 AM] : ATER021 has added a Audit file 57402312 in IDSIL / PJO 
+
+
+[04-02-2013:9:50:10 AM] : ATER021 has added a Audit file 57402703 in IDSIL / PJO 
+
+
+[04-02-2013:9:55:12 AM] : ATER021 has added a Audit file 57402154 in IDSIL / PJO 
+
+
+[04-02-2013:10:07:47 AM] : ATER021 has logged in to IDSIL / PJO using the System 117.218.59.252
+
+
+[04-02-2013:10:25:57 AM] : ATER021 has added a Audit file 57402257 in IDSIL / PJO 
+
+
+[04-02-2013:10:43:18 AM] : ATER021 has added a Audit file 57402349 in IDSIL / PJO 
+
+
+[04-02-2013:11:31:43 AM] : ATER021 has picked a file 57405050 in IDSIL / PJO
+
+
+[04-02-2013:11:34:05 AM] : ATER021 has uploaded a file 57405050 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[04-02-2013:11:58:04 AM] : ATER021 has logged in to IDSIL / PJO using the System 117.218.59.252
+
+
+[04-02-2013:11:58:35 AM] : ATER021 has added a Audit file 57405815 in IDSIL / PJO 
+
+
+[04-02-2013:12:07:30 PM] : ATER021 has added a Audit file 57404371 in IDSIL / PJO 
+
+
+[04-02-2013:12:23:38 PM] : ATER021 has added a Audit file 57408817 in IDSIL / PJO 
+
+
+[04-02-2013:12:45:44 PM] : ATER021 has added a Audit file 57402842 in IDSIL / PJO 
+
+
+[04-02-2013:12:54:11 PM] : ATER021 has picked a file 57404411 in IDSIL / PJO
+
+
+[04-02-2013:12:54:42 PM] : ATER021 has uploaded a file 57404411 to Hospital/Customer in IDSIL / PJO
+
+
+[04-02-2013:1:04:34 PM] : ATER021 has picked a file 57405889 in IDSIL / PJO
+
+
+[04-02-2013:1:04:51 PM] : ATER021 has uploaded a file 57405889 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[04-02-2013:1:21:04 PM] : ATER021 has picked a file 57404623 in IDSIL / PJO
+
+
+[04-02-2013:1:21:25 PM] : ATER021 has uploaded a file 57404623 to Hospital/Customer in IDSIL / PJO
+
+
+[04-02-2013:1:21:45 PM] : ATER021 has viewed the Edited file details in IDSIL/PJO from 2013-02-01 to 2013-02-04
+
+
+[04-02-2013:1:22:01 PM] : ATER021 has viewed the Audit file details in IDSIL / PJO from 2013-02-01 to 2013-02-04
+
+
+[04-02-2013:1:28:34 PM] : ATER021 has logged in to IDSIL / PJO using the System 202.129.197.58
+
+
+[04-02-2013:1:39:53 PM] : ATER021 has added a Audit file 57407379 in IDSIL / PJO 
+
+
+[04-02-2013:2:58:17 PM] : ATER021 has added a Audit file 57408040 in IDSIL / PJO 
+
+
+[04-02-2013:2:59:00 PM] : ATER021 has logged in to IDSIL / PJO using the System 202.129.197.58
+
+
+[04-02-2013:3:13:54 PM] : ATER021 has added a Audit file 57410583 in IDSIL / PJO 
+
+
+[04-02-2013:3:22:44 PM] : ATER021 has added a Audit file 57410631 in IDSIL / PJO 
+
+
+[04-02-2013:3:27:45 PM] : ATER021 has added a Audit file 57410723 in IDSIL / PJO 
+
+
+[04-02-2013:3:32:05 PM] : ATER021 has added a Audit file 57410769 in IDSIL / PJO 
+
+
+[04-02-2013:3:36:01 PM] : ATER021 has added a Audit file 57411014 in IDSIL / PJO 
+
+
+[04-02-2013:3:42:56 PM] : ATER021 has added a Audit file 57411033 in IDSIL / PJO 
+
+
+[04-02-2013:3:59:30 PM] : ATER021 has added a Audit file 57409204 in IDSIL / PJO 
+
+
+[04-02-2013:4:17:02 PM] : ATER021 has added a Audit file 57409152 in IDSIL / PJO 
+
+
+[04-02-2013:4:27:46 PM] : ATER021 has added a Audit file 57411805 in IDSIL / PJO 
+
+
+[04-02-2013:4:29:43 PM] : ATER021 has logged in to IDSIL / PJO using the System 202.129.197.58
+
+
+[04-02-2013:4:43:06 PM] : ATER021 has added a Audit file 57411868 in IDSIL / PJO 

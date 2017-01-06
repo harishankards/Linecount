@@ -1,0 +1,63 @@
+
+
+[16-07-2014:4:14:06 AM] : DITMLS001 has logged in to IDSIL / PJO using the System 122.178.149.103
+
+
+[16-07-2014:4:14:30 AM] : DITMLS001 has viewed the file details in IDSIL / PJO from 2014-07-15 to 2014-07-16
+
+
+[16-07-2014:4:15:32 AM] : DITMLS001 has logged out from the Linecount Software Using the System 122.178.149.103
+
+
+[16-07-2014:9:23:26 AM] : DITMLS001 has logged in to IDSIL / PJO using the System 122.178.163.114
+
+
+[16-07-2014:9:23:47 AM] : DITMLS001 has viewed the file details in IDSIL / PJO from 2014-07-15 to 2014-07-15
+
+
+[16-07-2014:9:23:58 AM] : DITMLS001 has Downloaded a file details in IDSIL / PJO from 2014-07-15 to 2014-07-15
+
+
+[16-07-2014:9:25:08 AM] : DITMLS001 has logged out from the Linecount Software Using the System 122.178.163.114
+
+
+[16-07-2014:12:21:28 PM] : DITMLS001 has logged in to IDSIL / PJO using the System 115.242.196.65
+
+
+[16-07-2014:12:22:07 PM] : DITMLS001 has uploaded a DUP file 71243287 in IDSIL / PJO
+
+
+[16-07-2014:12:22:45 PM] : DITMLS001 has uploaded a DUP file 71245310 in IDSIL / PJO
+
+
+[16-07-2014:12:23:36 PM] : DITMLS001 has uploaded a DUP file 71245187 in IDSIL / PJO
+
+
+[16-07-2014:12:23:52 PM] : DITMLS001 has viewed the file details in IDSIL / PJO from 2014-07-16 to 2014-07-16
+
+
+[16-07-2014:12:24:30 PM] : DITMLS001 has logged out from the Linecount Software Using the System 115.242.196.65
+
+
+[16-07-2014:4:50:25 PM] : DITMLS001 has logged in to IDSIL / PJO using the System 122.178.163.114
+
+
+[16-07-2014:4:51:12 PM] : DITMLS001 has logged in to IDSIL / PJO using the System 122.178.163.114
+
+
+[16-07-2014:4:51:26 PM] : DITMLS001 has viewed the file details in IDSIL / PJO from 2014-07-16 to 2014-07-16
+
+
+[16-07-2014:4:51:37 PM] : DITMLS001 has Downloaded a file details in IDSIL / PJO from 2014-07-16 to 2014-07-16
+
+
+[16-07-2014:4:52:20 PM] : DITMLS001 has logged out from the Linecount Software Using the System 122.178.163.114
+
+
+[16-07-2014:5:03:31 PM] : DITMLS001 has logged in to IDSIL / PJO using the System 101.63.144.194
+
+
+[16-07-2014:5:03:47 PM] : DITMLS001 has viewed the file details in IDSIL / PJO from 2014-07-01 to 2014-07-16
+
+
+[16-07-2014:5:05:33 PM] : DITMLS001 has logged out from the Linecount Software Using the System 101.63.144.194

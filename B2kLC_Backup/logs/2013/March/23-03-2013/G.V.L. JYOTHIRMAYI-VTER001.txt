@@ -1,0 +1,15 @@
+
+
+[23-03-2013:12:01:12 PM] : VTER001 has logged in to IDSIL / PJO using the System 122.169.180.58
+
+
+[23-03-2013:12:18:29 PM] : VTER001 has picked a file 58904285 in IDSIL / PJO
+
+
+[23-03-2013:12:18:35 PM] : VTER001 has uploaded a file 58904285 to Hospital/Customer in IDSIL / PJO
+
+
+[23-03-2013:12:32:19 PM] : VTER001 has picked a file 58905968 in IDSIL / PJO
+
+
+[23-03-2013:12:32:25 PM] : VTER001 has uploaded a file 58905968 to IDS/QA_Checkpoint in IDSIL / PJO

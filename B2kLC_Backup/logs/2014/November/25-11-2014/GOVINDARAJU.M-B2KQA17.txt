@@ -1,0 +1,60 @@
+
+
+[25-11-2014:12:34:17 PM] : B2KQA17 has logged in to IDSIL / PJO using the System 117.213.100.216
+
+
+[25-11-2014:12:36:47 PM] : B2KQA17 has picked a file 74176119 in IDSIL / PJO
+
+
+[25-11-2014:12:47:58 PM] : B2KQA17 has uploaded a file 74176119 to Hospital/Customer in IDSIL / PJO
+
+
+[25-11-2014:12:49:25 PM] : B2KQA17 has picked a file 74176195 in IDSIL / PJO
+
+
+[25-11-2014:12:56:23 PM] : B2KQA17 has uploaded a file 74176195 to Hospital/Customer in IDSIL / PJO
+
+
+[25-11-2014:1:09:27 PM] : B2KQA17 has picked a file 74168716 in IDSIL / PJO
+
+
+[25-11-2014:1:09:35 PM] : B2KQA17 has uploaded a file 74168716 to Hospital/Customer in IDSIL / PJO
+
+
+[25-11-2014:1:10:50 PM] : B2KQA17 has picked a file 74168787 in IDSIL / PJO
+
+
+[25-11-2014:1:14:51 PM] : B2KQA17 has uploaded a file 74168787 to Hospital/Customer in IDSIL / PJO
+
+
+[25-11-2014:1:16:26 PM] : B2KQA17 has picked a file 74175968 in IDSIL / PJO
+
+
+[25-11-2014:1:30:34 PM] : B2KQA17 has uploaded a file 74175968 to Hospital/Customer in IDSIL / PJO
+
+
+[25-11-2014:1:35:04 PM] : B2KQA17 has picked a file 74168838 in IDSIL / PJO
+
+
+[25-11-2014:1:38:01 PM] : B2KQA17 has uploaded a file 74168838 to Hospital/Customer in IDSIL / PJO
+
+
+[25-11-2014:1:41:17 PM] : B2KQA17 has picked a file 74168884 in IDSIL / PJO
+
+
+[25-11-2014:1:44:19 PM] : B2KQA17 has uploaded a file 74168884 to Hospital/Customer in IDSIL / PJO
+
+
+[25-11-2014:1:50:12 PM] : B2KQA17 has picked a file 74168935 in IDSIL / PJO
+
+
+[25-11-2014:1:53:35 PM] : B2KQA17 has uploaded a file 74168935 to Hospital/Customer in IDSIL / PJO
+
+
+[25-11-2014:1:56:40 PM] : B2KQA17 has picked a file 74169664 in IDSIL / PJO
+
+
+[25-11-2014:2:23:43 PM] : B2KQA17 has uploaded a file 74169664 to Hospital/Customer in IDSIL / PJO
+
+
+[25-11-2014:2:26:48 PM] : B2KQA17 has logged out from the Linecount Software Using the System 117.213.100.216

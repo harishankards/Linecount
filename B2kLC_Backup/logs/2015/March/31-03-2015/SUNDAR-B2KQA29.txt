@@ -1,0 +1,123 @@
+
+
+[31-03-2015:3:10:11 AM] : B2KQA29 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[31-03-2015:3:10:25 AM] : B2KQA29 has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[31-03-2015:3:15:12 AM] : B2KQA29 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[31-03-2015:3:56:00 AM] : B2KQA29 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[31-03-2015:3:57:46 AM] : B2KQA29 has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[31-03-2015:3:57:50 AM] : B2KQA29 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[31-03-2015:4:19:35 AM] : B2KQA29 has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[31-03-2015:4:19:38 AM] : B2KQA29 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[31-03-2015:4:58:25 AM] : B2KQA29 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[31-03-2015:4:58:35 AM] : B2KQA29 has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[31-03-2015:4:58:39 AM] : B2KQA29 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[31-03-2015:6:54:45 AM] : B2KQA29 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[31-03-2015:6:55:00 AM] : B2KQA29 has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[31-03-2015:6:55:04 AM] : B2KQA29 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[31-03-2015:6:55:25 AM] : B2KQA29 has viewed the Audit file details in IDSIL / PJO from 2015-03-31 to 2015-03-31
+
+
+[31-03-2015:6:55:34 AM] : B2KQA29 has viewed the Audit file details in IDSIL / PJO from 2015-03-26 to 2015-03-31
+
+
+[31-03-2015:6:55:50 AM] : B2KQA29 has viewed the Audit file details in IDSIL / PJO from 2015-03-30 to 2015-03-31
+
+
+[31-03-2015:6:56:44 AM] : B2KQA29 has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[31-03-2015:6:56:47 AM] : B2KQA29 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[31-03-2015:6:57:20 AM] : B2KQA29 has picked a file 76892048 in IDSIL / PJO
+
+
+[31-03-2015:8:48:59 AM] : B2KQA29 has logged in to IDSIL / PJO using the System 117.246.144.39
+
+
+[31-03-2015:8:49:09 AM] : B2KQA29 has viewed the Edited file details in IDSIL/PJO from 2015-03-01 to 2015-03-31
+
+
+[31-03-2015:8:53:27 AM] : B2KQA29 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[31-03-2015:9:00:02 AM] : B2KQA29 has viewed the Edited file details in IDSIL/PJO from 2015-03-01 to 2015-03-31
+
+
+[31-03-2015:9:00:26 AM] : B2KQA29 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[31-03-2015:10:46:53 PM] : B2KQA29 has logged in to IDSIL / PJO using the System 59.90.86.47
+
+
+[31-03-2015:10:47:07 PM] : B2KQA29 has picked a file 76888714 in IDSIL / PJO
+
+
+[31-03-2015:11:49:48 PM] : B2KQA29 has picked a file 76888756 in IDSIL / PJO
+
+
+[31-03-2015:11:55:47 PM] : B2KQA29 has picked a file 76901632 in IDSIL / PJO
+
+
+[01-04-2015:12:49:00 AM] : B2KQA29 has added a Audit file 76909216 in IDSIL / PJO 
+
+
+[01-04-2015:12:52:31 AM] : B2KQA29 has viewed the Audit file details in IDSIL / PJO from 2015-04-01 to 2015-04-01
+
+
+[01-04-2015:12:53:45 AM] : B2KQA29 has picked a file 76901133 in IDSIL / PJO
+
+
+[01-04-2015:1:28:44 AM] : B2KQA29 has picked a file 76897097 in IDSIL / PJO
+
+
+[01-04-2015:2:25:50 AM] : B2KQA29 has added a Audit file 76908050 in IDSIL / PJO 
+
+
+[01-04-2015:2:26:28 AM] : B2KQA29 has viewed the Audit file details in IDSIL / PJO from 2015-04-01 to 2015-04-01
+
+
+[01-04-2015:3:17:10 AM] : B2KQA29 has picked a file 76905333 in IDSIL / PJO
+
+
+[01-04-2015:3:34:41 AM] : B2KQA29 has picked a file 76914661 in IDSIL / PJO
+
+
+[01-04-2015:4:46:20 AM] : B2KQA29 has viewed the Audit file details in IDSIL / PJO from 2015-04-01 to 2015-04-01
+
+
+[01-04-2015:4:47:59 AM] : B2KQA29 has picked a file 76897811 in IDSIL / PJO
+
+
+[01-04-2015:5:17:47 AM] : B2KQA29 has picked a file 76902452 in IDSIL / PJO
+
+
+[01-04-2015:5:23:51 AM] : B2KQA29 has picked a file 76902620 in IDSIL / PJO

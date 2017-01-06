@@ -1,0 +1,42 @@
+
+
+[15-12-2014:7:32:42 PM] : B2KQA01 has logged in to IDSIL / PJO using the System 117.222.165.21
+
+
+[15-12-2014:7:44:59 PM] : B2KQA01 has picked a file 74583573 in IDSIL / PJO
+
+
+[15-12-2014:8:00:07 PM] : B2KQA01 has picked a file 74585090 in IDSIL / PJO
+
+
+[15-12-2014:8:08:47 PM] : B2KQA01 has picked a file 74587256 in IDSIL / PJO
+
+
+[15-12-2014:8:14:45 PM] : B2KQA01 has picked a file 74587292 in IDSIL / PJO
+
+
+[15-12-2014:8:33:23 PM] : B2KQA01 has picked a file 74587334 in IDSIL / PJO
+
+
+[15-12-2014:8:49:21 PM] : B2KQA01 has picked a file 74587363 in IDSIL / PJO
+
+
+[15-12-2014:9:01:22 PM] : B2KQA01 has uploaded a file 74587363 to Hospital/Customer in IDSIL / PJO
+
+
+[15-12-2014:9:01:22 PM] : B2KQA01 has uploaded a file 74587292 to Hospital/Customer in IDSIL / PJO
+
+
+[15-12-2014:9:01:23 PM] : B2KQA01 has uploaded a file 74587256 to Hospital/Customer in IDSIL / PJO
+
+
+[15-12-2014:9:01:23 PM] : B2KQA01 has uploaded a file 74587334 to Hospital/Customer in IDSIL / PJO
+
+
+[15-12-2014:9:01:23 PM] : B2KQA01 has uploaded a file 74585090 to Hospital/Customer in IDSIL / PJO
+
+
+[15-12-2014:9:01:24 PM] : B2KQA01 has uploaded a file 74583573 to Hospital/Customer in IDSIL / PJO
+
+
+[15-12-2014:9:03:17 PM] : B2KQA01 has logged out from the Linecount Software Using the System 117.222.165.21

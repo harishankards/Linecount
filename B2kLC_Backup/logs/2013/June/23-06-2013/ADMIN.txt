@@ -1,0 +1,50 @@
+
+
+[23-06-2013:12:10:56 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[23-06-2013:12:11:03 AM] : ADMIN has Viewed Employee Details
+
+[23-06-2013:12:11:25 AM] : ADMIN has Viewed Employee Details
+
+
+[23-06-2013:12:12:59 AM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[23-06-2013:2:55:09 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[23-06-2013:4:30:28 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[23-06-2013:10:14:24 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[23-06-2013:12:21:20 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[23-06-2013:1:03:58 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[23-06-2013:1:30:48 PM] : ADMIN has Viewed Employee Details
+
+
+[23-06-2013:2:52:59 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[23-06-2013:3:11:52 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[23-06-2013:4:32:34 PM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[23-06-2013:4:58:35 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[23-06-2013:4:58:46 PM] : ADMIN has Approved Leave request from the ID B2KMLS010 on 2013-06-23.
+
+[23-06-2013:4:58:51 PM] : ADMIN has Approved Leave request from the ID B2KMLS005 on 2013-06-23.
+
+
+[23-06-2013:6:22:43 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[23-06-2013:10:08:44 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35

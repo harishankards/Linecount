@@ -1,0 +1,99 @@
+
+
+[16-11-2013:8:07:42 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+[16-11-2013:8:08:05 AM] : ADMIN has Approved Leave request from the ID B2KMLS025 on 2013-11-15.
+
+[16-11-2013:8:08:15 AM] : ADMIN has Approved Leave request from the ID B2KER001 on 2013-11-15.
+
+
+[16-11-2013:9:03:10 AM] : ADMIN has Viewed Employee Details
+
+
+[16-11-2013:9:03:16 AM] : ADMIN has Viewed Employee Details
+
+[16-11-2013:10:22:17 AM] : ADMIN has Deleted the details of the file 65348133.
+
+
+[16-11-2013:10:22:22 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[16-11-2013:10:31:26 AM] : ADMIN has added an Update into the Database
+
+
+[16-11-2013:10:37:01 AM] : ADMIN has Viewed Employee Details
+
+
+[16-11-2013:10:37:08 AM] : ADMIN has Viewed Employee Details
+
+
+[16-11-2013:11:34:15 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[16-11-2013:11:35:31 AM] : ADMIN has added an Update into the Database
+
+
+[16-11-2013:11:45:02 AM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35
+
+[16-11-2013:12:30:27 PM] : ADMIN has Deleted the details of the file 90493999.
+
+
+[16-11-2013:3:00:44 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[16-11-2013:3:35:17 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[16-11-2013:3:40:16 PM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[16-11-2013:3:52:39 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[16-11-2013:4:08:25 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[16-11-2013:4:12:01 PM] : ADMIN has Deleted the details of the file 65301578.
+
+[16-11-2013:4:12:16 PM] : ADMIN has Deleted the details of the file 65326420.
+
+[16-11-2013:4:12:30 PM] : ADMIN has Deleted the details of the file 65335212.
+
+[16-11-2013:4:54:05 PM] : ADMIN has Deleted the details of the file 65368071.
+
+
+[16-11-2013:6:04:52 PM] : ADMIN has Viewed Employee Details
+
+
+[16-11-2013:6:06:49 PM] : ADMIN has added Employee Details[KARTHIK] into the Database
+
+
+[16-11-2013:6:12:52 PM] : ADMIN has Viewed Employee Details
+
+
+[16-11-2013:6:14:13 PM] : ADMIN has added Employee Details[JOSE MATHEW] into the Database
+
+
+[16-11-2013:6:16:18 PM] : ADMIN has added Employee Details[KANAKARAJAN] into the Database
+
+
+[16-11-2013:6:16:39 PM] : ADMIN has Viewed Employee Details
+
+
+[16-11-2013:6:16:48 PM] : ADMIN has Viewed Employee Details
+
+
+[16-11-2013:6:17:28 PM] : ADMIN has Viewed Employee Details
+
+
+[16-11-2013:6:20:19 PM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[16-11-2013:6:31:02 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[16-11-2013:6:31:33 PM] : ADMIN has Approved Leave request from the ID B2KHTER013 on 2013-11-17.
+
+[16-11-2013:6:31:43 PM] : ADMIN has Approved Leave request from the ID B2KHTER013 on 2013-11-18.
+
+
+[16-11-2013:6:43:41 PM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[16-11-2013:11:54:52 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47

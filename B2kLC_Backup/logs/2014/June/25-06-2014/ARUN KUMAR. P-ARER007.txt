@@ -1,0 +1,84 @@
+
+
+[25-06-2014:8:08:18 AM] : ARER007 has logged in to IDSIL / PJO using the System 101.63.233.146
+
+
+[25-06-2014:8:14:53 AM] : ARER007 has picked a file 70763124 in IDSIL / PJO
+
+
+[25-06-2014:8:55:09 AM] : ARER007 has logged in to IDSIL / PJO using the System 101.63.233.146
+
+
+[25-06-2014:8:55:34 AM] : ARER007 has picked a file 70765725 in IDSIL / PJO
+
+
+[25-06-2014:8:55:49 AM] : ARER007 has uploaded a file 70763124 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[25-06-2014:9:07:42 AM] : ARER007 has uploaded a file 70765725 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[25-06-2014:9:08:14 AM] : ARER007 has logged in to IDSIL / PJO using the System 101.63.233.146
+
+
+[25-06-2014:9:08:30 AM] : ARER007 has picked a file 70764300 in IDSIL / PJO
+
+
+[25-06-2014:9:11:37 AM] : ARER007 has uploaded a file 70764300 to Hospital/Customer in IDSIL / PJO
+
+
+[25-06-2014:9:23:56 AM] : ARER007 has picked a file 70766708 in IDSIL / PJO
+
+
+[25-06-2014:9:41:39 AM] : ARER007 has uploaded a file 70766708 to Hospital/Customer in IDSIL / PJO
+
+
+[25-06-2014:9:42:08 AM] : ARER007 has picked a file 70760721 in IDSIL / PJO
+
+
+[25-06-2014:10:08:11 AM] : ARER007 has uploaded a file 70760721 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[25-06-2014:10:09:15 AM] : ARER007 has picked a file 70766804 in IDSIL / PJO
+
+
+[25-06-2014:10:21:08 AM] : ARER007 has uploaded a file 70766804 to Hospital/Customer in IDSIL / PJO
+
+
+[25-06-2014:10:22:08 AM] : ARER007 has picked a file 70761415 in IDSIL / PJO
+
+
+[25-06-2014:10:36:39 AM] : ARER007 has picked a file 70761769 in IDSIL / PJO
+
+
+[25-06-2014:10:37:29 AM] : ARER007 has uploaded a file 70761415 to Hospital/Customer in IDSIL / PJO
+
+
+[25-06-2014:11:01:19 AM] : ARER007 has picked a file 70761905 in IDSIL / PJO
+
+
+[25-06-2014:11:01:50 AM] : ARER007 has uploaded a file 70761769 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[25-06-2014:11:24:55 AM] : ARER007 has uploaded a file 70761905 to Hospital/Customer in IDSIL / PJO
+
+
+[25-06-2014:11:25:13 AM] : ARER007 has picked a file 70762065 in IDSIL / PJO
+
+
+[25-06-2014:11:39:44 AM] : ARER007 has picked a file 70762448 in IDSIL / PJO
+
+
+[25-06-2014:11:39:59 AM] : ARER007 has uploaded a file 70762065 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[25-06-2014:12:02:38 PM] : ARER007 has picked a file 70766208 in IDSIL / PJO
+
+
+[25-06-2014:12:03:20 PM] : ARER007 has uploaded a file 70762448 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[25-06-2014:12:27:08 PM] : ARER007 has picked a file 70766839 in IDSIL / PJO
+
+
+[25-06-2014:12:27:50 PM] : ARER007 has uploaded a file 70766208 to IDS/QA_Checkpoint in IDSIL / PJO

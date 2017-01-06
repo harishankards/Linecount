@@ -1,0 +1,204 @@
+
+
+[17-05-2013:12:03:08 PM] : ATER002 has logged in to IDSIL / PJO using the System 124.125.43.71
+
+
+[17-05-2013:12:03:49 PM] : ATER002 has picked a file 60541334 in IDSIL / PJO
+
+
+[17-05-2013:12:09:04 PM] : ATER002 has uploaded a file 60541334 to Hospital/Customer in IDSIL / PJO
+
+
+[17-05-2013:12:11:33 PM] : ATER002 has picked a file 60543946 in IDSIL / PJO
+
+
+[17-05-2013:12:19:46 PM] : ATER002 has logged in to IDSIL / PJO using the System 124.125.43.71
+
+
+[17-05-2013:12:27:53 PM] : ATER002 has uploaded a file 60543946 to Hospital/Customer in IDSIL / PJO
+
+
+[17-05-2013:12:30:28 PM] : ATER002 has picked a file 60549926 in IDSIL / PJO
+
+
+[17-05-2013:12:33:31 PM] : ATER002 has uploaded a file 60549926 to Hospital/Customer in IDSIL / PJO
+
+
+[17-05-2013:12:34:52 PM] : ATER002 has viewed the Edited file details in IDSIL/PJO from 2013-05-01 to 2013-05-17
+
+
+[17-05-2013:12:37:08 PM] : ATER002 has logged out from the Linecount Software Using the System 124.125.43.71
+
+
+[17-05-2013:12:40:31 PM] : ATER002 has logged in to IDSIL / PJO using the System 124.125.43.71
+
+
+[17-05-2013:12:41:08 PM] : ATER002 has logged in to IDSIL / PJO using the System 124.125.43.71
+
+
+[17-05-2013:12:41:54 PM] : ATER002 has picked a file 60550338 in IDSIL / PJO
+
+
+[17-05-2013:12:46:54 PM] : ATER002 has logged in to IDSIL / PJO using the System 14.99.32.12
+
+
+[17-05-2013:12:46:59 PM] : ATER002 has uploaded a file 60550338 to Hospital/Customer in IDSIL / PJO
+
+
+[17-05-2013:12:47:16 PM] : ATER002 has viewed the Edited file details in IDSIL/PJO from 2013-05-17 to 2013-05-17
+
+
+[17-05-2013:12:49:36 PM] : ATER002 has picked a file 60551544 in IDSIL / PJO
+
+
+[17-05-2013:12:54:55 PM] : ATER002 has uploaded a file 60551544 to Hospital/Customer in IDSIL / PJO
+
+
+[17-05-2013:12:55:49 PM] : ATER002 has picked a file 60532823 in IDSIL / PJO
+
+
+[17-05-2013:12:57:05 PM] : ATER002 has uploaded a file 60532823 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[17-05-2013:12:57:44 PM] : ATER002 has picked a file 60547926 in IDSIL / PJO
+
+
+[17-05-2013:12:58:48 PM] : ATER002 has uploaded a file 60547926 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[17-05-2013:12:58:51 PM] : ATER002 has logged out from the Linecount Software Using the System 14.99.32.12
+
+
+[17-05-2013:5:27:51 PM] : ATER002 has logged in to IDSIL / PJO using the System 124.125.43.71
+
+
+[17-05-2013:5:28:26 PM] : ATER002 has picked a file 90249016 in IDSIL / PJO
+
+
+[17-05-2013:5:35:16 PM] : ATER002 has uploaded a file 90249016 to Hospital/Customer in IDSIL / PJO
+
+
+[17-05-2013:5:35:52 PM] : ATER002 has logged out from the Linecount Software Using the System 124.125.43.71
+
+
+[17-05-2013:5:35:57 PM] : ATER002 has logged in to IDSIL / PJO using the System 124.125.43.71
+
+
+[17-05-2013:5:36:30 PM] :  has uploaded a DUP file 60546086 in IDSIL / PJO
+
+
+[17-05-2013:5:36:39 PM] :  has uploaded a DUP file 60546465 in IDSIL / PJO
+
+
+[17-05-2013:5:36:58 PM] :  has uploaded a DUP file 60546059 in IDSIL / PJO
+
+
+[17-05-2013:5:37:08 PM] :  has uploaded a DUP file 60546071 in IDSIL / PJO
+
+
+[17-05-2013:5:37:20 PM] :  has uploaded a DUP file 60548836 in IDSIL / PJO
+
+
+[17-05-2013:5:37:33 PM] :  has uploaded a DUP file 60548505 in IDSIL / PJO
+
+
+[17-05-2013:5:37:42 PM] :  has uploaded a DUP file 60551773 in IDSIL / PJO
+
+
+[17-05-2013:5:37:52 PM] :  has uploaded a DUP file 60547813 in IDSIL / PJO
+
+
+[17-05-2013:5:38:01 PM] :  has uploaded a DUP file 60549734 in IDSIL / PJO
+
+
+[17-05-2013:5:38:12 PM] :  has uploaded a DUP file 60547501 in IDSIL / PJO
+
+
+[17-05-2013:5:38:23 PM] :  has uploaded a DUP file 60531424 in IDSIL / PJO
+
+
+[17-05-2013:5:38:36 PM] :  has uploaded a DUP file 60532179 in IDSIL / PJO
+
+
+[17-05-2013:5:38:47 PM] :  has uploaded a DUP file 60552098 in IDSIL / PJO
+
+
+[17-05-2013:5:38:58 PM] :  has uploaded a DUP file 60531591 in IDSIL / PJO
+
+
+[17-05-2013:5:39:08 PM] :  has uploaded a DUP file 60533310 in IDSIL / PJO
+
+
+[17-05-2013:5:39:18 PM] :  has uploaded a DUP file 60532882 in IDSIL / PJO
+
+
+[17-05-2013:5:39:28 PM] :  has uploaded a DUP file 60534642 in IDSIL / PJO
+
+
+[17-05-2013:5:39:38 PM] :  has uploaded a DUP file 60534763 in IDSIL / PJO
+
+
+[17-05-2013:5:39:51 PM] :  has uploaded a DUP file 60539275 in IDSIL / PJO
+
+
+[17-05-2013:5:40:00 PM] :  has uploaded a DUP file 60539213 in IDSIL / PJO
+
+
+[17-05-2013:5:40:10 PM] :  has uploaded a DUP file 60542339 in IDSIL / PJO
+
+
+[17-05-2013:5:40:19 PM] :  has uploaded a DUP file 60542238 in IDSIL / PJO
+
+
+[17-05-2013:5:40:29 PM] :  has uploaded a DUP file 60555820 in IDSIL / PJO
+
+
+[17-05-2013:5:40:39 PM] :  has uploaded a DUP file 60550036 in IDSIL / PJO
+
+
+[17-05-2013:5:40:48 PM] :  has uploaded a DUP file 60550152 in IDSIL / PJO
+
+
+[17-05-2013:5:41:01 PM] :  has uploaded a DUP file 60550235 in IDSIL / PJO
+
+
+[17-05-2013:5:41:11 PM] :  has uploaded a DUP file 60550313 in IDSIL / PJO
+
+
+[17-05-2013:5:41:22 PM] :  has uploaded a DUP file 60550377 in IDSIL / PJO
+
+
+[17-05-2013:5:41:32 PM] :  has uploaded a DUP file 60544030 in IDSIL / PJO
+
+
+[17-05-2013:5:41:48 PM] :  has uploaded a DUP file 60554837 in IDSIL / PJO
+
+
+[17-05-2013:5:42:12 PM] :  has uploaded a DUP file 90249008 in IDSIL / PJO
+
+
+[17-05-2013:5:42:24 PM] : ATER002 has viewed the Edited file details in IDSIL/PJO from 2013-05-17 to 2013-05-17
+
+
+[17-05-2013:5:42:36 PM] : ATER002 has viewed the DUP file details in IDSIL/PJO from 2013-05-17 to 2013-05-17
+
+
+[17-05-2013:5:43:05 PM] : ATER002 has logged out from the Linecount Software Using the System 124.125.43.71
+
+
+[17-05-2013:8:16:55 PM] : ATER002 has logged in to IDSIL / PJO using the System 124.125.43.71
+
+
+[17-05-2013:8:17:33 PM] :  has uploaded a DUP file 60561284 in IDSIL / PJO
+
+
+[17-05-2013:8:17:46 PM] :  has uploaded a DUP file 60560950 in IDSIL / PJO
+
+
+[17-05-2013:8:18:06 PM] :  has uploaded a DUP file 60562261 in IDSIL / PJO
+
+
+[17-05-2013:8:18:20 PM] : ATER002 has viewed the DUP file details in IDSIL/PJO from 2013-05-17 to 2013-05-17
+
+
+[17-05-2013:8:18:32 PM] : ATER002 has logged out from the Linecount Software Using the System 124.125.43.71

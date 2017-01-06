@@ -1,0 +1,426 @@
+
+
+[22-09-2013:1:42:11 AM] : B2KER003 has logged in to IDSIL / PJO using the System 223.185.146.230
+
+
+[22-09-2013:1:44:43 AM] : B2KER003 has logged out from the Linecount Software Using the System 223.185.146.230
+
+
+[22-09-2013:1:55:32 PM] : B2KER003 has logged in to IDSIL / PJO using the System 59.90.86.47
+
+
+[22-09-2013:2:00:34 PM] : B2KER003 has picked a file 63874793 in IDSIL / PJO
+
+
+[22-09-2013:2:21:51 PM] : B2KER003 has logged in to IDSIL / PJO using the System 59.90.86.47
+
+
+[22-09-2013:2:23:12 PM] : B2KER003 has picked a file 63875466 in IDSIL / PJO
+
+
+[22-09-2013:2:23:20 PM] : B2KER003 has uploaded a file 63874793 to Hospital/Customer in IDSIL / PJO
+
+
+[22-09-2013:3:40:18 PM] : B2KER003 has logged in to IDSIL / PJO using the System 59.90.86.47
+
+
+[22-09-2013:4:32:34 PM] : B2KER003 has logged in to IDSIL / PJO using the System 59.90.86.47
+
+
+[22-09-2013:4:32:46 PM] : B2KER003 has uploaded a file 63875466 to Hospital/Customer in IDSIL / PJO
+
+
+[22-09-2013:5:15:55 PM] :  has uploaded a DUP file 63866749 in IDSIL / PJO
+
+
+[22-09-2013:5:33:41 PM] : B2KER003 has picked a file 63872107 in IDSIL / PJO
+
+
+[22-09-2013:5:51:39 PM] : B2KER003 has uploaded a file 63872107 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[22-09-2013:5:55:11 PM] : B2KER003 has picked a file 63867359 in IDSIL / PJO
+
+
+[22-09-2013:6:19:25 PM] : B2KER003 has uploaded a file 63867359 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[22-09-2013:6:25:27 PM] : B2KER003 has viewed the Edited file details in IDSIL/PJO from 2013-09-01 to 2013-09-13
+
+
+[22-09-2013:6:26:03 PM] : B2KER003 has viewed the Audit file details in IDSIL / PJO from 2013-09-01 to 2013-09-13
+
+
+[22-09-2013:6:29:35 PM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[22-09-2013:6:29:55 PM] : B2KER003 has picked a file 63647973 in IDSIL / PJO
+
+
+[22-09-2013:6:30:02 PM] : B2KER003 has uploaded a file 63647973 to Hospital/Customer in IDSIL / PJO
+
+
+[22-09-2013:6:30:12 PM] : B2KER003 has picked a file 63651794 in IDSIL / PJO
+
+
+[22-09-2013:6:30:17 PM] : B2KER003 has uploaded a file 63651794 to Hospital/Customer in IDSIL / PJO
+
+
+[22-09-2013:6:30:27 PM] : B2KER003 has picked a file 63655098 in IDSIL / PJO
+
+
+[22-09-2013:6:30:34 PM] : B2KER003 has uploaded a file 63655098 to Hospital/Customer in IDSIL / PJO
+
+
+[22-09-2013:6:30:43 PM] : B2KER003 has picked a file 63657604 in IDSIL / PJO
+
+
+[22-09-2013:6:30:49 PM] : B2KER003 has uploaded a file 63657604 to Hospital/Customer in IDSIL / PJO
+
+
+[22-09-2013:6:30:59 PM] : B2KER003 has picked a file 63658477 in IDSIL / PJO
+
+
+[22-09-2013:6:31:07 PM] : B2KER003 has uploaded a file 63658477 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[22-09-2013:6:31:17 PM] : B2KER003 has picked a file 63658551 in IDSIL / PJO
+
+
+[22-09-2013:6:31:23 PM] : B2KER003 has uploaded a file 63658551 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[22-09-2013:6:31:32 PM] : B2KER003 has picked a file 63658645 in IDSIL / PJO
+
+
+[22-09-2013:6:31:39 PM] : B2KER003 has uploaded a file 63658645 to Hospital/Customer in IDSIL / PJO
+
+
+[22-09-2013:6:32:48 PM] : B2KER003 has picked a file 63658865 in IDSIL / PJO
+
+
+[22-09-2013:6:32:57 PM] : B2KER003 has uploaded a file 63658865 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[22-09-2013:6:33:43 PM] : B2KER003 has picked a file 63658998 in IDSIL / PJO
+
+
+[22-09-2013:6:33:50 PM] : B2KER003 has uploaded a file 63658998 to Hospital/Customer in IDSIL / PJO
+
+
+[22-09-2013:6:34:06 PM] : B2KER003 has picked a file 63663131 in IDSIL / PJO
+
+
+[22-09-2013:6:34:14 PM] : B2KER003 has uploaded a file 63663131 to Hospital/Customer in IDSIL / PJO
+
+
+[22-09-2013:6:34:23 PM] : B2KER003 has picked a file 63663513 in IDSIL / PJO
+
+
+[22-09-2013:6:34:29 PM] : B2KER003 has uploaded a file 63663513 to Hospital/Customer in IDSIL / PJO
+
+
+[22-09-2013:6:34:43 PM] : B2KER003 has picked a file 63663717 in IDSIL / PJO
+
+
+[22-09-2013:6:34:52 PM] : B2KER003 has uploaded a file 63663717 to Hospital/Customer in IDSIL / PJO
+
+
+[22-09-2013:6:35:04 PM] : B2KER003 has picked a file 63664249 in IDSIL / PJO
+
+
+[22-09-2013:6:35:10 PM] : B2KER003 has uploaded a file 63664249 to Hospital/Customer in IDSIL / PJO
+
+
+[22-09-2013:6:38:09 PM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[22-09-2013:6:38:31 PM] : B2KER003 has picked a file 63667147 in IDSIL / PJO
+
+
+[22-09-2013:6:38:37 PM] : B2KER003 has uploaded a file 63667147 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[22-09-2013:6:39:05 PM] : B2KER003 has picked a file 63667158 in IDSIL / PJO
+
+
+[22-09-2013:6:39:11 PM] : B2KER003 has uploaded a file 63667158 to Hospital/Customer in IDSIL / PJO
+
+
+[22-09-2013:6:41:38 PM] : B2KER003 has picked a file 63667170 in IDSIL / PJO
+
+
+[22-09-2013:6:41:45 PM] : B2KER003 has uploaded a file 63667170 to Hospital/Customer in IDSIL / PJO
+
+
+[22-09-2013:6:41:56 PM] : B2KER003 has picked a file 63667523 in IDSIL / PJO
+
+
+[22-09-2013:6:42:01 PM] : B2KER003 has uploaded a file 63667523 to Hospital/Customer in IDSIL / PJO
+
+
+[22-09-2013:6:42:13 PM] : B2KER003 has picked a file 63667532 in IDSIL / PJO
+
+
+[22-09-2013:6:42:24 PM] : B2KER003 has uploaded a file 63667532 to Hospital/Customer in IDSIL / PJO
+
+
+[22-09-2013:6:42:40 PM] : B2KER003 has picked a file 63667624 in IDSIL / PJO
+
+
+[22-09-2013:6:42:45 PM] : B2KER003 has uploaded a file 63667624 to Hospital/Customer in IDSIL / PJO
+
+
+[22-09-2013:6:44:55 PM] : B2KER003 has picked a file 63668788 in IDSIL / PJO
+
+
+[22-09-2013:6:45:02 PM] : B2KER003 has uploaded a file 63668788 to Hospital/Customer in IDSIL / PJO
+
+
+[22-09-2013:6:45:24 PM] : B2KER003 has viewed the Edited file details in IDSIL/PJO from 2013-09-14 to 2013-09-14
+
+
+[22-09-2013:6:45:47 PM] : B2KER003 has viewed the Audit file details in IDSIL / PJO from 2013-09-14 to 2013-09-14
+
+
+[22-09-2013:6:48:23 PM] : B2KER003 has viewed the Audit file details in IDSIL / PJO from 2013-09-15 to 2013-09-15
+
+
+[22-09-2013:6:48:35 PM] : B2KER003 has viewed the Edited file details in IDSIL/PJO from 2013-09-15 to 2013-09-15
+
+
+[22-09-2013:6:50:00 PM] : B2KER003 has picked a file 63691188 in IDSIL / PJO
+
+
+[22-09-2013:6:50:22 PM] : B2KER003 has uploaded a file 63691188 to Hospital/Customer in IDSIL / PJO
+
+
+[22-09-2013:6:50:33 PM] : B2KER003 has picked a file 63693246 in IDSIL / PJO
+
+
+[22-09-2013:6:50:39 PM] : B2KER003 has uploaded a file 63693246 to Hospital/Customer in IDSIL / PJO
+
+
+[22-09-2013:6:52:02 PM] : B2KER003 has picked a file 63693783 in IDSIL / PJO
+
+
+[22-09-2013:6:52:11 PM] : B2KER003 has uploaded a file 63693783 to Hospital/Customer in IDSIL / PJO
+
+
+[22-09-2013:6:52:20 PM] : B2KER003 has picked a file 63698514 in IDSIL / PJO
+
+
+[22-09-2013:6:52:26 PM] : B2KER003 has uploaded a file 63698514 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[22-09-2013:6:52:36 PM] : B2KER003 has picked a file 63698607 in IDSIL / PJO
+
+
+[22-09-2013:6:52:41 PM] : B2KER003 has uploaded a file 63698607 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[22-09-2013:6:53:01 PM] : B2KER003 has picked a file 63699151 in IDSIL / PJO
+
+
+[22-09-2013:6:53:08 PM] : B2KER003 has uploaded a file 63699151 to Hospital/Customer in IDSIL / PJO
+
+
+[22-09-2013:6:53:18 PM] : B2KER003 has picked a file 63699208 in IDSIL / PJO
+
+
+[22-09-2013:6:53:24 PM] : B2KER003 has uploaded a file 63699208 to Hospital/Customer in IDSIL / PJO
+
+
+[22-09-2013:6:57:02 PM] : B2KER003 has picked a file 63700819 in IDSIL / PJO
+
+
+[22-09-2013:6:57:08 PM] : B2KER003 has uploaded a file 63700819 to Hospital/Customer in IDSIL / PJO
+
+
+[22-09-2013:6:57:32 PM] : B2KER003 has viewed the Edited file details in IDSIL/PJO from 2013-09-16 to 2013-09-16
+
+
+[22-09-2013:6:57:59 PM] : B2KER003 has viewed the Audit file details in IDSIL / PJO from 2013-09-16 to 2013-09-16
+
+
+[22-09-2013:6:59:23 PM] : B2KER003 has picked a file 63709083 in IDSIL / PJO
+
+
+[22-09-2013:6:59:30 PM] : B2KER003 has uploaded a file 63709083 to Hospital/Customer in IDSIL / PJO
+
+
+[22-09-2013:7:00:09 PM] : B2KER003 has picked a file 63729687 in IDSIL / PJO
+
+
+[22-09-2013:7:00:17 PM] : B2KER003 has uploaded a file 63729687 to Hospital/Customer in IDSIL / PJO
+
+
+[22-09-2013:7:01:10 PM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[22-09-2013:7:01:29 PM] : B2KER003 has viewed the Edited file details in IDSIL/PJO from 2013-09-17 to 2013-09-17
+
+
+[22-09-2013:7:02:10 PM] : B2KER003 has viewed the Audit file details in IDSIL / PJO from 2013-09-17 to 2013-09-17
+
+
+[22-09-2013:7:03:08 PM] : B2KER003 has viewed the Edited file details in IDSIL/PJO from 2013-09-18 to 2013-09-18
+
+
+[22-09-2013:7:03:29 PM] : B2KER003 has viewed the Audit file details in IDSIL / PJO from 2013-09-18 to 2013-09-18
+
+
+[22-09-2013:7:04:40 PM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[22-09-2013:7:05:28 PM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[22-09-2013:7:05:45 PM] : B2KER003 has picked a file 63803403 in IDSIL / PJO
+
+
+[22-09-2013:7:05:51 PM] : B2KER003 has uploaded a file 63803403 to Hospital/Customer in IDSIL / PJO
+
+
+[22-09-2013:7:06:06 PM] : B2KER003 has viewed the Edited file details in IDSIL/PJO from 2013-09-19 to 2013-09-19
+
+
+[22-09-2013:7:06:32 PM] : B2KER003 has viewed the Audit file details in IDSIL / PJO from 2013-09-19 to 2013-09-19
+
+
+[22-09-2013:7:11:07 PM] : B2KER003 has picked a file 63835815 in IDSIL / PJO
+
+
+[22-09-2013:7:11:13 PM] : B2KER003 has uploaded a file 63835815 to Hospital/Customer in IDSIL / PJO
+
+
+[22-09-2013:7:11:31 PM] : B2KER003 has picked a file 63836909 in IDSIL / PJO
+
+
+[22-09-2013:7:11:53 PM] : B2KER003 has uploaded a file 63836909 to Hospital/Customer in IDSIL / PJO
+
+
+[22-09-2013:7:12:06 PM] : B2KER003 has viewed the Edited file details in IDSIL/PJO from 2013-09-20 to 2013-09-20
+
+
+[22-09-2013:7:12:33 PM] : B2KER003 has viewed the Audit file details in IDSIL / PJO from 2013-09-20 to 2013-09-20
+
+
+[22-09-2013:7:23:30 PM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[22-09-2013:7:23:47 PM] : B2KER003 has picked a file 63843213 in IDSIL / PJO
+
+
+[22-09-2013:7:23:57 PM] : B2KER003 has uploaded a file 63843213 to Hospital/Customer in IDSIL / PJO
+
+
+[22-09-2013:7:24:07 PM] : B2KER003 has picked a file 63846155 in IDSIL / PJO
+
+
+[22-09-2013:7:24:13 PM] : B2KER003 has uploaded a file 63846155 to Hospital/Customer in IDSIL / PJO
+
+
+[22-09-2013:7:24:44 PM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[22-09-2013:7:25:01 PM] : B2KER003 has picked a file 63853557 in IDSIL / PJO
+
+
+[22-09-2013:7:25:07 PM] : B2KER003 has uploaded a file 63853557 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[22-09-2013:7:25:40 PM] : B2KER003 has picked a file 63855829 in IDSIL / PJO
+
+
+[22-09-2013:7:25:49 PM] : B2KER003 has uploaded a file 63855829 to Hospital/Customer in IDSIL / PJO
+
+
+[22-09-2013:7:25:58 PM] : B2KER003 has picked a file 63857414 in IDSIL / PJO
+
+
+[22-09-2013:7:26:04 PM] : B2KER003 has uploaded a file 63857414 to Hospital/Customer in IDSIL / PJO
+
+
+[22-09-2013:7:26:29 PM] : B2KER003 has picked a file 63860893 in IDSIL / PJO
+
+
+[22-09-2013:7:26:36 PM] : B2KER003 has uploaded a file 63860893 to Hospital/Customer in IDSIL / PJO
+
+
+[22-09-2013:7:28:53 PM] : B2KER003 has picked a file 63862199 in IDSIL / PJO
+
+
+[22-09-2013:7:31:49 PM] : B2KER003 has uploaded a file 63862199 to Hospital/Customer in IDSIL / PJO
+
+
+[22-09-2013:7:32:05 PM] : B2KER003 has viewed the Edited file details in IDSIL/PJO from 2013-09-21 to 2013-09-21
+
+
+[22-09-2013:7:40:07 PM] : B2KER003 has viewed the Audit file details in IDSIL / PJO from 2013-09-21 to 2013-09-21
+
+
+[22-09-2013:7:45:16 PM] : B2KER003 has viewed the DUP file details in IDSIL/PJO from 2013-09-21 to 2013-09-21
+
+
+[22-09-2013:7:46:02 PM] :  has uploaded a DUP file 63859006 in IDSIL / PJO
+
+
+[22-09-2013:7:46:50 PM] :  has uploaded a DUP file 63859065 in IDSIL / PJO
+
+
+[22-09-2013:7:47:12 PM] : B2KER003 has viewed the DUP file details in IDSIL/PJO from 2013-09-21 to 2013-09-21
+
+
+[22-09-2013:7:49:07 PM] : B2KER003 has picked a file 63873593 in IDSIL / PJO
+
+
+[22-09-2013:7:49:14 PM] : B2KER003 has uploaded a file 63873593 to Hospital/Customer in IDSIL / PJO
+
+
+[22-09-2013:7:49:51 PM] : B2KER003 has picked a file 63879318 in IDSIL / PJO
+
+
+[22-09-2013:7:49:59 PM] : B2KER003 has uploaded a file 63879318 to Hospital/Customer in IDSIL / PJO
+
+
+[22-09-2013:9:02:08 PM] : B2KER003 has picked a file 63871215 in IDSIL / PJO
+
+
+[22-09-2013:9:43:59 PM] : B2KER003 has uploaded a file 63871215 to Hospital/Customer in IDSIL / PJO
+
+
+[22-09-2013:10:22:11 PM] : B2KER003 has logged in to IDSIL / PJO using the System 59.90.86.47
+
+
+[22-09-2013:10:22:25 PM] : B2KER003 has picked a file 63873341 in IDSIL / PJO
+
+
+[22-09-2013:10:22:31 PM] : B2KER003 has uploaded a file 63873341 to Hospital/Customer in IDSIL / PJO
+
+
+[22-09-2013:10:26:38 PM] : B2KER003 has picked a file 63873393 in IDSIL / PJO
+
+
+[22-09-2013:10:31:52 PM] : B2KER003 has uploaded a file 63873393 to Hospital/Customer in IDSIL / PJO
+
+
+[22-09-2013:10:39:46 PM] : B2KER003 has picked a file 63873703 in IDSIL / PJO
+
+
+[22-09-2013:11:10:02 PM] : B2KER003 has logged in to IDSIL / PJO using the System 59.90.86.47
+
+
+[22-09-2013:11:10:56 PM] : B2KER003 has picked a file 63873703 in IDSIL / PJO
+
+
+[22-09-2013:11:11:03 PM] : B2KER003 has uploaded a file 63873703 to Hospital/Customer in IDSIL / PJO
+
+
+[23-09-2013:1:38:26 AM] :  has uploaded a DUP file 63884118 in IDSIL / PJO
+
+
+[23-09-2013:1:43:24 AM] : B2KER003 has picked a file 63875103 in IDSIL / PJO
+
+
+[23-09-2013:2:57:16 AM] : B2KER003 has uploaded a file 63875103 to Hospital/Customer in IDSIL / PJO

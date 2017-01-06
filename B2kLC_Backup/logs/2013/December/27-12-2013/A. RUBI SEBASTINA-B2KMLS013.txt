@@ -1,0 +1,75 @@
+
+
+[27-12-2013:10:24:30 AM] : B2KMLS013 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[27-12-2013:10:29:36 AM] : B2KMLS013 has picked a file 66285011 in IDSIL / PJO
+
+
+[27-12-2013:10:36:18 AM] : B2KMLS013 has uploaded a file 66285011 to Hospital/Customer in IDSIL / PJO
+
+
+[27-12-2013:10:37:00 AM] : B2KMLS013 has picked a file 66284965 in IDSIL / PJO
+
+
+[27-12-2013:10:49:03 AM] : B2KMLS013 has uploaded a file 66284965 to Hospital/Customer in IDSIL / PJO
+
+
+[27-12-2013:11:05:51 AM] : B2KMLS013 has picked a file 66285031 in IDSIL / PJO
+
+
+[27-12-2013:11:41:07 AM] : B2KMLS013 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[27-12-2013:11:41:16 AM] : B2KMLS013 has uploaded a file 66285031 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[27-12-2013:11:44:57 AM] : B2KMLS013 has picked a file 66285195 in IDSIL / PJO
+
+
+[27-12-2013:12:19:04 PM] : B2KMLS013 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[27-12-2013:12:19:13 PM] : B2KMLS013 has uploaded a file 66285195 to Hospital/Customer in IDSIL / PJO
+
+
+[27-12-2013:2:24:14 PM] : B2KMLS013 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[27-12-2013:2:26:40 PM] : B2KMLS013 has picked a file 66285806 in IDSIL / PJO
+
+
+[27-12-2013:3:29:23 PM] : B2KMLS013 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[27-12-2013:3:29:33 PM] : B2KMLS013 has uploaded a file 66285806 to Hospital/Customer in IDSIL / PJO
+
+
+[27-12-2013:3:30:54 PM] : B2KMLS013 has picked a file 66280647 in IDSIL / PJO
+
+
+[27-12-2013:4:10:48 PM] : B2KMLS013 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[27-12-2013:4:10:59 PM] : B2KMLS013 has uploaded a file 66280647 to Hospital/Customer in IDSIL / PJO
+
+
+[27-12-2013:4:14:07 PM] : B2KMLS013 has picked a file 66281797 in IDSIL / PJO
+
+
+[27-12-2013:4:48:17 PM] : B2KMLS013 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[27-12-2013:4:48:40 PM] : B2KMLS013 has uploaded a file 66281797 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[27-12-2013:4:59:25 PM] : B2KMLS013 has picked a file 66284658 in IDSIL / PJO
+
+
+[27-12-2013:5:56:41 PM] : B2KMLS013 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[27-12-2013:5:56:48 PM] : B2KMLS013 has uploaded a file 66284658 to Hospital/Customer in IDSIL / PJO
+
+
+[27-12-2013:6:32:46 PM] : B2KMLS013 has logged out from the Linecount Software Using the System 123.255.248.35

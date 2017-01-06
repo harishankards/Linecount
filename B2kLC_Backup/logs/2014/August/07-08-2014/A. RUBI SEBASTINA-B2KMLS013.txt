@@ -1,0 +1,63 @@
+
+
+[07-08-2014:7:00:14 AM] : B2KMLS013 has logged in to IDSIL / PJO using the System 115.241.114.60
+
+
+[07-08-2014:11:25:10 AM] : B2KMLS013 has logged in to IDSIL / PJO using the System 115.241.73.203
+
+
+[07-08-2014:11:29:20 AM] : B2KMLS013 has picked a file 71743185 in IDSIL / PJO
+
+
+[07-08-2014:12:45:55 PM] : B2KMLS013 has picked a file 71741380 in IDSIL / PJO
+
+
+[07-08-2014:12:52:44 PM] : B2KMLS013 has uploaded a file 71741380 to Hospital/Customer in IDSIL / PJO
+
+
+[07-08-2014:12:52:44 PM] : B2KMLS013 has uploaded a file 71743185 to Hospital/Customer in IDSIL / PJO
+
+
+[07-08-2014:12:53:10 PM] : B2KMLS013 has picked a file 71736571 in IDSIL / PJO
+
+
+[07-08-2014:1:48:06 PM] : B2KMLS013 has picked a file 71742795 in IDSIL / PJO
+
+
+[07-08-2014:3:03:13 PM] : B2KMLS013 has logged in to IDSIL / PJO using the System 115.241.73.203
+
+
+[07-08-2014:3:03:23 PM] : B2KMLS013 has uploaded a file 71742795 to Hospital/Customer in IDSIL / PJO
+
+
+[07-08-2014:3:03:24 PM] : B2KMLS013 has uploaded a file 71736571 to Hospital/Customer in IDSIL / PJO
+
+
+[07-08-2014:3:08:12 PM] : B2KMLS013 has picked a file 71742319 in IDSIL / PJO
+
+
+[07-08-2014:3:37:05 PM] : B2KMLS013 has picked a file 71739627 in IDSIL / PJO
+
+
+[07-08-2014:3:50:18 PM] : B2KMLS013 has uploaded a file 71739627 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[07-08-2014:5:46:07 PM] : B2KMLS013 has logged in to IDSIL / PJO using the System 115.241.73.203
+
+
+[07-08-2014:7:30:18 PM] : B2KMLS013 has uploaded a file 71742319 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[07-08-2014:7:30:56 PM] :  has uploaded a DUP file 71745315 in IDSIL / PJO
+
+
+[07-08-2014:8:19:34 PM] :  has uploaded a DUP file 71747966 in IDSIL / PJO
+
+
+[07-08-2014:8:49:45 PM] : B2KMLS013 has viewed the DUP file details in IDSIL/PJO from 2014-08-01 to 2014-08-07
+
+
+[07-08-2014:8:50:00 PM] : B2KMLS013 has viewed the Edited file details in IDSIL/PJO from 2014-08-01 to 2014-08-07
+
+
+[07-08-2014:8:50:09 PM] : B2KMLS013 has logged out from the Linecount Software Using the System 101.63.228.70

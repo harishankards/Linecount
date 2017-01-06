@@ -1,0 +1,12 @@
+
+
+[16-01-2016:11:56:07 AM] : DHARMARAJ.M has logged in to Admin page using the System 123.255.248.35
+
+
+[16-01-2016:12:34:59 PM] : DHARMARAJ.M has Viewed Employee Details
+
+
+[16-01-2016:12:40:23 PM] : DHARMARAJ.M has added Employee Details[EUREKA] into the Database
+
+
+[16-01-2016:12:40:30 PM] : DHARMARAJ.M has logged out from the Linecount Software Using the System 123.255.248.35

@@ -1,0 +1,63 @@
+
+
+[13-02-2013:5:52:15 PM] : B2KHTER003 has logged in to IDSIL / PJO using the System 59.165.107.87
+
+
+[13-02-2013:5:53:13 PM] : B2KHTER003 has picked a file 57724443 in IDSIL / PJO
+
+
+[13-02-2013:5:53:28 PM] : B2KHTER003 has uploaded a file 57724443 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[13-02-2013:5:54:25 PM] : B2KHTER003 has picked a file 57724623 in IDSIL / PJO
+
+
+[13-02-2013:5:54:40 PM] : B2KHTER003 has uploaded a file 57724623 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[13-02-2013:5:55:14 PM] : B2KHTER003 has picked a file 57725004 in IDSIL / PJO
+
+
+[13-02-2013:5:55:34 PM] : B2KHTER003 has uploaded a file 57725004 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[13-02-2013:5:56:06 PM] : B2KHTER003 has picked a file 57725205 in IDSIL / PJO
+
+
+[13-02-2013:5:56:15 PM] : B2KHTER003 has uploaded a file 57725205 to Hospital/Customer in IDSIL / PJO
+
+
+[13-02-2013:5:57:09 PM] : B2KHTER003 has picked a file 57689363 in IDSIL / PJO
+
+
+[13-02-2013:5:57:19 PM] : B2KHTER003 has uploaded a file 57689363 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[13-02-2013:5:57:43 PM] : B2KHTER003 has picked a file 57690591 in IDSIL / PJO
+
+
+[13-02-2013:5:57:55 PM] : B2KHTER003 has uploaded a file 57690591 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[13-02-2013:5:58:23 PM] : B2KHTER003 has picked a file 57724762 in IDSIL / PJO
+
+
+[13-02-2013:5:58:32 PM] : B2KHTER003 has uploaded a file 57724762 to Hospital/Customer in IDSIL / PJO
+
+
+[13-02-2013:5:59:56 PM] : B2KHTER003 has viewed the Edited file details in IDSIL/PJO from 2013-02-13 to 2013-02-13
+
+
+[13-02-2013:6:00:53 PM] : B2KHTER003 has logged out from the Linecount Software Using the System 59.165.107.87
+
+
+[13-02-2013:6:01:01 PM] : B2KHTER003 has logged in to IDSIL / PJO using the System 59.165.107.87
+
+
+[13-02-2013:6:02:46 PM] : B2KHTER003 has added a Audit file 57168754 in IDSIL / PJO 
+
+
+[13-02-2013:6:03:11 PM] : B2KHTER003 has viewed the Audit file details in IDSIL / PJO from 2013-02-01 to 2013-02-13
+
+
+[13-02-2013:6:03:53 PM] : B2KHTER003 has logged out from the Linecount Software Using the System 59.165.107.87

@@ -1,0 +1,63 @@
+
+
+[16-05-2013:8:31:00 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[16-05-2013:8:31:09 AM] : ADMIN has Viewed Employee Details
+
+
+[16-05-2013:8:31:28 AM] : ADMIN has Viewed Employee Details
+
+
+[16-05-2013:10:10:04 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[16-05-2013:10:36:37 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[16-05-2013:10:37:22 AM] : ADMIN has added an Update into the Database
+
+
+[16-05-2013:11:38:48 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[16-05-2013:12:28:26 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[16-05-2013:1:43:17 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[16-05-2013:1:45:35 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[16-05-2013:1:48:09 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[16-05-2013:2:48:11 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[16-05-2013:3:15:18 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[16-05-2013:3:49:18 PM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[16-05-2013:4:05:08 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[16-05-2013:4:51:40 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[16-05-2013:4:57:05 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[16-05-2013:5:15:45 PM] : ADMIN has Deleted the details of the file 60489106.
+
+
+[16-05-2013:5:30:01 PM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35
+
+[16-05-2013:5:34:26 PM] : ADMIN has Deleted the details of the file 60494701.
+
+
+[16-05-2013:6:57:33 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[16-05-2013:10:09:15 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47

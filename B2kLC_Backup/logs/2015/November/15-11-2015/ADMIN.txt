@@ -1,0 +1,19 @@
+
+
+[15-11-2015:4:23:20 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[15-11-2015:9:25:41 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[15-11-2015:1:55:52 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[15-11-2015:2:11:18 PM] : ADMIN has Viewed Employee Details
+
+[15-11-2015:5:28:19 PM] : ADMIN has Deleted the details of the file 95146120.
+
+
+[15-11-2015:11:18:40 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[15-11-2015:11:22:25 PM] : ADMIN has Deleted the details of the file 95146805.

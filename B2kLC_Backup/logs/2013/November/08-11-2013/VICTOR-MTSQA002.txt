@@ -1,0 +1,12 @@
+
+
+[08-11-2013:6:47:59 PM] : MTSQA002 has logged in to IDSIL / PJO using the System 59.97.24.35
+
+
+[08-11-2013:6:48:48 PM] : MTSQA002 has picked a file 65143923 in IDSIL / PJO
+
+
+[08-11-2013:6:49:03 PM] : MTSQA002 has uploaded a file 65143923 to Hospital/Customer in IDSIL / PJO
+
+
+[08-11-2013:6:49:48 PM] : MTSQA002 has logged out from the Linecount Software Using the System 59.97.24.35

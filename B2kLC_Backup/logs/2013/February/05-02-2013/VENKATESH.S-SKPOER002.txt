@@ -1,0 +1,84 @@
+
+
+[05-02-2013:10:15:59 AM] : SKPOER002 has logged in to IDSIL / PJO using the System 14.102.34.42
+
+
+[05-02-2013:10:16:42 AM] : SKPOER002 has picked a file 57423052 in IDSIL / PJO
+
+
+[05-02-2013:11:25:12 AM] : SKPOER002 has picked a file 57423621 in IDSIL / PJO
+
+
+[05-02-2013:11:57:16 AM] : SKPOER002 has logged in to IDSIL / PJO using the System 14.102.34.42
+
+
+[05-02-2013:11:57:27 AM] : SKPOER002 has picked a file 57425801 in IDSIL / PJO
+
+
+[05-02-2013:12:25:49 PM] : SKPOER002 has picked a file 57423073 in IDSIL / PJO
+
+
+[05-02-2013:12:27:57 PM] : SKPOER002 has uploaded a file 57423073 to Hospital/Customer in IDSIL / PJO
+
+
+[05-02-2013:12:31:13 PM] : SKPOER002 has picked a file 57435435 in IDSIL / PJO
+
+
+[05-02-2013:12:34:21 PM] : SKPOER002 has picked a file 57435526 in IDSIL / PJO
+
+
+[05-02-2013:12:34:42 PM] : SKPOER002 has uploaded a file 57425801 to Hospital/Customer in IDSIL / PJO
+
+
+[05-02-2013:12:34:48 PM] : SKPOER002 has uploaded a file 57423052 to Hospital/Customer in IDSIL / PJO
+
+
+[05-02-2013:12:34:49 PM] : SKPOER002 has uploaded a file 57423621 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[05-02-2013:12:34:50 PM] : SKPOER002 has uploaded a file 57417814 to Hospital/Customer in IDSIL / PJO
+
+
+[05-02-2013:12:51:00 PM] : SKPOER002 has picked a file 57436057 in IDSIL / PJO
+
+
+[05-02-2013:12:51:07 PM] : SKPOER002 has uploaded a file 57435435 to Hospital/Customer in IDSIL / PJO
+
+
+[05-02-2013:12:51:13 PM] : SKPOER002 has uploaded a file 57435526 to Hospital/Customer in IDSIL / PJO
+
+
+[05-02-2013:1:07:45 PM] : SKPOER002 has picked a file 57437651 in IDSIL / PJO
+
+
+[05-02-2013:1:49:00 PM] : SKPOER002 has logged out from the Linecount Software Using the System 14.102.34.42
+
+
+[05-02-2013:1:59:53 PM] : SKPOER002 has logged in to IDSIL / PJO using the System 14.102.34.42
+
+
+[05-02-2013:2:00:37 PM] : SKPOER002 has picked a file 57438011 in IDSIL / PJO
+
+
+[05-02-2013:2:01:55 PM] : SKPOER002 has picked a file 57421527 in IDSIL / PJO
+
+
+[05-02-2013:2:38:34 PM] : SKPOER002 has uploaded a file 57421527 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[05-02-2013:2:49:26 PM] : SKPOER002 has picked a file 57446441 in IDSIL / PJO
+
+
+[05-02-2013:2:57:37 PM] : SKPOER002 has picked a file 57452064 in IDSIL / PJO
+
+
+[05-02-2013:3:13:12 PM] : SKPOER002 has uploaded a file 57452064 to Hospital/Customer in IDSIL / PJO
+
+
+[05-02-2013:3:42:34 PM] : SKPOER002 has logged in to IDSIL / PJO using the System 14.102.34.42
+
+
+[05-02-2013:3:43:02 PM] : SKPOER002 has picked a file 57419466 in IDSIL / PJO
+
+
+[05-02-2013:4:07:23 PM] : SKPOER002 has picked a file 57456829 in IDSIL / PJO

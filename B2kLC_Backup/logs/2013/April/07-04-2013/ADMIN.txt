@@ -1,0 +1,105 @@
+
+
+[07-04-2013:12:30:42 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[07-04-2013:1:49:01 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+[07-04-2013:1:49:39 AM] : ADMIN has Approved Leave request from the ID B2KMLS019 on 2013-04-07.
+
+[07-04-2013:1:50:28 AM] : ADMIN has Approved Leave request from the ID B2KER001 on 2013-04-08.
+
+
+[07-04-2013:6:06:10 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[07-04-2013:10:53:40 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[07-04-2013:11:48:09 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[07-04-2013:11:48:30 AM] : ADMIN has Viewed Employee Details
+
+
+[07-04-2013:11:48:54 AM] : ADMIN has Viewed Employee Details
+
+
+[07-04-2013:11:54:33 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[07-04-2013:11:54:43 AM] : ADMIN has Viewed Employee Details
+
+
+[07-04-2013:11:54:44 AM] : ADMIN has Viewed Employee Details
+
+
+[07-04-2013:11:55:00 AM] : ADMIN has Viewed Employee Details
+
+
+[07-04-2013:11:55:12 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[07-04-2013:11:57:53 AM] : ADMIN has added Employee Details[POOJA.] into the Database
+
+
+[07-04-2013:11:58:03 AM] : ADMIN has Viewed Employee Details
+
+
+[07-04-2013:11:59:14 AM] : ADMIN has Viewed Employee Details
+
+
+[07-04-2013:11:59:26 AM] : ADMIN has Viewed Employee Details
+
+
+[07-04-2013:12:02:12 PM] : ADMIN has added Employee Details[SATHYA G] into the Database
+
+
+[07-04-2013:12:04:12 PM] : ADMIN has added Employee Details[MANJULA] into the Database
+
+
+[07-04-2013:12:10:40 PM] : ADMIN has logged out from the Linecount Software Using the System 59.90.86.47
+
+
+[07-04-2013:1:33:14 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[07-04-2013:1:33:18 PM] : ADMIN has logged out from the Linecount Software Using the System 59.90.86.47
+
+
+[07-04-2013:1:33:23 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[07-04-2013:2:00:01 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[07-04-2013:3:18:22 PM] : ADMIN has added Hospital [ST JOHN HOSPITAL] into the Database
+
+
+[07-04-2013:5:36:59 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[07-04-2013:6:25:38 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[07-04-2013:6:25:47 PM] : ADMIN has Viewed Employee Details
+
+
+[07-04-2013:6:25:57 PM] : ADMIN has Viewed Employee Details
+
+
+[07-04-2013:6:27:44 PM] : ADMIN has Viewed Employee Details
+
+
+[07-04-2013:6:44:28 PM] : ADMIN has Viewed Employee Details
+
+
+[07-04-2013:6:44:36 PM] : ADMIN has Viewed Employee Details
+
+
+[07-04-2013:6:52:36 PM] : ADMIN has Viewed Employee Details
+
+
+[07-04-2013:7:04:51 PM] : ADMIN has Viewed Employee Details
+
+
+[07-04-2013:11:06:46 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47

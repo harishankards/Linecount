@@ -1,0 +1,66 @@
+
+
+[17-12-2013:10:18:23 AM] : ATER003 has logged in to IDSIL / PJO using the System 117.218.59.252
+
+
+[17-12-2013:12:43:14 PM] : ATER003 has logged in to IDSIL / PJO using the System 117.218.59.252
+
+
+[17-12-2013:12:43:34 PM] : ATER003 has picked a file 66015212 in IDSIL / PJO
+
+
+[17-12-2013:1:06:15 PM] : ATER003 has picked a file 66015769 in IDSIL / PJO
+
+
+[17-12-2013:1:13:52 PM] : ATER003 has picked a file 66016759 in IDSIL / PJO
+
+
+[17-12-2013:1:14:53 PM] : ATER003 has uploaded a file 66015212 to Hospital/Customer in IDSIL / PJO
+
+
+[17-12-2013:1:15:01 PM] : ATER003 has uploaded a file 66015769 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[17-12-2013:1:25:00 PM] : ATER003 has uploaded a file 66016759 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[17-12-2013:1:31:23 PM] : ATER003 has picked a file 66020031 in IDSIL / PJO
+
+
+[17-12-2013:2:09:19 PM] : ATER003 has picked a file 66020781 in IDSIL / PJO
+
+
+[17-12-2013:2:09:27 PM] : ATER003 has uploaded a file 66020031 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[17-12-2013:2:22:35 PM] : ATER003 has picked a file 66021417 in IDSIL / PJO
+
+
+[17-12-2013:2:22:44 PM] : ATER003 has uploaded a file 66020781 to Hospital/Customer in IDSIL / PJO
+
+
+[17-12-2013:3:37:23 PM] : ATER003 has logged in to IDSIL / PJO using the System 117.218.59.252
+
+
+[17-12-2013:3:39:04 PM] : ATER003 has picked a file 66024097 in IDSIL / PJO
+
+
+[17-12-2013:3:39:25 PM] : ATER003 has uploaded a file 66021417 to Hospital/Customer in IDSIL / PJO
+
+
+[17-12-2013:3:52:02 PM] : ATER003 has uploaded a file 66024097 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[17-12-2013:3:58:39 PM] : ATER003 has picked a file 66024423 in IDSIL / PJO
+
+
+[17-12-2013:3:59:00 PM] : ATER003 has viewed the Edited file details in IDSIL/PJO from 2013-12-17 to 2013-12-17
+
+
+[17-12-2013:4:34:21 PM] : ATER003 has logged in to IDSIL / PJO using the System 117.218.59.252
+
+
+[17-12-2013:4:34:34 PM] : ATER003 has picked a file 66024729 in IDSIL / PJO
+
+
+[17-12-2013:4:34:42 PM] : ATER003 has uploaded a file 66024423 to IDS/QA_Checkpoint in IDSIL / PJO

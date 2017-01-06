@@ -1,0 +1,96 @@
+
+
+[25-04-2014:6:28:36 AM] : B2KER006 has logged in to IDSIL / PJO using the System 59.90.86.47
+
+
+[25-04-2014:6:28:48 AM] : B2KER006 has picked a file 69306263 in IDSIL / PJO
+
+
+[25-04-2014:6:28:54 AM] : B2KER006 has uploaded a file 69306263 to Hospital/Customer in IDSIL / PJO
+
+
+[25-04-2014:6:40:42 AM] : B2KER006 has picked a file 69307613 in IDSIL / PJO
+
+
+[25-04-2014:6:40:49 AM] : B2KER006 has uploaded a file 69307613 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[25-04-2014:7:13:01 AM] : B2KER006 has picked a file 69299142 in IDSIL / PJO
+
+
+[25-04-2014:7:13:08 AM] : B2KER006 has uploaded a file 69299142 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[25-04-2014:7:25:34 AM] : B2KER006 has picked a file 69283274 in IDSIL / PJO
+
+
+[25-04-2014:7:25:40 AM] : B2KER006 has uploaded a file 69283274 to Hospital/Customer in IDSIL / PJO
+
+
+[25-04-2014:7:33:51 AM] : B2KER006 has picked a file 69309077 in IDSIL / PJO
+
+
+[25-04-2014:7:33:57 AM] : B2KER006 has uploaded a file 69309077 to Hospital/Customer in IDSIL / PJO
+
+
+[25-04-2014:7:42:06 AM] : B2KER006 has picked a file 69309497 in IDSIL / PJO
+
+
+[25-04-2014:7:42:15 AM] : B2KER006 has uploaded a file 69309497 to Hospital/Customer in IDSIL / PJO
+
+
+[25-04-2014:7:56:25 AM] : B2KER006 has picked a file 69301719 in IDSIL / PJO
+
+
+[25-04-2014:7:56:59 AM] : B2KER006 has uploaded a file 69301719 to Hospital/Customer in IDSIL / PJO
+
+
+[25-04-2014:8:01:38 AM] : B2KER006 has picked a file 69310279 in IDSIL / PJO
+
+
+[25-04-2014:8:02:08 AM] : B2KER006 has uploaded a file 69310279 to Hospital/Customer in IDSIL / PJO
+
+
+[25-04-2014:8:50:36 AM] : B2KER006 has picked a file 69304808 in IDSIL / PJO
+
+
+[25-04-2014:8:50:42 AM] : B2KER006 has uploaded a file 69304808 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[25-04-2014:11:14:34 AM] : B2KER006 has logged in to IDSIL / PJO using the System 59.90.86.47
+
+
+[25-04-2014:11:17:11 AM] : B2KER006 has added a Audit file 69304809 in IDSIL / PJO 
+
+
+[25-04-2014:11:30:54 AM] : B2KER006 has added a Audit file 69306501 in IDSIL / PJO 
+
+
+[25-04-2014:11:32:02 AM] : B2KER006 has viewed the Audit file details in IDSIL / PJO from 2014-04-25 to 2014-04-25
+
+
+[25-04-2014:1:13:00 PM] : B2KER006 has logged in to IDSIL / PJO using the System 59.90.86.47
+
+
+[25-04-2014:1:13:45 PM] : B2KER006 has added a Audit file 69304928 in IDSIL / PJO 
+
+
+[25-04-2014:1:57:59 PM] : B2KER006 has logged in to IDSIL / PJO using the System 59.90.86.47
+
+
+[25-04-2014:1:58:24 PM] : B2KER006 has added a Audit file 69309984 in IDSIL / PJO 
+
+
+[25-04-2014:2:53:12 PM] : B2KER006 has logged in to IDSIL / PJO using the System 59.90.86.47
+
+
+[25-04-2014:2:53:30 PM] : B2KER006 has added a Audit file 69307013 in IDSIL / PJO 
+
+
+[25-04-2014:4:15:32 PM] : B2KER006 has logged in to IDSIL / PJO using the System 59.90.86.47
+
+
+[25-04-2014:4:15:49 PM] : B2KER006 has added a Audit file 69311364 in IDSIL / PJO 
+
+
+[25-04-2014:4:18:22 PM] : B2KER006 has viewed the Audit file details in IDSIL / PJO from 2014-04-25 to 2014-04-25

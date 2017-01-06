@@ -1,0 +1,18 @@
+
+
+[05-05-2015:11:03:42 AM] : B2KQA03 has logged in to IDSIL / PJO using the System 59.90.86.47
+
+
+[05-05-2015:11:03:55 AM] : B2KQA03 has viewed the DUP file details in IDSIL/PJO from 2015-05-01 to 2015-05-05
+
+
+[05-05-2015:11:04:26 AM] : B2KQA03 has logged out from the Linecount Software Using the System 59.90.86.47
+
+
+[05-05-2015:2:43:21 PM] : B2KQA03 has logged in to IDSIL / PJO using the System 59.90.86.47
+
+
+[06-05-2015:5:14:27 AM] : B2KQA03 has picked a file 91582248 in IDSIL / PJO
+
+
+[06-05-2015:5:14:34 AM] : B2KQA03 has uploaded a file 91582248 to IDS/QA_Checkpoint in IDSIL / PJO

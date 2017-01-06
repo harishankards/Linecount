@@ -1,0 +1,24 @@
+
+
+[13-07-2014:1:47:34 AM] : ADMIN has Viewed Employee Details
+
+
+[13-07-2014:1:47:46 AM] : ADMIN has Viewed Employee Details
+
+
+[13-07-2014:5:39:54 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[13-07-2014:10:01:35 AM] : ADMIN has Deleted the details of the file 71173508.
+
+
+[13-07-2014:11:14:53 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[13-07-2014:1:14:14 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[13-07-2014:2:51:39 PM] : ADMIN has added an Update into the Database
+
+[13-07-2014:2:52:32 PM] : ADMIN has added an Update into the Database
+
+
+[13-07-2014:5:25:29 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35

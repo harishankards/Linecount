@@ -1,0 +1,57 @@
+
+
+[08-06-2014:7:55:43 AM] : B2KMLS005 has logged in to IDSIL / PJO using the System 117.206.107.149
+
+
+[08-06-2014:8:53:45 AM] : B2KMLS005 has logged in to IDSIL / PJO using the System 117.206.107.149
+
+
+[08-06-2014:8:55:03 AM] : B2KMLS005 has picked a file 70364813 in IDSIL / PJO
+
+
+[08-06-2014:9:28:36 AM] : B2KMLS005 has uploaded a file 70364813 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[08-06-2014:11:39:57 AM] :  has uploaded a DUP file 70365247 in IDSIL / PJO
+
+
+[08-06-2014:12:16:25 PM] :  has uploaded a DUP file 70365375 in IDSIL / PJO
+
+
+[08-06-2014:12:57:00 PM] : B2KMLS005 has logged in to IDSIL / PJO using the System 117.206.104.49
+
+
+[08-06-2014:12:57:48 PM] :  has uploaded a DUP file 70365453 in IDSIL / PJO
+
+
+[08-06-2014:1:58:57 PM] : B2KMLS005 has logged in to IDSIL / PJO using the System 117.206.104.49
+
+
+[08-06-2014:1:59:36 PM] :  has uploaded a DUP file 70365505 in IDSIL / PJO
+
+
+[08-06-2014:2:24:02 PM] :  has uploaded a DUP file 70365518 in IDSIL / PJO
+
+
+[08-06-2014:3:36:17 PM] :  has uploaded a DUP file 70360670 in IDSIL / PJO
+
+
+[08-06-2014:4:04:31 PM] : B2KMLS005 has logged in to IDSIL / PJO using the System 117.222.176.7
+
+
+[08-06-2014:4:05:25 PM] :  has uploaded a DUP file 70361230 in IDSIL / PJO
+
+
+[08-06-2014:4:05:35 PM] : B2KMLS005 has logged out from the Linecount Software Using the System 117.222.176.7
+
+
+[08-06-2014:9:08:56 PM] : B2KMLS005 has logged in to IDSIL / PJO using the System 117.213.64.14
+
+
+[08-06-2014:9:09:12 PM] : B2KMLS005 has viewed the DUP file details in IDSIL/PJO from 2014-06-01 to 2014-06-08
+
+
+[08-06-2014:9:09:18 PM] : B2KMLS005 has Downloaded a file details in IDSIL / PJO from 2014-06-01 to 2014-06-08
+
+
+[08-06-2014:9:11:48 PM] : B2KMLS005 has logged out from the Linecount Software Using the System 117.213.64.14

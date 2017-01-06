@@ -1,0 +1,252 @@
+
+
+[05-12-2013:1:43:47 AM] : SKPOER001 has logged out from the Linecount Software Using the System 117.197.199.146
+
+
+[05-12-2013:1:43:50 AM] : SKPOER001 has logged in to IDSIL / PJO using the System 117.197.199.146
+
+
+[05-12-2013:2:53:35 AM] : SKPOER001 has logged out from the Linecount Software Using the System 117.197.193.132
+
+
+[05-12-2013:2:53:39 AM] : SKPOER001 has logged in to IDSIL / PJO using the System 117.197.193.132
+
+
+[05-12-2013:4:11:26 AM] : SKPOER001 has logged out from the Linecount Software Using the System 117.197.193.132
+
+
+[05-12-2013:4:11:33 AM] : SKPOER001 has logged in to IDSIL / PJO using the System 117.197.193.132
+
+
+[05-12-2013:5:23:12 AM] : SKPOER001 has logged out from the Linecount Software Using the System 117.197.193.132
+
+
+[05-12-2013:5:23:22 AM] : SKPOER001 has logged in to IDSIL / PJO using the System 117.197.193.132
+
+
+[05-12-2013:5:33:20 AM] : SKPOER001 has picked a file 78666320 in IDSIL / PJO
+
+
+[05-12-2013:5:33:53 AM] : SKPOER001 has viewed the Edited file details in IDSIL/PJO from 2013-12-01 to 2013-12-05
+
+
+[05-12-2013:5:34:08 AM] : SKPOER001 has Downloaded a file details in IDSIL / PJO from 2013-12-01 to 2013-12-05
+
+
+[05-12-2013:5:45:53 AM] : SKPOER001 has uploaded a file 78666320 to Hospital/Customer in IDSIL / PJO
+
+
+[05-12-2013:6:05:16 AM] : SKPOER001 has picked a file 78653099 in IDSIL / PJO
+
+
+[05-12-2013:6:05:24 AM] : SKPOER001 has uploaded a file 78653099 to Hospital/Customer in IDSIL / PJO
+
+
+[05-12-2013:6:10:16 AM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[05-12-2013:6:47:22 AM] : SKPOER001 has logged out from the Linecount Software Using the System 117.197.203.26
+
+
+[05-12-2013:7:03:06 PM] : SKPOER001 has logged in to IDSIL / PJO using the System 117.213.133.71
+
+
+[05-12-2013:7:09:16 PM] : SKPOER001 has picked a file 78658705 in IDSIL / PJO
+
+
+[05-12-2013:7:18:03 PM] : SKPOER001 has uploaded a file 78658705 to Hospital/Customer in IDSIL / PJO
+
+
+[05-12-2013:7:23:37 PM] : SKPOER001 has picked a file 78677424 in IDSIL / PJO
+
+
+[05-12-2013:7:30:29 PM] : SKPOER001 has uploaded a file 78677424 to Hospital/Customer in IDSIL / PJO
+
+
+[05-12-2013:7:31:46 PM] : SKPOER001 has picked a file 78677613 in IDSIL / PJO
+
+
+[05-12-2013:7:53:35 PM] : SKPOER001 has uploaded a file 78677613 to Hospital/Customer in IDSIL / PJO
+
+
+[05-12-2013:7:54:49 PM] : SKPOER001 has picked a file 78677664 in IDSIL / PJO
+
+
+[05-12-2013:8:09:58 PM] : SKPOER001 has uploaded a file 78677664 to Hospital/Customer in IDSIL / PJO
+
+
+[05-12-2013:8:11:16 PM] : SKPOER001 has picked a file 78677795 in IDSIL / PJO
+
+
+[05-12-2013:8:18:03 PM] : SKPOER001 has uploaded a file 78677795 to Hospital/Customer in IDSIL / PJO
+
+
+[05-12-2013:8:18:55 PM] : SKPOER001 has picked a file 78678070 in IDSIL / PJO
+
+
+[05-12-2013:8:40:45 PM] : SKPOER001 has uploaded a file 78678070 to Hospital/Customer in IDSIL / PJO
+
+
+[05-12-2013:9:02:34 PM] : SKPOER001 has picked a file 78663328 in IDSIL / PJO
+
+
+[05-12-2013:9:24:17 PM] : SKPOER001 has uploaded a file 78663328 to Hospital/Customer in IDSIL / PJO
+
+
+[05-12-2013:9:26:05 PM] : SKPOER001 has picked a file 78672822 in IDSIL / PJO
+
+
+[05-12-2013:10:13:07 PM] : SKPOER001 has uploaded a file 78672822 to Hospital/Customer in IDSIL / PJO
+
+
+[05-12-2013:10:17:11 PM] : SKPOER001 has picked a file 78679597 in IDSIL / PJO
+
+
+[05-12-2013:10:35:08 PM] : SKPOER001 has uploaded a file 78679597 to Hospital/Customer in IDSIL / PJO
+
+
+[05-12-2013:10:40:24 PM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[05-12-2013:10:52:19 PM] : SKPOER001 has picked a file 78684646 in IDSIL / PJO
+
+
+[05-12-2013:10:54:30 PM] : SKPOER001 has viewed the Edited file details in IDSIL/PJO from 2013-12-01 to 2013-12-05
+
+
+[05-12-2013:10:54:43 PM] : SKPOER001 has Downloaded a file details in IDSIL / PJO from 2013-12-01 to 2013-12-05
+
+
+[05-12-2013:11:06:30 PM] : SKPOER001 has uploaded a file 78684646 to Hospital/Customer in IDSIL / PJO
+
+
+[05-12-2013:11:12:36 PM] : SKPOER001 has picked a file 78680775 in IDSIL / PJO
+
+
+[05-12-2013:11:35:43 PM] : SKPOER001 has uploaded a file 78680775 to Hospital/Customer in IDSIL / PJO
+
+
+[05-12-2013:11:35:50 PM] : SKPOER001 has picked a file 78681264 in IDSIL / PJO
+
+
+[05-12-2013:11:40:08 PM] : SKPOER001 has uploaded a file 78681264 to Hospital/Customer in IDSIL / PJO
+
+
+[05-12-2013:11:41:00 PM] : SKPOER001 has picked a file 78681396 in IDSIL / PJO
+
+
+[05-12-2013:11:56:50 PM] : SKPOER001 has uploaded a file 78681396 to Hospital/Customer in IDSIL / PJO
+
+
+[05-12-2013:11:58:52 PM] : SKPOER001 has picked a file 78679762 in IDSIL / PJO
+
+
+[06-12-2013:12:10:42 AM] : SKPOER001 has uploaded a file 78679762 to Hospital/Customer in IDSIL / PJO
+
+
+[06-12-2013:12:11:51 AM] : SKPOER001 has picked a file 78681298 in IDSIL / PJO
+
+
+[06-12-2013:12:18:56 AM] : SKPOER001 has uploaded a file 78681298 to Hospital/Customer in IDSIL / PJO
+
+
+[06-12-2013:12:20:19 AM] : SKPOER001 has picked a file 78687464 in IDSIL / PJO
+
+
+[06-12-2013:12:40:31 AM] : SKPOER001 has uploaded a file 78687464 to Hospital/Customer in IDSIL / PJO
+
+
+[06-12-2013:12:41:53 AM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[06-12-2013:12:52:04 AM] : SKPOER001 has picked a file 78688528 in IDSIL / PJO
+
+
+[06-12-2013:12:52:54 AM] : SKPOER001 has viewed the Edited file details in IDSIL/PJO from 2013-12-01 to 2013-12-06
+
+
+[06-12-2013:12:53:05 AM] : SKPOER001 has Downloaded a file details in IDSIL / PJO from 2013-12-01 to 2013-12-06
+
+
+[06-12-2013:1:08:14 AM] : SKPOER001 has uploaded a file 78688528 to Hospital/Customer in IDSIL / PJO
+
+
+[06-12-2013:1:09:06 AM] : SKPOER001 has picked a file 78679244 in IDSIL / PJO
+
+
+[06-12-2013:2:20:38 AM] : SKPOER001 has uploaded a file 78679244 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[06-12-2013:2:24:12 AM] : SKPOER001 has picked a file 78673133 in IDSIL / PJO
+
+
+[06-12-2013:2:34:40 AM] : SKPOER001 has uploaded a file 78673133 to Hospital/Customer in IDSIL / PJO
+
+
+[06-12-2013:2:37:20 AM] : SKPOER001 has picked a file 78667964 in IDSIL / PJO
+
+
+[06-12-2013:2:47:09 AM] : SKPOER001 has uploaded a file 78667964 to Hospital/Customer in IDSIL / PJO
+
+
+[06-12-2013:2:48:55 AM] : SKPOER001 has picked a file 78674189 in IDSIL / PJO
+
+
+[06-12-2013:2:49:01 AM] : SKPOER001 has uploaded a file 78674189 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[06-12-2013:3:01:58 AM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[06-12-2013:3:13:09 AM] : SKPOER001 has picked a file 78689400 in IDSIL / PJO
+
+
+[06-12-2013:3:27:20 AM] : SKPOER001 has uploaded a file 78689400 to Hospital/Customer in IDSIL / PJO
+
+
+[06-12-2013:3:29:01 AM] : SKPOER001 has picked a file 78679640 in IDSIL / PJO
+
+
+[06-12-2013:3:37:35 AM] : SKPOER001 has uploaded a file 78679640 to Hospital/Customer in IDSIL / PJO
+
+
+[06-12-2013:4:43:24 AM] : SKPOER001 has picked a file 78677870 in IDSIL / PJO
+
+
+[06-12-2013:4:43:32 AM] : SKPOER001 has uploaded a file 78677870 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[06-12-2013:4:44:23 AM] : SKPOER001 has picked a file 78679078 in IDSIL / PJO
+
+
+[06-12-2013:4:48:19 AM] : SKPOER001 has viewed the Edited file details in IDSIL/PJO from 2013-12-05 to 2013-12-06
+
+
+[06-12-2013:4:48:30 AM] : SKPOER001 has Downloaded a file details in IDSIL / PJO from 2013-12-05 to 2013-12-06
+
+
+[06-12-2013:4:49:09 AM] : SKPOER001 has viewed the Edited file details in IDSIL/PJO from 2013-12-01 to 2013-12-06
+
+
+[06-12-2013:4:49:18 AM] : SKPOER001 has Downloaded a file details in IDSIL / PJO from 2013-12-01 to 2013-12-06
+
+
+[06-12-2013:4:49:40 AM] : SKPOER001 has Downloaded a file details in IDSIL / PJO from 2013-12-01 to 2013-12-06
+
+
+[06-12-2013:5:02:34 AM] : SKPOER001 has uploaded a file 78679078 to Hospital/Customer in IDSIL / PJO
+
+
+[06-12-2013:5:03:33 AM] : SKPOER001 has picked a file 78679183 in IDSIL / PJO
+
+
+[06-12-2013:5:11:26 AM] : SKPOER001 has uploaded a file 78679183 to Hospital/Customer in IDSIL / PJO
+
+
+[06-12-2013:5:12:28 AM] : SKPOER001 has picked a file 78679627 in IDSIL / PJO
+
+
+[06-12-2013:5:14:50 AM] : SKPOER001 has uploaded a file 78679627 to Hospital/Customer in IDSIL / PJO
+
+
+[06-12-2013:5:15:43 AM] : SKPOER001 has picked a file 78680737 in IDSIL / PJO

@@ -1,0 +1,72 @@
+
+
+[29-12-2013:1:31:24 PM] : B2KMLS011 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[29-12-2013:1:32:16 PM] : B2KMLS011 has picked a file 66304095 in IDSIL / PJO
+
+
+[29-12-2013:3:17:31 PM] : B2KMLS011 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[29-12-2013:3:17:39 PM] : B2KMLS011 has uploaded a file 66304095 to Hospital/Customer in IDSIL / PJO
+
+
+[29-12-2013:3:18:06 PM] : B2KMLS011 has picked a file 66317866 in IDSIL / PJO
+
+
+[29-12-2013:3:34:42 PM] : B2KMLS011 has uploaded a file 66317866 to Hospital/Customer in IDSIL / PJO
+
+
+[29-12-2013:3:39:01 PM] : B2KMLS011 has picked a file 66312439 in IDSIL / PJO
+
+
+[29-12-2013:3:56:55 PM] : B2KMLS011 has uploaded a file 66312439 to Hospital/Customer in IDSIL / PJO
+
+
+[29-12-2013:4:11:21 PM] : B2KMLS011 has picked a file 66312424 in IDSIL / PJO
+
+
+[29-12-2013:4:11:33 PM] : B2KMLS011 has uploaded a file 66312424 to Hospital/Customer in IDSIL / PJO
+
+
+[29-12-2013:4:31:14 PM] : B2KMLS011 has picked a file 66319481 in IDSIL / PJO
+
+
+[29-12-2013:5:07:49 PM] : B2KMLS011 has picked a file 66322486 in IDSIL / PJO
+
+
+[29-12-2013:6:50:25 PM] : B2KMLS011 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[29-12-2013:6:50:40 PM] : B2KMLS011 has uploaded a file 66322486 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[29-12-2013:7:08:56 PM] : B2KMLS011 has picked a file 66316667 in IDSIL / PJO
+
+
+[29-12-2013:7:14:52 PM] : B2KMLS011 has uploaded a file 66319481 to Hospital/Customer in IDSIL / PJO
+
+
+[29-12-2013:7:41:59 PM] : B2KMLS011 has uploaded a file 66316667 to Hospital/Customer in IDSIL / PJO
+
+
+[29-12-2013:7:44:49 PM] : B2KMLS011 has picked a file 66316868 in IDSIL / PJO
+
+
+[29-12-2013:9:04:51 PM] : B2KMLS011 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[29-12-2013:9:05:02 PM] : B2KMLS011 has uploaded a file 66316868 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[29-12-2013:9:05:11 PM] : B2KMLS011 has viewed the Edited file details in IDSIL/PJO from 2013-12-01 to 2013-12-29
+
+
+[29-12-2013:9:05:33 PM] : B2KMLS011 has viewed the Audit file details in IDSIL / PJO from 2013-12-01 to 2013-12-29
+
+
+[29-12-2013:9:06:01 PM] : B2KMLS011 has viewed the Edited file details in IDSIL/PJO from 2013-12-01 to 2013-12-29
+
+
+[29-12-2013:9:07:59 PM] : B2KMLS011 has logged out from the Linecount Software Using the System 123.255.248.35

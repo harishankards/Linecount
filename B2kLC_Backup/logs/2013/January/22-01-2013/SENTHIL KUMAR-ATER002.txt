@@ -1,0 +1,132 @@
+
+
+[22-01-2013:4:11:42 PM] : ATER002 has logged in to IDSIL / PJO using the System 124.125.40.215
+
+
+[22-01-2013:4:13:17 PM] : ATER002 has picked a file 78419405 in IDSIL / PJO
+
+
+[22-01-2013:4:23:46 PM] : ATER002 has uploaded a file 78419405 to Hospital/Customer in IDSIL / PJO
+
+
+[22-01-2013:4:24:37 PM] : ATER002 has picked a file 78419573 in IDSIL / PJO
+
+
+[22-01-2013:4:29:19 PM] : ATER002 has uploaded a file 78419573 to Hospital/Customer in IDSIL / PJO
+
+
+[22-01-2013:4:30:42 PM] : ATER002 has picked a file 78421149 in IDSIL / PJO
+
+
+[22-01-2013:4:38:09 PM] : ATER002 has uploaded a file 78421149 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[22-01-2013:4:39:30 PM] : ATER002 has picked a file 78421643 in IDSIL / PJO
+
+
+[22-01-2013:4:47:23 PM] : ATER002 has uploaded a file 78421643 to Hospital/Customer in IDSIL / PJO
+
+
+[22-01-2013:4:47:56 PM] : ATER002 has picked a file 78421655 in IDSIL / PJO
+
+
+[22-01-2013:5:05:34 PM] : ATER002 has uploaded a file 78421655 to Hospital/Customer in IDSIL / PJO
+
+
+[22-01-2013:5:07:47 PM] : ATER002 has picked a file 78422011 in IDSIL / PJO
+
+
+[22-01-2013:5:16:10 PM] : ATER002 has uploaded a file 78422011 to Hospital/Customer in IDSIL / PJO
+
+
+[22-01-2013:5:21:45 PM] : ATER002 has picked a file 78422098 in IDSIL / PJO
+
+
+[22-01-2013:5:41:37 PM] : ATER002 has uploaded a file 78422098 to Hospital/Customer in IDSIL / PJO
+
+
+[22-01-2013:5:48:29 PM] : ATER002 has logged in to IDSIL / PJO using the System 124.125.40.215
+
+
+[22-01-2013:5:49:11 PM] : ATER002 has picked a file 78422623 in IDSIL / PJO
+
+
+[22-01-2013:6:05:45 PM] : ATER002 has uploaded a file 78422623 to Hospital/Customer in IDSIL / PJO
+
+
+[22-01-2013:6:10:04 PM] : ATER002 has picked a file 78423412 in IDSIL / PJO
+
+
+[22-01-2013:6:28:14 PM] : ATER002 has uploaded a file 78423412 to Hospital/Customer in IDSIL / PJO
+
+
+[22-01-2013:6:30:33 PM] : ATER002 has picked a file 56986143 in IDSIL / PJO
+
+
+[22-01-2013:6:47:26 PM] : ATER002 has uploaded a file 56986143 to Hospital/Customer in IDSIL / PJO
+
+
+[22-01-2013:6:50:06 PM] : ATER002 has picked a file 56996080 in IDSIL / PJO
+
+
+[22-01-2013:6:58:06 PM] : ATER002 has uploaded a file 56996080 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[22-01-2013:6:58:54 PM] : ATER002 has picked a file 78416354 in IDSIL / PJO
+
+
+[22-01-2013:7:05:04 PM] : ATER002 has uploaded a file 78416354 to Hospital/Customer in IDSIL / PJO
+
+
+[22-01-2013:7:07:14 PM] : ATER002 has picked a file 78416596 in IDSIL / PJO
+
+
+[22-01-2013:7:11:49 PM] : ATER002 has uploaded a file 78416596 to Hospital/Customer in IDSIL / PJO
+
+
+[22-01-2013:7:13:41 PM] : ATER002 has picked a file 78417982 in IDSIL / PJO
+
+
+[22-01-2013:7:14:01 PM] : ATER002 has uploaded a file 78417982 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[22-01-2013:7:16:03 PM] : ATER002 has picked a file 78418105 in IDSIL / PJO
+
+
+[22-01-2013:7:20:05 PM] : ATER002 has uploaded a file 78418105 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[22-01-2013:7:20:52 PM] : ATER002 has picked a file 78418340 in IDSIL / PJO
+
+
+[22-01-2013:7:24:01 PM] : ATER002 has uploaded a file 78418340 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[22-01-2013:7:24:50 PM] : ATER002 has viewed the Edited file details in IDSIL/PJO from 2013-01-22 to 2013-01-22
+
+
+[22-01-2013:7:58:15 PM] : ATER002 has logged out from the Linecount Software Using the System 124.125.40.215
+
+
+[22-01-2013:9:01:51 PM] : ATER002 has logged in to IDSIL / PJO using the System 124.125.40.215
+
+
+[22-01-2013:9:02:16 PM] :  has uploaded a DUP file 90016924 in IDSIL / PJO
+
+
+[22-01-2013:9:02:41 PM] :  has uploaded a DUP file 90016925 in IDSIL / PJO
+
+
+[22-01-2013:9:02:52 PM] :  has uploaded a DUP file 90016979 in IDSIL / PJO
+
+
+[22-01-2013:9:03:05 PM] :  has uploaded a DUP file 90016978 in IDSIL / PJO
+
+
+[22-01-2013:9:03:29 PM] : ATER002 has picked a file 90013843 in IDSIL / PJO
+
+
+[22-01-2013:9:03:46 PM] : ATER002 has uploaded a file 90013843 to Hospital/Customer in IDSIL / PJO
+
+
+[22-01-2013:9:04:57 PM] : ATER002 has logged out from the Linecount Software Using the System 124.125.40.215

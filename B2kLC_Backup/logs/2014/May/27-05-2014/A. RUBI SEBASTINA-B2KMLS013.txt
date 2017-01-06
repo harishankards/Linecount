@@ -1,0 +1,12 @@
+
+
+[27-05-2014:5:43:17 PM] : B2KMLS013 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[27-05-2014:5:43:34 PM] : B2KMLS013 has picked a file 70069916 in IDSIL / PJO
+
+
+[27-05-2014:5:43:46 PM] : B2KMLS013 has uploaded a file 70069916 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[27-05-2014:5:43:56 PM] : B2KMLS013 has logged out from the Linecount Software Using the System 123.255.248.35

@@ -1,0 +1,142 @@
+
+
+[30-08-2013:12:33:18 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[30-08-2013:12:43:14 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[30-08-2013:6:33:21 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[30-08-2013:6:47:37 AM] : ADMIN has Viewed Employee Details
+
+
+[30-08-2013:6:47:53 AM] : ADMIN has Viewed Employee Details
+
+
+[30-08-2013:7:10:53 AM] : ADMIN has Viewed Employee Details
+
+
+[30-08-2013:7:12:42 AM] : ADMIN has Viewed Employee Details
+
+
+[30-08-2013:7:13:16 AM] : ADMIN has Viewed Employee Details
+
+
+[30-08-2013:7:39:28 AM] : ADMIN has Viewed Employee Details
+
+
+[30-08-2013:7:40:01 AM] : ADMIN has Viewed Employee Details
+
+[30-08-2013:9:54:42 AM] : ADMIN has added an Update into the Database
+
+
+[30-08-2013:9:57:09 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[30-08-2013:9:57:16 AM] : ADMIN has added an Update into the Database
+
+[30-08-2013:9:58:30 AM] : ADMIN has added an Update into the Database
+
+[30-08-2013:10:01:45 AM] : ADMIN has added an Update into the Database
+
+
+[30-08-2013:10:25:05 AM] : ADMIN has logged out from the Linecount Software Using the System 59.90.86.47
+
+
+[30-08-2013:10:25:07 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[30-08-2013:10:26:23 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[30-08-2013:10:41:29 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[30-08-2013:11:43:48 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[30-08-2013:12:12:33 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[30-08-2013:12:21:19 PM] : ADMIN has Viewed Employee Details
+
+
+[30-08-2013:1:24:45 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[30-08-2013:1:24:55 PM] : ADMIN has Viewed Employee Details
+
+
+[30-08-2013:1:25:21 PM] : ADMIN has Viewed Employee Details
+
+
+[30-08-2013:1:26:53 PM] : ADMIN has Viewed Employee Details
+
+
+[30-08-2013:1:27:03 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[30-08-2013:1:27:18 PM] : ADMIN has Viewed Employee Details
+
+
+[30-08-2013:1:27:23 PM] : ADMIN has Viewed Employee Details
+
+
+[30-08-2013:1:29:11 PM] : ADMIN has Viewed Employee Details
+
+
+[30-08-2013:2:03:21 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[30-08-2013:3:32:52 PM] : ADMIN has logged in to Admin page using the System 14.102.34.42
+
+
+[30-08-2013:3:39:04 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[30-08-2013:3:39:08 PM] : ADMIN has logged in to Admin page using the System 14.102.34.42
+
+
+[30-08-2013:3:59:07 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[30-08-2013:4:01:16 PM] : ADMIN has logged out from the Linecount Software Using the System 14.102.34.42
+
+
+[30-08-2013:4:19:24 PM] : ADMIN has logged in to Admin page using the System 14.102.34.42
+
+
+[30-08-2013:4:23:39 PM] : ADMIN has Viewed Employee Details
+
+
+[30-08-2013:4:23:50 PM] : ADMIN has Viewed Employee Details
+
+
+[30-08-2013:4:24:28 PM] : ADMIN has Viewed Employee Details
+
+
+[30-08-2013:5:21:27 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+[30-08-2013:5:21:52 PM] : ADMIN has Deleted the details of the file 63065634.
+
+
+[30-08-2013:5:30:41 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[30-08-2013:6:41:04 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[30-08-2013:8:13:41 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[30-08-2013:8:47:46 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[30-08-2013:9:50:48 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[30-08-2013:10:11:29 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[30-08-2013:10:14:52 PM] : ADMIN has logged out from the Linecount Software Using the System 59.90.86.47

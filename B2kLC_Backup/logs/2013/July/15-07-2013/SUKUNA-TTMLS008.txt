@@ -1,0 +1,27 @@
+
+
+[15-07-2013:4:21:41 PM] : TTMLS008 has logged in to IDSIL / PJO using the System 122.165.49.28
+
+
+[15-07-2013:4:23:03 PM] : TTMLS008 has Changed Password
+
+
+[15-07-2013:4:23:07 PM] : TTMLS008 has logged out from the Linecount Software Using the System 122.165.49.28
+
+
+[15-07-2013:4:23:18 PM] : TTMLS008 has logged in to IDSIL / PJO using the System 122.165.49.28
+
+
+[15-07-2013:4:25:09 PM] : TTMLS008 has logged out from the Linecount Software Using the System 122.165.49.28
+
+
+[15-07-2013:9:47:56 PM] : TTMLS008 has logged in to IDSIL / PJO using the System 115.241.67.70
+
+
+[15-07-2013:9:48:14 PM] : TTMLS008 has viewed the file details in IDSIL / PJO from 2013-07-01 to 2013-07-13
+
+
+[15-07-2013:9:48:27 PM] : TTMLS008 has Downloaded a file details in IDSIL / PJO from 2013-07-01 to 2013-07-13
+
+
+[15-07-2013:9:55:14 PM] : TTMLS008 has logged out from the Linecount Software Using the System 115.241.67.70

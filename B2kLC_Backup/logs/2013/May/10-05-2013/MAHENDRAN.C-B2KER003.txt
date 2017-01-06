@@ -1,0 +1,48 @@
+
+
+[10-05-2013:10:21:36 AM] : B2KER003 has logged in to IDSIL / PJO using the System 59.90.86.47
+
+
+[10-05-2013:10:21:54 AM] : B2KER003 has viewed the Edited file details in IDSIL/PJO from 2013-05-01 to 2013-05-01
+
+
+[10-05-2013:10:22:13 AM] : B2KER003 has viewed the Audit file details in IDSIL / PJO from 2013-05-01 to 2013-05-01
+
+
+[10-05-2013:10:23:35 AM] : B2KER003 has viewed the Edited file details in IDSIL/PJO from 2013-05-03 to 2013-05-03
+
+
+[10-05-2013:10:23:55 AM] : B2KER003 has viewed the Audit file details in IDSIL / PJO from 2013-05-03 to 2013-05-03
+
+
+[10-05-2013:10:24:36 AM] : B2KER003 has viewed the third level Edited file details in IDSIL / PJO from 2013-05-03 to 2013-05-03
+
+
+[10-05-2013:10:25:47 AM] : B2KER003 has Picked a file 60328389 in Third Level in IDSIL / PJO
+
+
+[10-05-2013:10:25:52 AM] : B2KER003 has uploaded a file 60328389 in Third Level to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[10-05-2013:10:26:26 AM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[10-05-2013:10:27:45 AM] : B2KER003 has added a Audit file 60135696 in IDSIL / PJO 
+
+
+[10-05-2013:10:28:10 AM] : B2KER003 has added a Audit file 60138491 in IDSIL / PJO 
+
+
+[10-05-2013:10:29:05 AM] : B2KER003 has added a Audit file 60138930 in IDSIL / PJO 
+
+
+[10-05-2013:10:29:27 AM] : B2KER003 has viewed the Audit file details in IDSIL / PJO from 2013-05-03 to 2013-05-03
+
+
+[10-05-2013:10:29:53 AM] : B2KER003 has viewed the Edited file details in IDSIL/PJO from 2013-05-03 to 2013-05-03
+
+
+[10-05-2013:10:30:28 AM] : B2KER003 has viewed the Audit file details in IDSIL / PJO from 2013-05-03 to 2013-05-03
+
+
+[10-05-2013:10:31:01 AM] : B2KER003 has viewed the third level Edited file details in IDSIL / PJO from 2013-05-03 to 2013-05-03

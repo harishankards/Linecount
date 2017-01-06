@@ -1,0 +1,48 @@
+
+
+[15-04-2013:9:00:00 AM] : ATER001 has logged in to IDSIL / PJO using the System 115.241.118.66
+
+
+[15-04-2013:9:00:21 AM] : ATER001 has viewed the DUP file details in IDSIL/PJO from 2013-04-01 to 2013-04-15
+
+
+[15-04-2013:9:00:30 AM] : ATER001 has Downloaded a file details in IDSIL / PJO from 2013-04-01 to 2013-04-15
+
+
+[15-04-2013:2:02:31 PM] : ATER001 has logged in to IDSIL / PJO using the System 115.242.148.201
+
+
+[15-04-2013:3:39:09 PM] : ATER001 has logged in to IDSIL / PJO using the System 115.242.148.201
+
+
+[15-04-2013:4:17:20 PM] : ATER001 has logged in to IDSIL / PJO using the System 115.242.148.201
+
+
+[15-04-2013:4:17:52 PM] :  has uploaded a DUP file 59611407 in IDSIL / PJO
+
+
+[15-04-2013:5:07:54 PM] :  has uploaded a DUP file 59611200 in IDSIL / PJO
+
+
+[15-04-2013:5:51:28 PM] : ATER001 has logged in to IDSIL / PJO using the System 115.242.148.201
+
+
+[15-04-2013:5:52:50 PM] :  has uploaded a DUP file 59611720 in IDSIL / PJO
+
+
+[15-04-2013:6:04:15 PM] : ATER001 has viewed the DUP file details in IDSIL/PJO from 2013-04-15 to 2013-04-15
+
+
+[15-04-2013:7:26:22 PM] : ATER001 has logged in to IDSIL / PJO using the System 115.242.148.201
+
+
+[15-04-2013:7:27:44 PM] :  has uploaded a DUP file 59611842 in IDSIL / PJO
+
+
+[15-04-2013:7:28:06 PM] : ATER001 has viewed the DUP file details in IDSIL/PJO from 2013-04-15 to 2013-04-15
+
+
+[15-04-2013:7:39:22 PM] : ATER001 has viewed the DUP file details in IDSIL/PJO from 2013-04-01 to 2013-04-15
+
+
+[15-04-2013:7:39:45 PM] : ATER001 has Downloaded a file details in IDSIL / PJO from 2013-04-01 to 2013-04-15

@@ -1,0 +1,135 @@
+
+
+[23-09-2013:9:46:53 AM] : ARTER001 has logged in to IDSIL / PJO using the System 116.202.106.245
+
+
+[23-09-2013:9:47:58 AM] : ARTER001 has viewed the Edited file details in IDSIL/PJO from 2013-09-23 to 2013-09-23
+
+
+[23-09-2013:9:48:07 AM] : ARTER001 has viewed the Edited file details in IDSIL/PJO from 2013-09-01 to 2013-09-23
+
+
+[23-09-2013:9:48:37 AM] : ARTER001 has viewed the Audit file details in IDSIL / PJO from 2013-09-01 to 2013-09-23
+
+
+[23-09-2013:9:49:03 AM] : ARTER001 has logged out from the Linecount Software Using the System 116.202.106.245
+
+
+[23-09-2013:5:50:56 PM] : ARTER001 has logged in to IDSIL / PJO using the System 117.244.30.111
+
+
+[23-09-2013:5:59:07 PM] : ARTER001 has picked a file 63896092 in IDSIL / PJO
+
+
+[23-09-2013:6:01:45 PM] : ARTER001 has uploaded a file 63896092 to Hospital/Customer in IDSIL / PJO
+
+
+[23-09-2013:6:03:47 PM] : ARTER001 has picked a file 63896219 in IDSIL / PJO
+
+
+[23-09-2013:6:11:27 PM] : ARTER001 has uploaded a file 63896219 to Hospital/Customer in IDSIL / PJO
+
+
+[23-09-2013:6:14:20 PM] : ARTER001 has picked a file 63896048 in IDSIL / PJO
+
+
+[23-09-2013:6:18:22 PM] : ARTER001 has uploaded a file 63896048 to Hospital/Customer in IDSIL / PJO
+
+
+[23-09-2013:6:20:00 PM] : ARTER001 has picked a file 63896270 in IDSIL / PJO
+
+
+[23-09-2013:6:25:44 PM] : ARTER001 has uploaded a file 63896270 to Hospital/Customer in IDSIL / PJO
+
+
+[23-09-2013:6:28:08 PM] : ARTER001 has picked a file 63897173 in IDSIL / PJO
+
+
+[23-09-2013:6:29:12 PM] : ARTER001 has uploaded a file 63897173 to Hospital/Customer in IDSIL / PJO
+
+
+[23-09-2013:6:33:23 PM] : ARTER001 has viewed the Edited file details in IDSIL/PJO from 2013-09-23 to 2013-09-23
+
+
+[23-09-2013:6:36:32 PM] : ARTER001 has picked a file 63897213 in IDSIL / PJO
+
+
+[23-09-2013:6:44:35 PM] : ARTER001 has uploaded a file 63897213 to Hospital/Customer in IDSIL / PJO
+
+
+[23-09-2013:6:46:17 PM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[23-09-2013:6:52:05 PM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[23-09-2013:6:58:26 PM] : ARTER001 has picked a file 63897689 in IDSIL / PJO
+
+
+[23-09-2013:7:05:38 PM] : ARTER001 has uploaded a file 63897689 to Hospital/Customer in IDSIL / PJO
+
+
+[23-09-2013:7:16:24 PM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[23-09-2013:7:26:40 PM] : ARTER001 has viewed the Edited file details in IDSIL/PJO from 2013-09-23 to 2013-09-23
+
+
+[23-09-2013:7:26:55 PM] : ARTER001 has viewed the Audit file details in IDSIL / PJO from 2013-09-23 to 2013-09-23
+
+
+[23-09-2013:7:39:54 PM] : ARTER001 has picked a file 63899391 in IDSIL / PJO
+
+
+[23-09-2013:7:41:09 PM] : ARTER001 has uploaded a file 63899391 to Hospital/Customer in IDSIL / PJO
+
+
+[23-09-2013:7:45:17 PM] : ARTER001 has picked a file 63898354 in IDSIL / PJO
+
+
+[23-09-2013:7:53:36 PM] : ARTER001 has uploaded a file 63898354 to Hospital/Customer in IDSIL / PJO
+
+
+[23-09-2013:7:54:03 PM] : ARTER001 has viewed the Edited file details in IDSIL/PJO from 2013-09-23 to 2013-09-23
+
+
+[23-09-2013:7:54:54 PM] : ARTER001 has picked a file 63899085 in IDSIL / PJO
+
+
+[23-09-2013:8:00:03 PM] : ARTER001 has uploaded a file 63899085 to Hospital/Customer in IDSIL / PJO
+
+
+[23-09-2013:8:05:07 PM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[23-09-2013:8:18:49 PM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[23-09-2013:8:34:23 PM] : ARTER001 has viewed the Edited file details in IDSIL/PJO from 2013-09-23 to 2013-09-23
+
+
+[23-09-2013:8:34:33 PM] : ARTER001 has viewed the Audit file details in IDSIL / PJO from 2013-09-23 to 2013-09-23
+
+
+[23-09-2013:8:47:34 PM] : ARTER001 has picked a file 63900236 in IDSIL / PJO
+
+
+[23-09-2013:9:00:19 PM] : ARTER001 has uploaded a file 63900236 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[23-09-2013:9:05:00 PM] : ARTER001 has picked a file 63900783 in IDSIL / PJO
+
+
+[23-09-2013:9:07:20 PM] : ARTER001 has uploaded a file 63900783 to Hospital/Customer in IDSIL / PJO
+
+
+[23-09-2013:9:11:42 PM] : ARTER001 has picked a file 63902169 in IDSIL / PJO
+
+
+[23-09-2013:9:15:59 PM] : ARTER001 has uploaded a file 63902169 to Hospital/Customer in IDSIL / PJO
+
+
+[23-09-2013:9:18:37 PM] : ARTER001 has viewed the Edited file details in IDSIL/PJO from 2013-09-23 to 2013-09-23
+
+
+[23-09-2013:9:19:56 PM] : ARTER001 has viewed the Audit file details in IDSIL / PJO from 2013-09-23 to 2013-09-23

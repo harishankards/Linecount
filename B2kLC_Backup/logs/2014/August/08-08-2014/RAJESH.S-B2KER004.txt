@@ -1,0 +1,30 @@
+
+
+[08-08-2014:9:01:35 AM] : B2KER004 has logged in to IDSIL / PJO using the System 101.222.233.63
+
+
+[08-08-2014:9:10:40 AM] : B2KER004 has picked a file 71768190 in IDSIL / PJO
+
+
+[08-08-2014:9:17:50 AM] : B2KER004 has uploaded a file 71768190 to Hospital/Customer in IDSIL / PJO
+
+
+[08-08-2014:9:18:01 AM] : B2KER004 has picked a file 71768649 in IDSIL / PJO
+
+
+[08-08-2014:9:18:08 AM] : B2KER004 has uploaded a file 71768649 to Hospital/Customer in IDSIL / PJO
+
+
+[08-08-2014:10:30:11 AM] : B2KER004 has added a Audit file 71755218 in IDSIL / PJO 
+
+
+[08-08-2014:12:39:08 PM] : B2KER004 has logged in to IDSIL / PJO using the System 101.222.255.198
+
+
+[08-08-2014:1:22:31 PM] : B2KER004 has logged in to IDSIL / PJO using the System 101.222.255.198
+
+
+[08-08-2014:1:25:31 PM] : B2KER004 has picked a file 71767753 in IDSIL / PJO
+
+
+[08-08-2014:1:25:53 PM] : B2KER004 has uploaded a file 71767753 to IDS/QA_Checkpoint in IDSIL / PJO

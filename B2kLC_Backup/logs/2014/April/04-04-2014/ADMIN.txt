@@ -1,0 +1,237 @@
+
+
+[04-04-2014:12:16:56 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[04-04-2014:1:21:32 AM] : ADMIN has Viewed Employee Details
+
+
+[04-04-2014:1:25:27 AM] : ADMIN has Viewed Employee Details
+
+
+[04-04-2014:1:25:38 AM] : ADMIN has Viewed Employee Details
+
+
+[04-04-2014:1:26:09 AM] : ADMIN has Viewed Employee Details
+
+
+[04-04-2014:1:30:26 AM] : ADMIN has added Employee Details[PRIYA RASHMI] into the Database
+
+
+[04-04-2014:1:39:35 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[04-04-2014:1:39:42 AM] : ADMIN has Viewed Employee Details
+
+
+[04-04-2014:1:39:58 AM] : ADMIN has Viewed Employee Details
+
+
+[04-04-2014:1:40:14 AM] : ADMIN has Viewed Employee Details
+
+
+[04-04-2014:1:40:35 AM] : ADMIN has Viewed Employee Details
+
+
+[04-04-2014:6:42:47 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[04-04-2014:7:00:08 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[04-04-2014:8:13:22 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[04-04-2014:8:31:26 AM] : ADMIN has Viewed Employee Details
+
+
+[04-04-2014:8:31:37 AM] : ADMIN has Viewed Employee Details
+
+
+[04-04-2014:9:29:46 AM] : ADMIN has Viewed Employee Details
+
+
+[04-04-2014:9:29:55 AM] : ADMIN has Viewed Employee Details
+
+
+[04-04-2014:9:53:52 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[04-04-2014:10:12:12 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[04-04-2014:11:03:48 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[04-04-2014:11:04:07 AM] : ADMIN has Viewed Employee Details
+
+
+[04-04-2014:11:04:18 AM] : ADMIN has Viewed Employee Details
+
+
+[04-04-2014:11:27:28 AM] : ADMIN has Viewed Employee Details
+
+
+[04-04-2014:12:23:08 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[04-04-2014:12:55:39 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[04-04-2014:12:56:50 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[04-04-2014:1:08:19 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[04-04-2014:1:10:35 PM] : ADMIN has logged out from the Linecount Software Using the System 59.90.86.47
+
+
+[04-04-2014:1:10:37 PM] : ADMIN has logged out from the Linecount Software Using the System 59.90.86.47
+
+
+[04-04-2014:1:40:41 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[04-04-2014:2:30:36 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+[04-04-2014:2:30:46 PM] : ADMIN has Viewed Employee Details
+
+
+[04-04-2014:2:31:10 PM] : ADMIN has Viewed Employee Details
+
+
+[04-04-2014:2:31:20 PM] : ADMIN has Viewed Employee Details
+
+
+[04-04-2014:2:49:09 PM] : ADMIN has Viewed Employee Details
+
+
+[04-04-2014:2:49:43 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+[04-04-2014:3:02:53 PM] : ADMIN has Deleted the details of the file 68774239.
+
+
+[04-04-2014:3:14:38 PM] : ADMIN has Viewed Employee Details
+
+
+[04-04-2014:3:14:48 PM] : ADMIN has Viewed Employee Details
+
+
+[04-04-2014:3:30:03 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[04-04-2014:4:25:33 PM] : ADMIN has Viewed Employee Details
+
+
+[04-04-2014:4:25:51 PM] : ADMIN has Viewed Employee Details
+
+
+[04-04-2014:4:28:44 PM] : ADMIN has Viewed Employee Details
+
+
+[04-04-2014:4:30:16 PM] : ADMIN has Viewed Employee Details
+
+
+[04-04-2014:4:30:20 PM] : ADMIN has Viewed Employee Details
+
+
+[04-04-2014:4:30:27 PM] : ADMIN has Viewed Employee Details
+
+
+[04-04-2014:4:52:44 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[04-04-2014:5:45:00 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[04-04-2014:5:51:03 PM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[04-04-2014:5:53:30 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[04-04-2014:5:53:38 PM] : ADMIN has Viewed Employee Details
+
+
+[04-04-2014:5:54:11 PM] : ADMIN has Viewed Employee Details
+
+
+[04-04-2014:5:59:22 PM] : ADMIN has Viewed Employee Details
+
+
+[04-04-2014:6:03:40 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[04-04-2014:6:03:47 PM] : ADMIN has Viewed Employee Details
+
+
+[04-04-2014:6:03:58 PM] : ADMIN has Viewed Employee Details
+
+
+[04-04-2014:6:47:40 PM] : ADMIN has Viewed Employee Details
+
+
+[04-04-2014:6:47:47 PM] : ADMIN has Viewed Employee Details
+
+[04-04-2014:6:50:51 PM] : ADMIN has Deleted the details of the file 68793274.
+
+
+[04-04-2014:6:51:22 PM] : ADMIN has Viewed Employee Details
+
+
+[04-04-2014:6:51:29 PM] : ADMIN has Viewed Employee Details
+
+
+[04-04-2014:7:13:38 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[04-04-2014:7:14:42 PM] : ADMIN has Viewed Employee Details
+
+
+[04-04-2014:7:14:51 PM] : ADMIN has Viewed Employee Details
+
+
+[04-04-2014:7:16:22 PM] : ADMIN has Viewed Employee Details
+
+
+[04-04-2014:7:28:54 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[04-04-2014:7:33:25 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[04-04-2014:7:33:48 PM] : ADMIN has Viewed Employee Details
+
+
+[04-04-2014:7:34:01 PM] : ADMIN has Viewed Employee Details
+
+
+[04-04-2014:7:49:50 PM] : ADMIN has Viewed Employee Details
+
+
+[04-04-2014:7:49:58 PM] : ADMIN has Viewed Employee Details
+
+
+[04-04-2014:7:57:45 PM] : ADMIN has Viewed Employee Details
+
+
+[04-04-2014:8:03:53 PM] : ADMIN has Viewed Employee Details
+
+
+[04-04-2014:8:04:03 PM] : ADMIN has Viewed Employee Details
+
+
+[04-04-2014:8:09:19 PM] : ADMIN has Viewed Employee Details
+
+
+[04-04-2014:8:09:28 PM] : ADMIN has Viewed Employee Details
+
+
+[04-04-2014:8:22:15 PM] : ADMIN has Viewed Employee Details
+
+
+[04-04-2014:9:45:41 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[04-04-2014:11:54:49 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35

@@ -1,0 +1,66 @@
+
+
+[22-06-2013:5:36:40 PM] : ATER034 has logged in to IDSIL / PJO using the System 116.202.112.247
+
+
+[22-06-2013:5:52:31 PM] : ATER034 has logged out from the Linecount Software Using the System 116.202.112.247
+
+
+[23-06-2013:1:13:19 AM] : ATER034 has picked a file 61576302 in IDSIL / PJO
+
+
+[23-06-2013:1:29:51 AM] : ATER034 has uploaded a file 61576302 to Hospital/Customer in IDSIL / PJO
+
+
+[23-06-2013:1:30:30 AM] : ATER034 has picked a file 61573685 in IDSIL / PJO
+
+
+[23-06-2013:1:55:15 AM] : ATER034 has uploaded a file 61573685 to Hospital/Customer in IDSIL / PJO
+
+
+[23-06-2013:1:56:05 AM] : ATER034 has picked a file 61574506 in IDSIL / PJO
+
+
+[23-06-2013:2:03:23 AM] : ATER034 has uploaded a file 61574506 to Hospital/Customer in IDSIL / PJO
+
+
+[23-06-2013:2:04:17 AM] : ATER034 has picked a file 61575521 in IDSIL / PJO
+
+
+[23-06-2013:2:15:13 AM] : ATER034 has uploaded a file 61575521 to Hospital/Customer in IDSIL / PJO
+
+
+[23-06-2013:2:15:41 AM] : ATER034 has picked a file 61576345 in IDSIL / PJO
+
+
+[23-06-2013:2:23:10 AM] : ATER034 has uploaded a file 61576345 to Hospital/Customer in IDSIL / PJO
+
+
+[23-06-2013:2:24:57 AM] : ATER034 has picked a file 61576999 in IDSIL / PJO
+
+
+[23-06-2013:2:44:10 AM] : ATER034 has uploaded a file 61576999 to Hospital/Customer in IDSIL / PJO
+
+
+[23-06-2013:2:44:45 AM] : ATER034 has picked a file 61577247 in IDSIL / PJO
+
+
+[23-06-2013:3:00:28 AM] : ATER034 has uploaded a file 61577247 to Hospital/Customer in IDSIL / PJO
+
+
+[23-06-2013:3:01:48 AM] : ATER034 has picked a file 61577342 in IDSIL / PJO
+
+
+[23-06-2013:3:09:09 AM] : ATER034 has uploaded a file 61577342 to Hospital/Customer in IDSIL / PJO
+
+
+[23-06-2013:3:09:45 AM] : ATER034 has picked a file 61577393 in IDSIL / PJO
+
+
+[23-06-2013:3:21:13 AM] : ATER034 has uploaded a file 61577393 to Hospital/Customer in IDSIL / PJO
+
+
+[23-06-2013:3:21:50 AM] : ATER034 has picked a file 61577378 in IDSIL / PJO
+
+
+[23-06-2013:3:40:06 AM] : ATER034 has uploaded a file 61577378 to IDS/QA_Checkpoint in IDSIL / PJO

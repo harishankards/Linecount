@@ -1,0 +1,24 @@
+
+
+[15-08-2016:7:25:27 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[15-08-2016:10:19:27 AM] : ADMIN has Deleted the details of the file 99556931.
+
+[15-08-2016:10:20:41 AM] : ADMIN has Deleted the details of the file 99555198.
+
+[15-08-2016:10:20:50 AM] : ADMIN has Deleted the details of the file 99554762.
+
+
+[15-08-2016:11:17:17 AM] : ADMIN has logged in to Admin page using the System 59.90.159.3
+
+
+[15-08-2016:1:18:31 PM] : ADMIN has logged out from the Linecount Software Using the System 59.90.159.3
+
+
+[15-08-2016:5:36:15 PM] : ADMIN has logged in to Admin page using the System 117.203.159.181
+
+
+[15-08-2016:5:38:56 PM] : ADMIN has logged out from the Linecount Software Using the System 117.203.159.181
+
+
+[15-08-2016:10:50:10 PM] : ADMIN has logged in to Admin page using the System 59.90.159.3

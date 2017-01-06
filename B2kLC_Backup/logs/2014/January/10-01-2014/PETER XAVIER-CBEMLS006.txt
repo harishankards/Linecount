@@ -1,0 +1,27 @@
+
+
+[10-01-2014:5:04:41 AM] : CBEMLS006 has logged in to IDSIL / PJO using the System 203.223.191.82
+
+
+[10-01-2014:5:04:53 AM] : CBEMLS006 has viewed the file details in IDSIL / PJO from 2014-01-01 to 2014-01-10
+
+
+[10-01-2014:5:05:45 AM] : CBEMLS006 has uploaded a DUP file 66602492 in IDSIL / PJO
+
+
+[10-01-2014:5:06:14 AM] : CBEMLS006 has uploaded a DUP file 66604379 in IDSIL / PJO
+
+
+[10-01-2014:5:06:39 AM] : CBEMLS006 has uploaded a DUP file 66602491 in IDSIL / PJO
+
+
+[10-01-2014:5:07:04 AM] : CBEMLS006 has uploaded a DUP file 66604579 in IDSIL / PJO
+
+
+[10-01-2014:5:07:29 AM] : CBEMLS006 has uploaded a DUP file 66608412 in IDSIL / PJO
+
+
+[10-01-2014:5:07:48 AM] : CBEMLS006 has viewed the file details in IDSIL / PJO from 2014-01-01 to 2014-01-10
+
+
+[10-01-2014:5:08:24 AM] : CBEMLS006 has logged out from the Linecount Software Using the System 203.223.191.82

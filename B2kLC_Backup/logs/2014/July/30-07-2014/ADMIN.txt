@@ -1,0 +1,67 @@
+
+
+[30-07-2014:12:08:33 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[30-07-2014:5:51:22 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[30-07-2014:6:49:28 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[30-07-2014:9:13:38 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[30-07-2014:9:18:22 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[30-07-2014:9:29:10 AM] : ADMIN has Viewed Employee Details
+
+
+[30-07-2014:9:29:17 AM] : ADMIN has Viewed Employee Details
+
+[30-07-2014:10:05:05 AM] : ADMIN has Deleted the details of the file 71556873.
+
+
+[30-07-2014:10:13:21 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[30-07-2014:11:47:11 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[30-07-2014:12:05:03 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[30-07-2014:12:29:39 PM] : ADMIN has Viewed Employee Details
+
+
+[30-07-2014:12:32:48 PM] : ADMIN has added Employee Details[GEETHA R] into the Database
+
+
+[30-07-2014:1:00:10 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[30-07-2014:2:38:09 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[30-07-2014:4:40:46 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[30-07-2014:6:07:35 PM] : ADMIN has added an Update into the Database
+
+
+[30-07-2014:6:12:14 PM] : ADMIN has logged out from the Linecount Software Using the System 59.90.86.47
+
+
+[30-07-2014:6:14:54 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[30-07-2014:6:39:34 PM] : ADMIN has logged out from the Linecount Software Using the System 59.90.86.47
+
+
+[30-07-2014:6:39:39 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[30-07-2014:8:23:32 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[30-07-2014:8:39:08 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47

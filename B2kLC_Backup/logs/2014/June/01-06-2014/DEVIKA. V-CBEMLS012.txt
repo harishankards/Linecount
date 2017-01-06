@@ -1,0 +1,18 @@
+
+
+[01-06-2014:5:16:50 PM] : CBEMLS012 has logged in to IDSIL / PJO using the System 122.178.187.213
+
+
+[01-06-2014:5:17:54 PM] : CBEMLS012 has viewed the file details in IDSIL / PJO from 2014-05-01 to 2014-05-31
+
+
+[01-06-2014:5:20:07 PM] : CBEMLS012 has uploaded a DUP file 69880215 in IDSIL / PJO
+
+
+[01-06-2014:5:20:35 PM] : CBEMLS012 has viewed the file details in IDSIL / PJO from 2014-05-01 to 2014-05-31
+
+
+[01-06-2014:5:21:11 PM] : CBEMLS012 has Downloaded a file details in IDSIL / PJO from 2014-05-01 to 2014-05-31
+
+
+[01-06-2014:5:28:26 PM] : CBEMLS012 has logged out from the Linecount Software Using the System 122.178.187.213

@@ -1,0 +1,31 @@
+
+
+[03-09-2016:2:09:51 PM] : ADMIN has logged in to Admin page using the System 182.72.119.226
+
+
+[03-09-2016:2:15:41 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[03-09-2016:2:18:12 PM] : ADMIN has Viewed Employee Details
+
+
+[03-09-2016:2:18:20 PM] : ADMIN has Viewed Employee Details
+
+
+[03-09-2016:2:18:32 PM] : ADMIN has Viewed Employee Details
+
+
+[03-09-2016:2:19:22 PM] : ADMIN has Viewed Employee Details
+
+
+[03-09-2016:2:19:35 PM] : ADMIN has Viewed Employee Details
+
+[03-09-2016:2:19:35 PM] : ADMIN has Deleted Employee Details SHANMUGA P.S
+
+
+[03-09-2016:2:19:43 PM] : ADMIN has Viewed Employee Details
+
+
+[03-09-2016:2:20:37 PM] : ADMIN has Viewed Employee Details
+
+[03-09-2016:2:20:37 PM] : ADMIN has Deleted Employee Details CHANDRASEKAR

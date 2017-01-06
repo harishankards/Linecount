@@ -1,0 +1,27 @@
+
+
+[25-02-2014:1:57:10 AM] : MTSQA004 has logged in to IDSIL / PJO using the System 106.51.145.173
+
+
+[25-02-2014:8:21:21 AM] : MTSQA004 has logged in to IDSIL / PJO using the System 106.51.145.173
+
+
+[25-02-2014:8:21:33 AM] : MTSQA004 has viewed the DUP file details in IDSIL/PJO from 2014-02-24 to 2014-02-25
+
+
+[26-02-2014:12:52:01 AM] :  has uploaded a DUP file 67809570 in IDSIL / PJO
+
+
+[26-02-2014:1:53:08 AM] :  has uploaded a DUP file 67812563 in IDSIL / PJO
+
+
+[26-02-2014:5:28:39 AM] : MTSQA004 has viewed the DUP file details in IDSIL/PJO from 2014-02-25 to 2014-02-26
+
+
+[26-02-2014:5:28:48 AM] : MTSQA004 has Downloaded a file details in IDSIL / PJO from 2014-02-25 to 2014-02-26
+
+
+[26-02-2014:5:28:51 AM] : MTSQA004 has viewed the DUP file details in IDSIL/PJO from 2014-02-24 to 2014-02-26
+
+
+[26-02-2014:5:29:07 AM] : MTSQA004 has viewed the DUP file details in IDSIL/PJO from 2014-02-25 to 2014-02-26

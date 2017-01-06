@@ -1,0 +1,42 @@
+
+
+[01-10-2014:9:07:44 AM] : B2KMLS32 has logged in to IDSIL / PJO using the System 122.178.165.91
+
+
+[01-10-2014:9:07:57 AM] : B2KMLS32 has viewed the file details in IDSIL / PJO from 2014-09-30 to 2014-09-30
+
+
+[01-10-2014:9:08:30 AM] : B2KMLS32 has logged out from the Linecount Software Using the System 122.178.165.91
+
+
+[01-10-2014:9:18:56 AM] : B2KMLS32 has logged in to IDSIL / PJO using the System 122.178.165.91
+
+
+[01-10-2014:9:19:09 AM] : B2KMLS32 has viewed the file details in IDSIL / PJO from 2014-09-01 to 2014-09-30
+
+
+[01-10-2014:9:20:46 AM] : B2KMLS32 has Downloaded a file details in IDSIL / PJO from 2014-09-01 to 2014-09-30
+
+
+[01-10-2014:9:21:30 AM] : B2KMLS32 has logged out from the Linecount Software Using the System 122.178.165.91
+
+
+[01-10-2014:1:53:20 PM] : B2KMLS32 has logged in to IDSIL / PJO using the System 115.241.35.172
+
+
+[01-10-2014:1:54:10 PM] : B2KMLS32 has uploaded a DUP file 72963957 in IDSIL / PJO
+
+
+[01-10-2014:1:54:53 PM] : B2KMLS32 has uploaded a DUP file 72964630 in IDSIL / PJO
+
+
+[01-10-2014:1:55:43 PM] : B2KMLS32 has uploaded a DUP file 72960711 in IDSIL / PJO
+
+
+[01-10-2014:1:56:19 PM] : B2KMLS32 has uploaded a DUP file 72963131 in IDSIL / PJO
+
+
+[01-10-2014:1:56:57 PM] : B2KMLS32 has uploaded a DUP file 72964705 in IDSIL / PJO
+
+
+[01-10-2014:1:57:06 PM] : B2KMLS32 has logged out from the Linecount Software Using the System 115.241.35.172

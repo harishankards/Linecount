@@ -1,0 +1,63 @@
+
+
+[12-03-2013:12:34:16 AM] : ADMIN has logged out from the Linecount Software Using the System 59.90.86.47
+
+
+[12-03-2013:12:45:20 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[12-03-2013:1:45:11 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[12-03-2013:1:55:07 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[12-03-2013:1:57:50 PM] : ADMIN has added Attendanec Details into the Database
+
+
+[12-03-2013:2:41:32 PM] : ADMIN has Viewed Employee Details
+
+
+[12-03-2013:2:43:21 PM] : ADMIN has Viewed Employee Details
+
+
+[12-03-2013:3:08:15 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[12-03-2013:3:18:57 PM] : ADMIN has added a Vendor Details [TRINITY TECHNOLOGY] into the Database
+
+
+[12-03-2013:3:22:07 PM] : ADMIN has added Employee Details[KEMPIS] into the Database
+
+
+[12-03-2013:3:24:14 PM] : ADMIN has added Employee Details[FAITH] into the Database
+
+
+[12-03-2013:3:42:19 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[12-03-2013:3:43:40 PM] : ADMIN has Viewed Employee Details
+
+
+[12-03-2013:3:46:42 PM] : ADMIN has added Employee Details[STEPHEN NAVEEN ] into the Database
+
+
+[12-03-2013:3:49:38 PM] : ADMIN has Viewed Employee Details
+
+
+[12-03-2013:3:49:43 PM] : ADMIN has Viewed Employee Details
+
+
+[12-03-2013:4:03:30 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[12-03-2013:4:44:28 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+[12-03-2013:4:54:14 PM] : ADMIN has added a Vendor Details [B2KOOTY] into the Database
+
+
+[12-03-2013:5:02:10 PM] : ADMIN has added Employee Details[YAQOOB PASHA] into the Database
+
+
+[12-03-2013:5:32:58 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[12-03-2013:7:35:21 PM] : ADMIN has logged in to Admin page using the System 117.235.250.225

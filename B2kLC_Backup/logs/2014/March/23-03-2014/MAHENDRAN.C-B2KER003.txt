@@ -1,0 +1,21 @@
+
+
+[23-03-2014:1:04:38 PM] : B2KER003 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[23-03-2014:1:04:48 PM] : B2KER003 has picked a file 68474481 in IDSIL / PJO
+
+
+[23-03-2014:1:04:53 PM] : B2KER003 has uploaded a file 68474481 to Hospital/Customer in IDSIL / PJO
+
+
+[23-03-2014:1:05:20 PM] : B2KER003 has picked a file 68484739 in IDSIL / PJO
+
+
+[23-03-2014:1:21:55 PM] : B2KER003 has uploaded a file 68484739 to Hospital/Customer in IDSIL / PJO
+
+
+[23-03-2014:1:44:45 PM] : B2KER003 has picked a file 68484792 in IDSIL / PJO
+
+
+[23-03-2014:1:44:52 PM] : B2KER003 has uploaded a file 68484792 to IDS/QA_Checkpoint in IDSIL / PJO

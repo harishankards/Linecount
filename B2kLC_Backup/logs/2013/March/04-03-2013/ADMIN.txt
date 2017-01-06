@@ -1,0 +1,83 @@
+
+
+[04-03-2013:5:49:05 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[04-03-2013:5:50:11 AM] : ADMIN has Viewed Employee Details
+
+
+[04-03-2013:5:55:02 AM] : ADMIN has Viewed Employee Details
+
+
+[04-03-2013:6:54:41 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[04-03-2013:10:00:59 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[04-03-2013:10:47:46 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[04-03-2013:11:14:51 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[04-03-2013:11:32:03 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[04-03-2013:11:32:14 AM] : ADMIN has Approved Leave request from the ID B2KMLS012 on 2013-03-03.
+
+[04-03-2013:11:32:23 AM] : ADMIN has Approved Leave request from the ID B2KER001 on 2013-03-04.
+
+[04-03-2013:11:32:39 AM] : ADMIN has Approved Leave request from the ID B2KMLS009 on 2013-03-05.
+
+
+[04-03-2013:12:32:16 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[04-03-2013:12:36:20 PM] : ADMIN has added Attendanec Details into the Database
+
+
+[04-03-2013:12:36:22 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+[04-03-2013:12:42:11 PM] : ADMIN has added Attendanec Details into the Database
+
+[04-03-2013:12:44:10 PM] : ADMIN has added Attendanec Details into the Database
+
+
+[04-03-2013:2:02:35 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[04-03-2013:2:52:27 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[04-03-2013:3:45:58 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+[04-03-2013:3:53:11 PM] : ADMIN has Deleted the details of the file 58306365.
+
+
+[04-03-2013:4:03:11 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[04-03-2013:4:12:36 PM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[04-03-2013:4:13:22 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[04-03-2013:4:32:10 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[04-03-2013:4:34:00 PM] : ADMIN has Viewed Employee Details
+
+
+[04-03-2013:4:34:24 PM] : ADMIN has Viewed Employee Details
+
+
+[04-03-2013:4:34:45 PM] : ADMIN has Viewed Employee Details
+
+
+[04-03-2013:4:38:24 PM] : ADMIN has logged out from the Linecount Software Using the System 59.90.86.47
+
+
+[04-03-2013:10:21:24 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[04-03-2013:11:11:26 PM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35

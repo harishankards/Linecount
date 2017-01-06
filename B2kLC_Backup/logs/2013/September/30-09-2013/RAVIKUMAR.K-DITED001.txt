@@ -1,0 +1,12 @@
+
+
+[30-09-2013:3:08:49 PM] : DITED001 has logged in to IDSIL / PJO using the System 122.178.185.162
+
+
+[30-09-2013:4:14:34 PM] : DITED001 has picked a file 64084740 in IDSIL / PJO
+
+
+[30-09-2013:4:14:39 PM] : DITED001 has uploaded a file 64084740 to Hospital/Customer in IDSIL / PJO
+
+
+[30-09-2013:4:14:53 PM] : DITED001 has logged out from the Linecount Software Using the System 122.178.185.162

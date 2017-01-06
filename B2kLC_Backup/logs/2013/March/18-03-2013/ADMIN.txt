@@ -1,0 +1,39 @@
+
+
+[18-03-2013:10:17:09 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[18-03-2013:10:18:43 AM] : ADMIN has added Attendanec Details into the Database
+
+
+[18-03-2013:11:05:51 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[18-03-2013:11:13:08 AM] : ADMIN has Viewed Employee Details
+
+
+[18-03-2013:11:17:44 AM] : ADMIN has added Employee Details[MISS. SATHYA] into the Database
+
+[18-03-2013:11:18:21 AM] : ADMIN has Viewed Employee Details
+
+
+[18-03-2013:11:20:22 AM] : ADMIN has added Employee Details[MR. GANESH] into the Database
+
+
+[18-03-2013:12:25:33 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[18-03-2013:12:28:04 PM] : ADMIN has logged out from the Linecount Software Using the System 59.90.86.47
+
+
+[18-03-2013:12:28:10 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+[18-03-2013:12:38:44 PM] : ADMIN has added an Update into the Database
+
+
+[18-03-2013:2:14:23 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[18-03-2013:3:40:20 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[18-03-2013:7:55:49 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47

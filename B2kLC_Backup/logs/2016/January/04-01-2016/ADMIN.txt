@@ -1,0 +1,60 @@
+
+
+[04-01-2016:12:18:18 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[04-01-2016:3:02:09 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[04-01-2016:3:06:26 PM] : ADMIN has added Employee Details[VENUS. CHINGTHAM] into the Database
+
+
+[04-01-2016:3:07:50 PM] : ADMIN has added Employee Details[WAKRAMBAM ROSHITA DEVI] into the Database
+
+
+[04-01-2016:3:09:22 PM] : ADMIN has added Employee Details[RONIT PRADHAN] into the Database
+
+
+[04-01-2016:3:10:50 PM] : ADMIN has added Employee Details[NONGTHOMBAM RAKESH SINGH] into the Database
+
+
+[04-01-2016:3:52:16 PM] : ADMIN has added Employee Details[RAFIA SULTANA MOINAM] into the Database
+
+
+[04-01-2016:3:53:41 PM] : ADMIN has added Employee Details[ACHOM NISHIMKANT SINGH] into the Database
+
+
+[04-01-2016:3:54:44 PM] : ADMIN has added Employee Details[GRINESH AYEKPAM] into the Database
+
+
+[04-01-2016:3:56:14 PM] : ADMIN has added Employee Details[OINAM ELIZABETH DEVI] into the Database
+
+
+[04-01-2016:3:57:29 PM] : ADMIN has added Employee Details[DILIP KUMAR ROY] into the Database
+
+
+[04-01-2016:3:58:47 PM] : ADMIN has added Employee Details[YAMBEM BIKRAMJIT SINGH] into the Database
+
+
+[04-01-2016:4:02:18 PM] : ADMIN has Viewed Employee Details
+
+
+[04-01-2016:4:02:56 PM] : ADMIN has Viewed Employee Details
+
+
+[04-01-2016:4:03:49 PM] : ADMIN has added Employee Details[SHAFIQ.M] into the Database
+
+
+[04-01-2016:4:54:09 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[04-01-2016:5:48:54 PM] : ADMIN has Viewed Employee Details
+
+
+[04-01-2016:5:49:02 PM] : ADMIN has Viewed Employee Details
+
+
+[04-01-2016:5:50:16 PM] : ADMIN has logged in to Admin page using the System 117.222.182.129
+
+
+[04-01-2016:6:04:54 PM] : ADMIN has logged out from the Linecount Software Using the System 117.222.182.129

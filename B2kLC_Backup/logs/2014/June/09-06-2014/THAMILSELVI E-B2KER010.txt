@@ -1,0 +1,141 @@
+
+
+[09-06-2014:10:17:38 AM] : B2KER010 has logged in to IDSIL / PJO using the System 59.90.86.47
+
+
+[09-06-2014:10:19:10 AM] : B2KER010 has picked a file 70375510 in IDSIL / PJO
+
+
+[09-06-2014:10:40:42 AM] : B2KER010 has picked a file 70378428 in IDSIL / PJO
+
+
+[09-06-2014:10:41:01 AM] : B2KER010 has uploaded a file 70375510 to Hospital/Customer in IDSIL / PJO
+
+
+[09-06-2014:11:12:39 AM] : B2KER010 has uploaded a file 70378428 to Hospital/Customer in IDSIL / PJO
+
+
+[09-06-2014:11:32:15 AM] : B2KER010 has picked a file 70373947 in IDSIL / PJO
+
+
+[09-06-2014:11:54:26 AM] : B2KER010 has picked a file 90683016 in IDSIL / PJO
+
+
+[09-06-2014:12:11:26 PM] : B2KER010 has uploaded a file 70373947 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[09-06-2014:12:41:27 PM] : B2KER010 has uploaded a file 90683016 to Hospital/Customer in IDSIL / PJO
+
+
+[09-06-2014:12:43:07 PM] : B2KER010 has picked a file 70378963 in IDSIL / PJO
+
+
+[09-06-2014:1:55:50 PM] : B2KER010 has logged in to IDSIL / PJO using the System 59.90.86.47
+
+
+[09-06-2014:1:56:03 PM] : B2KER010 has uploaded a file 70378963 to Hospital/Customer in IDSIL / PJO
+
+
+[09-06-2014:1:56:55 PM] : B2KER010 has picked a file 90683022 in IDSIL / PJO
+
+
+[09-06-2014:2:10:18 PM] : B2KER010 has uploaded a file 90683022 to Hospital/Customer in IDSIL / PJO
+
+
+[09-06-2014:2:45:12 PM] : B2KER010 has logged in to IDSIL / PJO using the System 59.90.86.47
+
+
+[09-06-2014:2:45:36 PM] : B2KER010 has added a Audit file 90683024 in IDSIL / PJO 
+
+
+[09-06-2014:2:46:49 PM] : B2KER010 has picked a file 90682985 in IDSIL / PJO
+
+
+[09-06-2014:3:06:33 PM] : B2KER010 has uploaded a file 90682985 to Hospital/Customer in IDSIL / PJO
+
+
+[09-06-2014:3:06:56 PM] : B2KER010 has picked a file 90682992 in IDSIL / PJO
+
+
+[09-06-2014:3:54:39 PM] : B2KER010 has picked a file 70379144 in IDSIL / PJO
+
+
+[09-06-2014:3:56:06 PM] : B2KER010 has uploaded a file 90682992 to Hospital/Customer in IDSIL / PJO
+
+
+[09-06-2014:4:06:06 PM] : B2KER010 has uploaded a file 70379144 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[09-06-2014:4:06:32 PM] : B2KER010 has picked a file 90682997 in IDSIL / PJO
+
+
+[09-06-2014:4:56:27 PM] : B2KER010 has picked a file 70371481 in IDSIL / PJO
+
+
+[09-06-2014:5:00:36 PM] : B2KER010 has uploaded a file 90682997 to Hospital/Customer in IDSIL / PJO
+
+
+[09-06-2014:5:06:25 PM] : B2KER010 has picked a file 90682993 in IDSIL / PJO
+
+
+[09-06-2014:5:24:58 PM] : B2KER010 has uploaded a file 90682993 to Hospital/Customer in IDSIL / PJO
+
+
+[09-06-2014:5:25:44 PM] : B2KER010 has picked a file 90683000 in IDSIL / PJO
+
+
+[09-06-2014:5:53:50 PM] : B2KER010 has uploaded a file 90683000 to Hospital/Customer in IDSIL / PJO
+
+
+[09-06-2014:6:15:59 PM] : B2KER010 has uploaded a file 70371481 to Hospital/Customer in IDSIL / PJO
+
+
+[09-06-2014:6:16:26 PM] : B2KER010 has picked a file 70372186 in IDSIL / PJO
+
+
+[09-06-2014:6:54:50 PM] : B2KER010 has logged in to IDSIL / PJO using the System 59.90.86.47
+
+
+[09-06-2014:6:55:06 PM] : B2KER010 has uploaded a file 70372186 to Hospital/Customer in IDSIL / PJO
+
+
+[09-06-2014:7:01:54 PM] : B2KER010 has picked a file 90682832 in IDSIL / PJO
+
+
+[09-06-2014:7:17:42 PM] : B2KER010 has uploaded a file 90682832 to Hospital/Customer in IDSIL / PJO
+
+
+[09-06-2014:7:24:08 PM] : B2KER010 has viewed the Edited file details in IDSIL/PJO from 2014-06-01 to 2014-06-09
+
+
+[09-06-2014:7:24:26 PM] : B2KER010 has viewed the Edited file details in IDSIL/PJO from 2014-06-09 to 2014-06-09
+
+
+[09-06-2014:7:24:39 PM] : B2KER010 has viewed the Audit file details in IDSIL / PJO from 2014-06-09 to 2014-06-09
+
+
+[09-06-2014:7:25:37 PM] : B2KER010 has viewed the Edited file details in IDSIL/PJO from 2014-06-01 to 2014-06-09
+
+
+[09-06-2014:7:25:52 PM] : B2KER010 has viewed the Audit file details in IDSIL / PJO from 2014-06-01 to 2014-06-09
+
+
+[09-06-2014:7:42:00 PM] : B2KER010 has logged out from the Linecount Software Using the System 59.90.86.47
+
+
+[09-06-2014:7:42:21 PM] : B2KER010 has logged in to IDSIL / PJO using the System 59.90.86.47
+
+
+[09-06-2014:7:42:33 PM] : B2KER010 has viewed the DUP file details in IDSIL/PJO from 2014-06-01 to 2014-06-09
+
+
+[09-06-2014:7:42:54 PM] : B2KER010 has viewed the DUP file details in IDSIL/PJO from 2014-06-01 to 2014-06-09
+
+
+[09-06-2014:7:43:05 PM] : B2KER010 has viewed the DUP file details in IDSIL/PJO from 2014-06-01 to 2014-06-09
+
+
+[09-06-2014:7:43:23 PM] : B2KER010 has viewed the Edited file details in IDSIL/PJO from 2014-06-01 to 2014-06-09
+
+
+[09-06-2014:7:43:44 PM] : B2KER010 has viewed the Audit file details in IDSIL / PJO from 2014-06-01 to 2014-06-09

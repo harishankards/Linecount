@@ -1,0 +1,33 @@
+
+
+[12-10-2013:11:00:37 AM] : ATER002 has logged in to IDSIL / PJO using the System 124.125.43.104
+
+
+[12-10-2013:11:00:49 AM] : ATER002 has picked a file 90463370 in IDSIL / PJO
+
+
+[12-10-2013:11:10:20 AM] : ATER002 has uploaded a file 90463370 to Hospital/Customer in IDSIL / PJO
+
+
+[12-10-2013:11:11:14 AM] : ATER002 has picked a file 90463372 in IDSIL / PJO
+
+
+[13-10-2013:4:52:37 AM] : ATER002 has uploaded a file 90463372 to Hospital/Customer in IDSIL / PJO
+
+
+[13-10-2013:4:53:33 AM] :  has uploaded a DUP file 90463478 in IDSIL / PJO
+
+
+[13-10-2013:4:53:53 AM] :  has uploaded a DUP file 90463479 in IDSIL / PJO
+
+
+[13-10-2013:4:54:11 AM] :  has uploaded a DUP file 90463486 in IDSIL / PJO
+
+
+[13-10-2013:4:54:41 AM] :  has uploaded a DUP file 90463516 in IDSIL / PJO
+
+
+[13-10-2013:4:54:57 AM] :  has uploaded a DUP file 90463542 in IDSIL / PJO
+
+
+[13-10-2013:4:55:18 AM] : ATER002 has viewed the DUP file details in IDSIL/PJO from 2013-10-12 to 2013-10-12

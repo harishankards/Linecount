@@ -1,0 +1,42 @@
+
+
+[01-02-2016:5:03:40 AM] : B2KMLS73 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[01-02-2016:5:03:51 AM] : B2KMLS73 has viewed the file details in IDSIL / PJO from 2016-01-01 to 2016-02-01
+
+
+[01-02-2016:5:04:28 AM] : B2KMLS73 has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[01-02-2016:6:15:32 AM] : B2KMLS73 has logged in to IDSIL / PJO using the System 117.213.64.51
+
+
+[01-02-2016:6:42:21 AM] : B2KMLS73 has logged out from the Linecount Software Using the System 117.213.64.51
+
+
+[01-02-2016:6:42:44 AM] : B2KMLS73 has logged in to IDSIL / PJO using the System 117.213.64.51
+
+
+[01-02-2016:7:24:36 AM] : B2KMLS73 has uploaded a DUP file 96481100 in IDSIL / PJO
+
+
+[01-02-2016:8:37:52 AM] : B2KMLS73 has uploaded a DUP file 96483646 in IDSIL / PJO
+
+
+[01-02-2016:8:57:47 AM] : B2KMLS73 has uploaded a DUP file 96477320 in IDSIL / PJO
+
+
+[01-02-2016:8:58:43 AM] : B2KMLS73 has logged out from the Linecount Software Using the System 117.213.64.51
+
+
+[01-02-2016:8:58:57 AM] : B2KMLS73 has logged in to IDSIL / PJO using the System 117.213.64.51
+
+
+[01-02-2016:9:03:34 AM] : B2KMLS73 has logged out from the Linecount Software Using the System 117.213.64.51
+
+
+[01-02-2016:9:03:44 AM] : B2KMLS73 has logged in to IDSIL / PJO using the System 117.213.64.51
+
+
+[01-02-2016:9:42:37 AM] : B2KMLS73 has uploaded a DUP file 96485705 in IDSIL / PJO

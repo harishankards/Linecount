@@ -1,0 +1,78 @@
+
+
+[23-02-2014:4:28:50 AM] : ATMLS030 has logged in to IDSIL / PJO using the System 101.63.148.85
+
+
+[23-02-2014:8:06:51 AM] : ATMLS030 has logged in to IDSIL / PJO using the System 115.242.229.138
+
+
+[23-02-2014:8:14:59 AM] : ATMLS030 has picked a file 67754862 in IDSIL / PJO
+
+
+[23-02-2014:8:26:33 AM] : ATMLS030 has uploaded a file 67754862 to Hospital/Customer in IDSIL / PJO
+
+
+[23-02-2014:8:27:49 AM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[23-02-2014:8:34:21 AM] : ATMLS030 has picked a file 67755326 in IDSIL / PJO
+
+
+[23-02-2014:8:41:49 AM] : ATMLS030 has uploaded a file 67755326 to Hospital/Customer in IDSIL / PJO
+
+
+[23-02-2014:11:09:33 AM] : ATMLS030 has logged in to IDSIL / PJO using the System 115.242.229.138
+
+
+[23-02-2014:11:31:38 AM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[23-02-2014:12:12:26 PM] : ATMLS030 has logged in to IDSIL / PJO using the System 115.242.229.138
+
+
+[23-02-2014:12:14:55 PM] : ATMLS030 has picked a file 67755700 in IDSIL / PJO
+
+
+[23-02-2014:12:31:25 PM] : ATMLS030 has uploaded a file 67755700 to Hospital/Customer in IDSIL / PJO
+
+
+[23-02-2014:12:35:16 PM] : ATMLS030 has picked a file 67757958 in IDSIL / PJO
+
+
+[23-02-2014:12:47:25 PM] : ATMLS030 has uploaded a file 67757958 to Hospital/Customer in IDSIL / PJO
+
+
+[23-02-2014:12:57:51 PM] : ATMLS030 has picked a file 67758012 in IDSIL / PJO
+
+
+[23-02-2014:1:20:35 PM] : ATMLS030 has uploaded a file 67758012 to Hospital/Customer in IDSIL / PJO
+
+
+[23-02-2014:1:22:31 PM] : ATMLS030 has logged out from the Linecount Software Using the System 115.242.229.138
+
+
+[23-02-2014:7:16:25 PM] : ATMLS030 has logged in to IDSIL / PJO using the System 115.241.59.147
+
+
+[23-02-2014:7:17:35 PM] : ATMLS030 has picked a file 67757294 in IDSIL / PJO
+
+
+[23-02-2014:7:28:44 PM] : ATMLS030 has uploaded a file 67757294 to Hospital/Customer in IDSIL / PJO
+
+
+[23-02-2014:7:32:20 PM] : ATMLS030 has picked a file 67752317 in IDSIL / PJO
+
+
+[23-02-2014:7:50:55 PM] : ATMLS030 has uploaded a file 67752317 to Hospital/Customer in IDSIL / PJO
+
+
+[23-02-2014:7:56:06 PM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[24-02-2014:4:01:58 AM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[24-02-2014:4:58:19 AM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[24-02-2014:5:09:53 AM] :  has uploaded a DUP file  in IDSIL / PJO

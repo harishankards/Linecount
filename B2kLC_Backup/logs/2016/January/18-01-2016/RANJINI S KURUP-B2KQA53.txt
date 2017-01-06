@@ -1,0 +1,66 @@
+
+
+[18-01-2016:10:36:54 AM] : B2KQA53 has logged in to IDSIL / PJO using the System 112.196.146.92
+
+
+[18-01-2016:11:08:22 AM] : B2KQA53 has picked a file 96242977 in IDSIL / PJO
+
+
+[18-01-2016:11:52:10 AM] : B2KQA53 has picked a file 96245700 in IDSIL / PJO
+
+
+[18-01-2016:1:27:40 PM] : B2KQA53 has picked a file 96243763 in IDSIL / PJO
+
+
+[18-01-2016:2:41:59 PM] : B2KQA53 has picked a file 96240760 in IDSIL / PJO
+
+
+[18-01-2016:3:26:54 PM] : B2KQA53 has picked a file 96242051 in IDSIL / PJO
+
+
+[18-01-2016:3:46:47 PM] : B2KQA53 has picked a file 96244094 in IDSIL / PJO
+
+
+[18-01-2016:3:56:39 PM] : B2KQA53 has picked a file 96244604 in IDSIL / PJO
+
+
+[18-01-2016:4:15:17 PM] : B2KQA53 has picked a file 96244929 in IDSIL / PJO
+
+
+[18-01-2016:4:29:34 PM] : B2KQA53 has picked a file 96245003 in IDSIL / PJO
+
+
+[18-01-2016:9:41:18 PM] : B2KQA53 has picked a file 96247141 in IDSIL / PJO
+
+
+[18-01-2016:10:00:05 PM] : B2KQA53 has uploaded a file 96242977 to Hospital/Customer in IDSIL / PJO
+
+
+[18-01-2016:10:00:09 PM] : B2KQA53 has uploaded a file 96245700 to Hospital/Customer in IDSIL / PJO
+
+
+[18-01-2016:10:01:28 PM] : B2KQA53 has uploaded a file 96240760 to Hospital/Customer in IDSIL / PJO
+
+
+[18-01-2016:10:01:34 PM] : B2KQA53 has uploaded a file 96243763 to Hospital/Customer in IDSIL / PJO
+
+
+[18-01-2016:10:01:40 PM] : B2KQA53 has uploaded a file 96242051 to Hospital/Customer in IDSIL / PJO
+
+
+[18-01-2016:10:01:46 PM] : B2KQA53 has uploaded a file 96244604 to Hospital/Customer in IDSIL / PJO
+
+
+[18-01-2016:10:01:52 PM] : B2KQA53 has uploaded a file 96245003 to Hospital/Customer in IDSIL / PJO
+
+
+[18-01-2016:10:01:57 PM] : B2KQA53 has uploaded a file 96244094 to Hospital/Customer in IDSIL / PJO
+
+
+[18-01-2016:10:02:05 PM] : B2KQA53 has uploaded a file 96244929 to Hospital/Customer in IDSIL / PJO
+
+
+[18-01-2016:10:02:11 PM] : B2KQA53 has uploaded a file 96247141 to Hospital/Customer in IDSIL / PJO
+
+
+[18-01-2016:10:02:21 PM] : B2KQA53 has logged out from the Linecount Software Using the System 112.196.146.92

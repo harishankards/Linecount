@@ -1,0 +1,21 @@
+
+
+[15-12-2013:9:01:58 PM] : ATER008 has logged in to IDSIL / PJO using the System 117.218.59.252
+
+
+[15-12-2013:9:03:07 PM] : ATER008 has picked a file 65986321 in IDSIL / PJO
+
+
+[15-12-2013:9:27:21 PM] : ATER008 has uploaded a file 65986321 to Hospital/Customer in IDSIL / PJO
+
+
+[15-12-2013:9:48:16 PM] : ATER008 has picked a file 65987470 in IDSIL / PJO
+
+
+[15-12-2013:10:11:08 PM] : ATER008 has uploaded a file 65987470 to Hospital/Customer in IDSIL / PJO
+
+
+[15-12-2013:10:15:49 PM] : ATER008 has viewed the Edited file details in IDSIL/PJO from 2013-12-01 to 2013-12-15
+
+
+[15-12-2013:10:15:56 PM] : ATER008 has Downloaded a file details in IDSIL / PJO from 2013-12-01 to 2013-12-15

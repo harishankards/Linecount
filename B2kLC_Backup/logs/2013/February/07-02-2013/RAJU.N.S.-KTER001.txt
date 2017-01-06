@@ -1,0 +1,621 @@
+
+
+[07-02-2013:10:12:08 AM] : KTER001 has logged in to IDSIL / PJO using the System 111.92.81.63
+
+
+[07-02-2013:10:16:06 AM] : KTER001 has picked a file 56660487 in IDSIL / PJO
+
+
+[07-02-2013:10:16:22 AM] : KTER001 has uploaded a file 56660487 to Hospital/Customer in IDSIL / PJO
+
+
+[07-02-2013:10:18:24 AM] : KTER001 has picked a file 56660568 in IDSIL / PJO
+
+
+[07-02-2013:10:18:52 AM] : KTER001 has uploaded a file 56660568 to Hospital/Customer in IDSIL / PJO
+
+
+[07-02-2013:10:22:20 AM] : KTER001 has picked a file 56660696 in IDSIL / PJO
+
+
+[07-02-2013:10:22:36 AM] : KTER001 has uploaded a file 56660696 to Hospital/Customer in IDSIL / PJO
+
+
+[07-02-2013:10:26:10 AM] : KTER001 has picked a file 56697903 in IDSIL / PJO
+
+
+[07-02-2013:10:26:21 AM] : KTER001 has uploaded a file 56697903 to Hospital/Customer in IDSIL / PJO
+
+
+[07-02-2013:10:27:44 AM] : KTER001 has picked a file 56697911 in IDSIL / PJO
+
+
+[07-02-2013:10:27:58 AM] : KTER001 has uploaded a file 56697911 to Hospital/Customer in IDSIL / PJO
+
+
+[07-02-2013:10:29:26 AM] : KTER001 has picked a file 56698257 in IDSIL / PJO
+
+
+[07-02-2013:10:29:37 AM] : KTER001 has uploaded a file 56698257 to Hospital/Customer in IDSIL / PJO
+
+
+[07-02-2013:10:30:50 AM] : KTER001 has picked a file 56698927 in IDSIL / PJO
+
+
+[07-02-2013:10:31:11 AM] : KTER001 has uploaded a file 56698927 to Hospital/Customer in IDSIL / PJO
+
+
+[07-02-2013:10:32:42 AM] : KTER001 has picked a file 56699367 in IDSIL / PJO
+
+
+[07-02-2013:10:32:51 AM] : KTER001 has uploaded a file 56699367 to Hospital/Customer in IDSIL / PJO
+
+
+[07-02-2013:10:33:52 AM] : KTER001 has picked a file 56699761 in IDSIL / PJO
+
+
+[07-02-2013:10:34:12 AM] : KTER001 has uploaded a file 56699761 to Hospital/Customer in IDSIL / PJO
+
+
+[07-02-2013:10:36:18 AM] : KTER001 has picked a file 56717378 in IDSIL / PJO
+
+
+[07-02-2013:10:36:24 AM] : KTER001 has uploaded a file 56717378 to Hospital/Customer in IDSIL / PJO
+
+
+[07-02-2013:10:38:10 AM] : KTER001 has picked a file 56717770 in IDSIL / PJO
+
+
+[07-02-2013:10:38:24 AM] : KTER001 has uploaded a file 56717770 to Hospital/Customer in IDSIL / PJO
+
+
+[07-02-2013:10:39:21 AM] : KTER001 has picked a file 56726733 in IDSIL / PJO
+
+
+[07-02-2013:10:39:41 AM] : KTER001 has uploaded a file 56726733 to Hospital/Customer in IDSIL / PJO
+
+
+[07-02-2013:10:40:28 AM] : KTER001 has picked a file 56727354 in IDSIL / PJO
+
+
+[07-02-2013:10:40:45 AM] : KTER001 has uploaded a file 56727354 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[07-02-2013:10:47:04 AM] : KTER001 has picked a file 56922404 in IDSIL / PJO
+
+
+[07-02-2013:10:47:23 AM] : KTER001 has uploaded a file 56922404 to Hospital/Customer in IDSIL / PJO
+
+
+[07-02-2013:10:54:44 AM] : KTER001 has picked a file 56923622 in IDSIL / PJO
+
+
+[07-02-2013:10:55:08 AM] : KTER001 has uploaded a file 56923622 to Hospital/Customer in IDSIL / PJO
+
+
+[07-02-2013:10:59:15 AM] : KTER001 has picked a file 56924447 in IDSIL / PJO
+
+
+[07-02-2013:10:59:33 AM] : KTER001 has uploaded a file 56924447 to Hospital/Customer in IDSIL / PJO
+
+
+[07-02-2013:11:16:06 AM] : KTER001 has picked a file 56949472 in IDSIL / PJO
+
+
+[07-02-2013:11:16:25 AM] : KTER001 has uploaded a file 56949472 to Hospital/Customer in IDSIL / PJO
+
+
+[07-02-2013:11:17:26 AM] : KTER001 has picked a file 56950251 in IDSIL / PJO
+
+
+[07-02-2013:11:17:35 AM] : KTER001 has uploaded a file 56950251 to Hospital/Customer in IDSIL / PJO
+
+
+[07-02-2013:11:19:55 AM] : KTER001 has picked a file 56950252 in IDSIL / PJO
+
+
+[07-02-2013:11:20:13 AM] : KTER001 has uploaded a file 56950252 to Hospital/Customer in IDSIL / PJO
+
+
+[07-02-2013:11:21:18 AM] : KTER001 has picked a file 56952916 in IDSIL / PJO
+
+
+[07-02-2013:11:21:28 AM] : KTER001 has uploaded a file 56952916 to Hospital/Customer in IDSIL / PJO
+
+
+[07-02-2013:11:22:38 AM] : KTER001 has picked a file 56994504 in IDSIL / PJO
+
+
+[07-02-2013:11:22:47 AM] : KTER001 has uploaded a file 56994504 to Hospital/Customer in IDSIL / PJO
+
+
+[07-02-2013:11:23:58 AM] : KTER001 has picked a file 78414702 in IDSIL / PJO
+
+
+[07-02-2013:11:24:31 AM] : KTER001 has uploaded a file 78414702 to Hospital/Customer in IDSIL / PJO
+
+
+[07-02-2013:11:25:36 AM] : KTER001 has picked a file 78415401 in IDSIL / PJO
+
+
+[07-02-2013:11:25:50 AM] : KTER001 has uploaded a file 78415401 to Hospital/Customer in IDSIL / PJO
+
+
+[07-02-2013:11:27:03 AM] : KTER001 has picked a file 78415852 in IDSIL / PJO
+
+
+[07-02-2013:11:27:26 AM] : KTER001 has uploaded a file 78415852 to Hospital/Customer in IDSIL / PJO
+
+
+[07-02-2013:11:28:26 AM] : KTER001 has picked a file 78416162 in IDSIL / PJO
+
+
+[07-02-2013:11:28:40 AM] : KTER001 has uploaded a file 78416162 to Hospital/Customer in IDSIL / PJO
+
+
+[07-02-2013:11:29:43 AM] : KTER001 has picked a file 56999083 in IDSIL / PJO
+
+
+[07-02-2013:11:29:56 AM] : KTER001 has uploaded a file 56999083 to Hospital/Customer in IDSIL / PJO
+
+
+[07-02-2013:11:30:34 AM] : KTER001 has picked a file 56999135 in IDSIL / PJO
+
+
+[07-02-2013:11:30:42 AM] : KTER001 has uploaded a file 56999135 to Hospital/Customer in IDSIL / PJO
+
+
+[07-02-2013:11:31:21 AM] : KTER001 has picked a file 56999172 in IDSIL / PJO
+
+
+[07-02-2013:11:31:51 AM] : KTER001 has uploaded a file 56999172 to Hospital/Customer in IDSIL / PJO
+
+
+[07-02-2013:11:32:59 AM] : KTER001 has picked a file 57025195 in IDSIL / PJO
+
+
+[07-02-2013:11:34:22 AM] : KTER001 has picked a file 57300494 in IDSIL / PJO
+
+
+[07-02-2013:11:44:01 AM] : KTER001 has uploaded a file 57300494 to Hospital/Customer in IDSIL / PJO
+
+
+[07-02-2013:11:44:50 AM] : KTER001 has uploaded a file 57025195 to Hospital/Customer in IDSIL / PJO
+
+
+[07-02-2013:11:47:09 AM] : KTER001 has picked a file 57302334 in IDSIL / PJO
+
+
+[07-02-2013:11:47:26 AM] : KTER001 has uploaded a file 57302334 to Hospital/Customer in IDSIL / PJO
+
+
+[07-02-2013:11:48:42 AM] : KTER001 has picked a file 57302985 in IDSIL / PJO
+
+
+[07-02-2013:11:49:15 AM] : KTER001 has uploaded a file 57302985 to Hospital/Customer in IDSIL / PJO
+
+
+[07-02-2013:11:50:40 AM] : KTER001 has picked a file 57304943 in IDSIL / PJO
+
+
+[07-02-2013:11:50:57 AM] : KTER001 has uploaded a file 57304943 to Hospital/Customer in IDSIL / PJO
+
+
+[07-02-2013:1:11:21 PM] : KTER001 has logged in to IDSIL / PJO using the System 111.92.81.63
+
+
+[07-02-2013:1:46:03 PM] : KTER001 has added a Audit file 56523697 in IDSIL / PJO 
+
+
+[07-02-2013:1:47:16 PM] : KTER001 has added a Audit file 56579081 in IDSIL / PJO 
+
+
+[07-02-2013:1:48:39 PM] : KTER001 has added a Audit file 56659814 in IDSIL / PJO 
+
+
+[07-02-2013:1:50:01 PM] : KTER001 has added a Audit file 56660333 in IDSIL / PJO 
+
+
+[07-02-2013:1:50:44 PM] : KTER001 has added a Audit file 56660688 in IDSIL / PJO 
+
+
+[07-02-2013:1:51:28 PM] : KTER001 has added a Audit file 56691661 in IDSIL / PJO 
+
+
+[07-02-2013:1:52:10 PM] : KTER001 has added a Audit file 56697798 in IDSIL / PJO 
+
+
+[07-02-2013:1:57:40 PM] : KTER001 has added a Audit file 56897871 in IDSIL / PJO 
+
+
+[07-02-2013:1:58:24 PM] : KTER001 has added a Audit file 56928998 in IDSIL / PJO 
+
+
+[07-02-2013:1:58:58 PM] : KTER001 has added a Audit file 56929624 in IDSIL / PJO 
+
+
+[07-02-2013:1:59:34 PM] : KTER001 has viewed the Audit file details in IDSIL / PJO from 2013-01-01 to 2013-01-31
+
+
+[07-02-2013:2:01:17 PM] : KTER001 has logged out from the Linecount Software Using the System 111.92.81.63
+
+
+[07-02-2013:6:21:11 PM] : KTER001 has logged in to IDSIL / PJO using the System 111.92.81.63
+
+
+[07-02-2013:6:22:58 PM] : KTER001 has picked a file 56457559 in IDSIL / PJO
+
+
+[07-02-2013:6:23:29 PM] : KTER001 has uploaded a file 56457559 to Hospital/Customer in IDSIL / PJO
+
+
+[07-02-2013:6:24:58 PM] : KTER001 has picked a file 56461722 in IDSIL / PJO
+
+
+[07-02-2013:6:25:13 PM] : KTER001 has uploaded a file 56461722 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[07-02-2013:6:26:06 PM] : KTER001 has picked a file 56462756 in IDSIL / PJO
+
+
+[07-02-2013:6:26:13 PM] : KTER001 has uploaded a file 56462756 to Hospital/Customer in IDSIL / PJO
+
+
+[07-02-2013:6:29:57 PM] : KTER001 has picked a file 56465234 in IDSIL / PJO
+
+
+[07-02-2013:6:30:26 PM] : KTER001 has uploaded a file 56465234 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[07-02-2013:6:31:51 PM] : KTER001 has picked a file 56465673 in IDSIL / PJO
+
+
+[07-02-2013:6:32:06 PM] : KTER001 has uploaded a file 56465673 to Hospital/Customer in IDSIL / PJO
+
+
+[07-02-2013:6:43:22 PM] : KTER001 has picked a file 56465742 in IDSIL / PJO
+
+
+[07-02-2013:6:43:28 PM] : KTER001 has uploaded a file 56465742 to Hospital/Customer in IDSIL / PJO
+
+
+[07-02-2013:6:44:35 PM] : KTER001 has picked a file 56465786 in IDSIL / PJO
+
+
+[07-02-2013:6:44:46 PM] : KTER001 has uploaded a file 56465786 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[07-02-2013:6:45:58 PM] : KTER001 has picked a file 56465866 in IDSIL / PJO
+
+
+[07-02-2013:6:46:13 PM] : KTER001 has uploaded a file 56465866 to Hospital/Customer in IDSIL / PJO
+
+
+[07-02-2013:6:48:02 PM] : KTER001 has picked a file 56465676 in IDSIL / PJO
+
+
+[07-02-2013:6:48:17 PM] : KTER001 has uploaded a file 56465676 to Hospital/Customer in IDSIL / PJO
+
+
+[07-02-2013:6:49:54 PM] : KTER001 has picked a file 56470261 in IDSIL / PJO
+
+
+[07-02-2013:6:50:21 PM] : KTER001 has uploaded a file 56470261 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[07-02-2013:6:52:12 PM] : KTER001 has picked a file 56470368 in IDSIL / PJO
+
+
+[07-02-2013:6:52:23 PM] : KTER001 has uploaded a file 56470368 to Hospital/Customer in IDSIL / PJO
+
+
+[07-02-2013:6:53:21 PM] : KTER001 has picked a file 56470465 in IDSIL / PJO
+
+
+[07-02-2013:6:53:36 PM] : KTER001 has uploaded a file 56470465 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[07-02-2013:6:55:02 PM] : KTER001 has picked a file 56470494 in IDSIL / PJO
+
+
+[07-02-2013:6:55:22 PM] : KTER001 has uploaded a file 56470494 to Hospital/Customer in IDSIL / PJO
+
+
+[07-02-2013:6:56:09 PM] : KTER001 has picked a file 56470518 in IDSIL / PJO
+
+
+[07-02-2013:6:56:32 PM] : KTER001 has uploaded a file 56470518 to Hospital/Customer in IDSIL / PJO
+
+
+[07-02-2013:6:57:34 PM] : KTER001 has picked a file 56470711 in IDSIL / PJO
+
+
+[07-02-2013:6:57:43 PM] : KTER001 has uploaded a file 56470711 to Hospital/Customer in IDSIL / PJO
+
+
+[07-02-2013:6:58:22 PM] : KTER001 has picked a file 56470719 in IDSIL / PJO
+
+
+[07-02-2013:6:58:30 PM] : KTER001 has uploaded a file 56470719 to Hospital/Customer in IDSIL / PJO
+
+
+[07-02-2013:6:59:31 PM] : KTER001 has picked a file 56471521 in IDSIL / PJO
+
+
+[07-02-2013:6:59:44 PM] : KTER001 has uploaded a file 56471521 to Hospital/Customer in IDSIL / PJO
+
+
+[07-02-2013:7:00:34 PM] : KTER001 has picked a file 56472833 in IDSIL / PJO
+
+
+[07-02-2013:7:00:49 PM] : KTER001 has uploaded a file 56472833 to Hospital/Customer in IDSIL / PJO
+
+
+[07-02-2013:7:01:56 PM] : KTER001 has picked a file 56473721 in IDSIL / PJO
+
+
+[07-02-2013:7:02:06 PM] : KTER001 has uploaded a file 56473721 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[07-02-2013:7:02:48 PM] : KTER001 has picked a file 56474488 in IDSIL / PJO
+
+
+[07-02-2013:7:03:00 PM] : KTER001 has uploaded a file 56474488 to Hospital/Customer in IDSIL / PJO
+
+
+[07-02-2013:7:05:12 PM] : KTER001 has picked a file 56466190 in IDSIL / PJO
+
+
+[07-02-2013:7:05:19 PM] : KTER001 has uploaded a file 56466190 to Hospital/Customer in IDSIL / PJO
+
+
+[07-02-2013:7:05:58 PM] : KTER001 has picked a file 56466197 in IDSIL / PJO
+
+
+[07-02-2013:7:06:04 PM] : KTER001 has uploaded a file 56466197 to Hospital/Customer in IDSIL / PJO
+
+
+[07-02-2013:7:06:57 PM] : KTER001 has picked a file 56466205 in IDSIL / PJO
+
+
+[07-02-2013:7:07:28 PM] : KTER001 has uploaded a file 56466205 to Hospital/Customer in IDSIL / PJO
+
+
+[07-02-2013:7:08:48 PM] : KTER001 has picked a file 56472752 in IDSIL / PJO
+
+
+[07-02-2013:7:08:59 PM] : KTER001 has uploaded a file 56472752 to Hospital/Customer in IDSIL / PJO
+
+
+[07-02-2013:7:09:59 PM] : KTER001 has picked a file 56473111 in IDSIL / PJO
+
+
+[07-02-2013:7:10:22 PM] : KTER001 has uploaded a file 56473111 to Hospital/Customer in IDSIL / PJO
+
+
+[07-02-2013:7:11:17 PM] : KTER001 has picked a file 56473385 in IDSIL / PJO
+
+
+[07-02-2013:7:11:40 PM] : KTER001 has uploaded a file 56473385 to Hospital/Customer in IDSIL / PJO
+
+
+[07-02-2013:7:12:39 PM] : KTER001 has picked a file 56473516 in IDSIL / PJO
+
+
+[07-02-2013:7:12:46 PM] : KTER001 has uploaded a file 56473516 to Hospital/Customer in IDSIL / PJO
+
+
+[07-02-2013:7:13:26 PM] : KTER001 has picked a file 56474494 in IDSIL / PJO
+
+
+[07-02-2013:7:13:48 PM] : KTER001 has uploaded a file 56474494 to Hospital/Customer in IDSIL / PJO
+
+
+[07-02-2013:7:14:38 PM] : KTER001 has picked a file 56474530 in IDSIL / PJO
+
+
+[07-02-2013:7:14:48 PM] : KTER001 has uploaded a file 56474530 to Hospital/Customer in IDSIL / PJO
+
+
+[07-02-2013:7:16:03 PM] : KTER001 has picked a file 56474972 in IDSIL / PJO
+
+
+[07-02-2013:7:16:10 PM] : KTER001 has uploaded a file 56474972 to Hospital/Customer in IDSIL / PJO
+
+
+[07-02-2013:7:17:04 PM] : KTER001 has picked a file 56475071 in IDSIL / PJO
+
+
+[07-02-2013:7:17:16 PM] : KTER001 has uploaded a file 56475071 to Hospital/Customer in IDSIL / PJO
+
+
+[07-02-2013:7:23:30 PM] : KTER001 has picked a file 56475463 in IDSIL / PJO
+
+
+[07-02-2013:7:23:43 PM] : KTER001 has uploaded a file 56475463 to Hospital/Customer in IDSIL / PJO
+
+
+[07-02-2013:7:29:40 PM] : KTER001 has picked a file 56476578 in IDSIL / PJO
+
+
+[07-02-2013:7:30:02 PM] : KTER001 has uploaded a file 56476578 to Hospital/Customer in IDSIL / PJO
+
+
+[07-02-2013:7:32:27 PM] : KTER001 has picked a file 56502179 in IDSIL / PJO
+
+
+[07-02-2013:7:32:50 PM] : KTER001 has uploaded a file 56502179 to Hospital/Customer in IDSIL / PJO
+
+
+[07-02-2013:7:34:22 PM] : KTER001 has picked a file 56502266 in IDSIL / PJO
+
+
+[07-02-2013:7:34:52 PM] : KTER001 has uploaded a file 56502266 to Hospital/Customer in IDSIL / PJO
+
+
+[07-02-2013:7:36:54 PM] : KTER001 has picked a file 56510059 in IDSIL / PJO
+
+
+[07-02-2013:7:37:05 PM] : KTER001 has uploaded a file 56510059 to Hospital/Customer in IDSIL / PJO
+
+
+[07-02-2013:7:38:43 PM] : KTER001 has picked a file 56510420 in IDSIL / PJO
+
+
+[07-02-2013:7:38:54 PM] : KTER001 has uploaded a file 56510420 to Hospital/Customer in IDSIL / PJO
+
+
+[07-02-2013:7:39:58 PM] : KTER001 has picked a file 56510938 in IDSIL / PJO
+
+
+[07-02-2013:7:40:13 PM] : KTER001 has uploaded a file 56510938 to Hospital/Customer in IDSIL / PJO
+
+
+[07-02-2013:7:41:05 PM] : KTER001 has picked a file 56511887 in IDSIL / PJO
+
+
+[07-02-2013:7:41:12 PM] : KTER001 has uploaded a file 56511887 to Hospital/Customer in IDSIL / PJO
+
+
+[07-02-2013:7:42:01 PM] : KTER001 has picked a file 56513065 in IDSIL / PJO
+
+
+[07-02-2013:7:42:23 PM] : KTER001 has uploaded a file 56513065 to Hospital/Customer in IDSIL / PJO
+
+
+[07-02-2013:7:43:29 PM] : KTER001 has picked a file 56514921 in IDSIL / PJO
+
+
+[07-02-2013:7:43:57 PM] : KTER001 has uploaded a file 56514921 to Hospital/Customer in IDSIL / PJO
+
+
+[07-02-2013:7:45:19 PM] : KTER001 has picked a file 56515955 in IDSIL / PJO
+
+
+[07-02-2013:7:45:52 PM] : KTER001 has uploaded a file 56515955 to Hospital/Customer in IDSIL / PJO
+
+
+[07-02-2013:7:47:43 PM] : KTER001 has picked a file 56518575 in IDSIL / PJO
+
+
+[07-02-2013:7:48:19 PM] : KTER001 has uploaded a file 56518575 to Hospital/Customer in IDSIL / PJO
+
+
+[07-02-2013:7:49:33 PM] : KTER001 has picked a file 56518805 in IDSIL / PJO
+
+
+[07-02-2013:7:49:40 PM] : KTER001 has uploaded a file 56518805 to Hospital/Customer in IDSIL / PJO
+
+
+[07-02-2013:7:50:24 PM] : KTER001 has picked a file 56530828 in IDSIL / PJO
+
+
+[07-02-2013:7:50:35 PM] : KTER001 has uploaded a file 56530828 to Hospital/Customer in IDSIL / PJO
+
+
+[07-02-2013:7:51:15 PM] : KTER001 has picked a file 56537692 in IDSIL / PJO
+
+
+[07-02-2013:7:51:24 PM] : KTER001 has uploaded a file 56537692 to Hospital/Customer in IDSIL / PJO
+
+
+[07-02-2013:7:52:16 PM] : KTER001 has picked a file 56541116 in IDSIL / PJO
+
+
+[07-02-2013:7:52:39 PM] : KTER001 has uploaded a file 56541116 to Hospital/Customer in IDSIL / PJO
+
+
+[07-02-2013:7:55:18 PM] : KTER001 has picked a file 56546403 in IDSIL / PJO
+
+
+[07-02-2013:7:55:44 PM] : KTER001 has uploaded a file 56546403 to Hospital/Customer in IDSIL / PJO
+
+
+[07-02-2013:7:58:32 PM] : KTER001 has picked a file 56573919 in IDSIL / PJO
+
+
+[07-02-2013:7:58:46 PM] : KTER001 has uploaded a file 56573919 to Hospital/Customer in IDSIL / PJO
+
+
+[07-02-2013:8:04:25 PM] : KTER001 has picked a file 56583938 in IDSIL / PJO
+
+
+[07-02-2013:8:04:37 PM] : KTER001 has uploaded a file 56583938 to Hospital/Customer in IDSIL / PJO
+
+
+[07-02-2013:8:07:20 PM] : KTER001 has picked a file 56584475 in IDSIL / PJO
+
+
+[07-02-2013:8:07:27 PM] : KTER001 has uploaded a file 56584475 to Hospital/Customer in IDSIL / PJO
+
+
+[07-02-2013:8:08:47 PM] : KTER001 has picked a file 56584606 in IDSIL / PJO
+
+
+[07-02-2013:8:09:05 PM] : KTER001 has uploaded a file 56584606 to Hospital/Customer in IDSIL / PJO
+
+
+[07-02-2013:8:10:30 PM] : KTER001 has picked a file 56584751 in IDSIL / PJO
+
+
+[07-02-2013:8:10:52 PM] : KTER001 has uploaded a file 56584751 to Hospital/Customer in IDSIL / PJO
+
+
+[07-02-2013:8:12:31 PM] : KTER001 has picked a file 56584915 in IDSIL / PJO
+
+
+[07-02-2013:8:12:46 PM] : KTER001 has uploaded a file 56584915 to Hospital/Customer in IDSIL / PJO
+
+
+[07-02-2013:8:14:18 PM] : KTER001 has picked a file 56585148 in IDSIL / PJO
+
+
+[07-02-2013:8:14:36 PM] : KTER001 has uploaded a file 56585148 to Hospital/Customer in IDSIL / PJO
+
+
+[07-02-2013:8:15:37 PM] : KTER001 has picked a file 56586394 in IDSIL / PJO
+
+
+[07-02-2013:8:15:51 PM] : KTER001 has uploaded a file 56586394 to Hospital/Customer in IDSIL / PJO
+
+
+[07-02-2013:8:16:52 PM] : KTER001 has picked a file 56586427 in IDSIL / PJO
+
+
+[07-02-2013:8:17:00 PM] : KTER001 has uploaded a file 56586427 to Hospital/Customer in IDSIL / PJO
+
+
+[07-02-2013:8:17:54 PM] : KTER001 has picked a file 56586562 in IDSIL / PJO
+
+
+[07-02-2013:8:18:11 PM] : KTER001 has uploaded a file 56586562 to Hospital/Customer in IDSIL / PJO
+
+
+[07-02-2013:8:21:47 PM] : KTER001 has picked a file 56587378 in IDSIL / PJO
+
+
+[07-02-2013:8:21:55 PM] : KTER001 has uploaded a file 56587378 to Hospital/Customer in IDSIL / PJO
+
+
+[07-02-2013:8:23:02 PM] : KTER001 has picked a file 56596165 in IDSIL / PJO
+
+
+[07-02-2013:8:23:21 PM] : KTER001 has uploaded a file 56596165 to Hospital/Customer in IDSIL / PJO
+
+
+[07-02-2013:8:25:18 PM] : KTER001 has picked a file 56603161 in IDSIL / PJO
+
+
+[07-02-2013:8:25:27 PM] : KTER001 has uploaded a file 56603161 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[07-02-2013:8:26:26 PM] : KTER001 has picked a file 56604426 in IDSIL / PJO
+
+
+[07-02-2013:8:26:53 PM] : KTER001 has uploaded a file 56604426 to Hospital/Customer in IDSIL / PJO
+
+
+[07-02-2013:8:29:53 PM] : KTER001 has picked a file 56604466 in IDSIL / PJO
+
+
+[07-02-2013:8:30:17 PM] : KTER001 has uploaded a file 56604466 to IDS/QA_Checkpoint in IDSIL / PJO

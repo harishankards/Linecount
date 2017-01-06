@@ -1,0 +1,18 @@
+
+
+[10-12-2013:10:40:16 AM] : ATER035 has logged in to IDSIL / PJO using the System 61.3.119.246
+
+
+[10-12-2013:10:43:38 AM] : ATER035 has uploaded a file 78747955 to Hospital/Customer in IDSIL / PJO
+
+
+[10-12-2013:10:43:46 AM] : ATER035 has uploaded a file 78748002 to Hospital/Customer in IDSIL / PJO
+
+
+[10-12-2013:10:52:51 AM] : ATER035 has picked a file 65840529 in IDSIL / PJO
+
+
+[10-12-2013:1:06:39 PM] : ATER035 has logged in to IDSIL / PJO using the System 59.89.240.212
+
+
+[10-12-2013:1:09:53 PM] : ATER035 has uploaded a file 65840529 to IDS/QA_Checkpoint in IDSIL / PJO

@@ -1,0 +1,83 @@
+
+
+[25-02-2015:1:15:08 AM] : ADMIN has Viewed Employee Details
+
+
+[25-02-2015:1:15:19 AM] : ADMIN has Viewed Employee Details
+
+[25-02-2015:1:57:20 AM] : ADMIN has Deleted the details of the file 76142173.
+
+
+[25-02-2015:2:01:01 AM] : ADMIN has Viewed Employee Details
+
+
+[25-02-2015:2:01:03 AM] : ADMIN has Viewed Employee Details
+
+
+[25-02-2015:2:01:25 AM] : ADMIN has Viewed Employee Details
+
+
+[25-02-2015:5:54:11 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[25-02-2015:7:31:45 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[25-02-2015:8:05:21 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[25-02-2015:8:44:18 AM] : ADMIN has logged in to Admin page using the System 117.239.247.26
+
+
+[25-02-2015:8:57:10 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[25-02-2015:9:38:51 AM] : ADMIN has Deleted the details of the file 76135138.
+
+
+[25-02-2015:9:57:53 AM] : ADMIN has logged in to Admin page using the System 117.239.247.26
+
+
+[25-02-2015:10:34:48 AM] : ADMIN has logged in to Admin page using the System 117.239.247.26
+
+
+[25-02-2015:10:49:00 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[25-02-2015:11:40:21 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[25-02-2015:12:27:25 PM] : ADMIN has logged in to Admin page using the System 117.239.247.26
+
+
+[25-02-2015:12:46:31 PM] : ADMIN has logged out from the Linecount Software Using the System 117.239.247.26
+
+
+[25-02-2015:2:54:20 PM] : ADMIN has logged in to Admin page using the System 117.239.247.26
+
+
+[25-02-2015:3:52:17 PM] : ADMIN has Viewed Employee Details
+
+
+[25-02-2015:3:52:29 PM] : ADMIN has Viewed Employee Details
+
+
+[25-02-2015:3:53:25 PM] : ADMIN has Viewed Employee Details
+
+
+[25-02-2015:5:21:00 PM] : ADMIN has logged in to Admin page using the System 117.239.247.26
+
+
+[25-02-2015:6:29:36 PM] : ADMIN has logged in to Admin page using the System 117.239.247.26
+
+
+[25-02-2015:6:39:27 PM] : ADMIN has logged out from the Linecount Software Using the System 117.239.247.26
+
+[25-02-2015:9:01:54 PM] : ADMIN has Deleted the details of the file 76165629.
+
+
+[25-02-2015:10:54:28 PM] : ADMIN has Viewed Employee Details
+
+
+[25-02-2015:10:55:00 PM] : ADMIN has Viewed Employee Details
+
+[25-02-2015:11:13:41 PM] : ADMIN has Deleted the details of the file 76086899.

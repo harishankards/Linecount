@@ -1,0 +1,83 @@
+
+
+[22-09-2013:7:34:30 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[22-09-2013:7:34:41 AM] : ADMIN has Viewed Employee Details
+
+
+[22-09-2013:7:35:00 AM] : ADMIN has Viewed Employee Details
+
+
+[22-09-2013:7:59:53 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[22-09-2013:8:00:06 AM] : ADMIN has Viewed Employee Details
+
+
+[22-09-2013:8:00:14 AM] : ADMIN has Viewed Employee Details
+
+
+[22-09-2013:8:07:37 AM] : ADMIN has Viewed Employee Details
+
+
+[22-09-2013:9:10:31 AM] : ADMIN has Viewed Employee Details
+
+
+[22-09-2013:10:24:10 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[22-09-2013:10:25:47 AM] : ADMIN has Viewed Employee Details
+
+
+[22-09-2013:10:25:57 AM] : ADMIN has Viewed Employee Details
+
+
+[22-09-2013:11:02:29 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+[22-09-2013:11:03:25 AM] : ADMIN has Approved Leave request from the ID B2KMLS009 on 2013-09-21.
+
+[22-09-2013:11:03:46 AM] : ADMIN has Approved Leave request from the ID B2KMLS025 on 2013-09-22.
+
+
+[22-09-2013:11:12:34 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[22-09-2013:11:12:46 AM] : ADMIN has Viewed Employee Details
+
+
+[22-09-2013:11:13:11 AM] : ADMIN has Viewed Employee Details
+
+
+[22-09-2013:12:04:04 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[22-09-2013:1:25:44 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[22-09-2013:1:31:06 PM] : ADMIN has Viewed Employee Details
+
+
+[22-09-2013:1:31:18 PM] : ADMIN has Viewed Employee Details
+
+[22-09-2013:2:22:16 PM] : ADMIN has Deleted the details of the file 63877917.
+
+
+[22-09-2013:2:55:01 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[22-09-2013:3:31:45 PM] : ADMIN has Deleted the details of the file 63872336.
+
+
+[22-09-2013:4:48:20 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[22-09-2013:4:48:29 PM] : ADMIN has Viewed Employee Details
+
+
+[22-09-2013:4:48:35 PM] : ADMIN has Viewed Employee Details
+
+
+[22-09-2013:6:09:04 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[22-09-2013:11:07:45 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47

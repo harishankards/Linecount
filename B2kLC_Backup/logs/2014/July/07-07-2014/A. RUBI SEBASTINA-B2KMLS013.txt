@@ -1,0 +1,72 @@
+
+
+[07-07-2014:11:05:18 AM] : B2KMLS013 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[07-07-2014:11:05:44 AM] : B2KMLS013 has picked a file 71019863 in IDSIL / PJO
+
+
+[07-07-2014:11:06:02 AM] : B2KMLS013 has uploaded a file 71019863 to Hospital/Customer in IDSIL / PJO
+
+
+[07-07-2014:11:06:14 AM] : B2KMLS013 has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[07-07-2014:11:30:37 AM] : B2KMLS013 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[07-07-2014:11:30:52 AM] : B2KMLS013 has picked a file 71019615 in IDSIL / PJO
+
+
+[07-07-2014:11:52:11 AM] : B2KMLS013 has uploaded a file 71019615 to Hospital/Customer in IDSIL / PJO
+
+
+[07-07-2014:12:04:09 PM] : B2KMLS013 has picked a file 71019518 in IDSIL / PJO
+
+
+[07-07-2014:12:04:16 PM] : B2KMLS013 has uploaded a file 71019518 to Hospital/Customer in IDSIL / PJO
+
+
+[07-07-2014:12:05:50 PM] : B2KMLS013 has picked a file 71019215 in IDSIL / PJO
+
+
+[07-07-2014:12:20:21 PM] : B2KMLS013 has uploaded a file 71019215 to Hospital/Customer in IDSIL / PJO
+
+
+[07-07-2014:12:26:52 PM] : B2KMLS013 has picked a file 71019531 in IDSIL / PJO
+
+
+[07-07-2014:1:05:07 PM] : B2KMLS013 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[07-07-2014:1:05:22 PM] : B2KMLS013 has uploaded a file 71019531 to Hospital/Customer in IDSIL / PJO
+
+
+[07-07-2014:5:37:46 PM] : B2KMLS013 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[07-07-2014:5:38:53 PM] : B2KMLS013 has picked a file 71020024 in IDSIL / PJO
+
+
+[07-07-2014:6:20:01 PM] : B2KMLS013 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[07-07-2014:6:20:09 PM] : B2KMLS013 has uploaded a file 71020024 to Hospital/Customer in IDSIL / PJO
+
+
+[07-07-2014:6:20:28 PM] : B2KMLS013 has picked a file 71020487 in IDSIL / PJO
+
+
+[07-07-2014:6:52:42 PM] : B2KMLS013 has picked a file 71020661 in IDSIL / PJO
+
+
+[07-07-2014:6:52:56 PM] : B2KMLS013 has uploaded a file 71020487 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[07-07-2014:7:04:06 PM] : B2KMLS013 has uploaded a file 71020661 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[07-07-2014:7:10:38 PM] : B2KMLS013 has picked a file 71020116 in IDSIL / PJO
+
+
+[07-07-2014:7:35:27 PM] : B2KMLS013 has uploaded a file 71020116 to IDS/QA_Checkpoint in IDSIL / PJO

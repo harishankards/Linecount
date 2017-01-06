@@ -1,0 +1,129 @@
+
+
+[14-02-2014:10:18:12 AM] : B2KMLS011 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[14-02-2014:10:19:21 AM] : B2KMLS011 has picked a file 67525746 in IDSIL / PJO
+
+
+[14-02-2014:11:03:48 AM] : B2KMLS011 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[14-02-2014:11:04:00 AM] : B2KMLS011 has uploaded a file 67525746 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[14-02-2014:11:04:38 AM] : B2KMLS011 has picked a file 67528520 in IDSIL / PJO
+
+
+[14-02-2014:11:44:05 AM] : B2KMLS011 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[14-02-2014:11:44:13 AM] : B2KMLS011 has uploaded a file 67528520 to Hospital/Customer in IDSIL / PJO
+
+
+[14-02-2014:11:44:49 AM] : B2KMLS011 has picked a file 67532344 in IDSIL / PJO
+
+
+[14-02-2014:12:02:49 PM] : B2KMLS011 has uploaded a file 67532344 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[14-02-2014:12:03:15 PM] : B2KMLS011 has picked a file 67529511 in IDSIL / PJO
+
+
+[14-02-2014:12:16:17 PM] : B2KMLS011 has uploaded a file 67529511 to Hospital/Customer in IDSIL / PJO
+
+
+[14-02-2014:12:23:05 PM] : B2KMLS011 has picked a file 67508373 in IDSIL / PJO
+
+
+[14-02-2014:12:34:32 PM] : B2KMLS011 has uploaded a file 67508373 to Hospital/Customer in IDSIL / PJO
+
+
+[14-02-2014:12:40:06 PM] : B2KMLS011 has picked a file 67532704 in IDSIL / PJO
+
+
+[14-02-2014:12:50:31 PM] : B2KMLS011 has uploaded a file 67532704 to Hospital/Customer in IDSIL / PJO
+
+
+[14-02-2014:2:22:22 PM] : B2KMLS011 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[14-02-2014:2:23:17 PM] : B2KMLS011 has picked a file 67530157 in IDSIL / PJO
+
+
+[14-02-2014:3:16:28 PM] : B2KMLS011 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[14-02-2014:3:16:47 PM] : B2KMLS011 has uploaded a file 67530157 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[14-02-2014:3:17:22 PM] : B2KMLS011 has picked a file 67530303 in IDSIL / PJO
+
+
+[14-02-2014:3:36:41 PM] : B2KMLS011 has uploaded a file 67530303 to Hospital/Customer in IDSIL / PJO
+
+
+[14-02-2014:3:37:22 PM] : B2KMLS011 has picked a file 67530365 in IDSIL / PJO
+
+
+[14-02-2014:3:53:31 PM] : B2KMLS011 has uploaded a file 67530365 to Hospital/Customer in IDSIL / PJO
+
+
+[14-02-2014:3:54:15 PM] : B2KMLS011 has picked a file 67530667 in IDSIL / PJO
+
+
+[14-02-2014:4:47:43 PM] : B2KMLS011 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[14-02-2014:4:47:56 PM] : B2KMLS011 has uploaded a file 67530667 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[14-02-2014:4:48:32 PM] : B2KMLS011 has picked a file 67532266 in IDSIL / PJO
+
+
+[14-02-2014:5:14:07 PM] : B2KMLS011 has uploaded a file 67532266 to Hospital/Customer in IDSIL / PJO
+
+
+[14-02-2014:5:15:57 PM] : B2KMLS011 has picked a file 67532623 in IDSIL / PJO
+
+
+[14-02-2014:5:50:05 PM] : B2KMLS011 has uploaded a file 67532623 to Hospital/Customer in IDSIL / PJO
+
+
+[14-02-2014:5:51:47 PM] : B2KMLS011 has picked a file 67532960 in IDSIL / PJO
+
+
+[14-02-2014:6:15:29 PM] : B2KMLS011 has uploaded a file 67532960 to Hospital/Customer in IDSIL / PJO
+
+
+[14-02-2014:6:16:16 PM] : B2KMLS011 has picked a file 67533053 in IDSIL / PJO
+
+
+[14-02-2014:6:53:30 PM] : B2KMLS011 has uploaded a file 67533053 to Hospital/Customer in IDSIL / PJO
+
+
+[14-02-2014:6:54:25 PM] : B2KMLS011 has picked a file 67519290 in IDSIL / PJO
+
+
+[14-02-2014:7:43:01 PM] : B2KMLS011 has picked a file 67531313 in IDSIL / PJO
+
+
+[14-02-2014:8:34:43 PM] : B2KMLS011 has uploaded a file 67531313 to Hospital/Customer in IDSIL / PJO
+
+
+[14-02-2014:8:35:18 PM] : B2KMLS011 has picked a file 67532375 in IDSIL / PJO
+
+
+[14-02-2014:9:09:59 PM] : B2KMLS011 has uploaded a file 67532375 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[14-02-2014:9:25:34 PM] : B2KMLS011 has uploaded a file 67519290 to Hospital/Customer in IDSIL / PJO
+
+
+[14-02-2014:9:25:49 PM] : B2KMLS011 has viewed the Edited file details in IDSIL/PJO from 2014-02-01 to 2014-02-14
+
+
+[14-02-2014:9:28:45 PM] : B2KMLS011 has viewed the Audit file details in IDSIL / PJO from 2014-02-01 to 2014-02-14
+
+
+[14-02-2014:9:28:57 PM] : B2KMLS011 has logged out from the Linecount Software Using the System 123.255.248.35

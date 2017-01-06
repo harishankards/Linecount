@@ -1,0 +1,60 @@
+
+
+[02-09-2014:4:40:37 AM] : B2KQA21 has logged in to IDSIL / PJO using the System 182.65.222.153
+
+
+[02-09-2014:10:12:20 AM] : B2KQA21 has logged in to IDSIL / PJO using the System 182.65.68.27
+
+
+[02-09-2014:10:26:59 AM] : B2KQA21 has viewed the Audit file details in IDSIL / PJO from 2014-09-01 to 2014-09-02
+
+
+[02-09-2014:10:32:46 AM] : B2KQA21 has added a Audit file 72298150 in IDSIL / PJO 
+
+
+[02-09-2014:10:33:09 AM] : B2KQA21 has added a Audit file 72299820 in IDSIL / PJO 
+
+
+[02-09-2014:10:33:25 AM] : B2KQA21 has added a Audit file 72299949 in IDSIL / PJO 
+
+
+[02-09-2014:10:33:36 AM] : B2KQA21 has added a Audit file 72300416 in IDSIL / PJO 
+
+
+[02-09-2014:10:33:50 AM] : B2KQA21 has added a Audit file 72301041 in IDSIL / PJO 
+
+
+[02-09-2014:10:34:01 AM] : B2KQA21 has added a Audit file 72298759 in IDSIL / PJO 
+
+
+[02-09-2014:10:37:35 PM] : B2KQA21 has logged in to IDSIL / PJO using the System 182.65.91.170
+
+
+[02-09-2014:10:56:45 PM] : B2KQA21 has picked a file 72310782 in IDSIL / PJO
+
+
+[02-09-2014:10:57:09 PM] : B2KQA21 has uploaded a file 72310782 to Hospital/Customer in IDSIL / PJO
+
+
+[02-09-2014:10:59:46 PM] : B2KQA21 has picked a file 72312633 in IDSIL / PJO
+
+
+[02-09-2014:10:59:55 PM] : B2KQA21 has uploaded a file 72312633 to Hospital/Customer in IDSIL / PJO
+
+
+[02-09-2014:11:04:07 PM] : B2KQA21 has picked a file 72313806 in IDSIL / PJO
+
+
+[02-09-2014:11:04:52 PM] : B2KQA21 has uploaded a file 72313806 to Hospital/Customer in IDSIL / PJO
+
+
+[02-09-2014:11:28:22 PM] : B2KQA21 has picked a file 72315286 in IDSIL / PJO
+
+
+[02-09-2014:11:28:27 PM] : B2KQA21 has uploaded a file 72315286 to Hospital/Customer in IDSIL / PJO
+
+
+[02-09-2014:11:49:11 PM] : B2KQA21 has picked a file 72311943 in IDSIL / PJO
+
+
+[02-09-2014:11:49:23 PM] : B2KQA21 has uploaded a file 72311943 to Hospital/Customer in IDSIL / PJO

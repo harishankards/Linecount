@@ -1,0 +1,63 @@
+
+
+[29-01-2014:9:43:43 AM] : MTSMLS004 has logged in to IDSIL / PJO using the System 106.51.179.145
+
+
+[29-01-2014:9:58:59 AM] : MTSMLS004 has logged out from the Linecount Software Using the System 106.51.179.145
+
+
+[29-01-2014:10:07:35 AM] : MTSMLS004 has logged in to IDSIL / PJO using the System 106.51.179.145
+
+
+[29-01-2014:10:41:56 AM] : MTSMLS004 has uploaded a DUP file 67114981 in IDSIL / PJO
+
+
+[29-01-2014:10:50:29 AM] : MTSMLS004 has uploaded a DUP file 67104955 in IDSIL / PJO
+
+
+[29-01-2014:10:52:47 AM] : MTSMLS004 has uploaded a DUP file 67111044 in IDSIL / PJO
+
+
+[29-01-2014:11:10:15 AM] : MTSMLS004 has uploaded a DUP file 67112023 in IDSIL / PJO
+
+
+[29-01-2014:11:22:39 AM] : MTSMLS004 has uploaded a DUP file 67112645 in IDSIL / PJO
+
+
+[29-01-2014:11:35:57 AM] : MTSMLS004 has uploaded a DUP file 67114139 in IDSIL / PJO
+
+
+[29-01-2014:12:02:42 PM] : MTSMLS004 has uploaded a DUP file 67111117 in IDSIL / PJO
+
+
+[29-01-2014:12:21:46 PM] : MTSMLS004 has uploaded a DUP file 67103470 in IDSIL / PJO
+
+
+[29-01-2014:1:12:38 PM] : MTSMLS004 has logged in to IDSIL / PJO using the System 59.97.27.52
+
+
+[29-01-2014:1:13:40 PM] : MTSMLS004 has viewed the file details in IDSIL / PJO from 2014-01-29 to 2014-01-29
+
+
+[29-01-2014:1:15:00 PM] : MTSMLS004 has viewed the file details in IDSIL / PJO from 2014-01-28 to 2014-01-29
+
+
+[29-01-2014:1:15:11 PM] : MTSMLS004 has viewed the file details in IDSIL / PJO from 2014-01-29 to 2014-01-29
+
+
+[29-01-2014:1:50:19 PM] : MTSMLS004 has logged in to IDSIL / PJO using the System 59.97.27.52
+
+
+[29-01-2014:1:50:46 PM] : MTSMLS004 has uploaded a DUP file 67119088 in IDSIL / PJO
+
+
+[29-01-2014:1:59:45 PM] : MTSMLS004 has uploaded a DUP file 67111000 in IDSIL / PJO
+
+
+[29-01-2014:2:00:57 PM] : MTSMLS004 has viewed the file details in IDSIL / PJO from 2014-01-29 to 2014-01-29
+
+
+[29-01-2014:2:01:13 PM] : MTSMLS004 has Downloaded a file details in IDSIL / PJO from 2014-01-29 to 2014-01-29
+
+
+[29-01-2014:2:14:04 PM] : MTSMLS004 has logged out from the Linecount Software Using the System 59.97.27.52

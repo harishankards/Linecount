@@ -1,0 +1,135 @@
+
+
+[01-03-2013:5:52:06 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[01-03-2013:6:11:27 AM] : ADMIN has Viewed Employee Details
+
+
+[01-03-2013:6:12:12 AM] : ADMIN has Viewed Employee Details
+
+
+[01-03-2013:6:12:46 AM] : ADMIN has Viewed Employee Details
+
+
+[01-03-2013:6:15:56 AM] : ADMIN has Viewed Employee Details
+
+
+[01-03-2013:6:16:07 AM] : ADMIN has Viewed Employee Details
+
+
+[01-03-2013:6:16:39 AM] : ADMIN has Viewed Employee Details
+
+
+[01-03-2013:10:00:09 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[01-03-2013:10:31:04 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[01-03-2013:10:48:32 AM] : ADMIN has added Attendanec Details into the Database
+
+
+[01-03-2013:10:58:33 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[01-03-2013:10:59:07 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[01-03-2013:10:59:38 AM] : ADMIN has Approved Leave request from the ID B2KMLS011 on 2013-03-04.
+
+[01-03-2013:11:00:02 AM] : ADMIN has Approved Leave request from the ID B2KMLS024 on 2013-03-03.
+
+
+[01-03-2013:11:00:13 AM] : ADMIN has Viewed Employee Details
+
+
+[01-03-2013:11:00:44 AM] : ADMIN has Viewed Employee Details
+
+
+[01-03-2013:12:07:38 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[01-03-2013:1:10:45 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[01-03-2013:1:11:39 PM] : ADMIN has Deleted the details of the file 57616463.
+
+[01-03-2013:1:11:48 PM] : ADMIN has Deleted the details of the file 57671155.
+
+[01-03-2013:1:12:01 PM] : ADMIN has Deleted the details of the file 57798325.
+
+[01-03-2013:1:12:09 PM] : ADMIN has Deleted the details of the file 57831471.
+
+[01-03-2013:1:12:22 PM] : ADMIN has Deleted the details of the file 57853561.
+
+[01-03-2013:1:12:33 PM] : ADMIN has Deleted the details of the file 58033617.
+
+[01-03-2013:1:12:46 PM] : ADMIN has Deleted the details of the file 58117399.
+
+[01-03-2013:1:12:58 PM] : ADMIN has Deleted the details of the file 58116357.
+
+
+[01-03-2013:1:32:13 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[01-03-2013:2:57:04 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[01-03-2013:3:11:22 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[01-03-2013:4:14:39 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[01-03-2013:4:20:28 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[01-03-2013:4:34:49 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[01-03-2013:4:35:37 PM] : ADMIN has logged out from the Linecount Software Using the System 59.90.86.47
+
+
+[01-03-2013:4:35:51 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+[01-03-2013:4:38:42 PM] : ADMIN has viewed Bank Details
+
+[01-03-2013:4:39:09 PM] : ADMIN has viewed Bank Details
+
+
+[01-03-2013:4:42:18 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[01-03-2013:4:55:18 PM] : ADMIN has logged out from the Linecount Software Using the System 59.90.86.47
+
+
+[01-03-2013:5:01:28 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[01-03-2013:5:06:42 PM] : ADMIN has logged out from the Linecount Software Using the System 59.90.86.47
+
+
+[01-03-2013:5:07:29 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[01-03-2013:6:15:22 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+[01-03-2013:6:38:42 PM] : ADMIN has Viewed ID details in Escription.
+
+
+[01-03-2013:10:36:04 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[01-03-2013:10:36:46 PM] : ADMIN has logged out from the Linecount Software Using the System 59.90.86.47
+
+
+[01-03-2013:10:37:03 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+[01-03-2013:10:37:21 PM] : ADMIN has Viewed ID details in Escription.
+
+[01-03-2013:10:37:35 PM] : ADMIN has Viewed ID details in Escription.
+
+[01-03-2013:10:38:08 PM] : ADMIN has Viewed Employee Details
+
+[01-03-2013:10:38:15 PM] : ADMIN has Viewed Employee Details
+
+
+[01-03-2013:10:39:25 PM] : ADMIN has logged out from the Linecount Software Using the System 59.90.86.47

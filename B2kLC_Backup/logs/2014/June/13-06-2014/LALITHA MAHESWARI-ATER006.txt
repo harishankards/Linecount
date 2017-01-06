@@ -1,0 +1,21 @@
+
+
+[13-06-2014:10:05:43 AM] : ATER006 has logged in to IDSIL / PJO using the System 122.178.177.171
+
+
+[13-06-2014:10:09:36 AM] : ATER006 has picked a file 70488947 in IDSIL / PJO
+
+
+[13-06-2014:11:13:48 AM] : ATER006 has uploaded a file 70488947 to Hospital/Customer in IDSIL / PJO
+
+
+[13-06-2014:11:18:25 AM] : ATER006 has picked a file 70492682 in IDSIL / PJO
+
+
+[13-06-2014:11:26:04 AM] : ATER006 has uploaded a file 70492682 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[13-06-2014:11:32:13 AM] : ATER006 has picked a file 70493322 in IDSIL / PJO
+
+
+[13-06-2014:11:37:41 AM] : ATER006 has uploaded a file 70493322 to IDS/QA_Checkpoint in IDSIL / PJO

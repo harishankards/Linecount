@@ -1,0 +1,63 @@
+
+
+[20-10-2014:2:36:19 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[20-10-2014:5:31:36 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[20-10-2014:7:16:46 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[20-10-2014:8:51:18 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[20-10-2014:10:17:19 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[20-10-2014:10:55:49 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[20-10-2014:10:58:37 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[20-10-2014:11:39:23 AM] : ADMIN has added Employee Details[RAJKUMAR.N] into the Database
+
+
+[20-10-2014:12:12:11 PM] : ADMIN has Viewed Employee Details
+
+
+[20-10-2014:12:12:21 PM] : ADMIN has Viewed Employee Details
+
+
+[20-10-2014:12:54:56 PM] : ADMIN has Viewed Employee Details
+
+
+[20-10-2014:1:04:18 PM] : ADMIN has Viewed Employee Details
+
+
+[20-10-2014:1:12:43 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[20-10-2014:1:51:59 PM] : ADMIN has Viewed Employee Details
+
+
+[20-10-2014:1:52:09 PM] : ADMIN has Viewed Employee Details
+
+
+[20-10-2014:2:01:13 PM] : ADMIN has Viewed Employee Details
+
+
+[20-10-2014:2:01:22 PM] : ADMIN has Viewed Employee Details
+
+
+[20-10-2014:4:39:24 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[20-10-2014:5:25:55 PM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[20-10-2014:5:34:05 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[20-10-2014:6:18:24 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47

@@ -1,0 +1,132 @@
+
+
+[24-04-2013:9:58:16 AM] : SKPOER021 has logged in to IDSIL / PJO using the System 14.102.34.42
+
+
+[24-04-2013:10:02:03 AM] : SKPOER021 has picked a file 59901297 in IDSIL / PJO
+
+
+[24-04-2013:10:16:06 AM] : SKPOER021 has uploaded a file 59901297 to Hospital/Customer in IDSIL / PJO
+
+
+[24-04-2013:10:16:56 AM] : SKPOER021 has picked a file 59902210 in IDSIL / PJO
+
+
+[24-04-2013:10:29:38 AM] : SKPOER021 has uploaded a file 59902210 to Hospital/Customer in IDSIL / PJO
+
+
+[24-04-2013:10:30:28 AM] : SKPOER021 has picked a file 59902414 in IDSIL / PJO
+
+
+[24-04-2013:10:51:19 AM] : SKPOER021 has uploaded a file 59902414 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[24-04-2013:10:52:24 AM] : SKPOER021 has added a Audit file 59902776 in IDSIL / PJO 
+
+
+[24-04-2013:11:08:44 AM] : SKPOER021 has logged out from the Linecount Software Using the System 14.102.34.42
+
+
+[24-04-2013:11:12:13 AM] : SKPOER021 has logged in to IDSIL / PJO using the System 14.102.34.42
+
+
+[24-04-2013:11:18:26 AM] : SKPOER021 has picked a file 59876056 in IDSIL / PJO
+
+
+[24-04-2013:11:24:23 AM] : SKPOER021 has uploaded a file 59876056 to Hospital/Customer in IDSIL / PJO
+
+
+[24-04-2013:11:24:33 AM] : SKPOER021 has picked a file 59876074 in IDSIL / PJO
+
+
+[24-04-2013:11:30:43 AM] : SKPOER021 has uploaded a file 59876074 to Hospital/Customer in IDSIL / PJO
+
+
+[24-04-2013:11:31:17 AM] : SKPOER021 has picked a file 59876103 in IDSIL / PJO
+
+
+[24-04-2013:11:43:46 AM] : SKPOER021 has uploaded a file 59876103 to Hospital/Customer in IDSIL / PJO
+
+
+[24-04-2013:11:44:32 AM] : SKPOER021 has added a Audit file 59890179 in IDSIL / PJO 
+
+
+[24-04-2013:11:48:36 AM] : SKPOER021 has added a Audit file 59890259 in IDSIL / PJO 
+
+
+[24-04-2013:11:59:45 AM] : SKPOER021 has added a Audit file 59896949 in IDSIL / PJO 
+
+
+[24-04-2013:12:02:32 PM] : SKPOER021 has picked a file 59897761 in IDSIL / PJO
+
+
+[24-04-2013:12:16:10 PM] : SKPOER021 has uploaded a file 59897761 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[24-04-2013:12:16:24 PM] : SKPOER021 has added a Audit file 59897845 in IDSIL / PJO 
+
+
+[24-04-2013:12:21:59 PM] : SKPOER021 has picked a file 59898106 in IDSIL / PJO
+
+
+[24-04-2013:12:27:10 PM] : SKPOER021 has uploaded a file 59898106 to Hospital/Customer in IDSIL / PJO
+
+
+[24-04-2013:12:27:32 PM] : SKPOER021 has added a Audit file 59899453 in IDSIL / PJO 
+
+
+[24-04-2013:12:32:20 PM] : SKPOER021 has picked a file 59902924 in IDSIL / PJO
+
+
+[24-04-2013:12:43:47 PM] : SKPOER021 has uploaded a file 59902924 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[24-04-2013:12:43:53 PM] : SKPOER021 has viewed the Audit file details in IDSIL / PJO from 2013-04-24 to 2013-04-24
+
+
+[24-04-2013:12:44:14 PM] : SKPOER021 has logged out from the Linecount Software Using the System 14.102.34.42
+
+
+[24-04-2013:1:53:14 PM] : SKPOER021 has logged in to IDSIL / PJO using the System 14.102.34.42
+
+
+[24-04-2013:1:57:45 PM] : SKPOER021 has picked a file 59902685 in IDSIL / PJO
+
+
+[24-04-2013:2:14:12 PM] : SKPOER021 has uploaded a file 59902685 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[24-04-2013:2:14:39 PM] : SKPOER021 has added a Audit file 59902704 in IDSIL / PJO 
+
+
+[24-04-2013:2:32:30 PM] : SKPOER021 has picked a file 59902958 in IDSIL / PJO
+
+
+[24-04-2013:2:37:39 PM] : SKPOER021 has uploaded a file 59902958 to Hospital/Customer in IDSIL / PJO
+
+
+[24-04-2013:2:37:54 PM] : SKPOER021 has added a Audit file 59902964 in IDSIL / PJO 
+
+
+[24-04-2013:2:44:32 PM] : SKPOER021 has added a Audit file 59881775 in IDSIL / PJO 
+
+
+[24-04-2013:2:50:10 PM] : SKPOER021 has viewed the Audit file details in IDSIL / PJO from 2013-04-24 to 2013-04-24
+
+
+[24-04-2013:2:52:52 PM] : SKPOER021 has picked a file 59880015 in IDSIL / PJO
+
+
+[24-04-2013:3:14:00 PM] : SKPOER021 has uploaded a file 59880015 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[24-04-2013:3:14:09 PM] : SKPOER021 has viewed the Audit file details in IDSIL / PJO from 2013-04-24 to 2013-04-24
+
+
+[24-04-2013:3:15:50 PM] : SKPOER021 has viewed the Edited file details in IDSIL/PJO from 2013-04-01 to 2013-04-24
+
+
+[24-04-2013:3:16:02 PM] : SKPOER021 has viewed the Audit file details in IDSIL / PJO from 2013-04-01 to 2013-04-24
+
+
+[24-04-2013:3:18:26 PM] : SKPOER021 has logged out from the Linecount Software Using the System 14.102.34.42

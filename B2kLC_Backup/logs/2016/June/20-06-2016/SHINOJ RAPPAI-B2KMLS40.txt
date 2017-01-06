@@ -1,0 +1,54 @@
+
+
+[20-06-2016:6:40:21 AM] : B2KMLS40 has logged in to IDSIL / PJO using the System 180.215.121.225
+
+
+[20-06-2016:6:41:02 AM] : B2KMLS40 has picked a file 98765517 in IDSIL / PJO
+
+
+[20-06-2016:7:13:00 AM] : B2KMLS40 has picked a file 98765709 in IDSIL / PJO
+
+
+[20-06-2016:7:46:47 AM] : B2KMLS40 has added a Audit file 98772343 in IDSIL / PJO 
+
+
+[20-06-2016:7:47:04 AM] : B2KMLS40 has viewed the Audit file details in IDSIL / PJO from 2016-06-20 to 2016-06-20
+
+
+[20-06-2016:8:01:30 AM] : B2KMLS40 has picked a file 98766148 in IDSIL / PJO
+
+
+[20-06-2016:8:02:42 AM] : B2KMLS40 has viewed the Edited file details in IDSIL/PJO from 2016-06-01 to 2016-06-20
+
+
+[20-06-2016:9:19:14 AM] : B2KMLS40 has picked a file 98772531 in IDSIL / PJO
+
+
+[20-06-2016:9:49:22 AM] : B2KMLS40 has picked a file 98767385 in IDSIL / PJO
+
+
+[20-06-2016:10:08:29 AM] : B2KMLS40 has picked a file 98768357 in IDSIL / PJO
+
+
+[20-06-2016:10:20:34 AM] : B2KMLS40 has picked a file 98768711 in IDSIL / PJO
+
+
+[20-06-2016:10:26:34 AM] : B2KMLS40 has viewed the Edited file details in IDSIL/PJO from 2016-06-01 to 2016-06-20
+
+
+[20-06-2016:7:35:00 PM] : B2KMLS40 has logged in to IDSIL / PJO using the System 101.63.209.75
+
+
+[20-06-2016:7:55:58 PM] : B2KMLS40 has picked a file 98775148 in IDSIL / PJO
+
+
+[20-06-2016:8:18:17 PM] : B2KMLS40 has picked a file 98775046 in IDSIL / PJO
+
+
+[20-06-2016:9:10:20 PM] : B2KMLS40 has logged in to IDSIL / PJO using the System 180.215.121.254
+
+
+[20-06-2016:9:11:35 PM] : B2KMLS40 has viewed the Edited file details in IDSIL/PJO from 2016-06-01 to 2016-06-20
+
+
+[20-06-2016:10:38:51 PM] : B2KMLS40 has picked a file 98778739 in IDSIL / PJO

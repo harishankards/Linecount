@@ -1,0 +1,62 @@
+
+
+[08-03-2013:10:31:42 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[08-03-2013:10:32:38 AM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[08-03-2013:10:33:26 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[08-03-2013:11:37:32 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[08-03-2013:11:41:33 AM] : ADMIN has added Attendanec Details into the Database
+
+[08-03-2013:11:53:37 AM] : ADMIN has Approved Leave request from the ID B2KMLS021 on 2013-03-12.
+
+
+[08-03-2013:12:10:07 PM] : ADMIN has logged in to Admin page using the System 117.242.217.41
+
+[08-03-2013:12:10:20 PM] : ADMIN has viewed Bank Details
+
+[08-03-2013:12:10:30 PM] : ADMIN has viewed Bank Details
+
+
+[08-03-2013:12:10:30 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[08-03-2013:12:11:06 PM] : ADMIN has viewed Bank Details
+
+[08-03-2013:12:11:34 PM] : ADMIN has viewed Bank Details
+
+
+[08-03-2013:12:12:12 PM] : ADMIN has logged out from the Linecount Software Using the System 117.242.217.41
+
+
+[08-03-2013:1:17:23 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[08-03-2013:2:15:09 PM] : ADMIN has logged in to Admin page using the System 117.235.148.37
+
+
+[08-03-2013:2:22:25 PM] : ADMIN has Viewed Employee Details
+
+
+[08-03-2013:2:22:31 PM] : ADMIN has Viewed Employee Details
+
+
+[08-03-2013:2:38:07 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[08-03-2013:2:55:58 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[08-03-2013:4:00:24 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[08-03-2013:5:39:49 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[08-03-2013:5:40:12 PM] : ADMIN has Deleted the details of the file 58444750.
+
+
+[08-03-2013:6:37:16 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35

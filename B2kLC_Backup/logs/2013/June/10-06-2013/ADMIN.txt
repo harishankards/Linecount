@@ -1,0 +1,58 @@
+
+
+[10-06-2013:10:36:40 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[10-06-2013:10:38:56 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[10-06-2013:11:07:24 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+[10-06-2013:11:16:34 AM] : ADMIN has Approved Leave request from the ID B2KER002 on 2013-06-10.
+
+
+[10-06-2013:11:17:19 AM] : ADMIN has Viewed Employee Details
+
+
+[10-06-2013:11:17:24 AM] : ADMIN has Viewed Employee Details
+
+
+[10-06-2013:11:25:09 AM] : ADMIN has Viewed Employee Details
+
+
+[10-06-2013:12:04:30 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[10-06-2013:12:49:02 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[10-06-2013:1:18:30 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[10-06-2013:2:03:37 PM] : ADMIN has Rejected Leave request from the ID B2KER001 on 2013-06-12.
+
+[10-06-2013:2:04:27 PM] : ADMIN has Approved Leave request from the ID B2KMLS025 on 2013-06-12.
+
+[10-06-2013:2:04:42 PM] : ADMIN has Approved Leave request from the ID B2KMLS003 on 2013-06-14.
+
+
+[10-06-2013:3:53:44 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[10-06-2013:3:54:04 PM] : ADMIN has Deleted the details of the file 61106087.
+
+
+[10-06-2013:4:34:53 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[10-06-2013:4:35:09 PM] : ADMIN has Deleted the details of the file 61165645.
+
+[10-06-2013:4:35:27 PM] : ADMIN has Deleted the details of the file 61169996.
+
+[10-06-2013:4:35:45 PM] : ADMIN has Deleted the details of the file 61171172.
+
+
+[10-06-2013:5:57:04 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[10-06-2013:6:01:01 PM] : ADMIN has logged out from the Linecount Software Using the System 59.90.86.47
+
+
+[10-06-2013:7:42:17 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35

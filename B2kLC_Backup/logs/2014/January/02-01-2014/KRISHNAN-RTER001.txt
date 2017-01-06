@@ -1,0 +1,36 @@
+
+
+[02-01-2014:9:50:22 PM] : RTER001 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[02-01-2014:9:59:05 PM] : RTER001 has logged in to IDSIL / PJO using the System 101.222.225.24
+
+
+[02-01-2014:10:04:17 PM] : RTER001 has picked a file 65755023 in IDSIL / PJO
+
+
+[02-01-2014:10:05:04 PM] : RTER001 has uploaded a file 65755023 to Hospital/Customer in IDSIL / PJO
+
+
+[02-01-2014:10:05:40 PM] : RTER001 has picked a file 65768656 in IDSIL / PJO
+
+
+[02-01-2014:10:05:59 PM] : RTER001 has uploaded a file 65768656 to Hospital/Customer in IDSIL / PJO
+
+
+[02-01-2014:10:06:30 PM] : RTER001 has picked a file 65794475 in IDSIL / PJO
+
+
+[02-01-2014:10:06:40 PM] : RTER001 has uploaded a file 65794475 to Hospital/Customer in IDSIL / PJO
+
+
+[02-01-2014:10:09:25 PM] : RTER001 has viewed the Edited file details in IDSIL/PJO from 2013-12-01 to 2014-01-02
+
+
+[02-01-2014:10:11:40 PM] : RTER001 has picked a file 65795349 in IDSIL / PJO
+
+
+[02-01-2014:10:11:56 PM] : RTER001 has uploaded a file 65795349 to Hospital/Customer in IDSIL / PJO
+
+
+[02-01-2014:10:13:56 PM] : RTER001 has logged out from the Linecount Software Using the System 101.222.225.24

@@ -1,0 +1,66 @@
+
+
+[05-05-2014:9:50:50 AM] : B2KMLS040 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[05-05-2014:10:05:31 AM] : B2KMLS040 has picked a file 69536667 in IDSIL / PJO
+
+
+[05-05-2014:10:51:01 AM] : B2KMLS040 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[05-05-2014:10:51:21 AM] : B2KMLS040 has uploaded a file 69536667 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[05-05-2014:11:24:27 AM] : B2KMLS040 has picked a file 69536627 in IDSIL / PJO
+
+
+[05-05-2014:11:26:36 AM] : B2KMLS040 has uploaded a file 69521980 to Hospital/Customer in IDSIL / PJO
+
+
+[05-05-2014:11:54:43 AM] : B2KMLS040 has picked a file 69535919 in IDSIL / PJO
+
+
+[05-05-2014:11:56:20 AM] : B2KMLS040 has uploaded a file 69536627 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[05-05-2014:2:46:56 PM] : B2KMLS040 has added a Audit file 69533523 in IDSIL / PJO 
+
+
+[05-05-2014:3:21:36 PM] : B2KMLS040 has uploaded a file 69535919 to Hospital/Customer in IDSIL / PJO
+
+
+[05-05-2014:3:59:51 PM] : B2KMLS040 has picked a file 69538556 in IDSIL / PJO
+
+
+[05-05-2014:3:59:58 PM] : B2KMLS040 has uploaded a file 69538556 to Hospital/Customer in IDSIL / PJO
+
+
+[05-05-2014:4:00:05 PM] : B2KMLS040 has viewed the Audit file details in IDSIL / PJO from 2014-05-05 to 2014-05-05
+
+
+[05-05-2014:4:10:53 PM] : B2KMLS040 has picked a file 69538959 in IDSIL / PJO
+
+
+[05-05-2014:5:53:03 PM] : B2KMLS040 has uploaded a file 69538959 to Hospital/Customer in IDSIL / PJO
+
+
+[05-05-2014:5:56:26 PM] : B2KMLS040 has picked a file 69538249 in IDSIL / PJO
+
+
+[05-05-2014:6:52:43 PM] : B2KMLS040 has uploaded a file 69538249 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[05-05-2014:6:52:54 PM] : B2KMLS040 has viewed the Audit file details in IDSIL / PJO from 2014-05-04 to 2014-05-05
+
+
+[05-05-2014:8:17:19 PM] : B2KMLS040 has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[05-05-2014:10:14:47 PM] : B2KMLS040 has logged in to IDSIL / PJO using the System 115.244.235.96
+
+
+[05-05-2014:10:17:34 PM] : B2KMLS040 has viewed the Edited file details in IDSIL/PJO from 2014-05-05 to 2014-05-05
+
+
+[05-05-2014:10:19:31 PM] : B2KMLS040 has Downloaded a file details in IDSIL / PJO from 2014-05-05 to 2014-05-05

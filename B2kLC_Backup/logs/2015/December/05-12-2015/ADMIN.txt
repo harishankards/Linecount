@@ -1,0 +1,68 @@
+
+
+[05-12-2015:11:19:16 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[05-12-2015:12:07:56 PM] : ADMIN has logged in to Admin page using the System 117.203.159.36
+
+
+[05-12-2015:12:11:36 PM] : ADMIN has logged out from the Linecount Software Using the System 117.203.159.36
+
+
+[05-12-2015:12:15:14 PM] : ADMIN has logged in to Admin page using the System 117.203.159.36
+
+
+[05-12-2015:12:27:54 PM] : ADMIN has logged in to Admin page using the System 117.206.103.91
+
+
+[05-12-2015:12:32:06 PM] : ADMIN has logged out from the Linecount Software Using the System 117.206.103.91
+
+[05-12-2015:12:50:58 PM] : ADMIN has Deleted the details of the file 95496951.
+
+
+[05-12-2015:1:35:49 PM] : ADMIN has Viewed Employee Details
+
+
+[05-12-2015:1:35:56 PM] : ADMIN has Viewed Employee Details
+
+
+[05-12-2015:2:04:22 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[05-12-2015:2:04:46 PM] : ADMIN has Viewed Employee Details
+
+
+[05-12-2015:2:07:00 PM] : ADMIN has Viewed Employee Details
+
+
+[05-12-2015:4:56:42 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[05-12-2015:4:56:51 PM] : ADMIN has Viewed Employee Details
+
+
+[05-12-2015:6:24:22 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[05-12-2015:6:40:23 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[05-12-2015:6:50:06 PM] : ADMIN has Viewed Employee Details
+
+
+[05-12-2015:6:50:13 PM] : ADMIN has Viewed Employee Details
+
+
+[05-12-2015:6:52:56 PM] : ADMIN has Viewed Employee Details
+
+
+[05-12-2015:6:55:25 PM] : ADMIN has Viewed Employee Details
+
+
+[05-12-2015:6:57:11 PM] : ADMIN has Viewed Employee Details
+
+
+[05-12-2015:6:58:32 PM] : ADMIN has Viewed Employee Details
+
+
+[05-12-2015:6:59:23 PM] : ADMIN has added Employee Details[NEETHU PRAVEEN] into the Database

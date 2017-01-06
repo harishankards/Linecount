@@ -1,0 +1,63 @@
+
+
+[11-08-2014:6:46:59 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[11-08-2014:9:06:46 AM] : ADMIN has added an Update into the Database
+
+
+[11-08-2014:9:44:07 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[11-08-2014:9:55:44 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[11-08-2014:12:12:20 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[11-08-2014:12:32:06 PM] : ADMIN has Viewed Employee Details
+
+
+[11-08-2014:12:32:12 PM] : ADMIN has Viewed Employee Details
+
+
+[11-08-2014:3:20:38 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[11-08-2014:3:32:37 PM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[11-08-2014:3:32:41 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[11-08-2014:4:49:15 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[11-08-2014:5:23:04 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[11-08-2014:5:35:31 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[11-08-2014:5:47:31 PM] : ADMIN has logged out from the Linecount Software Using the System 59.90.86.47
+
+
+[11-08-2014:5:55:48 PM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[11-08-2014:5:55:57 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[11-08-2014:6:20:13 PM] : ADMIN has added an Update into the Database
+
+
+[11-08-2014:7:04:19 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+[11-08-2014:7:09:40 PM] : ADMIN has added an Update into the Database
+
+
+[11-08-2014:7:10:47 PM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[11-08-2014:9:53:18 PM] : ADMIN has Viewed Employee Details
+
+
+[11-08-2014:9:53:31 PM] : ADMIN has Viewed Employee Details

@@ -1,0 +1,43 @@
+<?php
+include('header.php');
+if(isset($_SESSION['Super_Admin']))
+{ 
+	include('menu.php');
+	$id=$_SESSION['Super_Admin'];
+}
+elseif(isset($_SESSION['Admin']))
+{ 
+	include('menu.php');
+	$id=mysql_real_escape_string($_SESSION['Admin']);
+}
+elseif(isset($_SESSION['MLS']))
+{ 
+	include('mlsmenu.php');
+	$id=mysql_real_escape_string($_SESSION['MLS']);
+	$name=mysql_real_escape_string($_SESSION['EMP_NAME_ID']);
+}
+elseif(isset($_SESSION['EDITOR']))
+{ 
+	include('editormenu.php');
+	$id=mysql_real_escape_string($_SESSION['EDITOR']);
+	$name=mysql_real_escape_string($_SESSION['EMP_NAME_ID']);
+}
+elseif(isset($_SESSION['ES-MLS']))
+{ 
+	include('es-mlsmenu.php');
+	$id=mysql_real_escape_string($_SESSION['ES-MLS']);
+	$name=mysql_real_escape_string($_SESSION['esmlsname']);
+}
+elseif(isset($_SESSION['ES-EDITOR']))
+{ 
+	include('es-editormenu.php');
+	$id=mysql_real_escape_string($_SESSION['ES-EDITOR']);
+	$name=mysql_real_escape_string($_SESSION['eseditorname']);
+}
+$nam1=$_SESSION['EMP_NAME_ONLY'];
+if($nam1=='')
+{
+   $nam1=$id;
+}
+?>
+<div id="main_top"><center><br><?php echo"<label id=\"welcome_note\">Welcome ".$nam1."</label>";?></center></div>

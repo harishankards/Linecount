@@ -1,0 +1,84 @@
+
+
+[01-07-2013:9:37:49 AM] : B2KER001 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[01-07-2013:9:38:10 AM] : B2KER001 has picked a file 61788852 in IDSIL / PJO
+
+
+[01-07-2013:9:39:09 AM] : B2KER001 has picked a file 61789001 in IDSIL / PJO
+
+
+[01-07-2013:9:50:18 AM] : B2KER001 has picked a file 61767609 in IDSIL / PJO
+
+
+[01-07-2013:9:56:34 AM] : B2KER001 has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[01-07-2013:9:56:39 AM] : B2KER001 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[01-07-2013:10:15:47 AM] : B2KER001 has picked a file 61791061 in IDSIL / PJO
+
+
+[01-07-2013:10:56:22 AM] : B2KER001 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[01-07-2013:10:56:39 AM] : B2KER001 has picked a file 61792010 in IDSIL / PJO
+
+
+[01-07-2013:10:57:19 AM] : B2KER001 has added a Audit file 61767609 in IDSIL / PJO 
+
+
+[01-07-2013:11:33:58 AM] : B2KER001 has picked a file 61792327 in IDSIL / PJO
+
+
+[01-07-2013:11:43:25 AM] : B2KER001 has added a Audit file 61768582 in IDSIL / PJO 
+
+
+[01-07-2013:12:00:09 PM] : B2KER001 has added a Audit file 61769425 in IDSIL / PJO 
+
+
+[01-07-2013:12:05:41 PM] : B2KER001 has viewed the Audit file details in IDSIL / PJO from 2013-07-01 to 2013-07-01
+
+
+[01-07-2013:12:10:48 PM] : B2KER001 has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[01-07-2013:12:10:57 PM] : B2KER001 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[01-07-2013:12:57:09 PM] : B2KER001 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[01-07-2013:12:58:07 PM] :  has uploaded a DUP file 61789396 in IDSIL / PJO
+
+
+[01-07-2013:2:29:00 PM] : B2KER001 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[01-07-2013:2:29:12 PM] : B2KER001 has picked a file 61775734 in IDSIL / PJO
+
+
+[01-07-2013:2:29:39 PM] :  has uploaded a DUP file 61792284 in IDSIL / PJO
+
+
+[01-07-2013:2:43:47 PM] : B2KER001 has viewed the Audit file details in IDSIL / PJO from 2013-07-01 to 2013-07-01
+
+
+[01-07-2013:3:38:08 PM] :  has uploaded a DUP file 61775880 in IDSIL / PJO
+
+
+[01-07-2013:5:56:44 PM] : B2KER001 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[01-07-2013:6:04:09 PM] :  has uploaded a DUP file 61796688 in IDSIL / PJO
+
+
+[01-07-2013:6:04:28 PM] : B2KER001 has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[01-07-2013:9:26:26 PM] : B2KER001 has logged in to IDSIL / PJO using the System 117.213.69.107
+
+
+[01-07-2013:9:26:51 PM] : B2KER001 has logged out from the Linecount Software Using the System 117.213.69.107

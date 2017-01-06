@@ -1,0 +1,198 @@
+
+
+[07-09-2016:1:21:30 AM] : B2KQA80 has logged in to IDSIL / PJO using the System 117.236.239.203
+
+
+[07-09-2016:5:54:24 AM] : B2KQA80 has picked a file 99867922 in IDSIL / PJO
+
+
+[07-09-2016:6:23:45 AM] : B2KQA80 has picked a file 99868376 in IDSIL / PJO
+
+
+[07-09-2016:6:23:55 AM] : B2KQA80 has logged out from the Linecount Software Using the System 172.16.210.48
+
+
+[07-09-2016:6:23:57 AM] : B2KQA80 has logged in to IDSIL / PJO using the System 117.236.239.203
+
+
+[07-09-2016:6:25:32 AM] : B2KQA80 has picked a file 99867978 in IDSIL / PJO
+
+
+[07-09-2016:6:43:59 AM] : B2KQA80 has logged out from the Linecount Software Using the System 172.16.210.48
+
+
+[07-09-2016:6:44:02 AM] : B2KQA80 has logged in to IDSIL / PJO using the System 117.236.239.203
+
+
+[07-09-2016:6:44:56 AM] : B2KQA80 has viewed the Audit file details in IDSIL / PJO from 2016-09-06 to 2016-09-07
+
+
+[07-09-2016:6:45:23 AM] : B2KQA80 has viewed the Edited file details in IDSIL/PJO from 2016-09-06 to 2016-09-07
+
+
+[07-09-2016:6:47:50 AM] : B2KQA80 has viewed the Audit file details in IDSIL / PJO from 2016-09-06 to 2016-09-07
+
+
+[07-09-2016:6:49:11 AM] : B2KQA80 has viewed the Edited file details in IDSIL/PJO from 2016-09-01 to 2016-09-07
+
+
+[07-09-2016:6:49:24 AM] : B2KQA80 has Downloaded a file details in IDSIL / PJO from 2016-09-01 to 2016-09-07
+
+
+[07-09-2016:6:50:02 AM] : B2KQA80 has viewed the Edited file details in IDSIL/PJO from 2016-09-01 to 2016-09-05
+
+
+[07-09-2016:6:50:11 AM] : B2KQA80 has Downloaded a file details in IDSIL / PJO from 2016-09-01 to 2016-09-05
+
+
+[07-09-2016:6:51:10 AM] : B2KQA80 has logged out from the Linecount Software Using the System 172.16.210.48
+
+
+[07-09-2016:6:51:13 AM] : B2KQA80 has logged in to IDSIL / PJO using the System 117.236.239.203
+
+
+[07-09-2016:6:56:33 AM] : B2KQA80 has logged out from the Linecount Software Using the System 172.16.210.48
+
+
+[07-09-2016:6:56:36 AM] : B2KQA80 has logged in to IDSIL / PJO using the System 117.236.239.203
+
+
+[07-09-2016:7:16:11 AM] : B2KQA80 has viewed the Edited file details in IDSIL/PJO from 2016-09-01 to 2016-09-07
+
+
+[07-09-2016:7:16:17 AM] : B2KQA80 has viewed the Edited file details in IDSIL/PJO from 2016-09-01 to 2016-09-07
+
+
+[07-09-2016:7:16:20 AM] : B2KQA80 has Downloaded a file details in IDSIL / PJO from 2016-09-01 to 2016-09-07
+
+
+[07-09-2016:7:55:42 AM] : B2KQA80 has picked a file 99869504 in IDSIL / PJO
+
+
+[07-09-2016:8:35:24 AM] : B2KQA80 has viewed the Edited file details in IDSIL/PJO from 2016-09-01 to 2016-09-07
+
+
+[07-09-2016:8:35:50 AM] : B2KQA80 has Downloaded a file details in IDSIL / PJO from 2016-09-01 to 2016-09-07
+
+
+[07-09-2016:8:44:36 AM] : B2KQA80 has logged in to IDSIL / PJO using the System 117.236.239.203
+
+
+[07-09-2016:1:03:03 PM] : B2KQA80 has logged in to IDSIL / PJO using the System 117.230.180.147
+
+
+[07-09-2016:1:03:34 PM] : B2KQA80 has viewed the Edited file details in IDSIL/PJO from 2016-09-01 to 2016-09-07
+
+
+[08-09-2016:1:08:45 AM] : B2KQA80 has viewed the Edited file details in IDSIL/PJO from 2016-09-01 to 2016-09-08
+
+
+[08-09-2016:1:11:28 AM] : B2KQA80 has picked a file 99870487 in IDSIL / PJO
+
+
+[08-09-2016:1:16:47 AM] : B2KQA80 has picked a file 99870528 in IDSIL / PJO
+
+
+[08-09-2016:1:22:46 AM] : B2KQA80 has picked a file 99870527 in IDSIL / PJO
+
+
+[08-09-2016:1:26:29 AM] : B2KQA80 has picked a file 99870554 in IDSIL / PJO
+
+
+[08-09-2016:1:38:03 AM] : B2KQA80 has picked a file 99876637 in IDSIL / PJO
+
+
+[08-09-2016:1:50:38 AM] : B2KQA80 has picked a file 99870685 in IDSIL / PJO
+
+
+[08-09-2016:1:54:10 AM] : B2KQA80 has picked a file 99870813 in IDSIL / PJO
+
+
+[08-09-2016:1:56:34 AM] : B2KQA80 has picked a file 99870845 in IDSIL / PJO
+
+
+[08-09-2016:1:58:38 AM] : B2KQA80 has picked a file 99871281 in IDSIL / PJO
+
+
+[08-09-2016:2:02:52 AM] : B2KQA80 has picked a file 99871290 in IDSIL / PJO
+
+
+[08-09-2016:2:03:41 AM] : B2KQA80 has picked a file 99871291 in IDSIL / PJO
+
+
+[08-09-2016:2:09:47 AM] : B2KQA80 has picked a file 99871320 in IDSIL / PJO
+
+
+[08-09-2016:2:14:19 AM] : B2KQA80 has picked a file 99877994 in IDSIL / PJO
+
+
+[08-09-2016:2:22:49 AM] : B2KQA80 has picked a file 99878848 in IDSIL / PJO
+
+
+[08-09-2016:2:33:00 AM] : B2KQA80 has picked a file 99871417 in IDSIL / PJO
+
+
+[08-09-2016:2:37:01 AM] : B2KQA80 has picked a file 99871457 in IDSIL / PJO
+
+
+[08-09-2016:2:39:05 AM] : B2KQA80 has picked a file 99871522 in IDSIL / PJO
+
+
+[08-09-2016:2:43:01 AM] : B2KQA80 has picked a file 99871526 in IDSIL / PJO
+
+
+[08-09-2016:2:47:23 AM] : B2KQA80 has picked a file 99871556 in IDSIL / PJO
+
+
+[08-09-2016:2:55:00 AM] : B2KQA80 has picked a file 99871561 in IDSIL / PJO
+
+
+[08-09-2016:2:59:30 AM] : B2KQA80 has picked a file 99871570 in IDSIL / PJO
+
+
+[08-09-2016:3:03:43 AM] : B2KQA80 has picked a file 99883645 in IDSIL / PJO
+
+
+[08-09-2016:3:08:55 AM] : B2KQA80 has picked a file 99883914 in IDSIL / PJO
+
+
+[08-09-2016:3:16:44 AM] : B2KQA80 has picked a file 99877951 in IDSIL / PJO
+
+
+[08-09-2016:4:07:01 AM] : B2KQA80 has picked a file 99871658 in IDSIL / PJO
+
+
+[08-09-2016:4:12:25 AM] : B2KQA80 has picked a file 99871732 in IDSIL / PJO
+
+
+[08-09-2016:4:36:07 AM] : B2KQA80 has picked a file 99879427 in IDSIL / PJO
+
+
+[08-09-2016:4:44:57 AM] : B2KQA80 has picked a file 99885804 in IDSIL / PJO
+
+
+[08-09-2016:4:51:48 AM] : B2KQA80 has picked a file 99885898 in IDSIL / PJO
+
+
+[08-09-2016:4:53:31 AM] : B2KQA80 has picked a file 99875845 in IDSIL / PJO
+
+
+[08-09-2016:4:53:49 AM] : B2KQA80 has picked a file 99877453 in IDSIL / PJO
+
+
+[08-09-2016:4:54:05 AM] : B2KQA80 has picked a file 99879280 in IDSIL / PJO
+
+
+[08-09-2016:4:54:26 AM] : B2KQA80 has picked a file 99879601 in IDSIL / PJO
+
+
+[08-09-2016:4:54:54 AM] : B2KQA80 has picked a file 99879630 in IDSIL / PJO
+
+
+[08-09-2016:5:03:54 AM] : B2KQA80 has picked a file 99880564 in IDSIL / PJO
+
+
+[08-09-2016:5:21:48 AM] : B2KQA80 has picked a file 99880684 in IDSIL / PJO
+
+
+[08-09-2016:5:29:27 AM] : B2KQA80 has picked a file 99880737 in IDSIL / PJO

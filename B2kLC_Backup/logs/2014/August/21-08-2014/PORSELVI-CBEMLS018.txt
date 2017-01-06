@@ -1,0 +1,45 @@
+
+
+[21-08-2014:4:20:12 AM] : CBEMLS018 has logged in to IDSIL / PJO using the System 182.65.101.194
+
+
+[21-08-2014:5:52:24 AM] : CBEMLS018 has picked a file 72036980 in IDSIL / PJO
+
+
+[21-08-2014:5:52:38 AM] : CBEMLS018 has uploaded a file 72036980 to Hospital/Customer in IDSIL / PJO
+
+
+[21-08-2014:10:34:24 AM] : CBEMLS018 has logged in to IDSIL / PJO using the System 182.65.251.86
+
+
+[21-08-2014:11:04:53 AM] : CBEMLS018 has picked a file 72057225 in IDSIL / PJO
+
+
+[21-08-2014:11:04:59 AM] : CBEMLS018 has uploaded a file 72057225 to Hospital/Customer in IDSIL / PJO
+
+
+[21-08-2014:11:22:25 AM] : CBEMLS018 has picked a file 72057250 in IDSIL / PJO
+
+
+[21-08-2014:11:22:39 AM] : CBEMLS018 has uploaded a file 72057250 to Hospital/Customer in IDSIL / PJO
+
+
+[21-08-2014:11:49:25 AM] : CBEMLS018 has picked a file 72057287 in IDSIL / PJO
+
+
+[21-08-2014:11:49:42 AM] : CBEMLS018 has uploaded a file 72057287 to Hospital/Customer in IDSIL / PJO
+
+
+[21-08-2014:8:39:29 PM] : CBEMLS018 has logged in to IDSIL / PJO using the System 182.65.89.246
+
+
+[21-08-2014:8:41:31 PM] : CBEMLS018 has picked a file 72057758 in IDSIL / PJO
+
+
+[21-08-2014:8:41:39 PM] : CBEMLS018 has uploaded a file 72057758 to Hospital/Customer in IDSIL / PJO
+
+
+[22-08-2014:5:21:10 AM] : CBEMLS018 has picked a file 72077879 in IDSIL / PJO
+
+
+[22-08-2014:5:21:22 AM] : CBEMLS018 has uploaded a file 72077879 to Hospital/Customer in IDSIL / PJO

@@ -1,0 +1,87 @@
+
+
+[12-02-2013:1:24:28 PM] : B2KHTER004 has logged in to IDSIL / PJO using the System 117.197.207.189
+
+
+[12-02-2013:1:24:48 PM] : B2KHTER004 has picked a file 57646846 in IDSIL / PJO
+
+
+[12-02-2013:1:25:01 PM] : B2KHTER004 has uploaded a file 57646846 to Hospital/Customer in IDSIL / PJO
+
+
+[12-02-2013:1:32:57 PM] : B2KHTER004 has picked a file 57678552 in IDSIL / PJO
+
+
+[12-02-2013:1:55:21 PM] : B2KHTER004 has uploaded a file 57678552 to Hospital/Customer in IDSIL / PJO
+
+
+[12-02-2013:2:04:29 PM] : B2KHTER004 has picked a file 90064077 in IDSIL / PJO
+
+
+[12-02-2013:2:19:26 PM] : B2KHTER004 has uploaded a file 90064077 to Hospital/Customer in IDSIL / PJO
+
+
+[12-02-2013:4:08:25 PM] : B2KHTER004 has logged in to IDSIL / PJO using the System 117.197.207.189
+
+
+[12-02-2013:4:19:34 PM] : B2KHTER004 has picked a file 90064085 in IDSIL / PJO
+
+
+[12-02-2013:4:19:43 PM] : B2KHTER004 has uploaded a file 90064085 to Hospital/Customer in IDSIL / PJO
+
+
+[12-02-2013:4:46:06 PM] : B2KHTER004 has picked a file 90064084 in IDSIL / PJO
+
+
+[12-02-2013:5:21:33 PM] : B2KHTER004 has uploaded a file 90064084 to Hospital/Customer in IDSIL / PJO
+
+
+[12-02-2013:5:25:03 PM] : B2KHTER004 has picked a file 90064083 in IDSIL / PJO
+
+
+[12-02-2013:5:33:18 PM] : B2KHTER004 has uploaded a file 90064083 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[12-02-2013:5:42:58 PM] : B2KHTER004 has picked a file 90064088 in IDSIL / PJO
+
+
+[12-02-2013:5:43:12 PM] : B2KHTER004 has uploaded a file 90064088 to Hospital/Customer in IDSIL / PJO
+
+
+[12-02-2013:5:49:19 PM] : B2KHTER004 has picked a file 90064087 in IDSIL / PJO
+
+
+[12-02-2013:5:49:40 PM] : B2KHTER004 has uploaded a file 90064087 to Hospital/Customer in IDSIL / PJO
+
+
+[12-02-2013:6:00:45 PM] : B2KHTER004 has picked a file 57683563 in IDSIL / PJO
+
+
+[12-02-2013:6:11:18 PM] : B2KHTER004 has uploaded a file 57683563 to Hospital/Customer in IDSIL / PJO
+
+
+[12-02-2013:6:13:36 PM] : B2KHTER004 has added a Audit file 90061112 in IDSIL / PJO 
+
+
+[12-02-2013:6:14:17 PM] : B2KHTER004 has added a Audit file 90060904 in IDSIL / PJO 
+
+
+[12-02-2013:6:14:55 PM] : B2KHTER004 has added a Audit file 90060914 in IDSIL / PJO 
+
+
+[12-02-2013:6:15:31 PM] : B2KHTER004 has added a Audit file 90061032 in IDSIL / PJO 
+
+
+[12-02-2013:6:16:08 PM] : B2KHTER004 has viewed the Audit file details in IDSIL / PJO from 2013-02-12 to 2013-02-12
+
+
+[12-02-2013:6:16:37 PM] : B2KHTER004 has viewed the Audit file details in IDSIL / PJO from 2013-02-11 to 2013-02-12
+
+
+[12-02-2013:6:17:37 PM] : B2KHTER004 has viewed the Audit file details in IDSIL / PJO from 2013-02-01 to 2013-02-12
+
+
+[12-02-2013:6:18:16 PM] : B2KHTER004 has viewed the Edited file details in IDSIL/PJO from 2013-02-01 to 2013-02-12
+
+
+[12-02-2013:6:19:27 PM] : B2KHTER004 has logged out from the Linecount Software Using the System 117.197.207.189

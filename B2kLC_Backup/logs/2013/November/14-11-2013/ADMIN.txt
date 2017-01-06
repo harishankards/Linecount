@@ -1,0 +1,105 @@
+
+
+[14-11-2013:1:31:03 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[14-11-2013:6:06:03 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[14-11-2013:6:06:24 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[14-11-2013:10:18:59 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[14-11-2013:11:32:34 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[14-11-2013:2:13:44 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[14-11-2013:2:13:51 PM] : ADMIN has Viewed Employee Details
+
+
+[14-11-2013:2:13:57 PM] : ADMIN has Viewed Employee Details
+
+
+[14-11-2013:2:25:17 PM] : ADMIN has added Employee Details[CHITRA.S ] into the Database
+
+
+[14-11-2013:2:25:54 PM] : ADMIN has added Employee Details[MEENA] into the Database
+
+
+[14-11-2013:2:27:36 PM] : ADMIN has added Employee Details[VIJAYARAJU] into the Database
+
+
+[14-11-2013:2:28:23 PM] : ADMIN has added Employee Details[MUZAMMIL] into the Database
+
+
+[14-11-2013:2:28:50 PM] : ADMIN has added Employee Details[CHELLAPPA] into the Database
+
+
+[14-11-2013:2:29:30 PM] : ADMIN has added Employee Details[PRASHANTH] into the Database
+
+
+[14-11-2013:2:29:51 PM] : ADMIN has added Employee Details[PARITOSH] into the Database
+
+
+[14-11-2013:2:30:28 PM] : ADMIN has added Employee Details[SATISH] into the Database
+
+
+[14-11-2013:2:30:33 PM] : ADMIN has Viewed Employee Details
+
+
+[14-11-2013:2:30:46 PM] : ADMIN has Viewed Employee Details
+
+
+[14-11-2013:2:54:33 PM] : ADMIN has Viewed Employee Details
+
+[14-11-2013:2:55:11 PM] : ADMIN has added an Update into the Database
+
+[14-11-2013:2:56:06 PM] : ADMIN has added an Update into the Database
+
+
+[14-11-2013:4:03:55 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[14-11-2013:4:42:45 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[14-11-2013:5:07:05 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[14-11-2013:5:10:18 PM] : ADMIN has Deleted the details of the file 65305805.
+
+
+[14-11-2013:5:11:01 PM] : ADMIN has Viewed Employee Details
+
+
+[14-11-2013:5:11:13 PM] : ADMIN has Viewed Employee Details
+
+
+[14-11-2013:5:22:25 PM] : ADMIN has added Employee Details[DR. LAKSHMI SHEKHAR] into the Database
+
+
+[14-11-2013:5:46:46 PM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[14-11-2013:6:40:34 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[14-11-2013:7:25:35 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[14-11-2013:8:12:12 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[14-11-2013:8:28:49 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[14-11-2013:10:25:59 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[14-11-2013:10:25:59 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[14-11-2013:10:52:38 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47

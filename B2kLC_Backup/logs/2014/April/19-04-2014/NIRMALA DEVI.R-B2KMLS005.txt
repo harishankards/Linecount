@@ -1,0 +1,69 @@
+
+
+[19-04-2014:9:32:14 AM] : B2KMLS005 has logged in to IDSIL / PJO using the System 117.206.105.79
+
+
+[19-04-2014:9:32:31 AM] : B2KMLS005 has viewed the DUP file details in IDSIL/PJO from 2014-04-01 to 2014-04-19
+
+
+[19-04-2014:9:32:38 AM] : B2KMLS005 has Downloaded a file details in IDSIL / PJO from 2014-04-01 to 2014-04-19
+
+
+[19-04-2014:10:08:16 AM] : B2KMLS005 has picked a file 69156329 in IDSIL / PJO
+
+
+[19-04-2014:10:37:00 AM] : B2KMLS005 has logged in to IDSIL / PJO using the System 117.206.105.79
+
+
+[19-04-2014:10:37:08 AM] : B2KMLS005 has uploaded a file 69156329 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[19-04-2014:12:21:16 PM] : B2KMLS005 has logged in to IDSIL / PJO using the System 117.206.105.79
+
+
+[19-04-2014:12:21:58 PM] :  has uploaded a DUP file 69167994 in IDSIL / PJO
+
+
+[19-04-2014:12:57:06 PM] :  has uploaded a DUP file 69168643 in IDSIL / PJO
+
+
+[19-04-2014:1:33:03 PM] : B2KMLS005 has picked a file 69156922 in IDSIL / PJO
+
+
+[19-04-2014:3:15:39 PM] : B2KMLS005 has logged in to IDSIL / PJO using the System 117.206.96.79
+
+
+[19-04-2014:3:15:50 PM] : B2KMLS005 has uploaded a file 69156922 to Hospital/Customer in IDSIL / PJO
+
+
+[19-04-2014:3:26:36 PM] : B2KMLS005 has picked a file 69167246 in IDSIL / PJO
+
+
+[19-04-2014:3:56:15 PM] : B2KMLS005 has uploaded a file 69167246 to Hospital/Customer in IDSIL / PJO
+
+
+[19-04-2014:5:12:20 PM] : B2KMLS005 has logged in to IDSIL / PJO using the System 117.206.107.1
+
+
+[19-04-2014:5:13:09 PM] :  has uploaded a DUP file 69170312 in IDSIL / PJO
+
+
+[19-04-2014:9:30:35 PM] : B2KMLS005 has logged in to IDSIL / PJO using the System 117.213.69.178
+
+
+[19-04-2014:9:31:20 PM] :  has uploaded a DUP file 69172175 in IDSIL / PJO
+
+
+[19-04-2014:10:56:45 PM] : B2KMLS005 has logged in to IDSIL / PJO using the System 117.206.107.99
+
+
+[19-04-2014:10:57:42 PM] :  has uploaded a DUP file 69172503 in IDSIL / PJO
+
+
+[19-04-2014:11:32:57 PM] :  has uploaded a DUP file 69174713 in IDSIL / PJO
+
+
+[20-04-2014:12:34:02 AM] :  has uploaded a DUP file 69175911 in IDSIL / PJO
+
+
+[20-04-2014:12:34:20 AM] : B2KMLS005 has viewed the DUP file details in IDSIL/PJO from 2014-04-19 to 2014-04-19

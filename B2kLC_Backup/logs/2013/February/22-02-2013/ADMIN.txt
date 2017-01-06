@@ -1,0 +1,36 @@
+
+
+[22-02-2013:10:32:00 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[22-02-2013:11:42:09 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[22-02-2013:11:42:20 AM] : ADMIN has Viewed Employee Details
+
+
+[22-02-2013:11:43:05 AM] : ADMIN has Viewed Employee Details
+
+
+[22-02-2013:12:31:51 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[22-02-2013:12:52:28 PM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[22-02-2013:2:02:52 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[22-02-2013:4:49:02 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[22-02-2013:6:09:55 PM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[22-02-2013:6:09:58 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[22-02-2013:6:13:00 PM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[22-02-2013:9:57:58 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35

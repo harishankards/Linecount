@@ -1,0 +1,20 @@
+
+
+[09-04-2013:10:07:02 AM] : ADMIN  has logged in to Admin page using the System 123.255.248.35
+
+[09-04-2013:10:16:49 AM] : ADMIN  has Approved Leave request from the ID B2KMLS008 on 2013-04-14.
+
+[09-04-2013:10:16:50 AM] : ADMIN  has Approved Leave request from the ID B2KMLS006 on 2013-04-14.
+
+[09-04-2013:10:16:51 AM] : ADMIN  has Approved Leave request from the ID B2KMLS003 on 2013-04-11.
+
+[09-04-2013:10:18:34 AM] : ADMIN  has added Attendanec Details into the Database
+
+
+[09-04-2013:10:21:06 AM] : ADMIN  has Viewed Employee Details
+
+
+[09-04-2013:10:21:27 AM] : ADMIN  has Viewed Employee Details
+
+
+[09-04-2013:10:21:35 AM] : ADMIN  has Viewed Employee Details

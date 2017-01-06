@@ -1,0 +1,63 @@
+
+
+[03-02-2013:11:04:35 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[03-02-2013:11:19:22 AM] : ADMIN has Deleted Employee [SASIKALA.S] from attendance list in the Database
+
+
+[03-02-2013:11:20:08 AM] : ADMIN has Deleted Employee [GIDEON D] from attendance list in the Database
+
+
+[03-02-2013:11:20:57 AM] : ADMIN has Deleted Employee [ESWARAMOORTHY.R] from attendance list in the Database
+
+
+[03-02-2013:11:22:17 AM] : ADMIN has Deleted Employee [ARTHI CHRISTY.K] from attendance list in the Database
+
+
+[03-02-2013:11:32:17 AM] : ADMIN has logged out from the Linecount Software Using the System 59.90.86.47
+
+
+[03-02-2013:11:40:47 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[03-02-2013:11:48:34 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+[03-02-2013:11:53:30 AM] : ADMIN has added Attendanec Details into the Database
+
+
+[03-02-2013:12:56:22 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[03-02-2013:1:03:26 PM] : ADMIN has logged out from the Linecount Software Using the System 59.90.86.47
+
+
+[03-02-2013:1:04:01 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[03-02-2013:1:11:07 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[03-02-2013:2:35:16 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[03-02-2013:3:07:41 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[03-02-2013:3:19:01 PM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[03-02-2013:4:48:06 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[03-02-2013:7:32:05 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+[03-02-2013:7:55:29 PM] : ADMIN has Deleted the details of the file 57392972.
+
+
+[03-02-2013:8:22:13 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[03-02-2013:8:23:07 PM] : ADMIN has Viewed Employee Details
+
+[03-02-2013:9:04:07 PM] : ADMIN has Viewed Employee Details

@@ -1,0 +1,73 @@
+
+
+[27-06-2014:1:23:41 AM] : ADMIN has logged in to Admin page using the System 101.222.249.11
+
+
+[27-06-2014:4:49:03 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[27-06-2014:4:49:15 AM] : ADMIN has Viewed Employee Details
+
+
+[27-06-2014:4:49:28 AM] : ADMIN has Viewed Employee Details
+
+
+[27-06-2014:6:49:52 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+[27-06-2014:8:53:51 AM] : ADMIN has added an Update into the Database
+
+
+[27-06-2014:9:59:00 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[27-06-2014:9:59:01 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[27-06-2014:10:04:38 AM] : ADMIN has logged out from the Linecount Software Using the System 59.90.86.47
+
+
+[27-06-2014:10:04:41 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[27-06-2014:11:42:32 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[27-06-2014:12:36:35 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[27-06-2014:12:37:04 PM] : ADMIN has Viewed Employee Details
+
+
+[27-06-2014:12:37:23 PM] : ADMIN has Viewed Employee Details
+
+
+[27-06-2014:2:34:34 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[27-06-2014:3:26:41 PM] : ADMIN has logged out from the Linecount Software Using the System 59.90.86.47
+
+
+[27-06-2014:3:26:55 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[27-06-2014:4:53:12 PM] : ADMIN has Viewed Employee Details
+
+
+[27-06-2014:5:03:35 PM] : ADMIN has Viewed Employee Details
+
+
+[27-06-2014:5:51:50 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+[27-06-2014:6:05:35 PM] : ADMIN has added an Update into the Database
+
+
+[27-06-2014:10:02:00 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[27-06-2014:11:12:22 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[27-06-2014:11:21:23 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[27-06-2014:11:46:32 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47

@@ -1,0 +1,30 @@
+
+
+[30-01-2013:11:37:23 AM] : SKPOER001 has logged in to IDSIL / PJO using the System 101.63.144.0
+
+
+[30-01-2013:11:38:11 AM] : SKPOER001 has added a Audit file 57264724 in IDSIL / PJO 
+
+
+[30-01-2013:11:38:34 AM] : SKPOER001 has added a Audit file 57264873 in IDSIL / PJO 
+
+
+[30-01-2013:11:39:14 AM] : SKPOER001 has added a Audit file 57203243 in IDSIL / PJO 
+
+
+[30-01-2013:11:39:39 AM] : SKPOER001 has viewed the Audit file details in IDSIL / PJO from 2013-01-30 to 2013-01-30
+
+
+[30-01-2013:11:39:53 AM] : SKPOER001 has viewed the Audit file details in IDSIL / PJO from 2013-01-01 to 2013-01-30
+
+
+[30-01-2013:11:40:18 AM] : SKPOER001 has viewed the Edited file details in IDSIL/PJO from 2013-01-01 to 2013-01-30
+
+
+[30-01-2013:11:40:43 AM] : SKPOER001 has Downloaded a file details in IDSIL / PJO from 2013-01-01 to 2013-01-30
+
+
+[30-01-2013:11:43:59 AM] : SKPOER001 has picked a file 57237398 in IDSIL / PJO
+
+
+[30-01-2013:12:13:31 PM] : SKPOER001 has uploaded a file 57237398 to IDS/QA_Checkpoint in IDSIL / PJO

@@ -1,0 +1,98 @@
+
+
+[05-02-2013:10:15:19 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[05-02-2013:10:23:54 AM] : ADMIN has logged out from the Linecount Software Using the System 59.90.86.47
+
+
+[05-02-2013:10:24:34 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[05-02-2013:10:46:46 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[05-02-2013:10:48:29 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[05-02-2013:10:52:12 AM] : ADMIN has added Attendanec Details into the Database
+
+
+[05-02-2013:12:06:43 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[05-02-2013:12:06:51 PM] : ADMIN has Viewed Employee Details
+
+
+[05-02-2013:12:07:59 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[05-02-2013:12:23:58 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[05-02-2013:12:28:48 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[05-02-2013:12:40:12 PM] : ADMIN has logged out from the Linecount Software Using the System 59.90.86.47
+
+
+[05-02-2013:1:10:31 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[05-02-2013:1:27:00 PM] : ADMIN has logged in to Admin page using the System 117.242.217.41
+
+
+[05-02-2013:1:28:12 PM] : ADMIN has logged in to Admin page using the System 117.242.217.41
+
+
+[05-02-2013:1:28:49 PM] : ADMIN has logged out from the Linecount Software Using the System 117.242.217.41
+
+
+[05-02-2013:1:29:19 PM] : ADMIN has logged in to Admin page using the System 117.242.217.41
+
+
+[05-02-2013:1:32:01 PM] : ADMIN has logged out from the Linecount Software Using the System 117.242.217.41
+
+
+[05-02-2013:1:32:45 PM] : ADMIN has logged in to Admin page using the System 117.242.217.41
+
+
+[05-02-2013:1:36:34 PM] : ADMIN has logged in to Admin page using the System 117.242.217.41
+
+[05-02-2013:1:38:49 PM] : ADMIN has viewed Bank Details
+
+[05-02-2013:1:39:05 PM] : ADMIN has viewed Bank Details
+
+[05-02-2013:1:42:29 PM] : ADMIN has viewed Bank Details
+
+
+[05-02-2013:1:42:47 PM] : ADMIN has logged out from the Linecount Software Using the System 117.242.217.41
+
+
+[05-02-2013:1:47:52 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[05-02-2013:3:36:00 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[05-02-2013:4:14:16 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[05-02-2013:6:36:37 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[05-02-2013:7:20:55 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[05-02-2013:7:21:08 PM] : ADMIN has Viewed Employee Details
+
+
+[05-02-2013:7:21:24 PM] : ADMIN has Viewed Employee Details
+
+
+[05-02-2013:7:28:46 PM] : ADMIN has logged out from the Linecount Software Using the System 59.90.86.47
+
+
+[05-02-2013:10:08:48 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[05-02-2013:10:17:00 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47

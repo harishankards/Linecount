@@ -1,0 +1,78 @@
+
+
+[21-03-2014:10:55:45 AM] : B2KMLS040 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[21-03-2014:11:01:07 AM] : B2KMLS040 has picked a file 68418125 in IDSIL / PJO
+
+
+[21-03-2014:11:31:54 AM] : B2KMLS040 has uploaded a file 68418125 to Hospital/Customer in IDSIL / PJO
+
+
+[21-03-2014:11:35:55 AM] : B2KMLS040 has picked a file 68418195 in IDSIL / PJO
+
+
+[21-03-2014:12:02:38 PM] : B2KMLS040 has uploaded a file 68418195 to Hospital/Customer in IDSIL / PJO
+
+
+[21-03-2014:12:03:41 PM] : B2KMLS040 has picked a file 68419648 in IDSIL / PJO
+
+
+[21-03-2014:1:03:16 PM] : B2KMLS040 has picked a file 68420051 in IDSIL / PJO
+
+
+[21-03-2014:1:03:56 PM] : B2KMLS040 has uploaded a file 68420051 to Hospital/Customer in IDSIL / PJO
+
+
+[21-03-2014:1:04:18 PM] : B2KMLS040 has uploaded a file 68419648 to Hospital/Customer in IDSIL / PJO
+
+
+[21-03-2014:1:55:37 PM] : B2KMLS040 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[21-03-2014:1:56:38 PM] : B2KMLS040 has picked a file 68420272 in IDSIL / PJO
+
+
+[21-03-2014:2:08:10 PM] : B2KMLS040 has uploaded a file 68420272 to Hospital/Customer in IDSIL / PJO
+
+
+[21-03-2014:3:00:38 PM] : B2KMLS040 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[21-03-2014:3:01:01 PM] : B2KMLS040 has picked a file 68420553 in IDSIL / PJO
+
+
+[21-03-2014:3:01:25 PM] : B2KMLS040 has uploaded a file 68420553 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[21-03-2014:3:59:25 PM] : B2KMLS040 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[21-03-2014:4:02:19 PM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[21-03-2014:4:35:32 PM] : B2KMLS040 has picked a file 68421771 in IDSIL / PJO
+
+
+[21-03-2014:4:35:48 PM] : B2KMLS040 has uploaded a file 68421771 to Hospital/Customer in IDSIL / PJO
+
+
+[21-03-2014:4:37:24 PM] : B2KMLS040 has picked a file 68422213 in IDSIL / PJO
+
+
+[21-03-2014:5:24:53 PM] : B2KMLS040 has uploaded a file 68422213 to Hospital/Customer in IDSIL / PJO
+
+
+[21-03-2014:5:57:01 PM] : B2KMLS040 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[21-03-2014:5:57:25 PM] : B2KMLS040 has viewed the Edited file details in IDSIL/PJO from 2014-03-20 to 2014-03-21
+
+
+[21-03-2014:6:02:02 PM] : B2KMLS040 has logged in to IDSIL / PJO using the System 59.90.86.47
+
+
+[21-03-2014:6:02:32 PM] : B2KMLS040 has viewed the Edited file details in IDSIL/PJO from 2014-03-21 to 2014-03-22
+
+
+[21-03-2014:6:02:38 PM] : B2KMLS040 has viewed the Edited file details in IDSIL/PJO from 2014-03-19 to 2014-03-21

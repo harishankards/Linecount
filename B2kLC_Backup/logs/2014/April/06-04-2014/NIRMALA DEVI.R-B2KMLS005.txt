@@ -1,0 +1,66 @@
+
+
+[06-04-2014:9:32:08 AM] : B2KMLS005 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[06-04-2014:9:32:23 AM] : B2KMLS005 has picked a file 68830784 in IDSIL / PJO
+
+
+[06-04-2014:9:33:26 AM] : B2KMLS005 has picked a file 68833744 in IDSIL / PJO
+
+
+[06-04-2014:10:06:35 AM] : B2KMLS005 has uploaded a file 68830784 to Hospital/Customer in IDSIL / PJO
+
+
+[06-04-2014:10:52:01 AM] : B2KMLS005 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[06-04-2014:11:58:40 AM] : B2KMLS005 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[06-04-2014:12:34:58 PM] : B2KMLS005 has uploaded a file 68833744 to Hospital/Customer in IDSIL / PJO
+
+
+[06-04-2014:3:32:10 PM] : B2KMLS005 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[06-04-2014:4:30:54 PM] : B2KMLS005 has picked a file 68838134 in IDSIL / PJO
+
+
+[06-04-2014:4:55:57 PM] : B2KMLS005 has uploaded a file 68838134 to Hospital/Customer in IDSIL / PJO
+
+
+[06-04-2014:4:58:33 PM] : B2KMLS005 has picked a file 68838700 in IDSIL / PJO
+
+
+[06-04-2014:4:58:51 PM] : B2KMLS005 has picked a file 68838551 in IDSIL / PJO
+
+
+[06-04-2014:5:14:52 PM] : B2KMLS005 has uploaded a file 68838551 to Hospital/Customer in IDSIL / PJO
+
+
+[06-04-2014:5:25:05 PM] : B2KMLS005 has uploaded a file 68838700 to Hospital/Customer in IDSIL / PJO
+
+
+[06-04-2014:5:27:31 PM] :  has uploaded a DUP file 68836706 in IDSIL / PJO
+
+
+[06-04-2014:5:29:47 PM] : B2KMLS005 has picked a file 68834579 in IDSIL / PJO
+
+
+[06-04-2014:5:58:26 PM] : B2KMLS005 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[06-04-2014:5:58:36 PM] : B2KMLS005 has uploaded a file 68834579 to Hospital/Customer in IDSIL / PJO
+
+
+[06-04-2014:5:59:02 PM] : B2KMLS005 has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[06-04-2014:9:34:15 PM] : B2KMLS005 has logged in to IDSIL / PJO using the System 117.206.109.43
+
+
+[06-04-2014:9:34:57 PM] :  has uploaded a DUP file 68842641 in IDSIL / PJO
+
+
+[06-04-2014:9:37:24 PM] : B2KMLS005 has logged out from the Linecount Software Using the System 117.206.109.43

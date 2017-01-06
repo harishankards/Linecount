@@ -1,0 +1,57 @@
+
+
+[14-03-2016:1:18:08 AM] : ADMIN has Viewed Employee Details
+
+
+[14-03-2016:1:18:28 AM] : ADMIN has Viewed Employee Details
+
+
+[14-03-2016:1:18:51 AM] : ADMIN has Viewed Employee Details
+
+[14-03-2016:1:37:47 AM] : ADMIN has viewed Bank Details
+
+
+[14-03-2016:6:53:13 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[14-03-2016:7:01:10 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[14-03-2016:7:05:01 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[14-03-2016:8:03:48 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[14-03-2016:8:50:07 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+[14-03-2016:9:23:12 AM] : ADMIN has Deleted the details of the file 97205680.
+
+[14-03-2016:11:36:11 AM] : ADMIN has added Hospital [LEHIGH HIM] into the Database
+
+
+[14-03-2016:5:51:21 PM] : ADMIN has logged in to Admin page using the System 117.213.64.7
+
+
+[14-03-2016:5:55:48 PM] : ADMIN has logged out from the Linecount Software Using the System 117.213.64.7
+
+
+[14-03-2016:6:54:26 PM] : ADMIN has logged in to Admin page using the System 182.72.119.226
+
+
+[14-03-2016:7:01:49 PM] : ADMIN has Viewed Employee Details
+
+
+[14-03-2016:7:02:01 PM] : ADMIN has Viewed Employee Details
+
+
+[14-03-2016:7:02:18 PM] : ADMIN has Viewed Employee Details
+
+
+[14-03-2016:7:31:32 PM] : ADMIN has Viewed Employee Details
+
+
+[14-03-2016:7:31:52 PM] : ADMIN has Viewed Employee Details
+
+
+[14-03-2016:7:32:22 PM] : ADMIN has Viewed Employee Details

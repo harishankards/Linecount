@@ -1,0 +1,66 @@
+
+
+[24-12-2013:9:33:26 AM] : B2KER010 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[24-12-2013:9:34:43 AM] : B2KER010 has picked a file 66225995 in IDSIL / PJO
+
+
+[24-12-2013:10:06:34 AM] : B2KER010 has uploaded a file 66225995 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[24-12-2013:10:07:50 AM] : B2KER010 has picked a file 66226042 in IDSIL / PJO
+
+
+[24-12-2013:10:54:24 AM] : B2KER010 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[24-12-2013:10:54:44 AM] : B2KER010 has uploaded a file 66226042 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[24-12-2013:11:22:55 AM] : B2KER010 has picked a file 66227543 in IDSIL / PJO
+
+
+[24-12-2013:12:27:54 PM] : B2KER010 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[24-12-2013:12:28:01 PM] : B2KER010 has uploaded a file 66227543 to Hospital/Customer in IDSIL / PJO
+
+
+[24-12-2013:12:32:28 PM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[24-12-2013:12:42:00 PM] : B2KER010 has viewed the Audit file details in IDSIL / PJO from 2013-12-24 to 2013-12-24
+
+
+[24-12-2013:12:47:56 PM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[24-12-2013:12:58:42 PM] : B2KER010 has viewed the Audit file details in IDSIL / PJO from 2013-12-24 to 2013-12-24
+
+
+[24-12-2013:1:01:41 PM] : B2KER010 has picked a file 66229654 in IDSIL / PJO
+
+
+[24-12-2013:1:59:18 PM] : B2KER010 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[24-12-2013:1:59:44 PM] : B2KER010 has uploaded a file 66229654 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[24-12-2013:2:00:15 PM] : B2KER010 has picked a file 66229413 in IDSIL / PJO
+
+
+[24-12-2013:2:18:13 PM] : B2KER010 has uploaded a file 66229413 to Hospital/Customer in IDSIL / PJO
+
+
+[24-12-2013:2:21:40 PM] : B2KER010 has picked a file 66229450 in IDSIL / PJO
+
+
+[24-12-2013:2:38:54 PM] : B2KER010 has uploaded a file 66229450 to Hospital/Customer in IDSIL / PJO
+
+
+[24-12-2013:3:34:50 PM] : B2KER010 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[24-12-2013:3:35:14 PM] :  has uploaded a DUP file 66229843 in IDSIL / PJO

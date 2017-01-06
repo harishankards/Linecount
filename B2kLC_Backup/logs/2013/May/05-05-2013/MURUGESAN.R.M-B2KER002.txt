@@ -1,0 +1,60 @@
+
+
+[05-05-2013:2:13:04 PM] : B2KER002 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[05-05-2013:2:15:03 PM] : B2KER002 has picked a file 60178178 in IDSIL / PJO
+
+
+[05-05-2013:2:15:13 PM] : B2KER002 has uploaded a file 60178178 to Hospital/Customer in IDSIL / PJO
+
+
+[05-05-2013:3:10:35 PM] : B2KER002 has picked a file 60188745 in IDSIL / PJO
+
+
+[05-05-2013:3:10:40 PM] : B2KER002 has uploaded a file 60188745 to Hospital/Customer in IDSIL / PJO
+
+
+[05-05-2013:3:10:53 PM] : B2KER002 has picked a file 60179106 in IDSIL / PJO
+
+
+[05-05-2013:3:10:58 PM] : B2KER002 has uploaded a file 60179106 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[05-05-2013:3:14:13 PM] : B2KER002 has picked a file 60177754 in IDSIL / PJO
+
+
+[05-05-2013:4:49:21 PM] : B2KER002 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[05-05-2013:4:49:27 PM] : B2KER002 has uploaded a file 60177754 to Hospital/Customer in IDSIL / PJO
+
+
+[05-05-2013:4:49:41 PM] : B2KER002 has picked a file 60184817 in IDSIL / PJO
+
+
+[05-05-2013:4:49:59 PM] : B2KER002 has uploaded a file 60184817 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[05-05-2013:5:07:04 PM] : B2KER002 has picked a file 60178292 in IDSIL / PJO
+
+
+[05-05-2013:5:07:11 PM] : B2KER002 has uploaded a file 60178292 to Hospital/Customer in IDSIL / PJO
+
+
+[05-05-2013:5:41:37 PM] : B2KER002 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[05-05-2013:5:41:49 PM] : B2KER002 has picked a file 60182750 in IDSIL / PJO
+
+
+[05-05-2013:5:41:56 PM] : B2KER002 has uploaded a file 60182750 to Hospital/Customer in IDSIL / PJO
+
+
+[05-05-2013:6:34:20 PM] : B2KER002 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[05-05-2013:7:37:50 PM] : B2KER002 has picked a file 60132382 in IDSIL / PJO
+
+
+[05-05-2013:7:38:06 PM] : B2KER002 has uploaded a file 60132382 to IDS/QA_Checkpoint in IDSIL / PJO

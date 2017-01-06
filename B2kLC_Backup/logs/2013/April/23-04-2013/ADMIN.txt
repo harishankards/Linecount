@@ -1,0 +1,79 @@
+
+
+[23-04-2013:10:17:42 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[23-04-2013:10:21:38 AM] : ADMIN has Deleted the details of the file 59572416.
+
+
+[23-04-2013:11:01:26 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[23-04-2013:11:25:19 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[23-04-2013:11:35:49 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[23-04-2013:11:44:01 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[23-04-2013:11:46:27 AM] : ADMIN has Viewed Employee Details
+
+
+[23-04-2013:12:54:17 PM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[23-04-2013:1:15:52 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[23-04-2013:1:20:44 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[23-04-2013:1:21:33 PM] : ADMIN has Viewed Employee Details
+
+
+[23-04-2013:2:18:15 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[23-04-2013:2:25:04 PM] : ADMIN has logged out from the Linecount Software Using the System 59.90.86.47
+
+
+[23-04-2013:3:31:56 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[23-04-2013:3:48:39 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[23-04-2013:4:01:18 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[23-04-2013:4:02:42 PM] : ADMIN has logged out from the Linecount Software Using the System 59.90.86.47
+
+
+[23-04-2013:4:08:27 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[23-04-2013:4:09:36 PM] : ADMIN has added Attendanec Details into the Database
+
+
+[23-04-2013:4:10:28 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[23-04-2013:4:10:42 PM] : ADMIN has Viewed Employee Details
+
+
+[23-04-2013:4:11:43 PM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[23-04-2013:4:15:08 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[23-04-2013:4:48:48 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[23-04-2013:6:44:19 PM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[23-04-2013:7:50:23 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[23-04-2013:10:46:35 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35

@@ -1,0 +1,132 @@
+
+
+[01-02-2014:6:33:51 AM] : ATER002 has logged in to IDSIL / PJO using the System 117.203.99.113
+
+
+[01-02-2014:6:34:08 AM] : ATER002 has viewed the Edited file details in IDSIL/PJO from 2014-01-01 to 2014-01-31
+
+
+[01-02-2014:6:34:28 AM] : ATER002 has Downloaded a file details in IDSIL / PJO from 2014-01-01 to 2014-01-31
+
+
+[01-02-2014:6:34:57 AM] : ATER002 has viewed the Audit file details in IDSIL / PJO from 2014-01-01 to 2014-01-31
+
+
+[01-02-2014:6:35:46 AM] : ATER002 has logged out from the Linecount Software Using the System 117.203.99.113
+
+
+[01-02-2014:12:52:03 PM] : ATER002 has logged in to IDSIL / PJO using the System 124.125.41.110
+
+
+[01-02-2014:12:52:22 PM] :  has uploaded a DUP file 90572130 in IDSIL / PJO
+
+
+[01-02-2014:12:52:33 PM] :  has uploaded a DUP file 90572244 in IDSIL / PJO
+
+
+[01-02-2014:12:52:44 PM] :  has uploaded a DUP file 90572280 in IDSIL / PJO
+
+
+[01-02-2014:12:52:59 PM] :  has uploaded a DUP file 90572265 in IDSIL / PJO
+
+
+[01-02-2014:12:53:21 PM] :  has uploaded a DUP file 67194467 in IDSIL / PJO
+
+
+[01-02-2014:12:53:33 PM] :  has uploaded a DUP file 67195103 in IDSIL / PJO
+
+
+[01-02-2014:12:53:51 PM] :  has uploaded a DUP file 90572333 in IDSIL / PJO
+
+
+[01-02-2014:12:54:03 PM] :  has uploaded a DUP file 90572351 in IDSIL / PJO
+
+
+[01-02-2014:12:54:16 PM] :  has uploaded a DUP file 90572298 in IDSIL / PJO
+
+
+[01-02-2014:12:54:26 PM] :  has uploaded a DUP file 90572399 in IDSIL / PJO
+
+
+[01-02-2014:12:54:37 PM] :  has uploaded a DUP file 90572456 in IDSIL / PJO
+
+
+[01-02-2014:12:54:52 PM] :  has uploaded a DUP file 90572462 in IDSIL / PJO
+
+
+[01-02-2014:12:55:03 PM] :  has uploaded a DUP file 90572476 in IDSIL / PJO
+
+
+[01-02-2014:12:55:17 PM] :  has uploaded a DUP file 90572509 in IDSIL / PJO
+
+
+[01-02-2014:12:55:32 PM] :  has uploaded a DUP file 90572511 in IDSIL / PJO
+
+
+[01-02-2014:12:55:44 PM] :  has uploaded a DUP file 90572530 in IDSIL / PJO
+
+
+[01-02-2014:12:55:55 PM] : ATER002 has viewed the DUP file details in IDSIL/PJO from 2014-02-01 to 2014-02-01
+
+
+[01-02-2014:12:56:08 PM] : ATER002 has logged out from the Linecount Software Using the System 124.125.41.110
+
+
+[01-02-2014:1:48:49 PM] : ATER002 has logged in to IDSIL / PJO using the System 124.125.41.110
+
+
+[01-02-2014:1:51:32 PM] :  has uploaded a DUP file 90572457 in IDSIL / PJO
+
+
+[01-02-2014:1:51:42 PM] : ATER002 has viewed the DUP file details in IDSIL/PJO from 2014-02-01 to 2014-02-01
+
+
+[01-02-2014:1:52:04 PM] : ATER002 has logged out from the Linecount Software Using the System 124.125.41.110
+
+
+[01-02-2014:5:45:47 PM] : ATER002 has logged in to IDSIL / PJO using the System 124.125.41.110
+
+
+[01-02-2014:5:47:49 PM] : ATER002 has picked a file 90572465 in IDSIL / PJO
+
+
+[01-02-2014:6:06:11 PM] : ATER002 has uploaded a file 90572465 to Hospital/Customer in IDSIL / PJO
+
+
+[01-02-2014:6:06:59 PM] : ATER002 has picked a file 905724644 in IDSIL / PJO
+
+
+[01-02-2014:6:17:44 PM] : ATER002 has uploaded a file 905724644 to Hospital/Customer in IDSIL / PJO
+
+
+[01-02-2014:6:17:55 PM] : ATER002 has viewed the Edited file details in IDSIL/PJO from 2014-02-01 to 2014-02-01
+
+
+[01-02-2014:6:18:34 PM] : ATER002 has picked a file 90572548 in IDSIL / PJO
+
+
+[01-02-2014:6:34:19 PM] : ATER002 has uploaded a file 90572548 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[01-02-2014:6:34:28 PM] : ATER002 has picked a file 90572498 in IDSIL / PJO
+
+
+[01-02-2014:7:02:19 PM] : ATER002 has uploaded a file 90572498 to Hospital/Customer in IDSIL / PJO
+
+
+[01-02-2014:7:03:15 PM] : ATER002 has picked a file 90572499 in IDSIL / PJO
+
+
+[01-02-2014:7:19:55 PM] : ATER002 has uploaded a file 90572499 to Hospital/Customer in IDSIL / PJO
+
+
+[01-02-2014:7:23:53 PM] : ATER002 has picked a file 90572502 in IDSIL / PJO
+
+
+[01-02-2014:8:00:07 PM] : ATER002 has uploaded a file 90572502 to Hospital/Customer in IDSIL / PJO
+
+
+[01-02-2014:8:02:16 PM] : ATER002 has viewed the Edited file details in IDSIL/PJO from 2014-02-01 to 2014-02-01
+
+
+[01-02-2014:8:02:24 PM] : ATER002 has logged out from the Linecount Software Using the System 124.125.41.110

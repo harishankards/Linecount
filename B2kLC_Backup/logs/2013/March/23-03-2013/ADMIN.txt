@@ -1,0 +1,104 @@
+
+
+[23-03-2013:9:58:19 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[23-03-2013:10:01:02 AM] : ADMIN has Viewed Employee Details
+
+
+[23-03-2013:10:01:10 AM] : ADMIN has Viewed Employee Details
+
+
+[23-03-2013:10:02:08 AM] : ADMIN has Viewed Employee Details
+
+
+[23-03-2013:10:04:48 AM] : ADMIN has Viewed Employee Details
+
+
+[23-03-2013:10:04:53 AM] : ADMIN has Viewed Employee Details
+
+
+[23-03-2013:10:05:38 AM] : ADMIN has Viewed Employee Details
+
+
+[23-03-2013:10:05:54 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[23-03-2013:10:09:24 AM] : ADMIN has added Employee Details[PRADEEP] into the Database
+
+
+[23-03-2013:10:18:00 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+[23-03-2013:10:18:24 AM] : ADMIN has Approved Leave request from the ID B2KER004 on 2013-03-23.
+
+
+[23-03-2013:10:32:14 AM] : ADMIN has added Employee Details[YOGI] into the Database
+
+
+[23-03-2013:10:37:46 AM] : ADMIN has added Employee Details[PRAKASH.D] into the Database
+
+
+[23-03-2013:10:48:38 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[23-03-2013:11:16:36 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[23-03-2013:11:55:16 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[23-03-2013:12:16:29 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[23-03-2013:12:25:50 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[23-03-2013:12:40:33 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[23-03-2013:12:43:51 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[23-03-2013:1:38:10 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[23-03-2013:1:40:15 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[23-03-2013:3:01:12 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[23-03-2013:3:38:00 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[23-03-2013:3:39:28 PM] : ADMIN has added Employee Details[DHARMA] into the Database
+
+
+[23-03-2013:3:39:49 PM] : ADMIN has Viewed Employee Details
+
+
+[23-03-2013:3:40:55 PM] : ADMIN has Viewed Employee Details
+
+
+[23-03-2013:3:41:26 PM] : ADMIN has Viewed Employee Details
+
+
+[23-03-2013:3:42:31 PM] : ADMIN has Viewed Employee Details
+
+
+[23-03-2013:4:00:04 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[23-03-2013:4:03:26 PM] : ADMIN has Viewed Employee Details
+
+
+[23-03-2013:4:03:32 PM] : ADMIN has Viewed Employee Details
+
+
+[23-03-2013:5:07:18 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[23-03-2013:9:15:59 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[23-03-2013:11:06:27 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47

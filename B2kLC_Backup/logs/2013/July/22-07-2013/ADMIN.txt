@@ -1,0 +1,86 @@
+
+
+[22-07-2013:12:57:11 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[22-07-2013:12:57:58 AM] : ADMIN has Viewed Employee Details
+
+
+[22-07-2013:12:58:08 AM] : ADMIN has Viewed Employee Details
+
+
+[22-07-2013:12:58:34 AM] : ADMIN has Viewed Employee Details
+
+
+[22-07-2013:12:58:49 AM] : ADMIN has Viewed Employee Details
+
+
+[22-07-2013:12:58:55 AM] : ADMIN has Viewed Employee Details
+
+
+[22-07-2013:12:59:07 AM] : ADMIN has Viewed Employee Details
+
+
+[22-07-2013:1:16:56 AM] : ADMIN has Viewed Employee Details
+
+
+[22-07-2013:7:01:27 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[22-07-2013:7:03:21 AM] : ADMIN has Viewed Employee Details
+
+
+[22-07-2013:10:29:58 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[22-07-2013:10:43:46 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[22-07-2013:11:56:48 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[22-07-2013:11:57:44 AM] : ADMIN has Approved Leave request from the ID B2KMLS005 on 2013-07-19.
+
+[22-07-2013:11:57:53 AM] : ADMIN has Approved Leave request from the ID B2KMLS025 on 2013-07-21.
+
+[22-07-2013:11:57:58 AM] : ADMIN has Approved Leave request from the ID B2KMLS021 on 2013-07-21.
+
+[22-07-2013:11:58:03 AM] : ADMIN has Approved Leave request from the ID B2KER001 on 2013-07-21.
+
+
+[22-07-2013:12:05:43 PM] : ADMIN has Viewed Employee Details
+
+
+[22-07-2013:12:09:18 PM] : ADMIN has added Employee Details[DEEPA SHIVAKUMAR] into the Database
+
+
+[22-07-2013:12:09:59 PM] : ADMIN has added Employee Details[ARUN MATHEW] into the Database
+
+
+[22-07-2013:12:10:54 PM] : ADMIN has Viewed Employee Details
+
+
+[22-07-2013:12:47:11 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[22-07-2013:1:11:53 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[22-07-2013:2:26:21 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[22-07-2013:4:24:48 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[22-07-2013:4:58:32 PM] : ADMIN has Viewed Employee Details
+
+
+[22-07-2013:5:35:51 PM] : ADMIN has Viewed Employee Details
+
+
+[22-07-2013:7:03:44 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[22-07-2013:7:04:03 PM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[22-07-2013:7:39:55 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35

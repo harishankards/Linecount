@@ -1,0 +1,31 @@
+
+[01-01-2016:7:45:58 AM] : ADMIN has Deleted the details of the file 95960877.
+
+
+[01-01-2016:8:57:36 AM] : ADMIN has Viewed Employee Details
+
+
+[01-01-2016:8:57:48 AM] : ADMIN has Viewed Employee Details
+
+
+[01-01-2016:10:53:57 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[01-01-2016:10:54:09 AM] : ADMIN has Viewed Employee Details
+
+
+[01-01-2016:10:54:47 AM] : ADMIN has Viewed Employee Details
+
+
+[01-01-2016:11:48:30 AM] : ADMIN has logged in to Admin page using the System 59.90.159.3
+
+
+[01-01-2016:4:31:19 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[01-01-2016:6:30:20 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[01-01-2016:6:31:55 PM] : ADMIN has added an Update into the Database
+
+
+[01-01-2016:8:00:28 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35

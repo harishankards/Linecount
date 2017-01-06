@@ -1,0 +1,144 @@
+
+
+[12-12-2013:10:00:07 AM] : ATER006  has logged in to IDSIL / PJO using the System 117.218.59.252
+
+
+[12-12-2013:10:04:06 AM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[12-12-2013:10:32:55 AM] : ATER006  has logged in to IDSIL / PJO using the System 117.218.59.252
+
+
+[12-12-2013:10:33:33 AM] : ATER006  has picked a file 65890185 in IDSIL / PJO
+
+
+[12-12-2013:10:33:46 AM] : ATER006  has uploaded a file 65890185 to Hospital/Customer in IDSIL / PJO
+
+
+[12-12-2013:10:35:56 AM] : ATER006  has picked a file 65890512 in IDSIL / PJO
+
+
+[12-12-2013:10:48:29 AM] : ATER006  has uploaded a file 65890512 to Hospital/Customer in IDSIL / PJO
+
+
+[12-12-2013:10:52:51 AM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[12-12-2013:11:26:01 AM] : ATER006 has logged in to IDSIL / PJO using the System 117.218.59.252
+
+
+[12-12-2013:11:27:53 AM] : ATER006 has viewed the Audit file details in IDSIL / PJO from 2013-12-12 to 2013-12-12
+
+
+[12-12-2013:11:30:10 AM] : ATER006 has viewed the Edited file details in IDSIL/PJO from 2013-12-12 to 2013-12-12
+
+
+[12-12-2013:11:34:16 AM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[12-12-2013:11:50:03 AM] : ATER006 has picked a file 65892533 in IDSIL / PJO
+
+
+[12-12-2013:11:54:18 AM] : ATER006 has uploaded a file 65892533 to Hospital/Customer in IDSIL / PJO
+
+
+[12-12-2013:11:58:19 AM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[12-12-2013:11:59:27 AM] : ATER006 has viewed the Edited file details in IDSIL/PJO from 2013-12-11 to 2013-12-12
+
+
+[12-12-2013:11:59:47 AM] : ATER006 has viewed the Edited file details in IDSIL/PJO from 2013-12-12 to 2013-12-12
+
+
+[12-12-2013:12:08:39 PM] : ATER006 has picked a file 65893047 in IDSIL / PJO
+
+
+[12-12-2013:12:16:56 PM] : ATER006 has uploaded a file 65893047 to Hospital/Customer in IDSIL / PJO
+
+
+[12-12-2013:12:19:05 PM] : ATER006 has picked a file 65893682 in IDSIL / PJO
+
+
+[12-12-2013:12:54:18 PM] : ATER006 has uploaded a file 65893682 to Hospital/Customer in IDSIL / PJO
+
+
+[12-12-2013:12:55:39 PM] : ATER006 has viewed the Edited file details in IDSIL/PJO from 2013-12-12 to 2013-12-12
+
+
+[12-12-2013:1:02:16 PM] : ATER006 has picked a file 65894098 in IDSIL / PJO
+
+
+[12-12-2013:1:19:35 PM] : ATER006 has uploaded a file 65894098 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[12-12-2013:1:23:29 PM] : ATER006 has picked a file 65893946 in IDSIL / PJO
+
+
+[12-12-2013:1:32:28 PM] : ATER006 has uploaded a file 65893946 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[12-12-2013:1:36:20 PM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[12-12-2013:1:37:49 PM] : ATER006 has viewed the Edited file details in IDSIL/PJO from 2013-12-12 to 2013-12-12
+
+
+[12-12-2013:2:47:40 PM] : ATER006 has added a Audit file 65893724 in IDSIL / PJO 
+
+
+[12-12-2013:2:48:46 PM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[12-12-2013:3:03:55 PM] : ATER006 has picked a file 65904003 in IDSIL / PJO
+
+
+[12-12-2013:3:18:46 PM] : ATER006 has logged in to IDSIL / PJO using the System 117.218.59.252
+
+
+[12-12-2013:3:19:50 PM] : ATER006 has uploaded a file 65904003 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[12-12-2013:3:22:12 PM] : ATER006 has picked a file 65908430 in IDSIL / PJO
+
+
+[12-12-2013:3:22:27 PM] : ATER006 has viewed the Edited file details in IDSIL/PJO from 2013-12-12 to 2013-12-12
+
+
+[12-12-2013:3:45:14 PM] : ATER006 has uploaded a file 65908430 to Hospital/Customer in IDSIL / PJO
+
+
+[12-12-2013:3:50:09 PM] : ATER006 has picked a file 65894168 in IDSIL / PJO
+
+
+[12-12-2013:4:01:22 PM] : ATER006 has uploaded a file 65894168 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[12-12-2013:4:07:17 PM] : ATER006 has picked a file 65894054 in IDSIL / PJO
+
+
+[12-12-2013:4:07:25 PM] : ATER006 has viewed the Edited file details in IDSIL/PJO from 2013-12-12 to 2013-12-12
+
+
+[12-12-2013:4:45:29 PM] : ATER006 has uploaded a file 65894054 to Hospital/Customer in IDSIL / PJO
+
+
+[12-12-2013:4:52:03 PM] : ATER006 has picked a file 65894410 in IDSIL / PJO
+
+
+[12-12-2013:4:52:14 PM] : ATER006 has viewed the Edited file details in IDSIL/PJO from 2013-12-12 to 2013-12-12
+
+
+[12-12-2013:4:59:46 PM] : ATER006 has viewed the Edited file details in IDSIL/PJO from 2013-12-12 to 2013-12-12
+
+
+[12-12-2013:4:59:58 PM] : ATER006 has viewed the Edited file details in IDSIL/PJO from 2013-12-11 to 2013-12-12
+
+
+[12-12-2013:5:00:23 PM] : ATER006 has viewed the Audit file details in IDSIL / PJO from 2013-12-11 to 2013-12-12
+
+
+[12-12-2013:7:03:20 PM] : ATER006 has logged in to IDSIL / PJO using the System 117.218.59.252
+
+
+[12-12-2013:7:03:42 PM] : ATER006 has uploaded a file 65894410 to IDS/QA_Checkpoint in IDSIL / PJO

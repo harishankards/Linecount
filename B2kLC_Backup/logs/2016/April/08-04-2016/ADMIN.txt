@@ -1,0 +1,29 @@
+
+
+[08-04-2016:10:12:48 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[08-04-2016:10:48:47 AM] : ADMIN has logged in to Admin page using the System 14.102.34.42
+
+
+[08-04-2016:10:53:18 AM] : ADMIN has Viewed Employee Details
+
+[08-04-2016:10:54:07 AM] : ADMIN has Deleted the details of the file 97638070.
+
+
+[08-04-2016:2:25:40 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[08-04-2016:2:25:41 PM] : ADMIN has logged in to Admin page using the System 14.102.34.42
+
+
+[08-04-2016:3:10:22 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[08-04-2016:4:58:42 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[08-04-2016:5:57:53 PM] : ADMIN has logged in to Admin page using the System 182.72.119.226
+
+
+[08-04-2016:9:47:31 PM] : ADMIN has logged in to Admin page using the System 182.72.119.226

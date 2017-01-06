@@ -1,0 +1,66 @@
+
+
+[15-03-2013:6:38:08 PM] : ATER002 has logged in to IDSIL / PJO using the System 124.125.42.209
+
+
+[15-03-2013:6:39:34 PM] : ATER002 has picked a file 58673804 in IDSIL / PJO
+
+
+[15-03-2013:6:55:02 PM] : ATER002 has uploaded a file 58673804 to Hospital/Customer in IDSIL / PJO
+
+
+[15-03-2013:7:01:20 PM] : ATER002 has picked a file 58674887 in IDSIL / PJO
+
+
+[15-03-2013:7:08:23 PM] : ATER002 has uploaded a file 58674887 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[15-03-2013:7:10:27 PM] : ATER002 has picked a file 58679013 in IDSIL / PJO
+
+
+[15-03-2013:7:18:04 PM] : ATER002 has uploaded a file 58679013 to Hospital/Customer in IDSIL / PJO
+
+
+[15-03-2013:7:19:08 PM] : ATER002 has picked a file 58679358 in IDSIL / PJO
+
+
+[15-03-2013:7:30:49 PM] : ATER002 has uploaded a file 58679358 to Hospital/Customer in IDSIL / PJO
+
+
+[15-03-2013:7:31:46 PM] : ATER002 has picked a file 58679551 in IDSIL / PJO
+
+
+[15-03-2013:7:40:00 PM] : ATER002 has uploaded a file 58679551 to Hospital/Customer in IDSIL / PJO
+
+
+[15-03-2013:7:40:47 PM] : ATER002 has picked a file 58680068 in IDSIL / PJO
+
+
+[15-03-2013:7:52:36 PM] : ATER002 has uploaded a file 58680068 to Hospital/Customer in IDSIL / PJO
+
+
+[15-03-2013:7:54:00 PM] : ATER002 has picked a file 58680223 in IDSIL / PJO
+
+
+[15-03-2013:8:03:34 PM] : ATER002 has uploaded a file 58680223 to Hospital/Customer in IDSIL / PJO
+
+
+[15-03-2013:8:04:18 PM] : ATER002 has picked a file 58683986 in IDSIL / PJO
+
+
+[15-03-2013:8:13:03 PM] : ATER002 has uploaded a file 58683986 to Hospital/Customer in IDSIL / PJO
+
+
+[15-03-2013:8:13:57 PM] : ATER002 has picked a file 58681731 in IDSIL / PJO
+
+
+[15-03-2013:8:30:07 PM] : ATER002 has uploaded a file 58681731 to Hospital/Customer in IDSIL / PJO
+
+
+[15-03-2013:8:30:22 PM] : ATER002 has logged out from the Linecount Software Using the System 124.125.42.209
+
+
+[16-03-2013:5:29:29 AM] :  has uploaded a DUP file 58649712 in IDSIL / PJO
+
+
+[16-03-2013:5:29:46 AM] :  has uploaded a DUP file 58672946 in IDSIL / PJO

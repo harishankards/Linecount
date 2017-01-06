@@ -1,0 +1,66 @@
+
+
+[18-02-2013:10:40:44 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[18-02-2013:10:41:14 AM] : ADMIN has Approved Leave request from the ID B2KMLS012 on 2013-02-17.
+
+[18-02-2013:10:41:27 AM] : ADMIN has Approved Leave request from the ID B2KMLS019 on 2013-02-21.
+
+[18-02-2013:10:41:37 AM] : ADMIN has Approved Leave request from the ID B2KMLS019 on 2013-02-22.
+
+[18-02-2013:10:41:55 AM] : ADMIN has Approved Leave request from the ID B2KMLS019 on 2013-02-20.
+
+[18-02-2013:10:43:13 AM] : ADMIN has Approved Leave request from the ID B2KMLS019 on 2013-02-23.
+
+[18-02-2013:10:48:35 AM] : ADMIN has Approved Leave request from the ID B2KMLS019 on 2013-02-24.
+
+[18-02-2013:10:55:02 AM] : ADMIN has added Attendanec Details into the Database
+
+
+[18-02-2013:11:25:48 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[18-02-2013:11:46:53 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[18-02-2013:3:17:32 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[18-02-2013:3:28:58 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[18-02-2013:3:32:00 PM] : ADMIN has added a Vendor Details [ARIRAMAN & TEAM] into the Database
+
+
+[18-02-2013:3:33:21 PM] : ADMIN has added Employee Details[E.SANGEETHA] into the Database
+
+
+[18-02-2013:3:34:09 PM] : ADMIN has added Employee Details[S.SUKANYA] into the Database
+
+
+[18-02-2013:3:35:15 PM] : ADMIN has added Employee Details[S. JAYASUDHA] into the Database
+
+[18-02-2013:3:49:39 PM] : ADMIN has deleted  Vendor Details [BOOM IT SOLUTIONS] from the Database
+
+
+[18-02-2013:4:22:35 PM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[18-02-2013:4:22:39 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[18-02-2013:5:52:55 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[18-02-2013:6:14:38 PM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[18-02-2013:6:59:50 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[18-02-2013:6:59:56 PM] : ADMIN has Viewed Employee Details
+
+
+[18-02-2013:7:00:04 PM] : ADMIN has Viewed Employee Details
+
+
+[18-02-2013:7:01:16 PM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35

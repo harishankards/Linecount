@@ -1,0 +1,24 @@
+
+
+[02-05-2013:1:14:00 AM] : VTER003 has logged in to IDSIL / PJO using the System 122.169.140.251
+
+
+[02-05-2013:1:14:58 AM] : VTER003 has logged out from the Linecount Software Using the System 122.169.140.251
+
+
+[02-05-2013:1:18:59 AM] : VTER003 has logged in to IDSIL / PJO using the System 122.169.140.251
+
+
+[02-05-2013:1:19:40 AM] : VTER003 has logged out from the Linecount Software Using the System 122.169.140.251
+
+
+[02-05-2013:5:22:33 PM] : VTER003 has logged in to IDSIL / PJO using the System 117.203.102.223
+
+
+[02-05-2013:5:22:55 PM] : VTER003 has viewed the Edited file details in IDSIL/PJO from 2013-04-01 to 2013-04-30
+
+
+[02-05-2013:5:23:02 PM] : VTER003 has Downloaded a file details in IDSIL / PJO from 2013-04-01 to 2013-04-30
+
+
+[02-05-2013:5:26:03 PM] : VTER003 has logged out from the Linecount Software Using the System 117.203.102.223

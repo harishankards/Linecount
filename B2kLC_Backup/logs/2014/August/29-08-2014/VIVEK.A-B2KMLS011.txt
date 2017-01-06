@@ -1,0 +1,57 @@
+
+
+[29-08-2014:7:22:11 AM] : B2KMLS011 has logged in to IDSIL / PJO using the System 122.178.144.67
+
+
+[29-08-2014:7:53:32 AM] : B2KMLS011 has added a Audit file 72239416 in IDSIL / PJO 
+
+
+[29-08-2014:8:04:49 AM] : B2KMLS011 has added a Audit file 72234925 in IDSIL / PJO 
+
+
+[29-08-2014:8:16:12 AM] : B2KMLS011 has added a Audit file 72236039 in IDSIL / PJO 
+
+
+[29-08-2014:8:17:29 AM] : B2KMLS011 has picked a file 72242384 in IDSIL / PJO
+
+
+[29-08-2014:8:21:59 AM] : B2KMLS011 has uploaded a file 72242384 to Hospital/Customer in IDSIL / PJO
+
+
+[29-08-2014:9:01:19 AM] : B2KMLS011 has added a Audit file 72238226 in IDSIL / PJO 
+
+
+[29-08-2014:9:02:33 AM] : B2KMLS011 has picked a file 72242622 in IDSIL / PJO
+
+
+[29-08-2014:9:30:47 AM] : B2KMLS011 has uploaded a file 72242622 to Hospital/Customer in IDSIL / PJO
+
+
+[29-08-2014:10:29:36 AM] : B2KMLS011 has viewed the DUP file details in IDSIL/PJO from 2014-08-29 to 2014-08-29
+
+
+[29-08-2014:10:30:22 AM] :  has uploaded a DUP file 72242306 in IDSIL / PJO
+
+
+[29-08-2014:12:38:39 PM] : B2KMLS011 has logged in to IDSIL / PJO using the System 122.178.179.131
+
+
+[29-08-2014:12:39:28 PM] :  has uploaded a DUP file 72242712 in IDSIL / PJO
+
+
+[29-08-2014:12:56:21 PM] : B2KMLS011 has viewed the DUP file details in IDSIL/PJO from 2014-08-28 to 2014-08-29
+
+
+[29-08-2014:12:56:27 PM] : B2KMLS011 has viewed the DUP file details in IDSIL/PJO from 2014-08-29 to 2014-08-29
+
+
+[29-08-2014:12:56:33 PM] : B2KMLS011 has viewed the Edited file details in IDSIL/PJO from 2014-08-29 to 2014-08-29
+
+
+[29-08-2014:12:56:41 PM] : B2KMLS011 has viewed the Edited file details in IDSIL/PJO from 2014-08-28 to 2014-08-29
+
+
+[29-08-2014:12:59:58 PM] : B2KMLS011 has picked a file 90743743 in IDSIL / PJO
+
+
+[29-08-2014:1:58:03 PM] : B2KMLS011 has uploaded a file 90743743 to Hospital/Customer in IDSIL / PJO

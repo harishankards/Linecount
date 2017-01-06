@@ -1,0 +1,96 @@
+
+
+[15-04-2014:10:57:46 AM] : B2KER006 has logged in to IDSIL / PJO using the System 59.90.86.47
+
+
+[15-04-2014:10:59:13 AM] : B2KER006 has added a Audit file 69048184 in IDSIL / PJO 
+
+
+[15-04-2014:11:24:36 AM] : B2KER006 has added a Audit file 69041701 in IDSIL / PJO 
+
+
+[15-04-2014:11:45:57 AM] : B2KER006 has added a Audit file 69041284 in IDSIL / PJO 
+
+
+[15-04-2014:11:55:10 AM] : B2KER006 has picked a file 69046796 in IDSIL / PJO
+
+
+[15-04-2014:11:55:15 AM] : B2KER006 has uploaded a file 69046796 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[15-04-2014:12:36:57 PM] : B2KER006 has logged in to IDSIL / PJO using the System 59.90.86.47
+
+
+[15-04-2014:12:37:08 PM] : B2KER006 has picked a file 69048303 in IDSIL / PJO
+
+
+[15-04-2014:12:37:17 PM] : B2KER006 has uploaded a file 69048303 to Hospital/Customer in IDSIL / PJO
+
+
+[15-04-2014:12:50:59 PM] : B2KER006 has picked a file 69050836 in IDSIL / PJO
+
+
+[15-04-2014:12:51:05 PM] : B2KER006 has uploaded a file 69050836 to Hospital/Customer in IDSIL / PJO
+
+
+[15-04-2014:1:03:30 PM] : B2KER006 has picked a file 69052154 in IDSIL / PJO
+
+
+[15-04-2014:1:03:41 PM] : B2KER006 has uploaded a file 69052154 to Hospital/Customer in IDSIL / PJO
+
+
+[15-04-2014:1:16:49 PM] : B2KER006 has added a Audit file 69042052 in IDSIL / PJO 
+
+
+[15-04-2014:3:08:37 PM] : B2KER006 has logged in to IDSIL / PJO using the System 59.90.86.47
+
+
+[15-04-2014:3:08:46 PM] : B2KER006 has picked a file 69055213 in IDSIL / PJO
+
+
+[15-04-2014:3:08:53 PM] : B2KER006 has uploaded a file 69055213 to Hospital/Customer in IDSIL / PJO
+
+
+[15-04-2014:3:21:01 PM] : B2KER006 has picked a file 69045663 in IDSIL / PJO
+
+
+[15-04-2014:3:21:08 PM] : B2KER006 has uploaded a file 69045663 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[15-04-2014:5:05:21 PM] : B2KER006 has logged in to IDSIL / PJO using the System 59.90.86.47
+
+
+[15-04-2014:5:05:47 PM] : B2KER006 has added a Audit file 69047432 in IDSIL / PJO 
+
+
+[15-04-2014:5:55:47 PM] : B2KER006 has logged in to IDSIL / PJO using the System 59.90.86.47
+
+
+[15-04-2014:5:56:01 PM] : B2KER006 has picked a file 69046089 in IDSIL / PJO
+
+
+[15-04-2014:5:56:06 PM] : B2KER006 has uploaded a file 69046089 to Hospital/Customer in IDSIL / PJO
+
+
+[15-04-2014:6:16:55 PM] : B2KER006 has picked a file 69046174 in IDSIL / PJO
+
+
+[15-04-2014:6:17:00 PM] : B2KER006 has uploaded a file 69046174 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[15-04-2014:6:31:38 PM] : B2KER006 has picked a file 69046347 in IDSIL / PJO
+
+
+[15-04-2014:6:31:45 PM] : B2KER006 has uploaded a file 69046347 to Hospital/Customer in IDSIL / PJO
+
+
+[15-04-2014:6:45:27 PM] : B2KER006 has picked a file 69049552 in IDSIL / PJO
+
+
+[15-04-2014:6:45:34 PM] : B2KER006 has uploaded a file 69049552 to Hospital/Customer in IDSIL / PJO
+
+
+[15-04-2014:7:03:53 PM] : B2KER006 has picked a file 69057074 in IDSIL / PJO
+
+
+[15-04-2014:7:04:03 PM] : B2KER006 has uploaded a file 69057074 to IDS/QA_Checkpoint in IDSIL / PJO

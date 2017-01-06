@@ -1,0 +1,48 @@
+
+
+[12-06-2013:11:07:26 AM] : SKPOER020 has logged in to IDSIL / PJO using the System 14.102.34.42
+
+
+[12-06-2013:11:08:47 AM] : SKPOER020 has picked a file 61250358 in IDSIL / PJO
+
+
+[12-06-2013:11:21:46 AM] : SKPOER020 has picked a file 61251382 in IDSIL / PJO
+
+
+[12-06-2013:11:31:06 AM] : SKPOER020 has picked a file 61252449 in IDSIL / PJO
+
+
+[12-06-2013:12:27:52 PM] : SKPOER020 has logged in to IDSIL / PJO using the System 14.102.34.42
+
+
+[12-06-2013:12:28:29 PM] : SKPOER020 has added a Audit file 61260161 in IDSIL / PJO 
+
+
+[12-06-2013:12:28:38 PM] : SKPOER020 has viewed the Audit file details in IDSIL / PJO from 2013-06-12 to 2013-06-12
+
+
+[12-06-2013:12:30:10 PM] : SKPOER020 has added a Audit file 61269517 in IDSIL / PJO 
+
+
+[12-06-2013:12:30:17 PM] : SKPOER020 has viewed the Audit file details in IDSIL / PJO from 2013-06-12 to 2013-06-12
+
+
+[12-06-2013:1:29:25 PM] : SKPOER020 has logged in to IDSIL / PJO using the System 14.102.34.42
+
+
+[12-06-2013:1:29:50 PM] : SKPOER020 has picked a file 61270282 in IDSIL / PJO
+
+
+[12-06-2013:2:03:00 PM] : SKPOER020 has logged in to IDSIL / PJO using the System 14.102.34.42
+
+
+[12-06-2013:2:53:59 PM] : SKPOER020 has logged in to IDSIL / PJO using the System 14.102.34.42
+
+
+[12-06-2013:2:54:07 PM] : SKPOER020 has viewed the Edited file details in IDSIL/PJO from 2013-06-12 to 2013-06-12
+
+
+[12-06-2013:2:54:13 PM] : SKPOER020 has viewed the Audit file details in IDSIL / PJO from 2013-06-12 to 2013-06-12
+
+
+[12-06-2013:3:14:58 PM] : SKPOER020 has logged out from the Linecount Software Using the System 14.102.34.42

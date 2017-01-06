@@ -1,0 +1,243 @@
+
+
+[23-01-2015:12:35:47 AM] : B2KQA34 has logged in to IDSIL / PJO using the System 49.15.194.142
+
+
+[23-01-2015:1:23:46 AM] : B2KQA34 has logged out from the Linecount Software Using the System 49.15.194.142
+
+
+[23-01-2015:1:23:49 AM] : B2KQA34 has logged in to IDSIL / PJO using the System 49.15.194.142
+
+
+[23-01-2015:1:34:56 AM] : B2KQA34 has logged out from the Linecount Software Using the System 49.15.194.142
+
+
+[23-01-2015:1:35:05 AM] : B2KQA34 has logged in to IDSIL / PJO using the System 49.15.194.142
+
+
+[23-01-2015:10:08:34 AM] : B2KQA34 has logged in to IDSIL / PJO using the System 106.66.178.172
+
+
+[23-01-2015:10:12:35 AM] : B2KQA34 has picked a file 75424157 in IDSIL / PJO
+
+
+[23-01-2015:10:26:22 AM] : B2KQA34 has uploaded a file 75424157 to Hospital/Customer in IDSIL / PJO
+
+
+[23-01-2015:10:37:06 AM] : B2KQA34 has logged out from the Linecount Software Using the System 106.66.135.235
+
+
+[23-01-2015:10:37:11 AM] : B2KQA34 has logged in to IDSIL / PJO using the System 106.66.135.235
+
+
+[23-01-2015:10:54:31 AM] : B2KQA34 has logged out from the Linecount Software Using the System 27.97.25.43
+
+
+[23-01-2015:10:54:34 AM] : B2KQA34 has logged in to IDSIL / PJO using the System 27.97.25.43
+
+
+[23-01-2015:10:56:57 AM] : B2KQA34 has picked a file 75432101 in IDSIL / PJO
+
+
+[23-01-2015:11:03:41 AM] : B2KQA34 has uploaded a file 75432101 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[23-01-2015:11:21:15 AM] : B2KQA34 has picked a file 75434283 in IDSIL / PJO
+
+
+[23-01-2015:11:23:43 AM] : B2KQA34 has uploaded a file 75434283 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[23-01-2015:11:25:20 AM] : B2KQA34 has picked a file 75436331 in IDSIL / PJO
+
+
+[23-01-2015:11:31:00 AM] : B2KQA34 has uploaded a file 75436331 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[23-01-2015:11:33:49 AM] : B2KQA34 has picked a file 75437042 in IDSIL / PJO
+
+
+[23-01-2015:12:39:15 PM] : B2KQA34 has logged in to IDSIL / PJO using the System 27.97.25.43
+
+
+[23-01-2015:12:39:22 PM] : B2KQA34 has uploaded a file 75437042 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[23-01-2015:12:39:26 PM] : B2KQA34 has logged out from the Linecount Software Using the System 27.97.25.43
+
+
+[23-01-2015:12:41:01 PM] : B2KQA34 has logged in to IDSIL / PJO using the System 27.97.25.43
+
+
+[23-01-2015:12:41:07 PM] : B2KQA34 has logged out from the Linecount Software Using the System 27.97.25.43
+
+
+[23-01-2015:12:41:11 PM] : B2KQA34 has logged in to IDSIL / PJO using the System 27.97.25.43
+
+
+[23-01-2015:2:49:02 PM] : B2KQA34 has logged in to IDSIL / PJO using the System 106.76.193.27
+
+
+[23-01-2015:2:49:57 PM] : B2KQA34 has picked a file 75437904 in IDSIL / PJO
+
+
+[23-01-2015:3:08:57 PM] : B2KQA34 has uploaded a file 75437904 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[23-01-2015:3:11:08 PM] : B2KQA34 has logged out from the Linecount Software Using the System 106.76.193.27
+
+
+[23-01-2015:3:11:10 PM] : B2KQA34 has logged in to IDSIL / PJO using the System 106.76.193.27
+
+
+[23-01-2015:3:11:19 PM] : B2KQA34 has picked a file 75438802 in IDSIL / PJO
+
+
+[23-01-2015:3:27:59 PM] : B2KQA34 has uploaded a file 75438802 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[23-01-2015:4:33:56 PM] : B2KQA34 has logged in to IDSIL / PJO using the System 1.39.60.135
+
+
+[23-01-2015:4:35:22 PM] : B2KQA34 has logged out from the Linecount Software Using the System 1.39.60.135
+
+
+[23-01-2015:5:35:47 PM] : B2KQA34 has logged in to IDSIL / PJO using the System 106.77.186.169
+
+
+[23-01-2015:5:43:58 PM] : B2KQA34 has picked a file 75438442 in IDSIL / PJO
+
+
+[23-01-2015:5:44:04 PM] : B2KQA34 has uploaded a file 75438442 to Hospital/Customer in IDSIL / PJO
+
+
+[23-01-2015:5:47:44 PM] : B2KQA34 has picked a file 75414991 in IDSIL / PJO
+
+
+[23-01-2015:5:58:04 PM] : B2KQA34 has uploaded a file 75414991 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[23-01-2015:5:58:40 PM] : B2KQA34 has logged out from the Linecount Software Using the System 106.77.186.169
+
+
+[23-01-2015:5:58:43 PM] : B2KQA34 has logged in to IDSIL / PJO using the System 106.77.186.169
+
+
+[23-01-2015:5:59:41 PM] : B2KQA34 has picked a file 75435437 in IDSIL / PJO
+
+
+[23-01-2015:6:04:35 PM] : B2KQA34 has uploaded a file 75435437 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[23-01-2015:6:10:04 PM] : B2KQA34 has picked a file 75416334 in IDSIL / PJO
+
+
+[23-01-2015:6:29:10 PM] : B2KQA34 has uploaded a file 75416334 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[23-01-2015:6:31:56 PM] : B2KQA34 has logged out from the Linecount Software Using the System 106.77.186.169
+
+
+[23-01-2015:6:31:59 PM] : B2KQA34 has logged in to IDSIL / PJO using the System 106.77.186.169
+
+
+[23-01-2015:6:34:41 PM] : B2KQA34 has picked a file 75438790 in IDSIL / PJO
+
+
+[23-01-2015:6:51:19 PM] : B2KQA34 has uploaded a file 75438790 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[23-01-2015:7:00:49 PM] : B2KQA34 has picked a file 75415602 in IDSIL / PJO
+
+
+[23-01-2015:7:11:31 PM] : B2KQA34 has picked a file 75428906 in IDSIL / PJO
+
+
+[23-01-2015:7:20:29 PM] : B2KQA34 has uploaded a file 75428906 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[23-01-2015:7:23:05 PM] : B2KQA34 has uploaded a file 75415602 to Hospital/Customer in IDSIL / PJO
+
+
+[23-01-2015:7:24:41 PM] : B2KQA34 has logged out from the Linecount Software Using the System 106.77.186.169
+
+
+[23-01-2015:7:24:44 PM] : B2KQA34 has logged in to IDSIL / PJO using the System 106.77.186.169
+
+
+[23-01-2015:7:25:33 PM] : B2KQA34 has picked a file 75438994 in IDSIL / PJO
+
+
+[23-01-2015:7:42:58 PM] : B2KQA34 has uploaded a file 75438994 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[23-01-2015:7:45:51 PM] : B2KQA34 has picked a file 75438834 in IDSIL / PJO
+
+
+[23-01-2015:7:55:30 PM] : B2KQA34 has logged in to IDSIL / PJO using the System 106.77.186.169
+
+
+[23-01-2015:9:56:23 PM] : B2KQA34 has logged in to IDSIL / PJO using the System 27.97.192.4
+
+
+[23-01-2015:10:41:07 PM] : B2KQA34 has logged in to IDSIL / PJO using the System 27.97.192.4
+
+
+[23-01-2015:10:43:11 PM] : B2KQA34 has uploaded a file 75438834 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[23-01-2015:10:43:23 PM] : B2KQA34 has picked a file 75427993 in IDSIL / PJO
+
+
+[23-01-2015:11:01:52 PM] : B2KQA34 has uploaded a file 75427993 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[23-01-2015:11:04:36 PM] : B2KQA34 has picked a file 75428307 in IDSIL / PJO
+
+
+[23-01-2015:11:27:17 PM] : B2KQA34 has uploaded a file 75428307 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[23-01-2015:11:31:13 PM] : B2KQA34 has picked a file 75434133 in IDSIL / PJO
+
+
+[23-01-2015:11:39:52 PM] : B2KQA34 has uploaded a file 75434133 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[23-01-2015:11:42:25 PM] : B2KQA34 has logged out from the Linecount Software Using the System 27.97.192.4
+
+
+[23-01-2015:11:42:28 PM] : B2KQA34 has logged in to IDSIL / PJO using the System 27.97.192.4
+
+
+[23-01-2015:11:42:36 PM] : B2KQA34 has logged in to IDSIL / PJO using the System 27.97.192.4
+
+
+[23-01-2015:11:42:40 PM] : B2KQA34 has logged out from the Linecount Software Using the System 27.97.192.4
+
+
+[23-01-2015:11:42:43 PM] : B2KQA34 has logged in to IDSIL / PJO using the System 27.97.192.4
+
+
+[24-01-2015:12:50:39 AM] : B2KQA34 has picked a file 75441962 in IDSIL / PJO
+
+
+[24-01-2015:3:39:37 AM] : B2KQA34 has uploaded a file 75441962 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[24-01-2015:3:40:56 AM] : B2KQA34 has picked a file 75432709 in IDSIL / PJO
+
+
+[24-01-2015:4:01:55 AM] : B2KQA34 has uploaded a file 75432709 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[24-01-2015:4:04:19 AM] : B2KQA34 has picked a file 75444683 in IDSIL / PJO
+
+
+[24-01-2015:4:38:55 AM] : B2KQA34 has uploaded a file 75444683 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[24-01-2015:4:41:00 AM] : B2KQA34 has picked a file 75434324 in IDSIL / PJO
+
+
+[24-01-2015:4:53:06 AM] : B2KQA34 has uploaded a file 75434324 to Hospital/Customer in IDSIL / PJO

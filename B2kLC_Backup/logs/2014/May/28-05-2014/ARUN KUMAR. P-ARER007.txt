@@ -1,0 +1,12 @@
+
+
+[28-05-2014:10:42:23 AM] : ARER007 has logged in to IDSIL / PJO using the System 115.241.57.129
+
+
+[28-05-2014:10:47:59 AM] : ARER007 has picked a file 70095630 in IDSIL / PJO
+
+
+[28-05-2014:10:49:41 AM] : ARER007 has picked a file 70063938 in IDSIL / PJO
+
+
+[28-05-2014:10:50:05 AM] : ARER007 has uploaded a file 70063938 to IDS/QA_Checkpoint in IDSIL / PJO

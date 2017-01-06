@@ -1,0 +1,117 @@
+
+
+[12-02-2013:10:20:59 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[12-02-2013:10:22:20 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[12-02-2013:10:27:44 AM] : ADMIN has added Employee Details[NANDAKUMAR] into the Database
+
+
+[12-02-2013:10:28:07 AM] : ADMIN has Viewed Employee Details
+
+
+[12-02-2013:10:28:12 AM] : ADMIN has Viewed Employee Details
+
+
+[12-02-2013:10:28:52 AM] : ADMIN has logged out from the Linecount Software Using the System 59.90.86.47
+
+
+[12-02-2013:10:31:48 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[12-02-2013:10:32:13 AM] : ADMIN has Viewed Employee Details
+
+
+[12-02-2013:10:32:19 AM] : ADMIN has Viewed Employee Details
+
+
+[12-02-2013:10:32:20 AM] : ADMIN has Viewed Employee Details
+
+
+[12-02-2013:10:32:41 AM] : ADMIN has Viewed Employee Details
+
+
+[12-02-2013:10:47:24 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+[12-02-2013:10:51:10 AM] : ADMIN has added Attendanec Details into the Database
+
+[12-02-2013:10:53:26 AM] : ADMIN has added Attendanec Details into the Database
+
+[12-02-2013:11:10:24 AM] : ADMIN has Approved Leave request from the ID B2KMLS021 on 2013-02-15.
+
+[12-02-2013:11:10:39 AM] : ADMIN has Half day Allowed Leave request from the ID B2KMLS022 on 2013-02-15.
+
+[12-02-2013:11:11:14 AM] : ADMIN has Approved Leave request from the ID B2KMLS006 on 2013-02-13.
+
+[12-02-2013:11:12:11 AM] : ADMIN has Approved Leave request from the ID B2KMLS012 on 2013-02-13.
+
+[12-02-2013:11:12:11 AM] : ADMIN has Approved Leave request from the ID B2KMLS012 on 2013-02-13.
+
+[12-02-2013:11:12:47 AM] : ADMIN has Rejected Leave request from the ID B2KER004 on 2013-02-14.
+
+
+[12-02-2013:11:47:12 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[12-02-2013:12:05:25 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[12-02-2013:12:28:04 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[12-02-2013:1:06:41 PM] : ADMIN has logged out from the Linecount Software Using the System 59.90.86.47
+
+
+[12-02-2013:1:06:59 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[12-02-2013:1:13:42 PM] : ADMIN has Viewed Employee Details
+
+
+[12-02-2013:1:23:05 PM] : ADMIN has Viewed Employee Details
+
+
+[12-02-2013:1:23:44 PM] : ADMIN has Viewed Employee Details
+
+
+[12-02-2013:1:24:23 PM] : ADMIN has Viewed Employee Details
+
+
+[12-02-2013:1:36:37 PM] : ADMIN has Viewed Employee Details
+
+
+[12-02-2013:1:39:13 PM] : ADMIN has Viewed Employee Details
+
+
+[12-02-2013:1:52:52 PM] : ADMIN has logged out from the Linecount Software Using the System 59.90.86.47
+
+
+[12-02-2013:1:56:28 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[12-02-2013:3:20:22 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[12-02-2013:3:38:58 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[12-02-2013:3:39:42 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[12-02-2013:4:13:54 PM] : ADMIN has Viewed Employee Details
+
+
+[12-02-2013:4:17:08 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[12-02-2013:4:22:52 PM] : ADMIN has logged in to Admin page using the System 117.213.64.41
+
+[12-02-2013:4:23:05 PM] : ADMIN has viewed Bank Details
+
+
+[12-02-2013:4:28:24 PM] : ADMIN has logged out from the Linecount Software Using the System 117.213.64.41
+
+
+[12-02-2013:4:56:26 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47

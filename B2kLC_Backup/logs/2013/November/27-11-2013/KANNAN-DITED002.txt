@@ -1,0 +1,30 @@
+
+
+[27-11-2013:4:38:01 PM] : DITED002 has logged in to IDSIL / PJO using the System 117.203.101.154
+
+
+[27-11-2013:4:38:17 PM] : DITED002 has picked a file 65036378 in IDSIL / PJO
+
+
+[27-11-2013:4:38:20 PM] : DITED002 has uploaded a file 65036378 to Hospital/Customer in IDSIL / PJO
+
+
+[27-11-2013:4:38:28 PM] : DITED002 has picked a file 65039979 in IDSIL / PJO
+
+
+[27-11-2013:4:38:32 PM] : DITED002 has uploaded a file 65039979 to Hospital/Customer in IDSIL / PJO
+
+
+[27-11-2013:4:38:39 PM] : DITED002 has picked a file 65049955 in IDSIL / PJO
+
+
+[27-11-2013:4:38:43 PM] : DITED002 has uploaded a file 65049955 to Hospital/Customer in IDSIL / PJO
+
+
+[27-11-2013:4:38:51 PM] : DITED002 has picked a file 65050029 in IDSIL / PJO
+
+
+[27-11-2013:4:38:55 PM] : DITED002 has uploaded a file 65050029 to Hospital/Customer in IDSIL / PJO
+
+
+[27-11-2013:4:39:45 PM] : DITED002 has logged out from the Linecount Software Using the System 117.203.101.154

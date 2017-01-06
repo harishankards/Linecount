@@ -1,0 +1,34 @@
+
+
+[24-11-2013:8:33:19 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[24-11-2013:9:27:27 AM] : ADMIN has Viewed Employee Details
+
+
+[24-11-2013:9:49:57 AM] : ADMIN has Viewed Employee Details
+
+
+[24-11-2013:10:43:56 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[24-11-2013:11:33:41 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[24-11-2013:12:41:51 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+[24-11-2013:1:18:12 PM] : ADMIN has Deleted the details of the file 65575853.
+
+
+[24-11-2013:2:43:11 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[24-11-2013:3:11:57 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[24-11-2013:3:12:16 PM] : ADMIN has Approved Leave request from the ID B2KHTER013 on 2013-11-25.
+
+
+[24-11-2013:3:26:26 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[24-11-2013:4:15:34 PM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35

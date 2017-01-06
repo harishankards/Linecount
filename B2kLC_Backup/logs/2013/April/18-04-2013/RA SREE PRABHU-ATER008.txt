@@ -1,0 +1,99 @@
+
+
+[18-04-2013:11:42:59 AM] : ATER008 has logged in to IDSIL / PJO using the System 117.218.59.252
+
+
+[18-04-2013:11:43:58 AM] : ATER008 has uploaded a file 59685619 to Hospital/Customer in IDSIL / PJO
+
+
+[18-04-2013:11:44:24 AM] : ATER008 has viewed the Edited file details in IDSIL/PJO from 2013-04-01 to 2013-04-18
+
+
+[18-04-2013:1:38:14 PM] : ATER008 has logged in to IDSIL / PJO using the System 117.218.59.252
+
+
+[18-04-2013:1:38:52 PM] : ATER008 has viewed the Edited file details in IDSIL/PJO from 2013-04-01 to 2013-04-18
+
+
+[18-04-2013:1:38:59 PM] : ATER008 has Downloaded a file details in IDSIL / PJO from 2013-04-01 to 2013-04-18
+
+
+[18-04-2013:1:59:39 PM] : ATER008 has picked a file 59718018 in IDSIL / PJO
+
+
+[18-04-2013:2:28:25 PM] : ATER008 has uploaded a file 59718018 to Hospital/Customer in IDSIL / PJO
+
+
+[18-04-2013:3:10:25 PM] : ATER008 has logged in to IDSIL / PJO using the System 117.218.59.252
+
+
+[18-04-2013:3:17:03 PM] : ATER008 has picked a file 59657383 in IDSIL / PJO
+
+
+[18-04-2013:3:33:04 PM] : ATER008 has uploaded a file 59657383 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[18-04-2013:3:36:25 PM] : ATER008 has picked a file 59660703 in IDSIL / PJO
+
+
+[18-04-2013:3:55:57 PM] : ATER008 has uploaded a file 59660703 to Hospital/Customer in IDSIL / PJO
+
+
+[18-04-2013:4:01:26 PM] : ATER008 has picked a file 59662158 in IDSIL / PJO
+
+
+[18-04-2013:4:02:21 PM] : ATER008 has uploaded a file 59662158 to Hospital/Customer in IDSIL / PJO
+
+
+[18-04-2013:4:25:40 PM] : ATER008 has picked a file 59662653 in IDSIL / PJO
+
+
+[18-04-2013:4:25:58 PM] : ATER008 has uploaded a file 59662653 to Hospital/Customer in IDSIL / PJO
+
+
+[18-04-2013:4:32:50 PM] : ATER008 has picked a file 59663907 in IDSIL / PJO
+
+
+[18-04-2013:4:41:12 PM] : ATER008 has uploaded a file 59663907 to Hospital/Customer in IDSIL / PJO
+
+
+[18-04-2013:4:45:22 PM] :  has uploaded a DUP file  in IDSIL / PJO
+
+
+[18-04-2013:4:52:46 PM] : ATER008 has picked a file 59708985 in IDSIL / PJO
+
+
+[18-04-2013:5:53:00 PM] : ATER008 has logged in to IDSIL / PJO using the System 117.218.59.252
+
+
+[18-04-2013:5:53:32 PM] : ATER008 has uploaded a file 59708985 to Hospital/Customer in IDSIL / PJO
+
+
+[18-04-2013:6:41:53 PM] : ATER008 has logged in to IDSIL / PJO using the System 117.218.59.252
+
+
+[18-04-2013:6:43:03 PM] : ATER008 has logged out from the Linecount Software Using the System 117.218.59.252
+
+
+[18-04-2013:7:16:31 PM] : ATER008 has logged in to IDSIL / PJO using the System 117.218.59.252
+
+
+[18-04-2013:7:22:23 PM] : ATER008 has picked a file 59705294 in IDSIL / PJO
+
+
+[18-04-2013:8:07:00 PM] : ATER008 has logged in to IDSIL / PJO using the System 117.218.59.252
+
+
+[18-04-2013:8:11:53 PM] : ATER008 has uploaded a file 59705294 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[18-04-2013:8:12:14 PM] : ATER008 has picked a file 59670476 in IDSIL / PJO
+
+
+[18-04-2013:8:22:51 PM] : ATER008 has uploaded a file 59670476 to Hospital/Customer in IDSIL / PJO
+
+
+[18-04-2013:8:29:10 PM] : ATER008 has picked a file 59668311 in IDSIL / PJO
+
+
+[18-04-2013:8:33:31 PM] : ATER008 has uploaded a file 59668311 to Hospital/Customer in IDSIL / PJO

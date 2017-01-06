@@ -1,0 +1,27 @@
+
+
+[02-06-2015:10:04:34 AM] : B2KQA33 has logged in to IDSIL / PJO using the System 59.90.86.47
+
+
+[02-06-2015:10:13:49 AM] : B2KQA33 has picked a file 92113235 in IDSIL / PJO
+
+
+[02-06-2015:12:10:31 PM] : B2KQA33 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[02-06-2015:12:10:39 PM] : B2KQA33 has uploaded a file 92113235 to Hospital/Customer in IDSIL / PJO
+
+
+[02-06-2015:12:27:56 PM] : B2KQA33 has added a Audit file 92108731 in IDSIL / PJO 
+
+
+[02-06-2015:12:30:05 PM] : B2KQA33 has picked a file 92115986 in IDSIL / PJO
+
+
+[02-06-2015:2:55:38 PM] : B2KQA33 has uploaded a file 92115986 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[02-06-2015:2:55:49 PM] : B2KQA33 has picked a file 92116361 in IDSIL / PJO
+
+
+[02-06-2015:4:13:58 PM] : B2KQA33 has logged in to IDSIL / PJO using the System 123.255.248.35

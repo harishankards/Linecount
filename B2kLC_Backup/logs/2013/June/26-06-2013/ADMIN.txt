@@ -1,0 +1,55 @@
+
+
+[26-06-2013:10:30:31 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[26-06-2013:12:53:57 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[26-06-2013:1:11:16 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[26-06-2013:1:23:21 PM] : ADMIN has Deleted the details of the file 61667787.
+
+
+[26-06-2013:1:48:38 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[26-06-2013:1:53:41 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[26-06-2013:1:53:48 PM] : ADMIN has Viewed Employee Details
+
+
+[26-06-2013:1:54:29 PM] : ADMIN has Viewed Employee Details
+
+
+[26-06-2013:1:54:32 PM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[26-06-2013:3:46:07 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[26-06-2013:3:54:47 PM] : ADMIN has Deleted the details of the file 61667724.
+
+[26-06-2013:4:32:13 PM] : ADMIN has Deleted the details of the file 61667562.
+
+[26-06-2013:5:43:10 PM] : ADMIN has Deleted the details of the file 61476105.
+
+[26-06-2013:5:43:28 PM] : ADMIN has Deleted the details of the file 61634842.
+
+[26-06-2013:5:43:44 PM] : ADMIN has Deleted the details of the file 61585093.
+
+[26-06-2013:5:44:04 PM] : ADMIN has Deleted the details of the file 61578570.
+
+
+[26-06-2013:8:41:42 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[26-06-2013:9:26:52 PM] : ADMIN has Viewed Employee Details
+
+
+[26-06-2013:9:26:58 PM] : ADMIN has Viewed Employee Details
+
+[26-06-2013:9:27:31 PM] : ADMIN has Viewed Employee Details
+
+
+[26-06-2013:9:30:13 PM] : ADMIN has added Employee Details[MEENAKSHI] into the Database

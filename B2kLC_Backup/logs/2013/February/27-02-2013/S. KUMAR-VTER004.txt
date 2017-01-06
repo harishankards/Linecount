@@ -1,0 +1,198 @@
+
+
+[27-02-2013:11:59:03 AM] : VTER004 has logged in to IDSIL / PJO using the System 122.169.144.192
+
+
+[27-02-2013:12:00:56 PM] : VTER004 has picked a file 58155583 in IDSIL / PJO
+
+
+[27-02-2013:12:04:22 PM] : VTER004 has picked a file 58156802 in IDSIL / PJO
+
+
+[27-02-2013:12:06:16 PM] : VTER004 has picked a file 58156920 in IDSIL / PJO
+
+
+[27-02-2013:12:06:46 PM] : VTER004 has uploaded a file 58155583 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[27-02-2013:12:10:06 PM] : VTER004 has uploaded a file 58156802 to Hospital/Customer in IDSIL / PJO
+
+
+[27-02-2013:12:13:23 PM] : VTER004 has uploaded a file 58156920 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[27-02-2013:12:16:57 PM] : VTER004 has picked a file 58156966 in IDSIL / PJO
+
+
+[27-02-2013:12:19:46 PM] : VTER004 has picked a file 58142518 in IDSIL / PJO
+
+
+[27-02-2013:12:23:46 PM] : VTER004 has uploaded a file 58156966 to Hospital/Customer in IDSIL / PJO
+
+
+[27-02-2013:12:26:45 PM] : VTER004 has picked a file 58144319 in IDSIL / PJO
+
+
+[27-02-2013:12:27:02 PM] : VTER004 has uploaded a file 58144319 to Hospital/Customer in IDSIL / PJO
+
+
+[27-02-2013:12:29:12 PM] : VTER004 has uploaded a file 58142518 to Hospital/Customer in IDSIL / PJO
+
+
+[27-02-2013:12:39:08 PM] : VTER004 has picked a file 58157023 in IDSIL / PJO
+
+
+[27-02-2013:12:39:13 PM] : VTER004 has uploaded a file 58157023 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[27-02-2013:12:44:50 PM] : VTER004 has picked a file 58147756 in IDSIL / PJO
+
+
+[27-02-2013:12:46:28 PM] : VTER004 has picked a file 58149959 in IDSIL / PJO
+
+
+[27-02-2013:12:48:04 PM] : VTER004 has picked a file 58150994 in IDSIL / PJO
+
+
+[27-02-2013:1:02:15 PM] : VTER004 has uploaded a file 58147756 to Hospital/Customer in IDSIL / PJO
+
+
+[27-02-2013:1:06:30 PM] : VTER004 has picked a file 58154674 in IDSIL / PJO
+
+
+[27-02-2013:1:08:07 PM] : VTER004 has picked a file 58122277 in IDSIL / PJO
+
+
+[27-02-2013:1:09:04 PM] : VTER004 has uploaded a file 58149959 to Hospital/Customer in IDSIL / PJO
+
+
+[27-02-2013:1:11:21 PM] : VTER004 has uploaded a file 58150994 to Hospital/Customer in IDSIL / PJO
+
+
+[27-02-2013:1:13:38 PM] : VTER004 has uploaded a file 58154674 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[27-02-2013:1:15:40 PM] : VTER004 has uploaded a file 58122277 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[27-02-2013:1:19:17 PM] : VTER004 has picked a file 58152537 in IDSIL / PJO
+
+
+[27-02-2013:1:20:48 PM] : VTER004 has picked a file 58123188 in IDSIL / PJO
+
+
+[27-02-2013:1:22:19 PM] : VTER004 has picked a file 58155363 in IDSIL / PJO
+
+
+[27-02-2013:1:23:51 PM] : VTER004 has picked a file 58155539 in IDSIL / PJO
+
+
+[27-02-2013:1:25:24 PM] : VTER004 has picked a file 58155692 in IDSIL / PJO
+
+
+[27-02-2013:1:25:58 PM] : VTER004 has uploaded a file 58155539 to Hospital/Customer in IDSIL / PJO
+
+
+[27-02-2013:1:27:44 PM] : VTER004 has uploaded a file 58155363 to Hospital/Customer in IDSIL / PJO
+
+
+[27-02-2013:1:29:36 PM] : VTER004 has uploaded a file 58155692 to Hospital/Customer in IDSIL / PJO
+
+
+[27-02-2013:1:32:06 PM] : VTER004 has uploaded a file 58123188 to Hospital/Customer in IDSIL / PJO
+
+
+[27-02-2013:1:34:18 PM] : VTER004 has uploaded a file 58152537 to Hospital/Customer in IDSIL / PJO
+
+
+[27-02-2013:1:37:32 PM] : VTER004 has picked a file 58138449 in IDSIL / PJO
+
+
+[27-02-2013:1:38:53 PM] : VTER004 has picked a file 58153531 in IDSIL / PJO
+
+
+[27-02-2013:1:40:22 PM] : VTER004 has picked a file 58124630 in IDSIL / PJO
+
+
+[27-02-2013:1:41:48 PM] : VTER004 has picked a file 58157523 in IDSIL / PJO
+
+
+[27-02-2013:1:48:09 PM] : VTER004 has picked a file 58133373 in IDSIL / PJO
+
+
+[27-02-2013:1:48:18 PM] : VTER004 has uploaded a file 58133373 to Hospital/Customer in IDSIL / PJO
+
+
+[27-02-2013:1:51:21 PM] : VTER004 has uploaded a file 58157523 to Hospital/Customer in IDSIL / PJO
+
+
+[27-02-2013:1:52:59 PM] : VTER004 has uploaded a file 58138449 to Hospital/Customer in IDSIL / PJO
+
+
+[27-02-2013:1:54:42 PM] : VTER004 has uploaded a file 58124630 to Hospital/Customer in IDSIL / PJO
+
+
+[27-02-2013:1:57:21 PM] : VTER004 has uploaded a file 58153531 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[27-02-2013:2:10:21 PM] : VTER004 has picked a file 58134202 in IDSIL / PJO
+
+
+[27-02-2013:2:12:27 PM] : VTER004 has picked a file 58157945 in IDSIL / PJO
+
+
+[27-02-2013:2:14:41 PM] : VTER004 has picked a file 58136084 in IDSIL / PJO
+
+
+[27-02-2013:2:15:35 PM] : VTER004 has uploaded a file 58134202 to Hospital/Customer in IDSIL / PJO
+
+
+[27-02-2013:2:16:40 PM] : VTER004 has uploaded a file 58157945 to Hospital/Customer in IDSIL / PJO
+
+
+[27-02-2013:2:17:57 PM] : VTER004 has uploaded a file 58136084 to Hospital/Customer in IDSIL / PJO
+
+
+[27-02-2013:2:20:04 PM] : VTER004 has picked a file 58134816 in IDSIL / PJO
+
+
+[27-02-2013:2:20:59 PM] : VTER004 has picked a file 58143000 in IDSIL / PJO
+
+
+[27-02-2013:2:21:50 PM] : VTER004 has picked a file 58145309 in IDSIL / PJO
+
+
+[27-02-2013:2:23:29 PM] : VTER004 has picked a file 58146725 in IDSIL / PJO
+
+
+[27-02-2013:2:24:24 PM] : VTER004 has picked a file 58146815 in IDSIL / PJO
+
+
+[27-02-2013:2:28:12 PM] : VTER004 has uploaded a file 58146815 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[27-02-2013:2:29:51 PM] : VTER004 has uploaded a file 58146725 to Hospital/Customer in IDSIL / PJO
+
+
+[27-02-2013:2:31:44 PM] : VTER004 has uploaded a file 58145309 to Hospital/Customer in IDSIL / PJO
+
+
+[27-02-2013:2:32:51 PM] : VTER004 has uploaded a file 58143000 to Hospital/Customer in IDSIL / PJO
+
+
+[27-02-2013:2:34:26 PM] : VTER004 has picked a file 58158033 in IDSIL / PJO
+
+
+[27-02-2013:2:35:19 PM] : VTER004 has uploaded a file 58134816 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[27-02-2013:2:38:38 PM] : VTER004 has uploaded a file 58158033 to Hospital/Customer in IDSIL / PJO
+
+
+[27-02-2013:2:38:48 PM] : VTER004 has viewed the Edited file details in IDSIL/PJO from 2013-02-27 to 2013-02-27
+
+
+[27-02-2013:2:38:56 PM] : VTER004 has viewed the Edited file details in IDSIL/PJO from 2013-02-01 to 2013-02-27
+
+
+[27-02-2013:2:39:44 PM] : VTER004 has logged out from the Linecount Software Using the System 122.169.144.192

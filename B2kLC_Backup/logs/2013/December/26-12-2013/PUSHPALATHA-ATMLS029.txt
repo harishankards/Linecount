@@ -1,0 +1,66 @@
+
+
+[26-12-2013:8:52:44 AM] : ATMLS029 has logged in to IDSIL / PJO using the System 202.129.197.58
+
+
+[26-12-2013:8:53:46 AM] : ATMLS029 has picked a file 66257367 in IDSIL / PJO
+
+
+[26-12-2013:8:54:00 AM] : ATMLS029 has uploaded a file 66257367 to Hospital/Customer in IDSIL / PJO
+
+
+[26-12-2013:8:54:27 AM] : ATMLS029 has picked a file 66257764 in IDSIL / PJO
+
+
+[26-12-2013:8:54:40 AM] : ATMLS029 has uploaded a file 66257764 to Hospital/Customer in IDSIL / PJO
+
+
+[26-12-2013:9:06:45 AM] : ATMLS029 has picked a file 66258675 in IDSIL / PJO
+
+
+[26-12-2013:9:06:53 AM] : ATMLS029 has uploaded a file 66258675 to Hospital/Customer in IDSIL / PJO
+
+
+[26-12-2013:9:21:51 AM] : ATMLS029 has picked a file 66259287 in IDSIL / PJO
+
+
+[26-12-2013:9:22:01 AM] : ATMLS029 has uploaded a file 66259287 to Hospital/Customer in IDSIL / PJO
+
+
+[26-12-2013:10:02:25 AM] : ATMLS029 has picked a file 66257431 in IDSIL / PJO
+
+
+[26-12-2013:10:02:34 AM] : ATMLS029 has uploaded a file 66257431 to Hospital/Customer in IDSIL / PJO
+
+
+[26-12-2013:10:04:16 AM] : ATMLS029 has picked a file 66244477 in IDSIL / PJO
+
+
+[26-12-2013:10:04:36 AM] : ATMLS029 has uploaded a file 66244477 to Hospital/Customer in IDSIL / PJO
+
+
+[26-12-2013:10:20:55 AM] : ATMLS029 has logged in to IDSIL / PJO using the System 202.129.197.58
+
+
+[26-12-2013:10:21:12 AM] : ATMLS029 has picked a file 66259266 in IDSIL / PJO
+
+
+[26-12-2013:10:21:18 AM] : ATMLS029 has uploaded a file 66259266 to Hospital/Customer in IDSIL / PJO
+
+
+[26-12-2013:10:32:04 AM] : ATMLS029 has picked a file 66261448 in IDSIL / PJO
+
+
+[26-12-2013:10:32:18 AM] : ATMLS029 has uploaded a file 66261448 to Hospital/Customer in IDSIL / PJO
+
+
+[26-12-2013:11:09:09 AM] : ATMLS029 has picked a file 66259958 in IDSIL / PJO
+
+
+[26-12-2013:11:09:19 AM] : ATMLS029 has uploaded a file 66259958 to Hospital/Customer in IDSIL / PJO
+
+
+[26-12-2013:11:14:38 AM] : ATMLS029 has viewed the Edited file details in IDSIL/PJO from 2013-12-01 to 2013-12-26
+
+
+[26-12-2013:11:15:36 AM] : ATMLS029 has viewed the Audit file details in IDSIL / PJO from 2013-12-01 to 2013-12-26

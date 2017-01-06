@@ -1,0 +1,33 @@
+
+
+[07-07-2014:6:06:00 AM] : B2KER006 has logged in to IDSIL / PJO using the System 101.222.232.62
+
+
+[07-07-2014:6:06:33 AM] : B2KER006 has picked a file 90704775 in IDSIL / PJO
+
+
+[07-07-2014:6:06:39 AM] : B2KER006 has uploaded a file 90704775 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[07-07-2014:6:14:42 AM] : B2KER006 has picked a file 90704777 in IDSIL / PJO
+
+
+[07-07-2014:6:14:47 AM] : B2KER006 has uploaded a file 90704777 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[07-07-2014:7:09:44 AM] :  has uploaded a DUP file 71017770 in IDSIL / PJO
+
+
+[07-07-2014:8:25:15 AM] :  has uploaded a DUP file 71019562 in IDSIL / PJO
+
+
+[07-07-2014:9:07:39 AM] :  has uploaded a DUP file 71019745 in IDSIL / PJO
+
+
+[07-07-2014:10:05:47 AM] :  has uploaded a DUP file 71018109 in IDSIL / PJO
+
+
+[07-07-2014:10:36:38 AM] :  has uploaded a DUP file 71018187 in IDSIL / PJO
+
+
+[07-07-2014:10:46:44 AM] : B2KER006 has logged out from the Linecount Software Using the System 101.222.234.79

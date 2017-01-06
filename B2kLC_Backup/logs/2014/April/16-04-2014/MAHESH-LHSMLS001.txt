@@ -1,0 +1,12 @@
+
+
+[16-04-2014:2:28:22 PM] : LHSMLS001 has logged in to IDSIL / PJO using the System 122.178.162.37
+
+
+[16-04-2014:2:28:37 PM] : LHSMLS001 has viewed the file details in IDSIL / PJO from 2014-04-01 to 2014-04-16
+
+
+[16-04-2014:2:28:44 PM] : LHSMLS001 has Downloaded a file details in IDSIL / PJO from 2014-04-01 to 2014-04-16
+
+
+[16-04-2014:2:29:57 PM] : LHSMLS001 has logged out from the Linecount Software Using the System 122.178.162.37

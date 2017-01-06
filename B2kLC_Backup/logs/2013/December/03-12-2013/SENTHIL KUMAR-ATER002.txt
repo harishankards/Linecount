@@ -1,0 +1,219 @@
+
+
+[03-12-2013:4:40:01 AM] : ATER002 has logged in to IDSIL / PJO using the System 124.125.41.110
+
+
+[03-12-2013:4:43:07 AM] : ATER002 has logged out from the Linecount Software Using the System 124.125.41.110
+
+
+[03-12-2013:1:29:22 PM] : ATER002 has logged in to IDSIL / PJO using the System 124.125.41.110
+
+
+[03-12-2013:1:29:30 PM] : ATER002 has picked a file 65746792 in IDSIL / PJO
+
+
+[03-12-2013:1:38:28 PM] : ATER002 has uploaded a file 65746792 to Hospital/Customer in IDSIL / PJO
+
+
+[03-12-2013:1:39:26 PM] : ATER002 has picked a file 65747056 in IDSIL / PJO
+
+
+[03-12-2013:1:45:18 PM] : ATER002 has uploaded a file 65747056 to Hospital/Customer in IDSIL / PJO
+
+
+[03-12-2013:1:46:08 PM] : ATER002 has picked a file 65767266 in IDSIL / PJO
+
+
+[03-12-2013:1:55:36 PM] : ATER002 has uploaded a file 65767266 to Hospital/Customer in IDSIL / PJO
+
+
+[03-12-2013:1:56:32 PM] : ATER002 has picked a file 65749465 in IDSIL / PJO
+
+
+[03-12-2013:2:03:46 PM] : ATER002 has uploaded a file 65749465 to Hospital/Customer in IDSIL / PJO
+
+
+[03-12-2013:2:05:31 PM] : ATER002 has picked a file 65750458 in IDSIL / PJO
+
+
+[03-12-2013:2:15:41 PM] : ATER002 has uploaded a file 65750458 to Hospital/Customer in IDSIL / PJO
+
+
+[03-12-2013:2:16:29 PM] : ATER002 has picked a file 65750788 in IDSIL / PJO
+
+
+[03-12-2013:2:21:39 PM] : ATER002 has uploaded a file 65750788 to Hospital/Customer in IDSIL / PJO
+
+
+[03-12-2013:2:22:19 PM] : ATER002 has picked a file 65750890 in IDSIL / PJO
+
+
+[03-12-2013:2:26:48 PM] : ATER002 has uploaded a file 65750890 to Hospital/Customer in IDSIL / PJO
+
+
+[03-12-2013:2:26:54 PM] : ATER002 has logged out from the Linecount Software Using the System 124.125.41.110
+
+
+[03-12-2013:4:42:24 PM] : ATER002 has logged in to IDSIL / PJO using the System 124.125.41.110
+
+
+[03-12-2013:4:42:43 PM] : ATER002 has picked a file 65751756 in IDSIL / PJO
+
+
+[03-12-2013:4:50:51 PM] : ATER002 has uploaded a file 65751756 to Hospital/Customer in IDSIL / PJO
+
+
+[03-12-2013:4:54:26 PM] : ATER002 has picked a file 65753464 in IDSIL / PJO
+
+
+[03-12-2013:5:01:13 PM] : ATER002 has uploaded a file 65753464 to Hospital/Customer in IDSIL / PJO
+
+
+[03-12-2013:5:03:11 PM] : ATER002 has picked a file 65753689 in IDSIL / PJO
+
+
+[03-12-2013:5:06:31 PM] : ATER002 has uploaded a file 65753689 to Hospital/Customer in IDSIL / PJO
+
+
+[03-12-2013:5:07:49 PM] : ATER002 has picked a file 65753728 in IDSIL / PJO
+
+
+[03-12-2013:5:13:19 PM] : ATER002 has uploaded a file 65753728 to Hospital/Customer in IDSIL / PJO
+
+
+[03-12-2013:5:14:05 PM] : ATER002 has picked a file 65754079 in IDSIL / PJO
+
+
+[03-12-2013:5:17:56 PM] : ATER002 has uploaded a file 65754079 to Hospital/Customer in IDSIL / PJO
+
+
+[03-12-2013:5:49:25 PM] : ATER002 has picked a file 65755163 in IDSIL / PJO
+
+
+[03-12-2013:5:52:54 PM] : ATER002 has uploaded a file 65755163 to Hospital/Customer in IDSIL / PJO
+
+
+[03-12-2013:5:53:37 PM] : ATER002 has picked a file 65755134 in IDSIL / PJO
+
+
+[03-12-2013:6:00:28 PM] : ATER002 has uploaded a file 65755134 to Hospital/Customer in IDSIL / PJO
+
+
+[03-12-2013:6:01:09 PM] : ATER002 has picked a file 65768983 in IDSIL / PJO
+
+
+[03-12-2013:6:23:29 PM] : ATER002 has uploaded a file 65768983 to Hospital/Customer in IDSIL / PJO
+
+
+[03-12-2013:6:25:09 PM] : ATER002 has picked a file 65757101 in IDSIL / PJO
+
+
+[03-12-2013:6:26:59 PM] : ATER002 has uploaded a file 65757101 to Hospital/Customer in IDSIL / PJO
+
+
+[03-12-2013:6:39:54 PM] : ATER002 has picked a file 65758913 in IDSIL / PJO
+
+
+[03-12-2013:6:44:35 PM] : ATER002 has uploaded a file 65758913 to Hospital/Customer in IDSIL / PJO
+
+
+[03-12-2013:6:45:21 PM] : ATER002 has picked a file 65759302 in IDSIL / PJO
+
+
+[03-12-2013:6:51:09 PM] : ATER002 has uploaded a file 65759302 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[03-12-2013:8:32:22 PM] : ATER002 has logged in to IDSIL / PJO using the System 124.125.41.110
+
+
+[03-12-2013:8:34:31 PM] :  has uploaded a DUP file 65761684 in IDSIL / PJO
+
+
+[03-12-2013:8:34:51 PM] :  has uploaded a DUP file 65761847 in IDSIL / PJO
+
+
+[03-12-2013:8:35:02 PM] :  has uploaded a DUP file 65764104 in IDSIL / PJO
+
+
+[03-12-2013:8:35:13 PM] :  has uploaded a DUP file 65760488 in IDSIL / PJO
+
+
+[03-12-2013:8:35:26 PM] :  has uploaded a DUP file 65764886 in IDSIL / PJO
+
+
+[03-12-2013:8:35:36 PM] :  has uploaded a DUP file 65746729 in IDSIL / PJO
+
+
+[03-12-2013:8:35:46 PM] :  has uploaded a DUP file 65746799 in IDSIL / PJO
+
+
+[03-12-2013:8:35:56 PM] :  has uploaded a DUP file 65747308 in IDSIL / PJO
+
+
+[03-12-2013:8:36:06 PM] :  has uploaded a DUP file 65747475 in IDSIL / PJO
+
+
+[03-12-2013:8:36:18 PM] :  has uploaded a DUP file 65748258 in IDSIL / PJO
+
+
+[03-12-2013:8:36:29 PM] :  has uploaded a DUP file 65748387 in IDSIL / PJO
+
+
+[03-12-2013:8:36:40 PM] :  has uploaded a DUP file 65748280 in IDSIL / PJO
+
+
+[03-12-2013:8:36:54 PM] :  has uploaded a DUP file 65748667 in IDSIL / PJO
+
+
+[03-12-2013:8:37:05 PM] :  has uploaded a DUP file 65749318 in IDSIL / PJO
+
+
+[03-12-2013:8:37:15 PM] :  has uploaded a DUP file 65749169 in IDSIL / PJO
+
+
+[03-12-2013:8:37:25 PM] :  has uploaded a DUP file 65750441 in IDSIL / PJO
+
+
+[03-12-2013:8:37:36 PM] :  has uploaded a DUP file 65750841 in IDSIL / PJO
+
+
+[03-12-2013:8:37:47 PM] :  has uploaded a DUP file 65751593 in IDSIL / PJO
+
+
+[03-12-2013:8:38:03 PM] :  has uploaded a DUP file 65751044 in IDSIL / PJO
+
+
+[03-12-2013:8:38:16 PM] :  has uploaded a DUP file 65752861 in IDSIL / PJO
+
+
+[03-12-2013:8:38:28 PM] :  has uploaded a DUP file 65754229 in IDSIL / PJO
+
+
+[03-12-2013:8:38:37 PM] :  has uploaded a DUP file 65756388 in IDSIL / PJO
+
+
+[03-12-2013:8:38:47 PM] :  has uploaded a DUP file 65758650 in IDSIL / PJO
+
+
+[03-12-2013:8:38:56 PM] :  has uploaded a DUP file 65759271 in IDSIL / PJO
+
+
+[03-12-2013:8:39:08 PM] :  has uploaded a DUP file 65759563 in IDSIL / PJO
+
+
+[03-12-2013:8:39:21 PM] :  has uploaded a DUP file 65761190 in IDSIL / PJO
+
+
+[03-12-2013:8:39:32 PM] :  has uploaded a DUP file 65764603 in IDSIL / PJO
+
+
+[03-12-2013:8:39:44 PM] :  has uploaded a DUP file 65771905 in IDSIL / PJO
+
+
+[03-12-2013:8:39:54 PM] : ATER002 has viewed the DUP file details in IDSIL/PJO from 2013-12-03 to 2013-12-03
+
+
+[03-12-2013:8:39:56 PM] : ATER002 has viewed the DUP file details in IDSIL/PJO from 2013-12-03 to 2013-12-03
+
+
+[03-12-2013:8:41:25 PM] : ATER002 has logged out from the Linecount Software Using the System 124.125.41.110

@@ -1,0 +1,12 @@
+
+
+[30-01-2013:11:54:02 AM] : KTER001 has logged in to IDSIL / PJO using the System 111.92.80.69
+
+
+[30-01-2013:11:57:07 AM] : KTER001 has picked a file 57246357 in IDSIL / PJO
+
+
+[30-01-2013:11:57:18 AM] : KTER001 has uploaded a file 57246357 to Hospital/Customer in IDSIL / PJO
+
+
+[30-01-2013:11:57:31 AM] : KTER001 has logged out from the Linecount Software Using the System 111.92.80.69

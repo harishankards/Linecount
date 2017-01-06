@@ -1,0 +1,68 @@
+
+
+[29-03-2013:8:56:45 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[29-03-2013:11:06:39 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[29-03-2013:11:11:11 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[29-03-2013:11:18:51 AM] : ADMIN has updated Attendance Details for name
+
+
+[29-03-2013:11:38:33 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+[29-03-2013:11:53:49 AM] : ADMIN has updated Attendance Details for name
+
+
+[29-03-2013:12:00:10 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+[29-03-2013:12:03:14 PM] : ADMIN has added Attendanec Details into the Database
+
+
+[29-03-2013:12:11:32 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[29-03-2013:12:14:43 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+[29-03-2013:12:17:05 PM] : ADMIN has added Attendanec Details into the Database
+
+
+[29-03-2013:1:37:06 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[29-03-2013:2:41:29 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[29-03-2013:6:43:55 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[29-03-2013:6:44:13 PM] : ADMIN has Viewed Employee Details
+
+
+[29-03-2013:6:49:02 PM] : ADMIN has added Employee Details[MR. KRISHNAKUMAR] into the Database
+
+
+[29-03-2013:6:50:36 PM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[29-03-2013:6:51:42 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[29-03-2013:7:53:18 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[29-03-2013:7:53:24 PM] : ADMIN has Viewed Employee Details
+
+
+[29-03-2013:7:53:30 PM] : ADMIN has Viewed Employee Details
+
+
+[29-03-2013:7:53:49 PM] : ADMIN has Viewed Employee Details
+
+
+[29-03-2013:7:54:06 PM] : ADMIN has Viewed Employee Details
+
+
+[29-03-2013:7:54:58 PM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35

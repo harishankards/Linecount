@@ -1,0 +1,66 @@
+
+
+[08-04-2014:10:41:05 AM] : B2KER010 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[08-04-2014:11:20:12 AM] : B2KER010 has added a Audit file 68880615 in IDSIL / PJO 
+
+
+[08-04-2014:11:57:30 AM] : B2KER010 has added a Audit file 68882054 in IDSIL / PJO 
+
+
+[08-04-2014:12:17:25 PM] : B2KER010 has added a Audit file 68882197 in IDSIL / PJO 
+
+
+[08-04-2014:1:23:26 PM] : B2KER010 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[08-04-2014:1:23:44 PM] : B2KER010 has added a Audit file 68881639 in IDSIL / PJO 
+
+
+[08-04-2014:3:10:43 PM] : B2KER010 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[08-04-2014:4:09:30 PM] : B2KER010 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[08-04-2014:4:09:33 PM] : B2KER010 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[08-04-2014:4:09:41 PM] : B2KER010 has viewed the Audit file details in IDSIL / PJO from 2014-04-08 to 2014-04-08
+
+
+[08-04-2014:4:47:28 PM] : B2KER010 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[08-04-2014:4:47:29 PM] : B2KER010 has logged in to IDSIL / PJO using the System 123.255.248.35
+
+
+[08-04-2014:4:48:08 PM] : B2KER010 has added a Audit file 68881905 in IDSIL / PJO 
+
+
+[08-04-2014:5:12:16 PM] : B2KER010 has picked a file 68881505 in IDSIL / PJO
+
+
+[08-04-2014:5:12:28 PM] : B2KER010 has uploaded a file 68881505 to Hospital/Customer in IDSIL / PJO
+
+
+[08-04-2014:5:25:43 PM] : B2KER010 has picked a file 68882051 in IDSIL / PJO
+
+
+[08-04-2014:5:25:56 PM] : B2KER010 has added a Audit file 68882051 in IDSIL / PJO 
+
+
+[08-04-2014:5:26:29 PM] : B2KER010 has uploaded a file 68882051 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[08-04-2014:5:26:45 PM] : B2KER010 has viewed the Edited file details in IDSIL/PJO from 2014-04-08 to 2014-04-08
+
+
+[08-04-2014:5:27:00 PM] : B2KER010 has viewed the Audit file details in IDSIL / PJO from 2014-04-08 to 2014-04-08
+
+
+[08-04-2014:6:17:45 PM] :  has uploaded a DUP file 68882782 in IDSIL / PJO
+
+
+[08-04-2014:6:17:59 PM] : B2KER010 has logged out from the Linecount Software Using the System 123.255.248.35

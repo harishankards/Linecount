@@ -1,0 +1,50 @@
+
+
+[25-03-2013:12:29:12 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[25-03-2013:9:32:59 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[25-03-2013:9:40:46 AM] : ADMIN has Viewed Employee Details
+
+
+[25-03-2013:10:28:03 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[25-03-2013:10:42:16 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[25-03-2013:10:42:19 AM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[25-03-2013:10:42:40 AM] : ADMIN has Viewed Employee Details
+
+
+[25-03-2013:10:56:14 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[25-03-2013:12:03:22 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[25-03-2013:1:13:19 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[25-03-2013:1:19:19 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[25-03-2013:1:20:14 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[25-03-2013:1:21:55 PM] : ADMIN has added Attendanec Details into the Database
+
+
+[25-03-2013:2:45:50 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[25-03-2013:5:19:12 PM] : ADMIN has Viewed Employee Details
+
+
+[25-03-2013:6:02:27 PM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[25-03-2013:9:00:08 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47

@@ -1,0 +1,30 @@
+
+
+[05-07-2014:6:41:59 AM] : DITMLS003 has logged in to IDSIL / PJO using the System 122.178.157.123
+
+
+[05-07-2014:6:43:05 AM] : DITMLS003 has uploaded a DUP file 70994080 in IDSIL / PJO
+
+
+[05-07-2014:9:01:47 AM] : DITMLS003 has logged in to IDSIL / PJO using the System 122.178.183.47
+
+
+[05-07-2014:9:01:58 AM] : DITMLS003 has viewed the file details in IDSIL / PJO from 2014-07-04 to 2014-07-04
+
+
+[05-07-2014:9:02:09 AM] : DITMLS003 has Downloaded a file details in IDSIL / PJO from 2014-07-04 to 2014-07-04
+
+
+[05-07-2014:9:04:17 AM] : DITMLS003 has logged out from the Linecount Software Using the System 122.178.183.47
+
+
+[05-07-2014:4:57:17 PM] : DITMLS003 has logged in to IDSIL / PJO using the System 122.178.183.47
+
+
+[05-07-2014:4:57:24 PM] : DITMLS003 has viewed the file details in IDSIL / PJO from 2014-07-05 to 2014-07-05
+
+
+[05-07-2014:4:57:30 PM] : DITMLS003 has Downloaded a file details in IDSIL / PJO from 2014-07-05 to 2014-07-05
+
+
+[05-07-2014:4:57:58 PM] : DITMLS003 has logged out from the Linecount Software Using the System 122.178.183.47

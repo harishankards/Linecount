@@ -1,0 +1,207 @@
+
+
+[14-05-2014:9:43:05 AM] : SKPOER024 has logged in to IDSIL / PJO using the System 115.241.48.154
+
+
+[14-05-2014:9:44:07 AM] : SKPOER024 has logged in to IDSIL / PJO using the System 115.241.48.154
+
+
+[14-05-2014:9:44:56 AM] : SKPOER024 has picked a file 69753055 in IDSIL / PJO
+
+
+[14-05-2014:9:45:07 AM] : SKPOER024 has uploaded a file 69753055 to Hospital/Customer in IDSIL / PJO
+
+
+[14-05-2014:9:56:02 AM] : SKPOER024 has picked a file 69755059 in IDSIL / PJO
+
+
+[14-05-2014:11:11:03 AM] : SKPOER024 has logged in to IDSIL / PJO using the System 115.241.48.154
+
+
+[14-05-2014:11:11:19 AM] : SKPOER024 has picked a file 69757332 in IDSIL / PJO
+
+
+[14-05-2014:11:32:44 AM] : SKPOER024 has picked a file 69757376 in IDSIL / PJO
+
+
+[14-05-2014:11:55:35 AM] : SKPOER024 has picked a file 69764908 in IDSIL / PJO
+
+
+[14-05-2014:12:42:20 PM] : SKPOER024 has logged in to IDSIL / PJO using the System 115.241.69.18
+
+
+[14-05-2014:12:42:54 PM] : SKPOER024 has uploaded a file 69706663 to Hospital/Customer in IDSIL / PJO
+
+
+[14-05-2014:12:42:55 PM] : SKPOER024 has uploaded a file 69755059 to Hospital/Customer in IDSIL / PJO
+
+
+[14-05-2014:12:43:03 PM] : SKPOER024 has uploaded a file 69757376 to Hospital/Customer in IDSIL / PJO
+
+
+[14-05-2014:12:43:10 PM] : SKPOER024 has uploaded a file 69757332 to Hospital/Customer in IDSIL / PJO
+
+
+[14-05-2014:12:43:11 PM] : SKPOER024 has uploaded a file 69764908 to Hospital/Customer in IDSIL / PJO
+
+
+[14-05-2014:12:43:36 PM] : SKPOER024 has picked a file 69765835 in IDSIL / PJO
+
+
+[14-05-2014:12:43:42 PM] : SKPOER024 has uploaded a file 69765835 to Hospital/Customer in IDSIL / PJO
+
+
+[14-05-2014:1:06:55 PM] : SKPOER024 has picked a file 69766352 in IDSIL / PJO
+
+
+[14-05-2014:1:07:07 PM] : SKPOER024 has uploaded a file 69766352 to Hospital/Customer in IDSIL / PJO
+
+
+[14-05-2014:1:20:14 PM] : SKPOER024 has picked a file 69766508 in IDSIL / PJO
+
+
+[14-05-2014:1:29:25 PM] : SKPOER024 has picked a file 69766459 in IDSIL / PJO
+
+
+[14-05-2014:1:29:48 PM] : SKPOER024 has uploaded a file 69766459 to Hospital/Customer in IDSIL / PJO
+
+
+[14-05-2014:1:29:49 PM] : SKPOER024 has uploaded a file 69766508 to Hospital/Customer in IDSIL / PJO
+
+
+[14-05-2014:1:30:14 PM] : SKPOER024 has viewed the Audit file details in IDSIL / PJO from 2014-05-14 to 2014-05-14
+
+
+[14-05-2014:1:30:35 PM] : SKPOER024 has viewed the Edited file details in IDSIL/PJO from 2014-05-14 to 2014-05-14
+
+
+[14-05-2014:1:30:51 PM] : SKPOER024 has viewed the Edited file details in IDSIL/PJO from 2014-05-13 to 2014-05-14
+
+
+[14-05-2014:1:53:01 PM] : SKPOER024 has picked a file 69766686 in IDSIL / PJO
+
+
+[14-05-2014:1:53:35 PM] : SKPOER024 has uploaded a file 69766686 to Hospital/Customer in IDSIL / PJO
+
+
+[14-05-2014:2:10:21 PM] : SKPOER024 has picked a file 69766697 in IDSIL / PJO
+
+
+[14-05-2014:2:10:28 PM] : SKPOER024 has uploaded a file 69766697 to Hospital/Customer in IDSIL / PJO
+
+
+[14-05-2014:3:08:24 PM] : SKPOER024 has picked a file 69767228 in IDSIL / PJO
+
+
+[14-05-2014:3:09:56 PM] : SKPOER024 has viewed the Edited file details in IDSIL/PJO from 2014-05-01 to 2014-05-14
+
+
+[14-05-2014:3:11:05 PM] : SKPOER024 has picked a file 69767234 in IDSIL / PJO
+
+
+[14-05-2014:3:12:00 PM] : SKPOER024 has uploaded a file 69767228 to Hospital/Customer in IDSIL / PJO
+
+
+[14-05-2014:3:33:36 PM] : SKPOER024 has picked a file 69768007 in IDSIL / PJO
+
+
+[14-05-2014:3:38:32 PM] : SKPOER024 has picked a file 69768408 in IDSIL / PJO
+
+
+[14-05-2014:3:38:40 PM] : SKPOER024 has uploaded a file 69768007 to Hospital/Customer in IDSIL / PJO
+
+
+[14-05-2014:3:50:34 PM] : SKPOER024 has picked a file 69768499 in IDSIL / PJO
+
+
+[14-05-2014:3:50:48 PM] : SKPOER024 has uploaded a file 69768499 to Hospital/Customer in IDSIL / PJO
+
+
+[14-05-2014:3:50:55 PM] : SKPOER024 has uploaded a file 69768408 to Hospital/Customer in IDSIL / PJO
+
+
+[14-05-2014:3:54:58 PM] : SKPOER024 has picked a file 69768561 in IDSIL / PJO
+
+
+[14-05-2014:3:55:34 PM] : SKPOER024 has uploaded a file 69768561 to Hospital/Customer in IDSIL / PJO
+
+
+[14-05-2014:3:57:11 PM] : SKPOER024 has picked a file 69768600 in IDSIL / PJO
+
+
+[14-05-2014:3:57:31 PM] : SKPOER024 has uploaded a file 69768600 to Hospital/Customer in IDSIL / PJO
+
+
+[14-05-2014:3:58:12 PM] : SKPOER024 has picked a file 69768634 in IDSIL / PJO
+
+
+[14-05-2014:4:01:15 PM] : SKPOER024 has picked a file 69768706 in IDSIL / PJO
+
+
+[14-05-2014:4:01:50 PM] : SKPOER024 has uploaded a file 69768706 to Hospital/Customer in IDSIL / PJO
+
+
+[14-05-2014:4:02:09 PM] : SKPOER024 has uploaded a file 69768634 to Hospital/Customer in IDSIL / PJO
+
+
+[14-05-2014:4:12:14 PM] : SKPOER024 has picked a file 69769902 in IDSIL / PJO
+
+
+[14-05-2014:4:17:48 PM] : SKPOER024 has picked a file 69769943 in IDSIL / PJO
+
+
+[14-05-2014:4:18:06 PM] : SKPOER024 has uploaded a file 69769902 to Hospital/Customer in IDSIL / PJO
+
+
+[14-05-2014:4:34:21 PM] : SKPOER024 has picked a file 69770014 in IDSIL / PJO
+
+
+[14-05-2014:4:35:14 PM] : SKPOER024 has uploaded a file 69769943 to Hospital/Customer in IDSIL / PJO
+
+
+[14-05-2014:6:06:59 PM] : SKPOER024 has logged in to IDSIL / PJO using the System 115.242.193.117
+
+
+[14-05-2014:6:09:19 PM] : SKPOER024 has uploaded a file 69770014 to Hospital/Customer in IDSIL / PJO
+
+
+[14-05-2014:6:12:44 PM] : SKPOER024 has picked a file 69771418 in IDSIL / PJO
+
+
+[14-05-2014:6:15:33 PM] : SKPOER024 has uploaded a file 69771418 to Hospital/Customer in IDSIL / PJO
+
+
+[14-05-2014:6:29:12 PM] : SKPOER024 has picked a file 69771984 in IDSIL / PJO
+
+
+[14-05-2014:6:38:08 PM] : SKPOER024 has picked a file 69720915 in IDSIL / PJO
+
+
+[14-05-2014:6:38:41 PM] : SKPOER024 has uploaded a file 69720915 to Hospital/Customer in IDSIL / PJO
+
+
+[14-05-2014:6:38:45 PM] : SKPOER024 has uploaded a file 69771984 to Hospital/Customer in IDSIL / PJO
+
+
+[14-05-2014:8:17:49 PM] : SKPOER024 has logged in to IDSIL / PJO using the System 115.242.193.117
+
+
+[14-05-2014:8:19:04 PM] : SKPOER024 has picked a file 69776244 in IDSIL / PJO
+
+
+[14-05-2014:8:19:12 PM] : SKPOER024 has uploaded a file 69776244 to Hospital/Customer in IDSIL / PJO
+
+
+[14-05-2014:8:20:00 PM] : SKPOER024 has viewed the Edited file details in IDSIL/PJO from 2014-05-01 to 2014-05-14
+
+
+[14-05-2014:8:22:02 PM] : SKPOER024 has picked a file 69773211 in IDSIL / PJO
+
+
+[14-05-2014:8:22:40 PM] : SKPOER024 has uploaded a file 69773211 to Hospital/Customer in IDSIL / PJO
+
+
+[14-05-2014:8:31:48 PM] : SKPOER024 has picked a file 69774437 in IDSIL / PJO
+
+
+[14-05-2014:8:32:03 PM] : SKPOER024 has uploaded a file 69774437 to Hospital/Customer in IDSIL / PJO

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Piecemaker>
+  <Contents>
+    <Image Source="roller-pic/01.jpg" Title="B2k 01"></Image>		
+    <Image Source="roller-pic/02.jpg" Title="B2K 02"></Image>
+	<Image Source="roller-pic/03.jpg" Title="B2K 03"></Image>
+	<Image Source="roller-pic/04.jpg" Title="B2K 04"></Image>
+	<Image Source="roller-pic/05.jpg" Title="B2K 05"></Image>
+	<Image Source="roller-pic/06.jpg" Title="B2K 06"></Image>
+	<Image Source="roller-pic/07.jpg" Title="B2K 07"></Image>
+</Contents>
+  <Settings ImageWidth="430" ImageHeight="220" LoaderColor="0x333333" InnerSideColor="0x161616" SideShadowAlpha="0.8" DropShadowAlpha="0.8" DropShadowDistance="22" DropShadowScale="0.95" DropShadowBlurX="25" DropShadowBlurY="8" MenuDistanceX="20" MenuDistanceY="40" MenuColor1="0x999999" MenuColor2="0x666666" MenuColor3="0xFFFFFF" ControlSize="100" ControlDistance="20" ControlColor1="0x222222" ControlColor2="0xFFFFFF" ControlAlpha="0.8" ControlAlphaOver="0.95" ControlsX="450" ControlsY="280" ControlsAlign="center" TooltipHeight="30" TooltipColor="0x000000" TooltipTextY="5" TooltipTextStyle="P-Italic" TooltipTextColor="0xFFFFFF" TooltipMarginLeft="5" TooltipMarginRight="7" TooltipTextSharpness="50" TooltipTextThickness="-100" InfoWidth="400" InfoBackground="0xFFFFFF" InfoBackgroundAlpha="0.95" InfoMargin="15" InfoSharpness="0" InfoThickness="0" Autoplay="3" FieldOfView="45"></Settings>
+  <Transitions>
+    <Transition Pieces="4" Time="1.3" Transition="easeInOutQuart" Delay="0.12" DepthOffset="650" CubeDistance="40"></Transition>
+    <Transition Pieces="5" Time="1.1" Transition="easeInOutBack" Delay="0.11" DepthOffset="600" CubeDistance="50"></Transition>
+    <Transition Pieces="6" Time="1.0" Transition="easeInOutBack" Delay="0.08" DepthOffset="750" CubeDistance="40"></Transition>
+    <Transition Pieces="7" Time="1.2" Transition="easeInOutQuart" Delay="0.10" DepthOffset="700" CubeDistance="35"></Transition>
+  </Transitions>
+</Piecemaker>

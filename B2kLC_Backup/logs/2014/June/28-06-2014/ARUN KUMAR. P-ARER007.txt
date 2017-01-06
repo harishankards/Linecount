@@ -1,0 +1,81 @@
+
+
+[28-06-2014:8:43:30 AM] : ARER007 has logged in to IDSIL / PJO using the System 115.244.224.212
+
+
+[28-06-2014:8:48:30 AM] : ARER007 has picked a file 70847519 in IDSIL / PJO
+
+
+[28-06-2014:9:44:10 AM] : ARER007 has logged in to IDSIL / PJO using the System 115.244.224.212
+
+
+[28-06-2014:9:48:10 AM] : ARER007 has picked a file 70848081 in IDSIL / PJO
+
+
+[28-06-2014:9:48:33 AM] : ARER007 has uploaded a file 70847519 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[28-06-2014:9:59:24 AM] : ARER007 has picked a file 70848103 in IDSIL / PJO
+
+
+[28-06-2014:10:11:37 AM] : ARER007 has uploaded a file 70848103 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[28-06-2014:10:12:07 AM] : ARER007 has picked a file 70847707 in IDSIL / PJO
+
+
+[28-06-2014:10:12:19 AM] : ARER007 has uploaded a file 70848081 to IDS/QA_Checkpoint in IDSIL / PJO
+
+
+[28-06-2014:10:18:39 AM] : ARER007 has uploaded a file 70847707 to Hospital/Customer in IDSIL / PJO
+
+
+[28-06-2014:10:23:22 AM] : ARER007 has picked a file 70848272 in IDSIL / PJO
+
+
+[28-06-2014:10:25:01 AM] : ARER007 has picked a file 70848025 in IDSIL / PJO
+
+
+[28-06-2014:10:33:29 AM] : ARER007 has uploaded a file 70848025 to Hospital/Customer in IDSIL / PJO
+
+
+[28-06-2014:10:34:34 AM] : ARER007 has picked a file 70847975 in IDSIL / PJO
+
+
+[28-06-2014:11:24:21 AM] : ARER007 has logged in to IDSIL / PJO using the System 115.244.224.212
+
+
+[28-06-2014:11:24:24 AM] : ARER007 has logged in to IDSIL / PJO using the System 115.244.224.212
+
+
+[28-06-2014:11:24:54 AM] : ARER007 has uploaded a file 70847975 to Hospital/Customer in IDSIL / PJO
+
+
+[28-06-2014:11:25:16 AM] : ARER007 has uploaded a file 70848272 to Hospital/Customer in IDSIL / PJO
+
+
+[28-06-2014:11:28:51 AM] : ARER007 has picked a file 70846834 in IDSIL / PJO
+
+
+[28-06-2014:12:06:26 PM] : ARER007 has logged in to IDSIL / PJO using the System 115.241.99.227
+
+
+[28-06-2014:12:06:42 PM] : ARER007 has uploaded a file 70846834 to Hospital/Customer in IDSIL / PJO
+
+
+[28-06-2014:12:07:10 PM] : ARER007 has picked a file 70848517 in IDSIL / PJO
+
+
+[28-06-2014:12:16:13 PM] : ARER007 has uploaded a file 70848517 to Hospital/Customer in IDSIL / PJO
+
+
+[28-06-2014:12:16:28 PM] : ARER007 has picked a file 70841876 in IDSIL / PJO
+
+
+[28-06-2014:12:27:06 PM] : ARER007 has picked a file 70843459 in IDSIL / PJO
+
+
+[28-06-2014:12:28:02 PM] : ARER007 has uploaded a file 70841876 to Hospital/Customer in IDSIL / PJO
+
+
+[28-06-2014:12:35:30 PM] : ARER007 has uploaded a file 70843459 to Hospital/Customer in IDSIL / PJO

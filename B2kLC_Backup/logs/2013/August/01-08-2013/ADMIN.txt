@@ -1,0 +1,112 @@
+
+
+[01-08-2013:12:04:08 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[01-08-2013:3:59:25 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[01-08-2013:8:19:36 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[01-08-2013:9:10:17 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[01-08-2013:10:06:57 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[01-08-2013:10:15:39 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[01-08-2013:10:15:54 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[01-08-2013:10:18:25 AM] : ADMIN has added an Update into the Database
+
+[01-08-2013:10:35:17 AM] : ADMIN has added an Update into the Database
+
+
+[01-08-2013:10:49:37 AM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[01-08-2013:10:52:53 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[01-08-2013:11:33:14 AM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[01-08-2013:11:59:32 AM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[01-08-2013:12:38:29 PM] : ADMIN has Viewed Employee Details
+
+[01-08-2013:12:38:59 PM] : ADMIN has deleted  Vendor Details [ABSOLUTE INFO SOLUTIONS] from the Database
+
+[01-08-2013:12:39:06 PM] : ADMIN has deleted  Vendor Details [ASTRICK SOLUTIONS] from the Database
+
+[01-08-2013:12:39:19 PM] : ADMIN has deleted  Vendor Details [BOOM IT SOLUTIONS] from the Database
+
+[01-08-2013:12:39:42 PM] : ADMIN has deleted  Vendor Details [TRESTON TECHNOLOGIES] from the Database
+
+[01-08-2013:12:39:50 PM] : ADMIN has deleted  Vendor Details [VSQUARE] from the Database
+
+[01-08-2013:12:39:57 PM] : ADMIN has deleted  Vendor Details [VINSCRIBE TECHNOLOGIES] from the Database
+
+
+[01-08-2013:12:43:04 PM] : ADMIN has Viewed Employee Details
+
+
+[01-08-2013:12:43:08 PM] : ADMIN has Viewed Employee Details
+
+[01-08-2013:12:44:05 PM] : ADMIN has deleted  Vendor Details [B2KOOTY] from the Database
+
+
+[01-08-2013:1:15:37 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[01-08-2013:1:39:12 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[01-08-2013:2:23:13 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+[01-08-2013:2:25:01 PM] : ADMIN has Deleted the details of the file 62429032.
+
+
+[01-08-2013:2:46:31 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[01-08-2013:3:09:14 PM] : ADMIN has Viewed Employee Details
+
+
+[01-08-2013:3:09:24 PM] : ADMIN has Viewed Employee Details
+
+
+[01-08-2013:3:11:28 PM] : ADMIN has Viewed Employee Details
+
+
+[01-08-2013:3:12:21 PM] : ADMIN has Viewed Employee Details
+
+[01-08-2013:3:12:21 PM] : ADMIN has Deleted Employee Details SKPOMLS008
+
+
+[01-08-2013:4:00:38 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[01-08-2013:5:01:55 PM] : ADMIN has Viewed Employee Details
+
+
+[01-08-2013:5:32:32 PM] : ADMIN has logged in to Admin page using the System 123.255.248.35
+
+
+[01-08-2013:6:02:34 PM] : ADMIN has Viewed Employee Details
+
+
+[01-08-2013:6:47:07 PM] : ADMIN has logged out from the Linecount Software Using the System 123.255.248.35
+
+
+[01-08-2013:7:54:24 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[01-08-2013:9:10:08 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
+
+
+[01-08-2013:10:45:49 PM] : ADMIN has logged in to Admin page using the System 59.90.86.47
